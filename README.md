@@ -78,7 +78,7 @@ Each event includes:
 ## 📅 GitHub Action Schedule
 
 - **Frequency**: Daily
-- **Time**: 6:00 AM UTC (2:00 AM EST)
+- **Time**: 6:00 AM EST
 - **Trigger**: Automatic via cron schedule
 - **Manual**: Can be triggered manually from GitHub Actions tab
 
