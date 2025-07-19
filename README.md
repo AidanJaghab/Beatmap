@@ -4,7 +4,7 @@ Automated web scraper for electronic music events in New York City from EDM Trai
 
 ## 🎵 Features
 
-- **Daily Automated Scraping**: GitHub Action runs daily at 6 AM UTC
+- **Daily Automated Scraping**: GitHub Action runs daily at 6 AM EST
 - **Day-Specific Data**: Creates separate JSON files for each day (monday_events.json, tuesday_events.json, etc.)
 - **Real Event Data**: Extracts artist names, venues, dates, times, and prices
 - **No Generated Data**: Only real events from EDM Train website
