@@ -27,7 +27,7 @@ data/
 ## 🤖 Automated Daily Updates
 
 The GitHub Action automatically:
-1. Runs every day at 6 AM UTC (2 AM EST)
+1. Runs every day at 6 AM EST (2 AM EST)
 2. Scrapes EDM Train for the current day's events
 3. Saves data to day-specific JSON files
 4. Commits and pushes updates to the repository
