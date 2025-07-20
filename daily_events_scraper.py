@@ -12,8 +12,13 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
 import time
 import logging
+
+# Force webdriver-manager to ignore system PATH
+os.environ['WDM_LOCAL'] = '1'
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -44,7 +49,10 @@ class DailyEventsScraper:
         chrome_options.add_argument('--user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
         
         try:
-            self.driver = webdriver.Chrome(options=chrome_options)
+            # Force webdriver-manager to download correct version and ignore PATH
+            driver_path = ChromeDriverManager().install()
+            logger.info(f"Using ChromeDriver at: {driver_path}")
+            self.driver = webdriver.Chrome(service=Service(driver_path), options=chrome_options)
             logger.info("Chrome driver initialized for headless mode")
             return True
         except Exception as e:
