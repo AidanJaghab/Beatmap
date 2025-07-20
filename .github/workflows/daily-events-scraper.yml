@@ -6,6 +6,9 @@ on:
     - cron: '0 11 * * *'
   workflow_dispatch: # Allow manual triggering
 
+permissions:
+  contents: write
+
 jobs:
   scrape-daily-events:
     runs-on: ubuntu-latest
@@ -48,6 +51,7 @@ jobs:
         echo "day=$(date +%A | tr '[:upper:]' '[:lower:]')" >> $GITHUB_OUTPUT
         echo "date=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
         echo "display_date=$(date '+%A, %B %d, %Y')" >> $GITHUB_OUTPUT
+        echo "time=$(date -u '+%H:%M:%S')" >> $GITHUB_OUTPUT
         
     - name: Scrape EDM Train events
       run: |
@@ -58,16 +62,15 @@ jobs:
         DISPLAY_DATE: ${{ steps.date.outputs.display_date }}
         
     - name: Commit and push daily events
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add data/${{ steps.date.outputs.day }}_events.json
-        git add data/latest_events.json
-        git commit -m "Update ${{ steps.date.outputs.display_date }} events data
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: |
+          Update ${{ steps.date.outputs.display_date }} events data
 
-        🤖 Auto-generated daily events update
-        📅 Date: ${{ steps.date.outputs.display_date }}
-        📊 Generated at: $(date -u '+%Y-%m-%d %H:%M:%S UTC')
-        
-        Co-Authored-By: GitHub Action <action@github.com>" || exit 0
-        git push
+          🤖 Auto-generated daily events update
+          📅 Date: ${{ steps.date.outputs.display_date }}
+          📊 Generated at: ${{ steps.date.outputs.date }} ${{ steps.date.outputs.time }} UTC
+        file_pattern: 'data/*.json'
+        commit_user_name: github-actions[bot]
+        commit_user_email: github-actions[bot]@users.noreply.github.com
+        commit_author: GitHub Action <action@github.com>
