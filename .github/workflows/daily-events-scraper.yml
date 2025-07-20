@@ -12,36 +12,42 @@ permissions:
 jobs:
   scrape-daily-events:
     runs-on: ubuntu-latest
-
+    
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
+        token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 0
-
+      
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.11'
-
+        
     - name: Setup Chrome
       uses: browser-actions/setup-chrome@v1
       with:
         chrome-version: stable
-
+      
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install selenium beautifulsoup4 lxml webdriver-manager
-
+        
     - name: Remove all ChromeDriver versions and set up environment
       run: |
+        # Remove any existing ChromeDriver installations
         sudo rm -f /usr/local/bin/chromedriver
         sudo rm -f /usr/bin/chromedriver
         which chromedriver && sudo rm -f $(which chromedriver) || true
+        
+        # Set environment variable to force webdriver-manager
         echo "WDM_LOCAL=1" >> $GITHUB_ENV
+        
+        # Verify Chrome version
         google-chrome --version
-
+        
     - name: Get current day
       id: date
       run: |
@@ -49,7 +55,7 @@ jobs:
         echo "date=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
         echo "display_date=$(date '+%A, %B %d, %Y')" >> $GITHUB_OUTPUT
         echo "time=$(date -u '+%H:%M:%S')" >> $GITHUB_OUTPUT
-
+        
     - name: Scrape EDM Train events
       run: |
         python daily_events_scraper.py
@@ -57,31 +63,17 @@ jobs:
         CURRENT_DAY: ${{ steps.date.outputs.day }}
         CURRENT_DATE: ${{ steps.date.outputs.date }}
         DISPLAY_DATE: ${{ steps.date.outputs.display_date }}
-
-    - name: Pull latest changes
-      run: |
-        git pull origin main --rebase
-
-    - name: Commit and push daily events
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add data/${{ steps.date.outputs.day }}_events.json
-        git add data/latest_events.json
         
-        git commit -m "Update ${{ steps.date.outputs.display_date }} events data
-
-🤖 Auto-generated daily events update
-📅 Date: ${{ steps.date.outputs.display_date }}
-📊 Generated at: ${{ steps.date.outputs.date }} ${{ steps.date.outputs.time }} UTC" || echo "No changes to commit."
-
-        for i in {1..3}; do
-          git pull origin main --rebase
-          if git push; then
-            echo "✅ Successfully pushed on attempt $i"
-            break
-          else
-            echo "❌ Push failed on attempt $i, retrying..."
-            sleep 2
-          fi
-        done
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v9
+      with:
+        add: 'data/'
+        author_name: github-actions[bot]
+        author_email: github-actions[bot]@users.noreply.github.com
+        message: |
+          Update ${{ steps.date.outputs.display_date }} events data
+          
+          🤖 Auto-generated daily events update
+          📅 Date: ${{ steps.date.outputs.display_date }}
+          📊 Generated at: ${{ steps.date.outputs.date }} ${{ steps.date.outputs.time }} UTC
+        push: true
