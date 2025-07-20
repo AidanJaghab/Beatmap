@@ -16,6 +16,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
       
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -61,16 +63,30 @@ jobs:
         CURRENT_DATE: ${{ steps.date.outputs.date }}
         DISPLAY_DATE: ${{ steps.date.outputs.display_date }}
         
+    - name: Pull latest changes
+      run: |
+        git pull origin main --rebase
+        
     - name: Commit and push daily events
-      uses: stefanzweifel/git-auto-commit-action@v5
-      with:
-        commit_message: |
-          Update ${{ steps.date.outputs.display_date }} events data
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add data/${{ steps.date.outputs.day }}_events.json
+        git add data/latest_events.json
+        git commit -m "Update ${{ steps.date.outputs.display_date }} events data
 
-          🤖 Auto-generated daily events update
-          📅 Date: ${{ steps.date.outputs.display_date }}
-          📊 Generated at: ${{ steps.date.outputs.date }} ${{ steps.date.outputs.time }} UTC
-        file_pattern: 'data/*.json'
-        commit_user_name: github-actions[bot]
-        commit_user_email: github-actions[bot]@users.noreply.github.com
-        commit_author: GitHub Action <action@github.com>
+        🤖 Auto-generated daily events update
+        📅 Date: ${{ steps.date.outputs.display_date }}
+        📊 Generated at: ${{ steps.date.outputs.date }} ${{ steps.date.outputs.time }} UTC" || exit 0
+        
+        # Try to push with retry logic
+        for i in {1..3}; do
+          git pull origin main --rebase
+          if git push; then
+            echo "Successfully pushed on attempt $i"
+            break
+          else
+            echo "Push failed on attempt $i, retrying..."
+            sleep 2
+          fi
+        done
