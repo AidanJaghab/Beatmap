@@ -54,9 +54,8 @@ class DailyEventsScraper:
             # Force webdriver-manager to download correct version and ignore PATH
             logger.info("Downloading ChromeDriver using webdriver-manager...")
             
-            # Clear any cached driver paths
-            from webdriver_manager.core.utils import ChromeType
-            driver_path = ChromeDriverManager(chrome_type=ChromeType.GOOGLE).install()
+            # Download and install the correct ChromeDriver
+            driver_path = ChromeDriverManager().install()
             
             logger.info(f"ChromeDriver downloaded to: {driver_path}")
             
