@@ -1,0 +1,17 @@
+{
+    "name": "edm-backend",
+    "version": "1.0.0",
+    "description": "EDM event proxy server using EDMTrain API",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Aidan Jaghab",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^17.2.0",
+        "express": "^4.21.2",
+        "node-fetch": "^2.7.0"
+    }
+}

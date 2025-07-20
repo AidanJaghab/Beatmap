@@ -29,10 +29,17 @@ jobs:
         python -m pip install --upgrade pip
         pip install selenium beautifulsoup4 lxml webdriver-manager
         
-    - name: Remove old ChromeDriver and verify Chrome
+    - name: Remove all ChromeDriver versions and set up environment
       run: |
-        # Remove old ChromeDriver from PATH
+        # Remove any existing ChromeDriver installations
         sudo rm -f /usr/local/bin/chromedriver
+        sudo rm -f /usr/bin/chromedriver
+        which chromedriver && sudo rm -f $(which chromedriver) || true
+        
+        # Set environment variable to force webdriver-manager
+        echo "WDM_LOCAL=1" >> $GITHUB_ENV
+        
+        # Verify Chrome version
         google-chrome --version
         
     - name: Get current day

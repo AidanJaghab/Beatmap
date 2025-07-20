@@ -19,6 +19,8 @@ import logging
 
 # Force webdriver-manager to ignore system PATH
 os.environ['WDM_LOCAL'] = '1'
+# Ensure webdriver-manager doesn't use system chromedriver
+os.environ['WDM_SKIP_CHROME_DRIVER_PATH_CHECK'] = '1'
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -50,13 +52,25 @@ class DailyEventsScraper:
         
         try:
             # Force webdriver-manager to download correct version and ignore PATH
-            driver_path = ChromeDriverManager().install()
-            logger.info(f"Using ChromeDriver at: {driver_path}")
-            self.driver = webdriver.Chrome(service=Service(driver_path), options=chrome_options)
-            logger.info("Chrome driver initialized for headless mode")
+            logger.info("Downloading ChromeDriver using webdriver-manager...")
+            
+            # Clear any cached driver paths
+            from webdriver_manager.core.utils import ChromeType
+            driver_path = ChromeDriverManager(chrome_type=ChromeType.GOOGLE).install()
+            
+            logger.info(f"ChromeDriver downloaded to: {driver_path}")
+            
+            # Create service with explicit executable path
+            service = Service(executable_path=driver_path)
+            
+            self.driver = webdriver.Chrome(service=service, options=chrome_options)
+            logger.info("Chrome driver initialized successfully")
             return True
         except Exception as e:
             logger.error(f"Failed to initialize Chrome driver: {e}")
+            logger.error(f"Error type: {type(e).__name__}")
+            import traceback
+            logger.error(f"Traceback: {traceback.format_exc()}")
             return False
     
     def extract_html(self):
