@@ -46,7 +46,7 @@ npm install express cors
 node server.js
 ```
 
-Then visit: 👉 **http://localhost:5000/api/events**
+Then visit: 👉 **http://localhost:3001/api/events**
 
 You should see your scraped JSON.
 
@@ -116,6 +116,6 @@ The GitHub Action runs daily at 6 AM EST to automatically scrape and update the 
 4. `pip install -r requirements.txt`
 5. `python scraper.py` (to get initial data)
 6. `node server.js`
-7. Visit `http://localhost:5000/api/events`
+7. Visit `http://localhost:3001/api/events`
 
 ✅ You should see the scraped events JSON!
