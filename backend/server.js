@@ -7,15 +7,15 @@ const util = require("util");
 const execPromise = util.promisify(exec);
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 
 app.use(cors());
 app.use(express.json());
 
 // Serve today's events from scraped data
-app.get("/events", async (req, res) => {
+app.get("/api/events", async (req, res) => {
   try {
-    const eventsFile = path.join(__dirname, "today_events.json");
+    const eventsFile = path.join(__dirname, "data", "latest_events.json");
     
     try {
       const data = await fs.readFile(eventsFile, "utf8");
@@ -44,7 +44,7 @@ app.get("/events", async (req, res) => {
 });
 
 // Endpoint to trigger scraping
-app.post("/scrape", async (req, res) => {
+app.post("/api/scrape", async (req, res) => {
   try {
     console.log("🔄 Running EDMTrain scraper...");
     
@@ -56,7 +56,7 @@ app.post("/scrape", async (req, res) => {
     
     console.log("Scraper output:", stdout);
     
-    const eventsFile = path.join(__dirname, "today_events.json");
+    const eventsFile = path.join(__dirname, "data", "latest_events.json");
     const data = await fs.readFile(eventsFile, "utf8");
     const events = JSON.parse(data);
     
@@ -76,7 +76,7 @@ app.post("/scrape", async (req, res) => {
 });
 
 // Health check endpoint
-app.get("/health", (req, res) => {
+app.get("/api/health", (req, res) => {
   res.json({ 
     status: "healthy",
     service: "EDMTrain NYC Event Scraper",

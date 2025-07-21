@@ -166,7 +166,7 @@ def main():
     
     events = scrape_edmtrain_simple()
     
-    with open('today_events.json', 'w') as f:
+    with open('data/latest_events.json', 'w') as f:
         json.dump(events, f, indent=2)
     
     print(f"\nFound {len(events)} events for today")
@@ -186,7 +186,7 @@ def main():
             print(f"  Time: {event['time']}")
             print(f"  Age: {event['age']}")
     
-    print(f"\nEvents saved to today_events.json")
+    print(f"\nEvents saved to data/latest_events.json")
 
 if __name__ == "__main__":
     main()
