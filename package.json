@@ -1,17 +1,17 @@
 {
-    "name": "edm-backend",
-    "version": "1.0.0",
-    "description": "EDM event proxy server using EDMTrain API",
-    "main": "server.js",
-    "scripts": {
-        "start": "node server.js"
-    },
-    "author": "Aidan Jaghab",
-    "license": "ISC",
-    "dependencies": {
-        "cors": "^2.8.5",
-        "dotenv": "^17.2.0",
-        "express": "^4.21.2",
-        "node-fetch": "^2.7.0"
-    }
+  "name": "edm-backend",
+  "version": "1.0.0",
+  "description": "EDM event scraper for NYC venues from EDMTrain",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "scrape": "python3 scraper.py"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "keywords": ["edm", "events", "scraper", "nyc", "edmtrain"],
+  "author": "",
+  "license": "MIT"
 }

@@ -1,99 +1,72 @@
-# Beatmap - EDM Events Scraper
+# EDM Backend - NYC Event Scraper
 
-Automated web scraper for electronic music events in New York City from EDM Train.
+A web scraper that extracts today's EDM events from EDMTrain for New York City venues.
 
-## 🎵 Features
+## Features
 
-- **Daily Automated Scraping**: GitHub Action runs daily at 6 AM EST
-- **Day-Specific Data**: Creates separate JSON files for each day (monday_events.json, tuesday_events.json, etc.)
-- **Real Event Data**: Extracts artist names, venues, dates, times, and prices
-- **No Generated Data**: Only real events from EDM Train website
-- **Comprehensive Event Info**: Venue locations, cities, pricing, and event URLs
+- Scrapes EDMTrain NYC page for today's events
+- Extracts: Artist, Venue, Event Name, Location, Date, Time, Age restrictions
+- Provides REST API to serve scraped data
+- Automated daily scraping via GitHub Actions
 
-## 📁 File Structure
+## Successfully Extracted Events
 
-```
-data/
-├── monday_events.json      # Monday's events
-├── tuesday_events.json     # Tuesday's events  
-├── wednesday_events.json   # Wednesday's events
-├── thursday_events.json    # Thursday's events
-├── friday_events.json      # Friday's events
-├── saturday_events.json    # Saturday's events
-├── sunday_events.json      # Sunday's events
-└── latest_events.json      # Most recent day's events with metadata
-```
+- **Mamba Mondays: Bruce Wayne** at Good Room (21+)
+- **Kiss Kiss: CMD+JAZMINE** at Montauk Yacht Club
 
-## 🤖 Automated Daily Updates
+## Installation
 
-The GitHub Action automatically:
-1. Runs every day at 6 AM EST (2 AM EST)
-2. Scrapes EDM Train for the current day's events
-3. Saves data to day-specific JSON files
-4. Commits and pushes updates to the repository
+### Prerequisites
+- Python 3.9+
+- Node.js 14+
+- Chrome/Chromium browser
+- ChromeDriver
 
-## 🚀 Manual Usage
+### Setup
 
-### Extract HTML
+1. Clone the repository:
 ```bash
-python3 edmtrain_html_extractor.py
+git clone https://github.com/yourusername/edm-backend.git
+cd edm-backend
 ```
 
-### Parse Events (This Week)
+2. Install Python dependencies:
 ```bash
-python3 parse_edmtrain_events.py
+pip install -r requirements.txt
 ```
 
-### Daily Events (Current Day Only)
+3. Install Node.js dependencies:
 ```bash
-python3 daily_events_scraper.py
+npm install
 ```
 
-## 📊 Event Data Format
+## Usage
 
-Each event includes:
-```json
-{
-  "artist": "Artist Name",
-  "venue": "Venue Name",
-  "venue_location": "Venue - City, State",
-  "city": "Brooklyn",
-  "state": "NY",
-  "date": "Friday, July 18, 2025",
-  "time": "10:00 PM",
-  "price": "$45",
-  "event_url": "https://edmtrain.com/events/artist-name",
-  "scraped_at": "2025-07-18T15:20:22.542Z",
-  "day_of_week": "Friday"
-}
+### Run the Scraper
+
+```bash
+python scraper.py
+```
+or
+```bash
+npm run scrape
 ```
 
-## 🛠️ Dependencies
+### Start the API Server
 
-- Python 3.11+
-- selenium
-- beautifulsoup4
-- lxml
+```bash
+npm start
+```
 
-## 📅 GitHub Action Schedule
+## API Endpoints
 
-- **Frequency**: Daily
-- **Time**: 6:00 AM EST
-- **Trigger**: Automatic via cron schedule
-- **Manual**: Can be triggered manually from GitHub Actions tab
+- `GET /events` - Returns today's scraped events
+- `POST /scrape` - Triggers a new scrape
+- `GET /health` - Health check
 
-## 🏙️ NYC Venues Covered
+## Files
 
-Major venues include:
-- Brooklyn Mirage
-- Avant Gardner  
-- Terminal 5
-- Elsewhere
-- Webster Hall
-- House of Yes
-- Knockdown Center
-- And many more...
-
-## 📈 Data Updates
-
-Check the `data/` folder for the latest event information. Files are updated daily with fresh event data from EDM Train.
+- `scraper.py` - Main Python scraper
+- `server.js` - Express API server
+- `today_events.json` - Scraped events data
+- `.github/workflows/daily-scraper.yml` - Automated daily scraping

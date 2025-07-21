@@ -1,42 +1,89 @@
-// server.js
 const express = require("express");
 const cors = require("cors");
-const fetch = require("node-fetch");
-require("dotenv").config();
+const fs = require("fs").promises;
+const path = require("path");
+const { exec } = require("child_process");
+const util = require("util");
+const execPromise = util.promisify(exec);
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const EDMTRAIN_API_KEY = process.env.EDMTRAIN_API_KEY;
 
 app.use(cors());
+app.use(express.json());
 
-// Test endpoint
+// Serve today's events from scraped data
 app.get("/events", async (req, res) => {
   try {
-    const lat = 40.7128;      // New York latitude
-    const lon = -74.0060;     // New York longitude
-    const radius = 50;        // 50-mile search radius
-    const url = `https://api.edmtrain.com/events?lat=${lat}&lon=${lon}&radius=${radius}&client=${EDMTRAIN_API_KEY}`;
-
-    console.log("🔍 Fetching EDMTrain data from:", url);
-
-    const response = await fetch(url);
-    if (!response.ok) {
-      throw new Error(`EDMTrain API error: ${response.statusText}`);
+    const eventsFile = path.join(__dirname, "today_events.json");
+    
+    try {
+      const data = await fs.readFile(eventsFile, "utf8");
+      const events = JSON.parse(data);
+      
+      console.log(`✅ Serving ${events.length} scraped events`);
+      res.json({
+        success: true,
+        data: events,
+        source: "scraped",
+        last_updated: events[0]?.scraped_at || new Date().toISOString()
+      });
+    } catch (fileError) {
+      console.log("📄 No scraped data available, returning empty array");
+      res.json({
+        success: true,
+        data: [],
+        source: "none",
+        message: "No events data available. Run the scraper to fetch today's events."
+      });
     }
-
-    const data = await response.json();
-    console.log(`✅ Found ${data.data?.length || 0} events`);
-    res.json(data);
   } catch (error) {
-    console.error("🔥 Error fetching EDMTrain data:", error.message);
-    res.status(500).json({ error: "Failed to fetch EDMTrain data" });
+    console.error("🔥 Error serving events:", error.message);
+    res.status(500).json({ error: "Failed to serve events data" });
   }
+});
+
+// Endpoint to trigger scraping
+app.post("/scrape", async (req, res) => {
+  try {
+    console.log("🔄 Running EDMTrain scraper...");
+    
+    const { stdout, stderr } = await execPromise("python3 scraper.py");
+    
+    if (stderr) {
+      console.error("Scraper stderr:", stderr);
+    }
+    
+    console.log("Scraper output:", stdout);
+    
+    const eventsFile = path.join(__dirname, "today_events.json");
+    const data = await fs.readFile(eventsFile, "utf8");
+    const events = JSON.parse(data);
+    
+    res.json({
+      success: true,
+      message: "Scraping completed successfully",
+      events_count: events.length,
+      data: events
+    });
+  } catch (error) {
+    console.error("🔥 Error running scraper:", error.message);
+    res.status(500).json({ 
+      error: "Failed to run scraper",
+      details: error.message 
+    });
+  }
+});
+
+// Health check endpoint
+app.get("/health", (req, res) => {
+  res.json({ 
+    status: "healthy",
+    service: "EDMTrain NYC Event Scraper",
+    timestamp: new Date().toISOString()
+  });
 });
 
 app.listen(PORT, () => {
   console.log(`🚀 Server running at http://localhost:${PORT}`);
 });
-
-
-
