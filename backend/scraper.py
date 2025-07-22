@@ -166,6 +166,14 @@ def main():
     
     events = scrape_edmtrain_simple()
     
+    # If no events found, create a message object
+    if not events:
+        events = [{
+            "message": "No EDM events scheduled for today",
+            "date": datetime.now().strftime('%a %b %d, %Y'),
+            "scraped_at": datetime.now().isoformat()
+        }]
+    
     with open('data/latest_events.json', 'w') as f:
         json.dump(events, f, indent=2)
     
