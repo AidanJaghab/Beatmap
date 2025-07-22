@@ -38,7 +38,9 @@ def scrape_edmtrain_simple():
         
         # Look for today's events
         today = datetime.now()
-        date_markers = [f"Jul {today.day}", f"July {today.day}", f"JUL {today.day}"]
+        month_abbr = today.strftime("%b")  # e.g., "Jul"
+        month_full = today.strftime("%B")  # e.g., "July"
+        date_markers = [f"{month_abbr} {today.day}", f"{month_full} {today.day}", f"{month_abbr.upper()} {today.day}"]
         
         events = []
         lines = body_text.split('\n')
