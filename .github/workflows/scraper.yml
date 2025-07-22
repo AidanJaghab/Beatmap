@@ -33,10 +33,14 @@ jobs:
     - name: Pull latest changes with rebase
       run: git pull --rebase origin main
 
-    - name: Commit & Push EDM events data
+    - name: Commit and push EDM events data
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add backend/data/latest_events.json
-        git diff --staged --quiet || git commit -m "Update EDM events data"
-        git push origin main
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update EDM events data"
+          git push origin main
+        fi
