@@ -12,32 +12,33 @@ const PORT = process.env.PORT || 3001;
 app.use(cors());
 app.use(express.json());
 
-// Serve today's events from scraped data
+// Serve today's events from GitHub
 app.get("/api/events", async (req, res) => {
   try {
-    const eventsFile = path.join(__dirname, "data", "latest_events.json");
+    const githubUrl = "https://raw.githubusercontent.com/AidanJaghab/Beatmap/main/backend/data/latest_events.json";
     
-    try {
-      const data = await fs.readFile(eventsFile, "utf8");
-      const events = JSON.parse(data);
-      
-      console.log(`✅ Serving ${events.length} scraped events`);
-      
-      // If it's a list, return it directly
-      if (Array.isArray(events)) {
-        return res.json(events);
-      }
-      
-      // If it's a dict, fallback to "events" key
-      return res.json(events.events || []);
-      
-    } catch (fileError) {
-      console.log("📄 No scraped data available, returning empty array");
-      res.json([]);
+    const response = await fetch(githubUrl);
+    
+    if (!response.ok) {
+      console.log("📄 No GitHub data available, returning empty array");
+      return res.json([]);
     }
+    
+    const events = await response.json();
+    
+    console.log(`✅ Serving ${events.length} events from GitHub`);
+    
+    // If it's a list, return it directly
+    if (Array.isArray(events)) {
+      return res.json(events);
+    }
+    
+    // If it's a dict, fallback to "events" key
+    return res.json(events.events || []);
+    
   } catch (error) {
-    console.error("🔥 Error serving events:", error.message);
-    res.status(500).json({ error: "Failed to serve events data" });
+    console.error("🔥 Error fetching from GitHub:", error.message);
+    res.status(500).json({ error: "Failed to fetch events data from GitHub" });
   }
 });
 
