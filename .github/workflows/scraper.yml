@@ -27,11 +27,13 @@ jobs:
         cd backend
         python scraper.py
     
-    - name: Commit and push changes
+    - name: Pull latest changes with rebase
+      run: git pull --rebase origin main
+
+    - name: Commit & Push EDM events data
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add backend/data/latest_events.json
         git diff --staged --quiet || git commit -m "Update EDM events data"
-        git pull --rebase
-        git push
+        git push origin main
