@@ -4,7 +4,12 @@ function App() {
   const [events, setEvents] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:3001/api/events")
+    const apiUrl = process.env.REACT_APP_API_URL || "http://localhost:3001";
+    fetch(`${apiUrl}/api/events`, {
+      headers: {
+        'ngrok-skip-browser-warning': 'true'
+      }
+    })
       .then((res) => res.json())
       .then((data) => setEvents(data))
       .catch((err) => console.error("Failed to fetch events:", err));
