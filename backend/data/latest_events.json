@@ -1,26 +1,7 @@
 [
   {
-    "artist": "Bruce Wayne",
-    "venue": "Good Room",
-    "event_name": "Mamba Mondays",
-    "location": "New York, NY",
-    "date": "Mon Jul 21, 2025",
-    "time": "Check venue",
-    "age": "21+",
-    "url": "",
-    "scraped_at": "2025-07-21T21:10:02.012187",
-    "day_of_week": "Monday"
-  },
-  {
-    "artist": "CMD+JAZMINE",
-    "venue": "Montauk Yacht Club",
-    "event_name": "Kiss Kiss",
-    "location": "New York, NY",
-    "date": "Mon Jul 21, 2025",
-    "time": "Check venue",
-    "age": "Check venue",
-    "url": "",
-    "scraped_at": "2025-07-21T21:10:02.012200",
-    "day_of_week": "Monday"
+    "message": "No EDM events scheduled for today",
+    "date": "Tue Jul 22, 2025",
+    "scraped_at": "2025-07-22T19:44:21.884539"
   }
 ]
