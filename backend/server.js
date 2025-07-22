@@ -22,20 +22,18 @@ app.get("/api/events", async (req, res) => {
       const events = JSON.parse(data);
       
       console.log(`✅ Serving ${events.length} scraped events`);
-      res.json({
-        success: true,
-        data: events,
-        source: "scraped",
-        last_updated: events[0]?.scraped_at || new Date().toISOString()
-      });
+      
+      // If it's a list, return it directly
+      if (Array.isArray(events)) {
+        return res.json(events);
+      }
+      
+      // If it's a dict, fallback to "events" key
+      return res.json(events.events || []);
+      
     } catch (fileError) {
       console.log("📄 No scraped data available, returning empty array");
-      res.json({
-        success: true,
-        data: [],
-        source: "none",
-        message: "No events data available. Run the scraper to fetch today's events."
-      });
+      res.json([]);
     }
   } catch (error) {
     console.error("🔥 Error serving events:", error.message);

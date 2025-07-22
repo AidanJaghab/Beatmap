@@ -6,7 +6,7 @@ function App() {
   useEffect(() => {
     fetch("http://localhost:3001/api/events")
       .then((res) => res.json())
-      .then((data) => setEvents(data.data))
+      .then((data) => setEvents(data))
       .catch((err) => console.error("Failed to fetch events:", err));
   }, []);
 
