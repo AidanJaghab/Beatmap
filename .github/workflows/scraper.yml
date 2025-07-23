@@ -50,7 +50,9 @@ jobs:
           pip install -r backend/requirements.txt
 
       - name: Run scraper
-        run: python backend/scraper.py
+        working-directory: backend
+        run: |
+          python scraper.py
 
       - name: Commit and push EDM events data
         run: |
