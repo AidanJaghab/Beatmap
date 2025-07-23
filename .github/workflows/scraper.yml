@@ -38,8 +38,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Debug pip packages
-        run: pip list
 
       - name: Run scraper
         working-directory: backend
