@@ -199,7 +199,7 @@ def scrape_edmtrain_nyc():
         driver.quit()
 
 def main():
-    print("EDMTrain NYC Event Scraper")
+    print("EDMTrain NYC Event Scraper - Pure Selenium")
     print("=" * 50)
     
     # Scrape events
