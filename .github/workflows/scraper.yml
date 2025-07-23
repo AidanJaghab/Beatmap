@@ -2,7 +2,7 @@ name: EDM Events Scraper
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Runs every day at 6:00 AM UTC
+    - cron: '0 6 * * *'  # Runs daily at 6:00 AM EST
   workflow_dispatch:
 
 jobs:
@@ -23,15 +23,15 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y wget unzip jq
 
-          # Install latest stable Chrome
+          # Install latest Chrome
           wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
           sudo apt install -y ./google-chrome-stable_current_amd64.deb
 
-          # Get Chrome version and major version
+          # Get Chrome version
           CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+\.\d+')
           MAJOR_VERSION=$(echo $CHROME_VERSION | cut -d'.' -f1)
 
-          # Get matching ChromeDriver from official Google API
+          # Get matching ChromeDriver from Google's JSON
           DRIVER_URL=$(curl -s https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json | \
             jq -r --arg version "$MAJOR_VERSION" '
               .channels.Stable.downloads.chromedriver[] 
@@ -62,3 +62,4 @@ jobs:
           else
             git commit -m "Update EDM events data"
             git push origin main
+
