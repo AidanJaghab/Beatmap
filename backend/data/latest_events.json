@@ -1,14 +1,20 @@
 [
   {
-    "artist": "Bruce Wayne",
-    "venue": "Good Room",
-    "event_name": "Mamba Mondays",
+    "name": "Flamingosis, Nothing_Neue, Sky Society",
+    "venue": "Elsewhere Rooftop",
     "location": "New York, NY",
-    "date": "Wed Jul 23, 2025",
-    "time": "Check venue",
-    "age": "21+",
-    "url": "",
-    "scraped_at": "2025-07-23T11:11:32.969008",
-    "day_of_week": "Wednesday"
+    "date": "2025-07-23"
+  },
+  {
+    "name": "From Deep to Techno",
+    "venue": "TBA (395 Wythe Ave)",
+    "location": "New York, NY",
+    "date": "2025-07-23"
+  },
+  {
+    "name": "TWONSKi",
+    "venue": "Earthly Delights",
+    "location": "New York, NY",
+    "date": "2025-07-23"
   }
 ]
