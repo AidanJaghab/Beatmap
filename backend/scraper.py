@@ -9,7 +9,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 import time
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 
 def scrape_edmtrain_simple():
     """Simple scraping approach that successfully extracts events"""
