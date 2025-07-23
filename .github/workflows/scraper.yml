@@ -2,7 +2,7 @@ name: EDM Events Scraper
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Runs daily at 6:00 AM EST
+    - cron: '0 6 * * *'  # Run daily at 6:00 AM UTC
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -27,18 +27,18 @@ jobs:
           wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
           sudo apt install -y ./google-chrome-stable_current_amd64.deb
 
-          # Get Chrome version
+          # Extract Chrome major version (e.g. 138)
           CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+\.\d+')
-          MAJOR_VERSION=$(echo $CHROME_VERSION | cut -d'.' -f1)
+          MAJOR_VERSION=$(echo $CHROME_VERSION | cut -d. -f1)
 
-          # Get matching ChromeDriver from Google's JSON
+          # Get matching ChromeDriver from Google JSON
           DRIVER_URL=$(curl -s https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json | \
             jq -r --arg version "$MAJOR_VERSION" '
               .channels.Stable.downloads.chromedriver[] 
               | select(.platform == "linux64") 
               | .url')
 
-          echo "✅ Installing ChromeDriver from $DRIVER_URL"
+          echo "Installing ChromeDriver from $DRIVER_URL"
           wget -O chromedriver.zip "$DRIVER_URL"
           unzip chromedriver.zip
           sudo mv chromedriver-linux64/chromedriver /usr/local/bin/
@@ -50,9 +50,7 @@ jobs:
           pip install -r backend/requirements.txt
 
       - name: Run scraper
-        working-directory: backend
-        run: |
-          python scraper.py
+        run: python backend/scraper.py
 
       - name: Commit and push EDM events data
         run: |
@@ -64,4 +62,3 @@ jobs:
           else
             git commit -m "Update EDM events data"
             git push origin main
-
