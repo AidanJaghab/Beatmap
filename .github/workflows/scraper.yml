@@ -18,13 +18,33 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Setup Chrome
-        uses: browser-actions/setup-chrome@v1
-        with:
-          chrome-version: stable
-      
-      - name: Setup ChromeDriver
-        uses: nanasess/setup-chromedriver@v2
+      - name: Install Chrome and ChromeDriver
+        run: |
+          # Install Chrome
+          sudo apt-get update
+          sudo apt-get install -y wget
+          wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          
+          # Get Chrome version and install matching ChromeDriver
+          CHROME_VERSION=$(google-chrome --version | cut -d " " -f 3 | cut -d "." -f 1-3)
+          echo "Chrome version: $CHROME_VERSION"
+          
+          # Get the latest ChromeDriver version for this Chrome version
+          CHROMEDRIVER_VERSION=$(curl -s "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION")
+          echo "ChromeDriver version: $CHROMEDRIVER_VERSION"
+          
+          # Download and install ChromeDriver
+          wget -O chromedriver.zip "https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_VERSION/chromedriver_linux64.zip"
+          unzip chromedriver.zip
+          sudo mv chromedriver /usr/local/bin/
+          sudo chmod +x /usr/local/bin/chromedriver
+          
+          # Verify versions
+          google-chrome --version
+          chromedriver --version
 
       - name: Install Python dependencies
         working-directory: backend
