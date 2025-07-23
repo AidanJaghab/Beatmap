@@ -25,6 +25,12 @@ jobs:
         pip install --upgrade pip
         pip install selenium==4.15.2 beautifulsoup4==4.12.2
     
+    - name: Debug Python environment
+      run: |
+        python -c "import sys; print('Python path:', sys.path)"
+        pip list | grep -i beautiful
+        python -c "import bs4; print('BeautifulSoup imported successfully')"
+    
     - name: Run scraper
       run: |
         cd backend
