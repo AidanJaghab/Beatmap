@@ -2,7 +2,7 @@ name: EDM Events Scraper
 
 on:
   schedule:
-    - cron: '0 11 * * *'  # Daily at 6:00 AM EST (11:00 UTC)
+    - cron: '0 11 * * *'  # Daily at 6:00 AM EST
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository  
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
