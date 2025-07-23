@@ -1,2 +1,2 @@
-beautifulsoup4
-selenium
+beautifulsoup4==4.12.3
+selenium==4.21.0
