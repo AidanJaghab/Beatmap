@@ -1,8 +1,62 @@
 [
   {
-    "name": "Speak-Softly: Watson, Marcos Santos",
-    "venue": "Ad\u00e9la\u00efde's Salon",
+    "name": "Gray Area Presents: Aly & Fila",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-07-27"
+  },
+  {
+    "name": "The Summer Club Presents: Sickick",
+    "venue": "The Summer Club",
+    "location": "Queens, NY",
+    "date": "2025-07-27"
+  },
+  {
+    "name": "Soulection",
+    "venue": "Flushing Meadows Corona Park",
+    "location": "Queens, NY",
+    "date": "2025-07-27"
+  },
+  {
+    "name": "Gold Rush",
+    "venue": "The Cutting Room",
     "location": "New York, NY",
-    "date": "2025-07-26"
+    "date": "2025-07-27"
+  },
+  {
+    "name": "J&J's Repairs",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-07-27"
+  },
+  {
+    "name": "Conducta",
+    "venue": "The Nursery at Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-07-27"
+  },
+  {
+    "name": "Hector, Miss Jennifer, Francisco Samuel",
+    "venue": "315 Meserole St",
+    "location": "Brooklyn, NY",
+    "date": "2025-07-27"
+  },
+  {
+    "name": "Techno After Hours",
+    "venue": "20 Meadow Street",
+    "location": "Brooklyn, NY",
+    "date": "2025-07-27"
+  },
+  {
+    "name": "Tiki Disco: Eli Escobar, DJ Lloyd, Andy Pry",
+    "venue": "Ruins at Knockdown Center",
+    "location": "Queens, NY",
+    "date": "2025-07-27"
+  },
+  {
+    "name": "Sounday's Listen: Jesse Bravo",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-07-27"
   }
 ]
