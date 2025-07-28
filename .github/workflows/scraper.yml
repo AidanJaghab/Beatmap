@@ -55,11 +55,12 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add backend/data/latest_events.json || true
+          git add backend/data/latest_events.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Update EDM events data"
+            git pull --rebase origin main  # <- THIS IS THE FIX
             git push origin main
           fi
         
