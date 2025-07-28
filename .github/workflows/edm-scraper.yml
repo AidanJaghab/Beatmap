@@ -60,8 +60,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update EDM events data"
-
             git pull --rebase origin main  # <- THIS IS THE FIX
-            git pull --rebase origin main
             git push origin main
           fi
