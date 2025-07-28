@@ -2,7 +2,7 @@ name: EDM Events Scraper
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Run daily at 6:00 AM UTC
+    - cron: '0 11 * * *'  # Daily at 6:00 AM EST
   workflow_dispatch:
 
 jobs:
@@ -10,44 +10,48 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.10'
 
-      - name: Install Chrome + ChromeDriver
+      - name: Install Chrome and ChromeDriver
         run: |
           sudo apt-get update
-          sudo apt-get install -y wget unzip
+          sudo apt-get install -y wget unzip jq
+
+          # Install Chrome
           wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
           sudo apt install -y ./google-chrome-stable_current_amd64.deb
-          
-          # Install latest ChromeDriver matching Chrome version
-          DRIVER_VERSION=$(curl -sS https://chromedriver.storage.googleapis.com/LATEST_RELEASE)
-          wget -O chromedriver.zip https://chromedriver.storage.googleapis.com/$DRIVER_VERSION/chromedriver_linux64.zip
+
+          # Get Chrome version and install matching ChromeDriver
+          CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+\.\d+')
+          MAJOR_VERSION=$(echo $CHROME_VERSION | cut -d. -f1)
+
+          DRIVER_URL=$(curl -s https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json | \
+            jq -r --arg version "$MAJOR_VERSION" '
+              .channels.Stable.downloads.chromedriver[] 
+              | select(.platform == "linux64") 
+              | .url')
+
+          wget -O chromedriver.zip "$DRIVER_URL"
           unzip chromedriver.zip
-          sudo mv chromedriver /usr/local/bin/
+          sudo mv chromedriver-linux64/chromedriver /usr/local/bin/
           sudo chmod +x /usr/local/bin/chromedriver
 
       - name: Install Python dependencies
-        working-directory: backend
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
+          pip install --upgrade pip
+          pip install -r backend/requirements.txt
 
       - name: Run scraper
         working-directory: backend
-        run: |
-          python scraper.py
+        run: python scraper.py
 
-      - name: Pull latest changes with rebase
-        run: git pull --rebase origin main
-
-      - name: Commit and push EDM events data
+      - name: Commit and push events data
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -56,4 +60,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update EDM events data"
+            git pull --rebase origin main  # <- THIS IS THE FIX
             git push origin main
+          fi
