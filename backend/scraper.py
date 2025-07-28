@@ -61,10 +61,7 @@ def scrape_edmtrain_nyc():
             today.strftime("%b %d"),
         ]
 
-        lines = [line.strip() for line in page_text.split('\n')]
-
-lines = [line.strip() for line in page_text.split('\n') if line.strip()]
-
+        lines = [line.strip() for line in page_text.split('\n') if line.strip()]
         events = []
 
         i = 0
