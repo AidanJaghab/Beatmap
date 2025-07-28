@@ -12,6 +12,15 @@ import json
 from datetime import datetime, date
 import os
 import re
+from transformers import pipeline
+
+# Initialize the classifier once
+classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
+LABELS = ["event_name", "venue", "location", "promotional", "date", "unknown"]
+
+def classify_event_line(text):
+    result = classifier(text, LABELS)
+    return result["labels"][0]
 
 def setup_driver():
     """Set up Chrome driver in headless mode"""
@@ -138,41 +147,67 @@ def scrape_edmtrain_nyc():
                                 is_event_name = True
                     
                     if is_event_name:
-                        event = {
-                            "name": current_line,
+                        # Collect all relevant lines for this event
+                        event_lines = [current_line]
+                        
+                        # Look ahead for venue and location info
+                        k = j + 1
+                        while k < len(lines) and k < j + 3:  # Check next 2-3 lines
+                            next_line = lines[k].strip()
+                            if next_line and not any(skip in next_line.lower() for skip in ['buy tickets', 'sold out', 'on sale', 'free rsvp', 'stubhub', 'tickets']):
+                                event_lines.append(next_line)
+                            k += 1
+                        
+                        # Use AI to classify each line
+                        parsed_event = {
+                            "event_name": "",
                             "venue": "TBA",
                             "location": "New York, NY",
+                            "promotional": [],
                             "date": today.isoformat()
                         }
                         
-                        # Look for venue in next line (always the line after artist)
-                        if j + 1 < len(lines):
-                            venue_line = lines[j + 1].strip()
-                            
-                            # Parse venue line: "Venue - City, State | Age" or "Venue - City, State Age"
-                            if ' - ' in venue_line:
-                                parts = venue_line.split(' - ')
-                                event["venue"] = parts[0].strip()
-                                if len(parts) > 1:
-                                    location_part = parts[1].strip()
-                                    # Extract location and age
-                                    for age in ['21+', '18+', '16+']:
-                                        if age in location_part:
-                                            location_part = location_part.replace(age, '').strip()
-                                            break
-                                    event["location"] = location_part
-                            else:
-                                # No dash, just venue name (clean age restrictions)
-                                venue_clean = venue_line
+                        for line in event_lines:
+                            label = classify_event_line(line)
+                            if label == "event_name" and not parsed_event["event_name"]:
+                                parsed_event["event_name"] = line
+                            elif label == "venue" and parsed_event["venue"] == "TBA":
+                                # Clean venue name
+                                venue_clean = line
                                 for age in ['21+', '18+', '16+']:
                                     if age in venue_clean:
                                         venue_clean = venue_clean.replace(age, '').strip()
-                                event["venue"] = venue_clean
-                            
-                            j += 1  # Skip the venue line
+                                # Extract venue from "Venue - Location" format if present
+                                if ' - ' in venue_clean:
+                                    venue_clean = venue_clean.split(' - ')[0].strip()
+                                parsed_event["venue"] = venue_clean
+                            elif label == "location":
+                                # Extract location, removing age restrictions
+                                location = line
+                                for age in ['21+', '18+', '16+']:
+                                    if age in location:
+                                        location = location.replace(age, '').strip()
+                                # If it's in "Venue - Location" format, extract location part
+                                if ' - ' in location:
+                                    location = location.split(' - ')[-1].strip()
+                                parsed_event["location"] = location
+                            elif label == "promotional":
+                                parsed_event["promotional"].append(line)
                         
-                        events.append(event)
-                        print(f"Found event: {event['name']} @ {event['venue']}")
+                        # Only add event if we found an event name
+                        if parsed_event["event_name"]:
+                            event = {
+                                "name": parsed_event["event_name"],
+                                "venue": parsed_event["venue"],
+                                "location": parsed_event["location"],
+                                "date": parsed_event["date"]
+                            }
+                            
+                            events.append(event)
+                            print(f"Found event: {event['name']} @ {event['venue']}")
+                            
+                        # Skip processed lines
+                        j += len(event_lines) - 1
                     
                     j += 1
                 
