@@ -7,38 +7,39 @@ const util = require("util");
 const execPromise = util.promisify(exec);
 
 const app = express();
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3000;
 
 app.use(cors());
 app.use(express.json());
 
-// Serve today's events from GitHub
+// Serve today's events from scraped data
 app.get("/api/events", async (req, res) => {
   try {
-    const githubUrl = "https://raw.githubusercontent.com/AidanJaghab/Beatmap/main/backend/data/latest_events.json";
+    const eventsFile = path.join(__dirname, "data", "latest_events.json");
     
-    const response = await fetch(githubUrl);
-    
-    if (!response.ok) {
-      console.log("📄 No GitHub data available, returning empty array");
-      return res.json([]);
+    try {
+      const data = await fs.readFile(eventsFile, "utf8");
+      const events = JSON.parse(data);
+      
+      console.log(`✅ Serving ${events.length} scraped events`);
+      res.json({
+        success: true,
+        data: events,
+        source: "scraped",
+        last_updated: events[0]?.scraped_at || new Date().toISOString()
+      });
+    } catch (fileError) {
+      console.log("📄 No scraped data available, returning empty array");
+      res.json({
+        success: true,
+        data: [],
+        source: "none",
+        message: "No events data available. Run the scraper to fetch today's events."
+      });
     }
-    
-    const events = await response.json();
-    
-    console.log(`✅ Serving ${events.length} events from GitHub`);
-    
-    // If it's a list, return it directly
-    if (Array.isArray(events)) {
-      return res.json(events);
-    }
-    
-    // If it's a dict, fallback to "events" key
-    return res.json(events.events || []);
-    
   } catch (error) {
-    console.error("🔥 Error fetching from GitHub:", error.message);
-    res.status(500).json({ error: "Failed to fetch events data from GitHub" });
+    console.error("🔥 Error serving events:", error.message);
+    res.status(500).json({ error: "Failed to serve events data" });
   }
 });
 
