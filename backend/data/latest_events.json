@@ -1,17 +1,5 @@
 [
   {
-    "name": "Jus-Ske",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2025-08-05"
-  },
-  {
-    "name": "Serrian",
-    "venue": "Earthly Delights",
-    "location": "New York, NY",
-    "date": "2025-08-05"
-  },
-  {
     "name": "Turbz",
     "venue": "TAO Downtown",
     "location": "New York, NY",
@@ -102,15 +90,15 @@
     "date": "2025-08-08"
   },
   {
-    "name": "ALEOS",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-08-08"
-  },
-  {
     "name": "Above(Ten) 1 Hotel Rooftop - Friday August 8th",
     "venue": "1 Hotel Brooklyn Bridge",
     "location": "Brooklyn, NY",
+    "date": "2025-08-08"
+  },
+  {
+    "name": "Mirari Presents Public Hotel: Matty Chiuch",
+    "venue": "Public Arts",
+    "location": "New York, NY",
     "date": "2025-08-08"
   },
   {
@@ -198,12 +186,6 @@
     "date": "2025-08-10"
   },
   {
-    "name": "Resurrection - Dominican Night: Maya Margarita, Dada Cozmic, Fried Pl\u00e1tano, Br0nz3_G0dd3ss, Sterling Juan Diaz, Alexis De La Rosa, Jeremy Giros, Bendito, Donis, Total XTC, Honey Dip",
-    "venue": "Paragon",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-10"
-  },
-  {
     "name": "**LIMITED FREE RSVP**",
     "venue": "Spring Place",
     "location": "New York, NY",
@@ -226,5 +208,17 @@
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
     "date": "2025-08-10"
+  },
+  {
+    "name": "Instant Party!",
+    "venue": "TV Eye",
+    "location": "New York, NY",
+    "date": "2025-08-10"
+  },
+  {
+    "name": "Sam Allan",
+    "venue": "Times Square Live",
+    "location": "New York, NY",
+    "date": "2025-08-12"
   }
 ]
