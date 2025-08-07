@@ -1,17 +1,5 @@
 [
   {
-    "name": "Turbz",
-    "venue": "TAO Downtown",
-    "location": "New York, NY",
-    "date": "2025-08-06"
-  },
-  {
-    "name": "Palosanto on the Roof: Oktave, Marco Peruzzi, Dino",
-    "venue": "The Roof at Arlo Williamsburg",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-06"
-  },
-  {
     "name": "Mindchatter, Josie.",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
@@ -54,7 +42,7 @@
     "date": "2025-08-08"
   },
   {
-    "name": "Mild Minds",
+    "name": "Mild Minds, Morgan Eliza",
     "venue": "Elsewhere Rooftop",
     "location": "Brooklyn, NY",
     "date": "2025-08-08"
@@ -84,21 +72,21 @@
     "date": "2025-08-08"
   },
   {
-    "name": "Somewhere Funny, Nowhere Serious",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-08-08"
-  },
-  {
-    "name": "Above(Ten) 1 Hotel Rooftop - Friday August 8th",
+    "name": "1 Hotel Rooftop Party",
     "venue": "1 Hotel Brooklyn Bridge",
     "location": "Brooklyn, NY",
     "date": "2025-08-08"
   },
   {
-    "name": "Mirari Presents Public Hotel: Matty Chiuch",
+    "name": "Public Hotel - Artspace Night Club: Matty Chiuch",
     "venue": "Public Arts",
     "location": "New York, NY",
+    "date": "2025-08-08"
+  },
+  {
+    "name": "Rossi.",
+    "venue": "Roberta's",
+    "location": "Brooklyn, NY",
     "date": "2025-08-08"
   },
   {
@@ -174,12 +162,6 @@
     "date": "2025-08-10"
   },
   {
-    "name": "Paurro, Korn\u00e9l Kov\u00e1cs",
-    "venue": "The Nursery at Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-10"
-  },
-  {
     "name": "A lana, IRL, Subcultures",
     "venue": "Jupiter Disco",
     "location": "Brooklyn, NY",
@@ -216,9 +198,21 @@
     "date": "2025-08-10"
   },
   {
+    "name": "Presented by Forest D\u00f6wn Under: Nathan Leong",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-08-10"
+  },
+  {
     "name": "Sam Allan",
     "venue": "Times Square Live",
     "location": "New York, NY",
     "date": "2025-08-12"
+  },
+  {
+    "name": "Bloodsport (SAYMYNAME & Riot Ten)",
+    "venue": "Parklife",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-13"
   }
 ]
