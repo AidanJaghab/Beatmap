@@ -1,35 +1,5 @@
 [
   {
-    "name": "Mindchatter, Josie.",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-07"
-  },
-  {
-    "name": "EVAN GIIA, ksenyeah",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-07"
-  },
-  {
-    "name": "Debauch: Steen, Frankie Bones, KYRUH",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-07"
-  },
-  {
-    "name": "Cadence Presents: Ronaldo, Hugo Osc, Rick Manners",
-    "venue": "Dead Letter No. 9",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-07"
-  },
-  {
-    "name": "DOULA b2b Embaci",
-    "venue": "Earthly Delights",
-    "location": "New York, NY",
-    "date": "2025-08-07"
-  },
-  {
     "name": "The Chainsmokers",
     "venue": "Under the K Bridge Park",
     "location": "Brooklyn, NY",
@@ -174,12 +144,6 @@
     "date": "2025-08-10"
   },
   {
-    "name": "The Summer Club Presents: Blake Webber",
-    "venue": "The Summer Club",
-    "location": "New York, NY",
-    "date": "2025-08-10"
-  },
-  {
     "name": "Tiki Disco: Eli Escobar, DJ Lloyd, Andy Pry",
     "venue": "Ruins at Knockdown Center",
     "location": "New York, NY",
@@ -204,6 +168,18 @@
     "date": "2025-08-10"
   },
   {
+    "name": "Mamba Mondays Industry Party (Open Bar 8pm-9pm): Bruce Wayne",
+    "venue": "Althea's Rooftop",
+    "location": "New York, NY",
+    "date": "2025-08-11"
+  },
+  {
+    "name": "CADENCE: Alex Weremchuk, Hugo Osc, Yongwoo",
+    "venue": "Earthly Delights",
+    "location": "New York, NY",
+    "date": "2025-08-11"
+  },
+  {
     "name": "Sam Allan",
     "venue": "Times Square Live",
     "location": "New York, NY",
@@ -214,5 +190,53 @@
     "venue": "Parklife",
     "location": "Brooklyn, NY",
     "date": "2025-08-13"
+  },
+  {
+    "name": "Mojave Grey",
+    "venue": "Elsewhere Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-14"
+  },
+  {
+    "name": "pregame: Cristi Cons, Armii1n, Choukroun, Per Hammar",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-14"
+  },
+  {
+    "name": "Lounge Sessions: Anthony Romano, Josie., LEFTI",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-14"
+  },
+  {
+    "name": "Amelia Holt, Second Contact, Magda, Planet B",
+    "venue": "Nowadays",
+    "location": "New York, NY",
+    "date": "2025-08-14"
+  },
+  {
+    "name": "Neil Jackson",
+    "venue": "TAO Downtown",
+    "location": "New York, NY",
+    "date": "2025-08-14"
+  },
+  {
+    "name": "Neil Jackson",
+    "venue": "The Fleur Room",
+    "location": "New York, NY",
+    "date": "2025-08-14"
+  },
+  {
+    "name": "Turbz",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2025-08-14"
+  },
+  {
+    "name": "RSVP",
+    "venue": "Althea's Hideaway",
+    "location": "New York, NY",
+    "date": "2025-08-14"
   }
 ]
