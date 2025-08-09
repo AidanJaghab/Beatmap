@@ -1,65 +1,5 @@
 [
   {
-    "name": "The Chainsmokers",
-    "venue": "Under the K Bridge Park",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-08"
-  },
-  {
-    "name": "Shanghai Doom",
-    "venue": "The Woodshop Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-08"
-  },
-  {
-    "name": "Mild Minds, Morgan Eliza",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-08"
-  },
-  {
-    "name": "Cl\u00fcb De Combat",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-08"
-  },
-  {
-    "name": "SBTRKT, Bushbaby, x3butterfly",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-08"
-  },
-  {
-    "name": "Dorisburg, Snad, GABBS, Emsho",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-08"
-  },
-  {
-    "name": "Dirty South",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-08"
-  },
-  {
-    "name": "1 Hotel Rooftop Party",
-    "venue": "1 Hotel Brooklyn Bridge",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-08"
-  },
-  {
-    "name": "Public Hotel - Artspace Night Club: Matty Chiuch",
-    "venue": "Public Arts",
-    "location": "New York, NY",
-    "date": "2025-08-08"
-  },
-  {
-    "name": "Rossi.",
-    "venue": "Roberta's",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-08"
-  },
-  {
     "name": "deadmau5 (Testpilot Set)",
     "venue": "Great Hall at Avant Gardner",
     "location": "Brooklyn, NY",
@@ -186,12 +126,6 @@
     "date": "2025-08-12"
   },
   {
-    "name": "Bloodsport (SAYMYNAME & Riot Ten)",
-    "venue": "Parklife",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-13"
-  },
-  {
     "name": "Mojave Grey",
     "venue": "Elsewhere Rooftop",
     "location": "Brooklyn, NY",
@@ -238,5 +172,71 @@
     "venue": "Althea's Hideaway",
     "location": "New York, NY",
     "date": "2025-08-14"
+  },
+  {
+    "name": "Bodywerk 4 Year Anniversary",
+    "venue": "Earthly Delights",
+    "location": "New York, NY",
+    "date": "2025-08-14"
+  },
+  {
+    "name": "Gray Area Presents: J. Worra, Benson, Jenn Getz & Alfie, Eve Lauren",
+    "venue": "Ruins at Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-08-15"
+  },
+  {
+    "name": "Nala, Fundido, Lee Cash",
+    "venue": "Elsewhere Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-15"
+  },
+  {
+    "name": "Warm Up: Special Request, Nguzunguzu, Authentically Plastic",
+    "venue": "MoMA PS1",
+    "location": "New York, NY",
+    "date": "2025-08-15"
+  },
+  {
+    "name": "Nicola Cruz, 98dots, mach\u00ecna",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-08-15"
+  },
+  {
+    "name": "STORIES Open Air by Gray Are: Sarah Story",
+    "venue": "H0L0 Yard",
+    "location": "New York, NY",
+    "date": "2025-08-15"
+  },
+  {
+    "name": "Jovonn, D'Sean, Greg Caz",
+    "venue": "Dead Letter No. 9",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-15"
+  },
+  {
+    "name": "Dillon Nathaniel, NightFunk",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-15"
+  },
+  {
+    "name": "Gene Farris",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-15"
+  },
+  {
+    "name": "Public Hotel - Artspace Night Club: WID",
+    "venue": "Public Arts",
+    "location": "New York, NY",
+    "date": "2025-08-15"
+  },
+  {
+    "name": "Sonance Rooftop Soiree: Fireware, Josie., Salimbeni, Anamesa",
+    "venue": "Arlo Williamsburg",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-15"
   }
 ]
