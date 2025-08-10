@@ -1,59 +1,5 @@
 [
   {
-    "name": "deadmau5 (Testpilot Set)",
-    "venue": "Great Hall at Avant Gardner",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-09"
-  },
-  {
-    "name": "Massane",
-    "venue": "Spring Place",
-    "location": "New York, NY",
-    "date": "2025-08-09"
-  },
-  {
-    "name": "Never Dull, Cocoa Sensei",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-09"
-  },
-  {
-    "name": "Elif, Mandrake (Mayan Warrior), Lovecraft",
-    "venue": "Circle Line Sightseeing Cruises",
-    "location": "New York, NY",
-    "date": "2025-08-09"
-  },
-  {
-    "name": "Giraffage, Chrome Sparks, Maria Nocheydia, Dysco, HVED",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-09"
-  },
-  {
-    "name": "AM\u00c9M\u00c9, Floyd Lavine, Wemi, Taiga",
-    "venue": "Ruins at Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-08-09"
-  },
-  {
-    "name": "DJ Pauly D",
-    "venue": "The Summer Club",
-    "location": "New York, NY",
-    "date": "2025-08-09"
-  },
-  {
-    "name": "Marquee Skydeck: Shahar, Rossi",
-    "venue": "Edge at Hudson Yards",
-    "location": "New York, NY",
-    "date": "2025-08-09"
-  },
-  {
-    "name": "Bella Boo, Joe Delon, Move D, Jenifa Mayanja, Niyah West",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-09"
-  },
-  {
     "name": "Francis Mercier, Oktave",
     "venue": "Industry City",
     "location": "Brooklyn, NY",
@@ -238,5 +184,65 @@
     "venue": "Arlo Williamsburg",
     "location": "Brooklyn, NY",
     "date": "2025-08-15"
+  },
+  {
+    "name": "Teksupport: Max Dean, B Luke, Luke Dean",
+    "venue": "Sunset Park Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-16"
+  },
+  {
+    "name": "Gray Area presents grayscale: Juliet Fox, Caravel",
+    "venue": "Brooklyn Monarch",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-16"
+  },
+  {
+    "name": "Laidback Luke",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-08-16"
+  },
+  {
+    "name": "Themba",
+    "venue": "Great Hall at Avant Gardner",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-16"
+  },
+  {
+    "name": "VRG, Hexxa, BLUPILL",
+    "venue": "The Woodshop Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-16"
+  },
+  {
+    "name": "Flight Facilities, Blu DeTiger, Jasper Tygner, Fundido",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-08-16"
+  },
+  {
+    "name": "Maccabi House: Adam Ten, Mita Gami, Saqib, Monobase",
+    "venue": "Brooklyn (Outdoors)",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-16"
+  },
+  {
+    "name": "San Holo",
+    "venue": "The Summer Club",
+    "location": "New York, NY",
+    "date": "2025-08-16"
+  },
+  {
+    "name": "Marquee Skydeck: Austin Millz",
+    "venue": "Edge at Hudson Yards",
+    "location": "New York, NY",
+    "date": "2025-08-16"
+  },
+  {
+    "name": "Afters",
+    "venue": "99 Scott Studio",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-16"
   }
 ]
