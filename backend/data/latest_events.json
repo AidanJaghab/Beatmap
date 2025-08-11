@@ -1,59 +1,5 @@
 [
   {
-    "name": "Francis Mercier, Oktave",
-    "venue": "Industry City",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-10"
-  },
-  {
-    "name": "Gray Area Presents: Justin Martin, Eskuche, Cristina Lazic, Cut & Sew, Branqueeno",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-10"
-  },
-  {
-    "name": "Sunset Reverie",
-    "venue": "Public Hotel Rooftop",
-    "location": "New York, NY",
-    "date": "2025-08-10"
-  },
-  {
-    "name": "A lana, IRL, Subcultures",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-10"
-  },
-  {
-    "name": "**LIMITED FREE RSVP**",
-    "venue": "Spring Place",
-    "location": "New York, NY",
-    "date": "2025-08-10"
-  },
-  {
-    "name": "Tiki Disco: Eli Escobar, DJ Lloyd, Andy Pry",
-    "venue": "Ruins at Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-08-10"
-  },
-  {
-    "name": "Cenote Project Open-Air Rooftop Sunset Party: Giol\u00ec & Assia, Jas Penuela",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-08-10"
-  },
-  {
-    "name": "Instant Party!",
-    "venue": "TV Eye",
-    "location": "New York, NY",
-    "date": "2025-08-10"
-  },
-  {
-    "name": "Presented by Forest D\u00f6wn Under: Nathan Leong",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-08-10"
-  },
-  {
     "name": "Mamba Mondays Industry Party (Open Bar 8pm-9pm): Bruce Wayne",
     "venue": "Althea's Rooftop",
     "location": "New York, NY",
@@ -244,5 +190,65 @@
     "venue": "99 Scott Studio",
     "location": "Brooklyn, NY",
     "date": "2025-08-16"
+  },
+  {
+    "name": "718 Sessions: Danny Krivit, Gide\u00f6n",
+    "venue": "Ruins at Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-08-17"
+  },
+  {
+    "name": "Laxcity, gabby start, Nebita",
+    "venue": "Elsewhere Zone One",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-17"
+  },
+  {
+    "name": "The Summer Club Presents: James Kennedy",
+    "venue": "The Summer Club",
+    "location": "New York, NY",
+    "date": "2025-08-17"
+  },
+  {
+    "name": "warner case",
+    "venue": "Elsewhere Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-17"
+  },
+  {
+    "name": "Gray Area Presents",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-17"
+  },
+  {
+    "name": "Presented by Forest D\u00f6wn Under: Oscar G, Cristian Arango",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-08-17"
+  },
+  {
+    "name": "Hot Honey Sundays Rooftop Party: Juan Atkins, Deo'Jorge, Anna Collecta",
+    "venue": "LoHi",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-17"
+  },
+  {
+    "name": "Raw Area // Techno After Hours: Adrian Hex",
+    "venue": "20 Meadow Street",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-17"
+  },
+  {
+    "name": "M.E.A.T. Afters",
+    "venue": "Club Lambda",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-17"
+  },
+  {
+    "name": "Currency Audio, aka-Sol, Echor",
+    "venue": "Earthly Delights",
+    "location": "New York, NY",
+    "date": "2025-08-17"
   }
 ]
