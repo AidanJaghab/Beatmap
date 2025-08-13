@@ -1,11 +1,5 @@
 [
   {
-    "name": "Sam Allan",
-    "venue": "Times Square Live",
-    "location": "New York, NY",
-    "date": "2025-08-12"
-  },
-  {
     "name": "Mojave Grey",
     "venue": "Elsewhere Rooftop",
     "location": "Brooklyn, NY",
@@ -102,7 +96,7 @@
     "date": "2025-08-15"
   },
   {
-    "name": "Gene Farris",
+    "name": "Gene Farris, Mark Dumitrescu, Jean-Paul",
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-08-15"
@@ -210,12 +204,6 @@
     "date": "2025-08-17"
   },
   {
-    "name": "Presented by Forest D\u00f6wn Under: Oscar G, Cristian Arango",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-08-17"
-  },
-  {
     "name": "Hot Honey Sundays Rooftop Party: Juan Atkins, Deo'Jorge, Anna Collecta",
     "venue": "LoHi",
     "location": "Brooklyn, NY",
@@ -237,6 +225,12 @@
     "name": "Currency Audio, aka-Sol, Echor",
     "venue": "Earthly Delights",
     "location": "New York, NY",
+    "date": "2025-08-17"
+  },
+  {
+    "name": "Psymon",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
     "date": "2025-08-17"
   },
   {
