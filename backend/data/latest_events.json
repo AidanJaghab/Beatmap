@@ -1,59 +1,5 @@
 [
   {
-    "name": "Mojave Grey",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-14"
-  },
-  {
-    "name": "pregame: Cristi Cons, Armii1n, Choukroun, Per Hammar",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-14"
-  },
-  {
-    "name": "Lounge Sessions: Anthony Romano, Josie., LEFTI",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-14"
-  },
-  {
-    "name": "Amelia Holt, Second Contact, Magda, Planet B",
-    "venue": "Nowadays",
-    "location": "New York, NY",
-    "date": "2025-08-14"
-  },
-  {
-    "name": "Neil Jackson",
-    "venue": "TAO Downtown",
-    "location": "New York, NY",
-    "date": "2025-08-14"
-  },
-  {
-    "name": "Neil Jackson",
-    "venue": "The Fleur Room",
-    "location": "New York, NY",
-    "date": "2025-08-14"
-  },
-  {
-    "name": "Turbz",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2025-08-14"
-  },
-  {
-    "name": "RSVP",
-    "venue": "Althea's Hideaway",
-    "location": "New York, NY",
-    "date": "2025-08-14"
-  },
-  {
-    "name": "Bodywerk 4 Year Anniversary",
-    "venue": "Earthly Delights",
-    "location": "New York, NY",
-    "date": "2025-08-14"
-  },
-  {
     "name": "Gray Area Presents: J. Worra, Benson, Jenn Getz & Alfie, Eve Lauren",
     "venue": "Ruins at Knockdown Center",
     "location": "New York, NY",
@@ -78,15 +24,21 @@
     "date": "2025-08-15"
   },
   {
+    "name": "Marquee Skydeck: Joezi",
+    "venue": "Edge at Hudson Yards",
+    "location": "New York, NY",
+    "date": "2025-08-15"
+  },
+  {
     "name": "STORIES Open Air by Gray Are: Sarah Story",
     "venue": "H0L0 Yard",
     "location": "New York, NY",
     "date": "2025-08-15"
   },
   {
-    "name": "Jovonn, D'Sean, Greg Caz",
-    "venue": "Dead Letter No. 9",
-    "location": "Brooklyn, NY",
+    "name": "Kill Safari (Kill The Noise x Bro Safari)",
+    "venue": "Le Poisson Rouge",
+    "location": "New York, NY",
     "date": "2025-08-15"
   },
   {
@@ -105,12 +57,6 @@
     "name": "Cheyenne Giles",
     "venue": "Nebula",
     "location": "New York, NY",
-    "date": "2025-08-15"
-  },
-  {
-    "name": "Sonance Rooftop Soiree: Fireware, Josie., Salimbeni, Anamesa",
-    "venue": "Arlo Williamsburg",
-    "location": "Brooklyn, NY",
     "date": "2025-08-15"
   },
   {
@@ -204,9 +150,9 @@
     "date": "2025-08-17"
   },
   {
-    "name": "Hot Honey Sundays Rooftop Party: Juan Atkins, Deo'Jorge, Anna Collecta",
-    "venue": "LoHi",
-    "location": "Brooklyn, NY",
+    "name": "Presented by Forest D\u00f6wn Under: Oscar G, Cristian Arango",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
     "date": "2025-08-17"
   },
   {
@@ -256,5 +202,47 @@
     "venue": "Jupiter Disco",
     "location": "Brooklyn, NY",
     "date": "2025-08-20"
+  },
+  {
+    "name": "Neil Jackson",
+    "venue": "TAO Downtown",
+    "location": "New York, NY",
+    "date": "2025-08-20"
+  },
+  {
+    "name": "Mindchatter, Shek",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-21"
+  },
+  {
+    "name": "Kiss Kiss",
+    "venue": "C'mon Everybody",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-21"
+  },
+  {
+    "name": "Planet Yes - Gasolina: DJ Ultra Violet",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-21"
+  },
+  {
+    "name": "Laila Amira, Lady Harley",
+    "venue": "Jupiter Disco",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-21"
+  },
+  {
+    "name": "Girls, Gays, & Theys: DJ Luna R\u00f3sa",
+    "venue": "Xanadu Roller Arts",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-21"
+  },
+  {
+    "name": "Where Else Thursdays: Crespo, Gigi Rosa",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-08-21"
   }
 ]
