@@ -1,74 +1,8 @@
 [
   {
-    "name": "Gray Area Presents: J. Worra, Benson, Jenn Getz & Alfie, Eve Lauren",
-    "venue": "Ruins at Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-08-15"
-  },
-  {
-    "name": "Nala, Fundido, Lee Cash",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-15"
-  },
-  {
-    "name": "Warm Up: Special Request, Nguzunguzu, Authentically Plastic",
-    "venue": "MoMA PS1",
-    "location": "New York, NY",
-    "date": "2025-08-15"
-  },
-  {
-    "name": "Nicola Cruz, 98dots, mach\u00ecna",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-08-15"
-  },
-  {
-    "name": "Marquee Skydeck: Joezi",
-    "venue": "Edge at Hudson Yards",
-    "location": "New York, NY",
-    "date": "2025-08-15"
-  },
-  {
-    "name": "STORIES Open Air by Gray Are: Sarah Story",
-    "venue": "H0L0 Yard",
-    "location": "New York, NY",
-    "date": "2025-08-15"
-  },
-  {
-    "name": "Kill Safari (Kill The Noise x Bro Safari)",
-    "venue": "Le Poisson Rouge",
-    "location": "New York, NY",
-    "date": "2025-08-15"
-  },
-  {
-    "name": "Dillon Nathaniel, NightFunk",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-15"
-  },
-  {
-    "name": "Gene Farris, Mark Dumitrescu, Jean-Paul",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-15"
-  },
-  {
-    "name": "Cheyenne Giles",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-08-15"
-  },
-  {
     "name": "Teksupport: Max Dean, B Luke, Luke Dean",
     "venue": "Sunset Park Rooftop",
     "location": "Brooklyn, NY",
-    "date": "2025-08-16"
-  },
-  {
-    "name": "The Summer Club Presents: Stafford Brothers",
-    "venue": "The Summer Club",
-    "location": "New York, NY",
     "date": "2025-08-16"
   },
   {
@@ -97,7 +31,7 @@
   },
   {
     "name": "Maccabi House: Adam Ten, Mita Gami, Saqib, Monobase",
-    "venue": "Brooklyn (Outdoors)",
+    "venue": "Brooklyn Navy Yard (Building 269)",
     "location": "Brooklyn, NY",
     "date": "2025-08-16"
   },
@@ -116,6 +50,12 @@
   {
     "name": "Afters",
     "venue": "99 Scott Studio",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-16"
+  },
+  {
+    "name": "Inoki",
+    "venue": "Arlo Williamsburg",
     "location": "Brooklyn, NY",
     "date": "2025-08-16"
   },
@@ -144,15 +84,9 @@
     "date": "2025-08-17"
   },
   {
-    "name": "Gray Area Presents",
+    "name": "Gray Area Presents: Juliet Fox, Sarah Story, DJ Minx, JSMN, Honey B",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2025-08-17"
-  },
-  {
-    "name": "Presented by Forest D\u00f6wn Under: Oscar G, Cristian Arango",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
     "date": "2025-08-17"
   },
   {
@@ -180,16 +114,16 @@
     "date": "2025-08-17"
   },
   {
+    "name": "*LIMITED FREE RSVP*",
+    "venue": "Make Believe",
+    "location": "New York, NY",
+    "date": "2025-08-17"
+  },
+  {
     "name": "NAACH X Sonance: Unders, Dramian, Nacho Isa, Fireware",
     "venue": "Arlo Williamsburg",
     "location": "Brooklyn, NY",
     "date": "2025-08-18"
-  },
-  {
-    "name": "Synthony",
-    "venue": "Avant Gardner",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-20"
   },
   {
     "name": "Bonzo Presents: Jake Muir",
@@ -244,5 +178,71 @@
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
     "date": "2025-08-21"
+  },
+  {
+    "name": "House Music Social Club",
+    "venue": "Virgo New York",
+    "location": "New York, NY",
+    "date": "2025-08-21"
+  },
+  {
+    "name": "EVENING TEA: Jake Muir",
+    "venue": "Silence Please",
+    "location": "New York, NY",
+    "date": "2025-08-21"
+  },
+  {
+    "name": "KREAM, Axela",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-21"
+  },
+  {
+    "name": "Gray Area Presents: Wakyin",
+    "venue": "Ruins at Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-08-22"
+  },
+  {
+    "name": "Gray Area Presents: KREAM, Adam Sellouk",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-08-22"
+  },
+  {
+    "name": "Djibouti",
+    "venue": "Elsewhere Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-22"
+  },
+  {
+    "name": "Jantsen",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-22"
+  },
+  {
+    "name": "Jan Blomqvist",
+    "venue": "Edge at Hudson Yards",
+    "location": "New York, NY",
+    "date": "2025-08-22"
+  },
+  {
+    "name": "Lost Miracle presents: S\u00e9bastien L\u00e9ger, Roy Rosenfeld",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-22"
+  },
+  {
+    "name": "Know Good, Terminal 6, Helmut Boi",
+    "venue": "Bowery Ballroom",
+    "location": "New York, NY",
+    "date": "2025-08-22"
+  },
+  {
+    "name": "Julia Govor, Sister Zo, nataliepops",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-22"
   }
 ]
