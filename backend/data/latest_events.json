@@ -1,65 +1,5 @@
 [
   {
-    "name": "Teksupport: Max Dean, B Luke, Luke Dean",
-    "venue": "Sunset Park Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-16"
-  },
-  {
-    "name": "Gray Area presents grayscale: Juliet Fox, Caravel",
-    "venue": "Brooklyn Monarch",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-16"
-  },
-  {
-    "name": "Laidback Luke",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-08-16"
-  },
-  {
-    "name": "VRG, Hexxa, BLUPILL",
-    "venue": "The Woodshop Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-16"
-  },
-  {
-    "name": "Flight Facilities, Blu DeTiger, Jasper Tygner, Fundido",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-08-16"
-  },
-  {
-    "name": "Maccabi House: Adam Ten, Mita Gami, Saqib, Monobase",
-    "venue": "Brooklyn Navy Yard (Building 269)",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-16"
-  },
-  {
-    "name": "San Holo",
-    "venue": "The Summer Club",
-    "location": "New York, NY",
-    "date": "2025-08-16"
-  },
-  {
-    "name": "Marquee Skydeck: Austin Millz",
-    "venue": "Edge at Hudson Yards",
-    "location": "New York, NY",
-    "date": "2025-08-16"
-  },
-  {
-    "name": "Afters",
-    "venue": "99 Scott Studio",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-16"
-  },
-  {
-    "name": "Inoki",
-    "venue": "Arlo Williamsburg",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-16"
-  },
-  {
     "name": "718 Sessions: Danny Krivit, Gide\u00f6n",
     "venue": "Ruins at Knockdown Center",
     "location": "New York, NY",
@@ -90,21 +30,21 @@
     "date": "2025-08-17"
   },
   {
+    "name": "Presented by Forest D\u00f6wn Under: Oscar G, Cristian Arango",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-08-17"
+  },
+  {
+    "name": "Hot Honey Sundays Rooftop Party: Juan Atkins, Deo'Jorge, Anna Collecta",
+    "venue": "LoHi",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-17"
+  },
+  {
     "name": "Raw Area // Techno After Hours: Adrian Hex",
     "venue": "20 Meadow Street",
     "location": "Brooklyn, NY",
-    "date": "2025-08-17"
-  },
-  {
-    "name": "M.E.A.T. Afters",
-    "venue": "Club Lambda",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-17"
-  },
-  {
-    "name": "Currency Audio, aka-Sol, Echor",
-    "venue": "Earthly Delights",
-    "location": "New York, NY",
     "date": "2025-08-17"
   },
   {
@@ -244,5 +184,59 @@
     "venue": "House of Yes",
     "location": "Brooklyn, NY",
     "date": "2025-08-22"
+  },
+  {
+    "name": "Darude, Zitro, Axela",
+    "venue": "Webster Hall",
+    "location": "New York, NY",
+    "date": "2025-08-23"
+  },
+  {
+    "name": "Timmy Trumpet, Yellow Claw, Ely Oaks, Sunday Scaries",
+    "venue": "Great Hall at Avant Gardner",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-23"
+  },
+  {
+    "name": "Blastoyz Back in Brooklyn: Chriscendo",
+    "venue": "The Meadows Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-23"
+  },
+  {
+    "name": "Me Me Me Me - A Leo Party: DJ Haram, Boyyyish, SilkyBlack",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-23"
+  },
+  {
+    "name": "Marquee Skydeck: Loud Luxury",
+    "venue": "Edge at Hudson Yards",
+    "location": "New York, NY",
+    "date": "2025-08-23"
+  },
+  {
+    "name": "Loud Luxury",
+    "venue": "The Summer Club",
+    "location": "New York, NY",
+    "date": "2025-08-23"
+  },
+  {
+    "name": "Zeds Dead",
+    "venue": "Brooklyn Bowl",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-23"
+  },
+  {
+    "name": "Kevin de Vries, Kanykei",
+    "venue": "Sunset Park Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-23"
+  },
+  {
+    "name": "Mesto",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-08-23"
   }
 ]
