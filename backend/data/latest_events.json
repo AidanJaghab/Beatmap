@@ -72,6 +72,12 @@
     "date": "2025-08-21"
   },
   {
+    "name": "Joel Corry",
+    "venue": "Harriet's Rooftop Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-21"
+  },
+  {
     "name": "Gray Area Presents: Wakyin",
     "venue": "Ruins at Knockdown Center",
     "location": "New York, NY",
@@ -232,5 +238,11 @@
     "venue": "20 Meadow Street",
     "location": "Brooklyn, NY",
     "date": "2025-08-24"
+  },
+  {
+    "name": "Jus-Ske",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2025-08-26"
   }
 ]
