@@ -1,23 +1,5 @@
 [
   {
-    "name": "Bonzo Presents: Jake Muir",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-20"
-  },
-  {
-    "name": "shadowofadoubt, Roselle, Nondough",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-20"
-  },
-  {
-    "name": "Neil Jackson",
-    "venue": "TAO Downtown",
-    "location": "New York, NY",
-    "date": "2025-08-20"
-  },
-  {
     "name": "Mindchatter, Shek",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
@@ -78,6 +60,12 @@
     "date": "2025-08-21"
   },
   {
+    "name": "Lost in the Clouds: DIEZEL, Mitranoo",
+    "venue": "Lost in Paradise Rooftop",
+    "location": "New York, NY",
+    "date": "2025-08-21"
+  },
+  {
     "name": "Gray Area Presents: Wakyin",
     "venue": "Ruins at Knockdown Center",
     "location": "New York, NY",
@@ -96,7 +84,7 @@
     "date": "2025-08-22"
   },
   {
-    "name": "Jantsen",
+    "name": "Jantsen, ZOSKA",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-08-22"
@@ -129,12 +117,6 @@
     "name": "Darude, Zitro, Axela",
     "venue": "Webster Hall",
     "location": "New York, NY",
-    "date": "2025-08-23"
-  },
-  {
-    "name": "Timmy Trumpet, Yellow Claw, Ely Oaks, Sunday Scaries",
-    "venue": "Great Hall at Avant Gardner",
-    "location": "Brooklyn, NY",
     "date": "2025-08-23"
   },
   {
@@ -180,9 +162,15 @@
     "date": "2025-08-23"
   },
   {
-    "name": "Black Coffee",
-    "venue": "Brooklyn Mirage",
+    "name": "Massianello, KUFF, JOHAN, Cardona, Sebs, Bassalto",
+    "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
+    "date": "2025-08-23"
+  },
+  {
+    "name": "Black Coffee",
+    "venue": "Central Park SummerStage",
+    "location": "New York, NY",
     "date": "2025-08-24"
   },
   {
@@ -244,5 +232,23 @@
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
     "date": "2025-08-26"
+  },
+  {
+    "name": "RUMBLE - 4 The Dancers",
+    "venue": "Jupiter Disco",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-27"
+  },
+  {
+    "name": "Kate Simko",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-27"
+  },
+  {
+    "name": "Free",
+    "venue": "Mr. Beerys",
+    "location": "New York, NY",
+    "date": "2025-08-27"
   }
 ]
