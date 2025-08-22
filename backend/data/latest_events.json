@@ -1,71 +1,5 @@
 [
   {
-    "name": "Mindchatter, Shek",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-21"
-  },
-  {
-    "name": "Kiss Kiss",
-    "venue": "C'mon Everybody",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-21"
-  },
-  {
-    "name": "Planet Yes - Gasolina: DJ Ultra Violet",
-    "venue": "House of Yes",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-21"
-  },
-  {
-    "name": "Laila Amira, Lady Harley",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-21"
-  },
-  {
-    "name": "Girls, Gays, & Theys: DJ Luna R\u00f3sa",
-    "venue": "Xanadu Roller Arts",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-21"
-  },
-  {
-    "name": "Where Else Thursdays: Crespo, Gigi Rosa",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-08-21"
-  },
-  {
-    "name": "KREAM, Axela",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-21"
-  },
-  {
-    "name": "House Music Social Club",
-    "venue": "Virgo New York",
-    "location": "New York, NY",
-    "date": "2025-08-21"
-  },
-  {
-    "name": "Anime nyc weekend",
-    "venue": "Sugar Mouse NYC",
-    "location": "New York, NY",
-    "date": "2025-08-21"
-  },
-  {
-    "name": "Joel Corry",
-    "venue": "Harriet's Rooftop Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-21"
-  },
-  {
-    "name": "Lost in the Clouds: DIEZEL, Mitranoo",
-    "venue": "Lost in Paradise Rooftop",
-    "location": "New York, NY",
-    "date": "2025-08-21"
-  },
-  {
     "name": "Gray Area Presents: Wakyin",
     "venue": "Ruins at Knockdown Center",
     "location": "New York, NY",
@@ -156,9 +90,9 @@
     "date": "2025-08-23"
   },
   {
-    "name": "Mesto",
-    "venue": "Nebula",
-    "location": "New York, NY",
+    "name": "Yellow Claw",
+    "venue": "Superior Ingredients (Main Room)",
+    "location": "Brooklyn, NY",
     "date": "2025-08-23"
   },
   {
@@ -234,6 +168,12 @@
     "date": "2025-08-26"
   },
   {
+    "name": "Tuesday Baby Tuesday",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-08-26"
+  },
+  {
     "name": "RUMBLE - 4 The Dancers",
     "venue": "Jupiter Disco",
     "location": "Brooklyn, NY",
@@ -250,5 +190,41 @@
     "venue": "Mr. Beerys",
     "location": "New York, NY",
     "date": "2025-08-27"
+  },
+  {
+    "name": "Wooli, Zingara, Automhate b2b MAD DUBZ, Fairlane, Capochino",
+    "venue": "Brooklyn Mirage",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-28"
+  },
+  {
+    "name": "Photek",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-28"
+  },
+  {
+    "name": "Teksupport x Revival: Beltran, Avision, CatLadyHi",
+    "venue": "Sunset Park Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-28"
+  },
+  {
+    "name": "HIGH-SEAS",
+    "venue": "Earthly Delights",
+    "location": "New York, NY",
+    "date": "2025-08-28"
+  },
+  {
+    "name": "Boris Werner, Ben Balance, Joiah",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-28"
+  },
+  {
+    "name": "Where Else Thursdays: Gianni Glo, Castillo",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-08-28"
   }
 ]
