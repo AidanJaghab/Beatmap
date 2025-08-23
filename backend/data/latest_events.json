@@ -1,53 +1,5 @@
 [
   {
-    "name": "Gray Area Presents: Wakyin",
-    "venue": "Ruins at Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-08-22"
-  },
-  {
-    "name": "Gray Area Presents: KREAM, Adam Sellouk",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-08-22"
-  },
-  {
-    "name": "Djibouti",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-22"
-  },
-  {
-    "name": "Jantsen, ZOSKA",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-22"
-  },
-  {
-    "name": "Jan Blomqvist",
-    "venue": "Edge at Hudson Yards",
-    "location": "New York, NY",
-    "date": "2025-08-22"
-  },
-  {
-    "name": "Lost Miracle presents: S\u00e9bastien L\u00e9ger, Roy Rosenfeld",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-22"
-  },
-  {
-    "name": "Know Good, Terminal 6, Helmut Boi",
-    "venue": "Bowery Ballroom",
-    "location": "New York, NY",
-    "date": "2025-08-22"
-  },
-  {
-    "name": "Julia Govor, Sister Zo, nataliepops",
-    "venue": "House of Yes",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-22"
-  },
-  {
     "name": "Darude, Zitro, Axela",
     "venue": "Webster Hall",
     "location": "New York, NY",
@@ -84,7 +36,7 @@
     "date": "2025-08-23"
   },
   {
-    "name": "Kevin de Vries, Kanykei",
+    "name": "Teksupport: Kevin de Vries, Kanykei",
     "venue": "Sunset Park Rooftop",
     "location": "Brooklyn, NY",
     "date": "2025-08-23"
@@ -144,21 +96,21 @@
     "date": "2025-08-24"
   },
   {
-    "name": "Cenote Project Open-Air Rooftop Sunset Party: Laerz, Mark Wolf",
-    "venue": "Somewhere Nowhere",
+    "name": "Raw Area Presents: Kilbourne",
+    "venue": "20 Meadow Street",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-24"
+  },
+  {
+    "name": "Potluck x DIRTY WORK",
+    "venue": "Earthly Delights",
     "location": "New York, NY",
     "date": "2025-08-24"
   },
   {
-    "name": "Anna Collecta, Deo' Jorge, Fran\u00e7ois K, Deo'Jorge",
-    "venue": "LoHi",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-24"
-  },
-  {
-    "name": "Raw Area Presents: Kilbourne",
-    "venue": "20 Meadow Street",
-    "location": "Brooklyn, NY",
+    "name": "Mr. Murray, Andrew Lenox",
+    "venue": "Earthly Delights",
+    "location": "New York, NY",
     "date": "2025-08-24"
   },
   {
@@ -226,5 +178,65 @@
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
     "date": "2025-08-28"
+  },
+  {
+    "name": "A. G. Cook, Rick Farin",
+    "venue": "Brooklyn Paramount",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-29"
+  },
+  {
+    "name": "Drumcode NYC: Adam Beyer, Bart Skils, Victor Ruiz, Charles D, HNTR, Kasia, Konstantin Sibold",
+    "venue": "Great Hall at Avant Gardner",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-29"
+  },
+  {
+    "name": "Bad Boombox, Mija, Mischluft, Ollie Lishman",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-08-29"
+  },
+  {
+    "name": "Morgan Page",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-29"
+  },
+  {
+    "name": "Mike Williams",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-08-29"
+  },
+  {
+    "name": "Teksupport x Revival: Beltran, ChaseWest, Obsk\u00fcr, Pablo Romero",
+    "venue": "99 Scott Ave",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-29"
+  },
+  {
+    "name": "rAwR xD: Breaka, BRUX, ZOF",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-29"
+  },
+  {
+    "name": "Todd Edwards, Sean Sato, Luke Alessi, Jack Mulqueen, Sanabria",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-29"
+  },
+  {
+    "name": "VKTM, XaeboR, TWOPERCENT",
+    "venue": "The Meadows Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-29"
+  },
+  {
+    "name": "Sam Allan",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-29"
   }
 ]
