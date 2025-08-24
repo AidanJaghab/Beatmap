@@ -1,59 +1,5 @@
 [
   {
-    "name": "Darude, Zitro, Axela",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2025-08-23"
-  },
-  {
-    "name": "Blastoyz Back in Brooklyn: Chriscendo",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-23"
-  },
-  {
-    "name": "Me Me Me Me - A Leo Party: DJ Haram, Boyyyish, SilkyBlack",
-    "venue": "House of Yes",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-23"
-  },
-  {
-    "name": "Marquee Skydeck: Loud Luxury",
-    "venue": "Edge at Hudson Yards",
-    "location": "New York, NY",
-    "date": "2025-08-23"
-  },
-  {
-    "name": "Loud Luxury",
-    "venue": "The Summer Club",
-    "location": "New York, NY",
-    "date": "2025-08-23"
-  },
-  {
-    "name": "Zeds Dead",
-    "venue": "Brooklyn Bowl",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-23"
-  },
-  {
-    "name": "Teksupport: Kevin de Vries, Kanykei",
-    "venue": "Sunset Park Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-23"
-  },
-  {
-    "name": "Yellow Claw",
-    "venue": "Superior Ingredients (Main Room)",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-23"
-  },
-  {
-    "name": "Massianello, KUFF, JOHAN, Cardona, Sebs, Bassalto",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-23"
-  },
-  {
     "name": "Black Coffee",
     "venue": "Central Park SummerStage",
     "location": "New York, NY",
@@ -132,7 +78,7 @@
     "date": "2025-08-27"
   },
   {
-    "name": "Kate Simko",
+    "name": "Kate Simko, ksenyeah",
     "venue": "Moondog HiFi",
     "location": "Brooklyn, NY",
     "date": "2025-08-27"
@@ -238,5 +184,59 @@
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
     "date": "2025-08-29"
+  },
+  {
+    "name": "Anja Schneider, Musumeci, ksenyeah",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-30"
+  },
+  {
+    "name": "Yung Singh",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-30"
+  },
+  {
+    "name": "Knee Deep in Queens: Hot Since 82, Prunk, Mai Iachetti, Le Yora, Colored Craig",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-08-30"
+  },
+  {
+    "name": "Marquee Skydeck: Benny Benassi",
+    "venue": "Edge at Hudson Yards",
+    "location": "New York, NY",
+    "date": "2025-08-30"
+  },
+  {
+    "name": "The Carry Nation, Kilopatrah Jones, SPFDJ, Annie Lew b2b Concrete Husband, Saint Velez",
+    "venue": "BASEMENT NY",
+    "location": "New York, NY",
+    "date": "2025-08-30"
+  },
+  {
+    "name": "BK Loves UKG: Boombox Cartel, Great Dane, Kenzii Scott, Samisosa",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-30"
+  },
+  {
+    "name": "Justin Strauss, Honey B, Donis, VARSHA, Sevyn, Darone Sassounian",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-30"
+  },
+  {
+    "name": "Crywolf",
+    "venue": "Christ & St Stephen's Church",
+    "location": "New York, NY",
+    "date": "2025-08-30"
+  },
+  {
+    "name": "TRIBUTE NOT BLACK COFFEE",
+    "venue": "BLU33",
+    "location": "New York, NY",
+    "date": "2025-08-30"
   }
 ]
