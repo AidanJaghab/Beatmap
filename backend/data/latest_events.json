@@ -1,65 +1,5 @@
 [
   {
-    "name": "Black Coffee",
-    "venue": "Central Park SummerStage",
-    "location": "New York, NY",
-    "date": "2025-08-24"
-  },
-  {
-    "name": "We Are Eclipse: Lauren Ritter, Camila Wolf, Jean-Paul, JLU, REVA",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-24"
-  },
-  {
-    "name": "Gray Area Presents BLUE: America Rose, bad tuner, Gilligan Moss, Phantoms, Swoosh",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-24"
-  },
-  {
-    "name": "San Pacho",
-    "venue": "The Summer Club",
-    "location": "New York, NY",
-    "date": "2025-08-24"
-  },
-  {
-    "name": "FREE GIFTS INCLUDED WITH EVERY TICKET",
-    "venue": "Skyport Marina",
-    "location": "New York, NY",
-    "date": "2025-08-24"
-  },
-  {
-    "name": "Eamon Harkin, Leeon",
-    "venue": "Nowadays",
-    "location": "New York, NY",
-    "date": "2025-08-24"
-  },
-  {
-    "name": "Presented by Forest D\u00f6wn Under: Lohrasp Kansara, Mayte MX, Valent\u00edn",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-08-24"
-  },
-  {
-    "name": "Raw Area Presents: Kilbourne",
-    "venue": "20 Meadow Street",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-24"
-  },
-  {
-    "name": "Potluck x DIRTY WORK",
-    "venue": "Earthly Delights",
-    "location": "New York, NY",
-    "date": "2025-08-24"
-  },
-  {
-    "name": "Mr. Murray, Andrew Lenox",
-    "venue": "Earthly Delights",
-    "location": "New York, NY",
-    "date": "2025-08-24"
-  },
-  {
     "name": "Jus-Ske",
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
@@ -238,5 +178,65 @@
     "venue": "BLU33",
     "location": "New York, NY",
     "date": "2025-08-30"
+  },
+  {
+    "name": "DJ Snake",
+    "venue": "Brooklyn Mirage",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-31"
+  },
+  {
+    "name": "Jerro",
+    "venue": "Spring Place",
+    "location": "New York, NY",
+    "date": "2025-08-31"
+  },
+  {
+    "name": "Cenote Project Open-Air Rooftop Sunset Party: Moojo, Asmot",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-08-31"
+  },
+  {
+    "name": "Gray Area Presents: Luttrell, Nicholas Rada, Coastlines, Melissa XYZ, David Orin",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-31"
+  },
+  {
+    "name": "Cloonee",
+    "venue": "The Summer Club",
+    "location": "New York, NY",
+    "date": "2025-08-31"
+  },
+  {
+    "name": "Dimension",
+    "venue": "Great Hall at Avant Gardner",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-31"
+  },
+  {
+    "name": "Kaskade",
+    "venue": "Under the K Bridge Park (19 Bridgewater Street)",
+    "location": "Brooklyn, NY",
+    "date": "2025-08-31"
+  },
+  {
+    "name": "Horse Meat Disco, Luke Solomon, Kim Anh, x3butterfly",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-08-31"
+  },
+  {
+    "name": "Gianni Blu",
+    "venue": "Althea's Hideaway",
+    "location": "New York, NY",
+    "date": "2025-08-31"
+  },
+  {
+    "name": "Marquee Skydeck: CID",
+    "venue": "Edge at Hudson Yards",
+    "location": "New York, NY",
+    "date": "2025-08-31"
   }
 ]
