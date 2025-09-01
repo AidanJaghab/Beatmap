@@ -1,59 +1,5 @@
 [
   {
-    "name": "Jerro",
-    "venue": "Spring Place",
-    "location": "New York, NY",
-    "date": "2025-08-31"
-  },
-  {
-    "name": "Cenote Project Open-Air Rooftop Sunset Party: Moojo, Asmot",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-08-31"
-  },
-  {
-    "name": "Gray Area Presents: Luttrell, Nicolas Rada, Coastlines, Melissa XYZ, David Orin, Nicholas Rada",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-31"
-  },
-  {
-    "name": "Cloonee",
-    "venue": "The Summer Club",
-    "location": "New York, NY",
-    "date": "2025-08-31"
-  },
-  {
-    "name": "Dimension",
-    "venue": "Great Hall at Avant Gardner",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-31"
-  },
-  {
-    "name": "Kaskade",
-    "venue": "Under the K Bridge Park (19 Bridgewater Street)",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-31"
-  },
-  {
-    "name": "Horse Meat Disco, Luke Solomon, Kim Anh, x3butterfly",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-08-31"
-  },
-  {
-    "name": "Kim Ann Foxman, Makadsi, Cosmo",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-31"
-  },
-  {
-    "name": "Gianni Blu",
-    "venue": "Althea's Hideaway",
-    "location": "New York, NY",
-    "date": "2025-08-31"
-  },
-  {
     "name": "Agape Presents: Alignment, Kessler",
     "venue": "99 Scott Ave",
     "location": "Brooklyn, NY",
@@ -306,609 +252,651 @@
     "date": "2025-09-06"
   },
   {
+    "name": "Gryffin",
+    "venue": "Brooklyn Mirage",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-07"
+  },
+  {
+    "name": "Gray Area Presents: Nitefreak, Tiffy Vera",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-07"
+  },
+  {
+    "name": "Hot Chip",
+    "venue": "Webster Hall",
+    "location": "New York, NY",
+    "date": "2025-09-07"
+  },
+  {
+    "name": "Martin Ikin",
+    "venue": "The Summer Club",
+    "location": "New York, NY",
+    "date": "2025-09-07"
+  },
+  {
+    "name": "Public Sound Sessions: Benji B, Bradley Zero, Gorgon Sound, Dub-Stuy",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-07"
+  },
+  {
+    "name": "berlioz, Lovie, JADALAREIGN",
+    "venue": "Ruins at Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-09-07"
+  },
+  {
+    "name": "Presented by Forest D\u00f6wn Under: Eddie Deville, Angie Ocampo",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-09-07"
+  },
+  {
+    "name": "Jeeter Launch Party x Cenote Project Open-Air Rooftop Sunset Party: Lohrasp Kansara, Nathan Leong, Santo",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-09-07"
+  },
+  {
+    "name": "Honcho, Harry Cross, Aaron Clark, Clark Price, d'Adhemar",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-07"
+  },
+  {
     "name": "Turbz",
     "venue": "TAO Downtown",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Swedish House Mafia",
     "venue": "Arthur Ashe Stadium",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "veggi",
     "venue": "Elsewhere Rooftop",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "DJ Sliink, Suzi Analogue",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Ciel, WTCHCRFT",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "DJ Shakey, Ursula 1000, Illexxandra",
     "venue": "Xanadu Roller Arts",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Lounge Sessions: Anthony Romano, James Patterson, LEFTI",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Turbz",
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Alok",
     "venue": "Edge at Hudson Yards",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Dana Ruh",
     "venue": "Moondog HiFi",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Teksupport: Mau P, Loco Dice, Discip",
     "venue": "Brooklyn Storehouse",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Two Friends, Ian Asher, Kaleena Zanders",
     "venue": "Central Park SummerStage",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Indo Warehouse",
     "venue": "Brooklyn Mirage",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Coone, Shogun",
     "venue": "The Meadows Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Swedish House Mafia",
     "venue": "Under the K Bridge Park",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Flosstradamus b2b 4B",
     "venue": "Webster Hall",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Sunny Side Up: Apex Martin",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Big Wild",
     "venue": "Great Hall at Avant Gardner",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Indo Warehouse: Kahani, Kunal Merchant, Anvaya, Anyasa, Firungi",
     "venue": "Brooklyn Paramount",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Vulfpeck",
     "venue": "Madison Square Garden",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Open To Close Set",
     "venue": "Brooklyn Storehouse",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "TWO LANES",
     "venue": "Brooklyn Steel",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
-  },
-  {
-    "name": "Goldroom, Viceroy",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "demotapes, Eyezic, Nebita",
     "venue": "Elsewhere Zone One",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Through My System Tour: it's murph, Starjunk 95, Arlo",
     "venue": "Great Hall at Avant Gardner",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Brighter Days: Honey Dijon, Cosmo",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-08-31"
-  },
-  {
-    "name": "Fleetmac Wood, Roxanne Roll, Alex Oxley",
-    "venue": "99 Scott Ave",
-    "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "IN FLIGHT: Biscits, Truth x Lies",
     "venue": "Superior Ingredients",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Wrecked: Kilopatrah Jones, Karim Olen Ash, Ron Like Hell, Ryan Smith, Phlegm",
     "venue": "BASEMENT NY",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Gray Area Presents: Deep Dish, Dubfire, Sharam, Luna Mar, Khen, NURAN",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "James Hype",
     "venue": "The Summer Club",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Uncle Waffles",
     "venue": "Rooftop at Pier 17",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Sol at 1 Hotel",
     "venue": "1 Hotel Brooklyn Bridge",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "D.O.R Presents - Fashion Night Outside: Kush Jones, Daniro, BASSBEAR!!, Kai the Black Angel, Jay Envy",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "DAFT PUNK NIGHT - a HARDER, BETTER, FASTER, STRONGER Party!",
     "venue": "Market Hotel",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "SMACK Presents: EDICA+",
     "venue": "Roberta's",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "M.E.A.T. OFFICIAL AFTERS: Filipe Guerra",
     "venue": "Club Lambda",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Cenote Project Open-Air Rooftop Sunset Party",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Polo & Pan, Tycho",
     "venue": "Brooklyn Storehouse",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "The Chemical Brothers, Erol Alkan",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "BAYNK, Swoosh",
     "venue": "Elsewhere Rooftop",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Pariah",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Pariah",
     "venue": "The Fleur Room",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Teksupport: The Blessed Madonna, Justin Cudmore",
     "venue": "Sunset Park Rooftop",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "STS9, lespecial",
     "venue": "The Capitol Theatre",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Desert Hearts Black: Marbs, Justin Marchacos, Medina",
     "venue": "H0L0",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Autograf",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Gray Area Presents: Marco Faraone, Adam Meliani",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Jacques Greene, Nosaj Thing",
     "venue": "Webster Hall",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "SG Lewis, Sofia Kourtesis",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Poolhaus, Beni Hana",
     "venue": "Dead Letter No. 9",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "me n \u00fc",
     "venue": "Elsewhere Rooftop",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Showtek",
     "venue": "Brooklyn Monarch",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Closing Party: Victor Calderone, Radio Slave, The Fellas",
     "venue": "Sunset Park Rooftop",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Awakenings Exo",
     "venue": "Brooklyn Mirage",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "KI/KI",
     "venue": "Ruins at Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Lazare",
     "venue": "Music For A While",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Head In The Clouds: ISOxo, Rich Brian, KUN, Juelz, DJ Mandy",
     "venue": "Under the K Bridge Park",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Sedef Adas\u00ef, bashkka, Mike Servito, Blawan, D.Dan",
     "venue": "BASEMENT NY",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "A Night in Tulum: Robidio, Goldee, Torie NY, Bando NY, Zane, Andrew Westphal, Santiago Orozco, Stereo Monkey, Mike Oddo",
     "venue": "Superior Ingredients",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Oktave",
     "venue": "House of Yes",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Gray Area Presents Tech Afrique: Eli Fola, William Djoko, Floyd Lavine, Niara Sterling",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Lincoln Jesser",
     "venue": "Elsewhere Rooftop",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Mark Knight, Oscar G",
     "venue": "3 Dollar Bill",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Experts Only Festival",
     "venue": "Randall's Island",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Antal",
     "venue": "Refuge Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "iambridgeet, HardCandy, Uproot Andy",
     "venue": "House of Yes",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Chaos In The CBD, Frank & Tony",
     "venue": "The Nursery at Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Block Party After Party: bossy boots, SHEBA, Umbra, nextdimensional, Chelita",
     "venue": "House of Yes",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Presented by Forest D\u00f6wn Under",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Sunset Reverie",
     "venue": "Public Hotel Rooftop",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Tasha Blank",
     "venue": "House of Yes",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Moon Boots, James Juke, Sunny Cheeba, Lee Cash",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "She Past Away, Forever Grey",
     "venue": "Xanadu Roller Arts",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Golden Record NYC: Monile, DJ Pipe, Kiyoshi",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Holy Priest, hhunter, D\u00d8MINA, ELMefti",
     "venue": "Great Hall at Avant Gardner",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Gray Area Presents: Low Steppa, SYREETA",
     "venue": "Superior Ingredients (Main Room)",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Aaron Hibell",
     "venue": "Bowery Ballroom",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "The Floozies, Dirtwire, Honeycomb",
     "venue": "Brooklyn Bowl",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "beastboi., YUNIT.",
     "venue": "The Woodshop Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Teksupport: Ahmed Spins",
     "venue": "99 Scott Ave",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Bonobo, Maribou State, Dee Diggs",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "ILLENIUM, Paperwater",
     "venue": "Rooftop at Pier 17",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Hardwell",
     "venue": "Terminal 5",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Oliver Heldens (HI-LO Set), Le Youth, KAS:ST",
     "venue": "Brooklyn Storehouse",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "ILLENIUM",
     "venue": "Brooklyn Mirage",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Paradise: Jamie Jones, Skream, Archie Hamilton, Sidney Charles, CatLadyHi",
     "venue": "25 Noble St",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Sasha & John Digweed, Sinca",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Tulum Afloat",
     "venue": "Skyport Marina Jewel Yacht",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "nimino",
     "venue": "Brooklyn Steel",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "WINSON",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Feed Me",
     "venue": "Racket New York",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "GooseBump In The City: Kollektiv Turmstrasse, Adana Twins, Kiyoshi, Seb Hall",
     "venue": "Terminal 5",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "GooseBump In The City: Kollektiv Turmstrasse, Adana Twins, Kiyoshi, Seb Hall",
     "venue": "Great Hall at Avant Gardner",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Gray Area Presents: Hozho",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Yaima, James Bird",
     "venue": "Gramercy Theatre",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Gray Area Presents: Shimza, Miluhska, DJ Tomer",
     "venue": "Under the K Bridge Park",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Gray Area Presents: Brunello",
     "venue": "H0L0 Yard",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Cassy, Cinthie",
     "venue": "The Nursery at Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Cenote Project Carnaval Open-Air Rooftop Sunset Party x Loco Carnaval: Lohrasp Kansara",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   },
   {
     "name": "Mid Autumn Moon Festival: Bingo Players, Slushii, Henry Fong, Kromi, SAVI",
     "venue": "Rooftop at Pier 17",
     "location": "New York, NY",
-    "date": "2025-08-31"
+    "date": "2025-09-01"
   }
 ]
