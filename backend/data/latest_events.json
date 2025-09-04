@@ -1,30 +1,12 @@
 [
   {
-    "name": "French 79",
-    "venue": "Le Poisson Rouge Gallery",
-    "location": "New York, NY",
-    "date": "2025-09-03"
-  },
-  {
-    "name": "Neil Jackson",
-    "venue": "TAO Downtown",
-    "location": "New York, NY",
-    "date": "2025-09-03"
-  },
-  {
-    "name": "Master Kev, Silent H",
-    "venue": "Time Out Market New York",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-03"
-  },
-  {
     "name": "Tape B, Dr. Fresch, Phrva, Destructo, Cozy Kev, Tech B",
     "venue": "Great Hall at Avant Gardner",
     "location": "Brooklyn, NY",
     "date": "2025-09-04"
   },
   {
-    "name": "Cherub",
+    "name": "Cherub, SESSY, Flavor Dave",
     "venue": "Elsewhere Hall",
     "location": "Brooklyn, NY",
     "date": "2025-09-04"
@@ -150,12 +132,6 @@
     "date": "2025-09-06"
   },
   {
-    "name": "Vastive, Future Exit, Lucius",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-06"
-  },
-  {
     "name": "Gray Area Presents: Mahmut Orhan, Peace Control, Mia Moretti, Wemi, Mont Rogue",
     "venue": "Under the K Bridge Park",
     "location": "Brooklyn, NY",
@@ -168,14 +144,14 @@
     "date": "2025-09-06"
   },
   {
-    "name": "Joy Anonymous",
-    "venue": "Ruins at Knockdown Center",
-    "location": "New York, NY",
+    "name": "Zack Fox, DJ Godfather, EQUISS, Black Noi$e",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
     "date": "2025-09-06"
   },
   {
-    "name": "The Summer Club Presents: Sickick",
-    "venue": "The Summer Club",
+    "name": "Joy Anonymous",
+    "venue": "Ruins at Knockdown Center",
     "location": "New York, NY",
     "date": "2025-09-06"
   },
@@ -186,19 +162,25 @@
     "date": "2025-09-06"
   },
   {
+    "name": "Mahmut Orhan Afterparty",
+    "venue": "UNVEILED",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-06"
+  },
+  {
     "name": "Gryffin",
     "venue": "Great Hall at Avant Gardner",
     "location": "Brooklyn, NY",
     "date": "2025-09-07"
   },
   {
-    "name": "Gray Area Presents: Nitefreak, Tiffy Vera",
+    "name": "Gray Area Presents: Nitefreak, Tiffy Vera, Cisummi, Pizzi, Suaves",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
     "date": "2025-09-07"
   },
   {
-    "name": "Hot Chip",
+    "name": "Hot Chip, Mike Simonetti",
     "venue": "Webster Hall",
     "location": "New York, NY",
     "date": "2025-09-07"
@@ -222,12 +204,6 @@
     "date": "2025-09-07"
   },
   {
-    "name": "Presented by Forest D\u00f6wn Under: Eddie Deville, Angie Ocampo",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-09-07"
-  },
-  {
     "name": "Jeeter Launch Party x Cenote Project Open-Air Rooftop Sunset Party: Lohrasp Kansara, Nathan Leong, Santo",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
@@ -237,6 +213,12 @@
     "name": "Honcho, Harry Cross, Aaron Clark, Clark Price, d'Adhemar",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
+    "date": "2025-09-07"
+  },
+  {
+    "name": "10am to 10pm",
+    "venue": "Plumb Beach",
+    "location": "New York, NY",
     "date": "2025-09-07"
   },
   {
@@ -250,5 +232,11 @@
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
     "date": "2025-09-09"
+  },
+  {
+    "name": "Turbz",
+    "venue": "TAO Downtown",
+    "location": "New York, NY",
+    "date": "2025-09-10"
   }
 ]
