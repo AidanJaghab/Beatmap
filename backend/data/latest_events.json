@@ -1,65 +1,5 @@
 [
   {
-    "name": "Tape B, Dr. Fresch, Phrva, Destructo, Cozy Kev, Tech B",
-    "venue": "Great Hall at Avant Gardner",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-04"
-  },
-  {
-    "name": "Cherub, SESSY, Flavor Dave",
-    "venue": "Elsewhere Hall",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-04"
-  },
-  {
-    "name": "Tiga, Black Light Smoke, 4AM NYC, Cosmo, Boyyyish",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-04"
-  },
-  {
-    "name": "William Basinski",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-09-04"
-  },
-  {
-    "name": "Where Else Thursdays",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-09-04"
-  },
-  {
-    "name": "Tommie Sunshine, Petal",
-    "venue": "Xanadu Roller Arts",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-04"
-  },
-  {
-    "name": "Fever x Signal Presents: Ohm Hourani, Monk, Armii1n, Choukroun",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-04"
-  },
-  {
-    "name": "EVENING TEA",
-    "venue": "Silence Please",
-    "location": "New York, NY",
-    "date": "2025-09-04"
-  },
-  {
-    "name": "Turbz",
-    "venue": "Loosie's Nightclub",
-    "location": "New York, NY",
-    "date": "2025-09-04"
-  },
-  {
-    "name": "FREE ENTRY",
-    "venue": "Rebecca's",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-04"
-  },
-  {
     "name": "Kruder & Dorfmeister",
     "venue": "Brooklyn Paramount",
     "location": "Brooklyn, NY",
@@ -144,14 +84,14 @@
     "date": "2025-09-06"
   },
   {
-    "name": "Zack Fox, DJ Godfather, EQUISS, Black Noi$e",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
+    "name": "Joy Anonymous",
+    "venue": "Ruins at Knockdown Center",
+    "location": "New York, NY",
     "date": "2025-09-06"
   },
   {
-    "name": "Joy Anonymous",
-    "venue": "Ruins at Knockdown Center",
+    "name": "The Summer Club Presents: Sickick",
+    "venue": "The Summer Club",
     "location": "New York, NY",
     "date": "2025-09-06"
   },
@@ -204,12 +144,6 @@
     "date": "2025-09-07"
   },
   {
-    "name": "Jeeter Launch Party x Cenote Project Open-Air Rooftop Sunset Party: Lohrasp Kansara, Nathan Leong, Santo",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-09-07"
-  },
-  {
     "name": "Honcho, Harry Cross, Aaron Clark, Clark Price, d'Adhemar",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
@@ -219,6 +153,12 @@
     "name": "10am to 10pm",
     "venue": "Plumb Beach",
     "location": "New York, NY",
+    "date": "2025-09-07"
+  },
+  {
+    "name": "Sounday's Listen: Mayte, VNUZ, Lilly Bombas, Rachel Greco",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
     "date": "2025-09-07"
   },
   {
@@ -234,9 +174,75 @@
     "date": "2025-09-09"
   },
   {
+    "name": "Listening Session",
+    "venue": "Silence Please",
+    "location": "New York, NY",
+    "date": "2025-09-09"
+  },
+  {
     "name": "Turbz",
     "venue": "TAO Downtown",
     "location": "New York, NY",
     "date": "2025-09-10"
+  },
+  {
+    "name": "Swedish House Mafia",
+    "venue": "Arthur Ashe Stadium",
+    "location": "New York, NY",
+    "date": "2025-09-11"
+  },
+  {
+    "name": "veggi",
+    "venue": "Elsewhere Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-11"
+  },
+  {
+    "name": "DJ Sliink, Suzi Analogue",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-11"
+  },
+  {
+    "name": "Ciel, WTCHCRFT",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-11"
+  },
+  {
+    "name": "Where Else Thursdays",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-09-11"
+  },
+  {
+    "name": "DJ Shakey, Ursula 1000, Illexxandra",
+    "venue": "Xanadu Roller Arts",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-11"
+  },
+  {
+    "name": "Turbz",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2025-09-11"
+  },
+  {
+    "name": "Alok",
+    "venue": "Edge at Hudson Yards",
+    "location": "New York, NY",
+    "date": "2025-09-11"
+  },
+  {
+    "name": "Dana Ruh",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-11"
+  },
+  {
+    "name": "Pat Lok, Matt FX, okDUNC",
+    "venue": "Jupiter Disco",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-11"
   }
 ]
