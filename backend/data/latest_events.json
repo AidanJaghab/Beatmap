@@ -1,65 +1,5 @@
 [
   {
-    "name": "Kruder & Dorfmeister",
-    "venue": "Brooklyn Paramount",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-05"
-  },
-  {
-    "name": "Above & Beyond, Gabriel & Dresden, Rezident",
-    "venue": "Forest Hills Stadium",
-    "location": "New York, NY",
-    "date": "2025-09-05"
-  },
-  {
-    "name": "\u00a5\u00d8U$UK\u20ac \u00a5UK1MAT$U",
-    "venue": "Great Hall at Avant Gardner",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-05"
-  },
-  {
-    "name": "extENDed New York: East End Dubs",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-05"
-  },
-  {
-    "name": "Caspa, Kursa, Waylo",
-    "venue": "Superior Ingredients (Main Room)",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-05"
-  },
-  {
-    "name": "X Club., Tommy Holohan, Rose Kourts",
-    "venue": "Ruins at Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-09-05"
-  },
-  {
-    "name": "Marquee Skydeck: BUNT.",
-    "venue": "Edge at Hudson Yards",
-    "location": "New York, NY",
-    "date": "2025-09-05"
-  },
-  {
-    "name": "Stephan Bodzin, Hidden Empire",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-09-05"
-  },
-  {
-    "name": "Pearson Sound, Jessy Lanza, DJ Swisha, Ayanna Heaven",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-05"
-  },
-  {
-    "name": "DESIREE (RSA), KARABA, BABA YAKO, Kofi Ama, YES2HVN, Mondai, Malcolm Flex, Tim Fields, Spinrillo",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-05"
-  },
-  {
     "name": "BUNT., Daniel Allan",
     "venue": "Great Hall at Avant Gardner",
     "location": "Brooklyn, NY",
@@ -84,14 +24,14 @@
     "date": "2025-09-06"
   },
   {
-    "name": "Joy Anonymous",
-    "venue": "Ruins at Knockdown Center",
-    "location": "New York, NY",
+    "name": "Zack Fox, DJ Godfather, EQUISS, Black Noi$e",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
     "date": "2025-09-06"
   },
   {
-    "name": "The Summer Club Presents: Sickick",
-    "venue": "The Summer Club",
+    "name": "Joy Anonymous",
+    "venue": "Ruins at Knockdown Center",
     "location": "New York, NY",
     "date": "2025-09-06"
   },
@@ -144,9 +84,9 @@
     "date": "2025-09-07"
   },
   {
-    "name": "Honcho, Harry Cross, Aaron Clark, Clark Price, d'Adhemar",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
+    "name": "Kamiyada+, Lit Lords, Zoobstool",
+    "venue": "Mercury Lounge NYC",
+    "location": "New York, NY",
     "date": "2025-09-07"
   },
   {
@@ -162,6 +102,12 @@
     "date": "2025-09-07"
   },
   {
+    "name": "Listening Session",
+    "venue": "Silence Please",
+    "location": "New York, NY",
+    "date": "2025-09-07"
+  },
+  {
     "name": "Tuesday Baby Tuesday",
     "venue": "Nebula",
     "location": "New York, NY",
@@ -170,12 +116,6 @@
   {
     "name": "Jus-Ske",
     "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2025-09-09"
-  },
-  {
-    "name": "Listening Session",
-    "venue": "Silence Please",
     "location": "New York, NY",
     "date": "2025-09-09"
   },
@@ -222,9 +162,9 @@
     "date": "2025-09-11"
   },
   {
-    "name": "Turbz",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
+    "name": "Lounge Sessions: Anthony Romano, James Patterson, LEFTI",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
     "date": "2025-09-11"
   },
   {
@@ -244,5 +184,59 @@
     "venue": "Jupiter Disco",
     "location": "Brooklyn, NY",
     "date": "2025-09-11"
+  },
+  {
+    "name": "Teksupport: Mau P, Loco Dice, Discip",
+    "venue": "Brooklyn Storehouse",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-12"
+  },
+  {
+    "name": "Two Friends, Ian Asher, Kaleena Zanders",
+    "venue": "Central Park SummerStage",
+    "location": "New York, NY",
+    "date": "2025-09-12"
+  },
+  {
+    "name": "Indo Warehouse",
+    "venue": "Brooklyn Mirage",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-12"
+  },
+  {
+    "name": "Coone, Shogun",
+    "venue": "The Meadows Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-12"
+  },
+  {
+    "name": "Marquee Skydeck: Two Friends",
+    "venue": "Edge at Hudson Yards",
+    "location": "New York, NY",
+    "date": "2025-09-12"
+  },
+  {
+    "name": "Swedish House Mafia",
+    "venue": "Under the K Bridge Park",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-12"
+  },
+  {
+    "name": "Flosstradamus b2b 4B",
+    "venue": "Webster Hall",
+    "location": "New York, NY",
+    "date": "2025-09-12"
+  },
+  {
+    "name": "Big Wild",
+    "venue": "Great Hall at Avant Gardner",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-12"
+  },
+  {
+    "name": "Indo Warehouse: Kahani, Kunal Merchant, Anvaya, Anyasa, Firungi",
+    "venue": "Brooklyn Paramount",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-12"
   }
 ]
