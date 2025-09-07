@@ -1,53 +1,5 @@
 [
   {
-    "name": "BUNT., Daniel Allan",
-    "venue": "Great Hall at Avant Gardner",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-06"
-  },
-  {
-    "name": "Sunset Disco House Music on the Hudson",
-    "venue": "Pier 36 (NYC)",
-    "location": "New York, NY",
-    "date": "2025-09-06"
-  },
-  {
-    "name": "Gray Area Presents: Mahmut Orhan, Peace Control, Mia Moretti, Wemi, Mont Rogue",
-    "venue": "Under the K Bridge Park",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-06"
-  },
-  {
-    "name": "Marquee Skydeck: Gryffin",
-    "venue": "Edge at Hudson Yards",
-    "location": "New York, NY",
-    "date": "2025-09-06"
-  },
-  {
-    "name": "Zack Fox, DJ Godfather, EQUISS, Black Noi$e",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-06"
-  },
-  {
-    "name": "Joy Anonymous",
-    "venue": "Ruins at Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-09-06"
-  },
-  {
-    "name": "Snow Strippers, Lazer Dim 700, EVILGIANE, Eera, Cece Natalie, DJ Rennessy",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-09-06"
-  },
-  {
-    "name": "Mahmut Orhan Afterparty",
-    "venue": "UNVEILED",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-06"
-  },
-  {
     "name": "Gryffin",
     "venue": "Great Hall at Avant Gardner",
     "location": "Brooklyn, NY",
@@ -156,12 +108,6 @@
     "date": "2025-09-11"
   },
   {
-    "name": "DJ Shakey, Ursula 1000, Illexxandra",
-    "venue": "Xanadu Roller Arts",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-11"
-  },
-  {
     "name": "Lounge Sessions: Anthony Romano, James Patterson, LEFTI",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
@@ -238,5 +184,53 @@
     "venue": "Brooklyn Paramount",
     "location": "Brooklyn, NY",
     "date": "2025-09-12"
+  },
+  {
+    "name": "Vulfpeck",
+    "venue": "Madison Square Garden",
+    "location": "New York, NY",
+    "date": "2025-09-13"
+  },
+  {
+    "name": "Open To Close Set",
+    "venue": "Brooklyn Storehouse",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-13"
+  },
+  {
+    "name": "TWO LANES, Robert Koch",
+    "venue": "Brooklyn Steel",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-13"
+  },
+  {
+    "name": "demotapes, Eyezic, Nebita",
+    "venue": "Elsewhere Zone One",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-13"
+  },
+  {
+    "name": "Through My System Tour: it's murph, Starjunk 95, Arlo",
+    "venue": "Great Hall at Avant Gardner",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-13"
+  },
+  {
+    "name": "Brighter Days: Honey Dijon, Cosmo",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-09-13"
+  },
+  {
+    "name": "Marquee Skydeck: Lee Burridge",
+    "venue": "Edge at Hudson Yards",
+    "location": "New York, NY",
+    "date": "2025-09-13"
+  },
+  {
+    "name": "IN FLIGHT: Biscits, Truth x Lies",
+    "venue": "Superior Ingredients",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-13"
   }
 ]
