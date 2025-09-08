@@ -1,65 +1,5 @@
 [
   {
-    "name": "Gryffin",
-    "venue": "Great Hall at Avant Gardner",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-07"
-  },
-  {
-    "name": "Gray Area Presents: Nitefreak, Tiffy Vera, Cisummi, Pizzi, Suaves",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-07"
-  },
-  {
-    "name": "Hot Chip, Mike Simonetti",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2025-09-07"
-  },
-  {
-    "name": "Martin Ikin",
-    "venue": "The Summer Club",
-    "location": "New York, NY",
-    "date": "2025-09-07"
-  },
-  {
-    "name": "Public Sound Sessions: Benji B, Bradley Zero, Gorgon Sound, Dub-Stuy",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-07"
-  },
-  {
-    "name": "berlioz, Lovie, JADALAREIGN",
-    "venue": "Ruins at Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-09-07"
-  },
-  {
-    "name": "Kamiyada+, Lit Lords, Zoobstool",
-    "venue": "Mercury Lounge NYC",
-    "location": "New York, NY",
-    "date": "2025-09-07"
-  },
-  {
-    "name": "10am to 10pm",
-    "venue": "Plumb Beach",
-    "location": "New York, NY",
-    "date": "2025-09-07"
-  },
-  {
-    "name": "Sounday's Listen: Mayte, VNUZ, Lilly Bombas, Rachel Greco",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-07"
-  },
-  {
-    "name": "Listening Session",
-    "venue": "Silence Please",
-    "location": "New York, NY",
-    "date": "2025-09-07"
-  },
-  {
     "name": "Tuesday Baby Tuesday",
     "venue": "Nebula",
     "location": "New York, NY",
@@ -68,6 +8,12 @@
   {
     "name": "Jus-Ske",
     "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2025-09-09"
+  },
+  {
+    "name": "Listening Session",
+    "venue": "Silence Please",
     "location": "New York, NY",
     "date": "2025-09-09"
   },
@@ -108,6 +54,12 @@
     "date": "2025-09-11"
   },
   {
+    "name": "DJ Shakey, Ursula 1000, Illexxandra",
+    "venue": "Xanadu Roller Arts",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-11"
+  },
+  {
     "name": "Lounge Sessions: Anthony Romano, James Patterson, LEFTI",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
@@ -117,12 +69,6 @@
     "name": "Alok",
     "venue": "Edge at Hudson Yards",
     "location": "New York, NY",
-    "date": "2025-09-11"
-  },
-  {
-    "name": "Dana Ruh",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
     "date": "2025-09-11"
   },
   {
@@ -216,12 +162,6 @@
     "date": "2025-09-13"
   },
   {
-    "name": "Brighter Days: Honey Dijon, Cosmo",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-09-13"
-  },
-  {
     "name": "Marquee Skydeck: Lee Burridge",
     "venue": "Edge at Hudson Yards",
     "location": "New York, NY",
@@ -232,5 +172,71 @@
     "venue": "Superior Ingredients",
     "location": "Brooklyn, NY",
     "date": "2025-09-13"
+  },
+  {
+    "name": "Saeed Younan",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-13"
+  },
+  {
+    "name": "Gray Area Presents: Deep Dish, Dubfire, Sharam, Luna Mar, Khen, NURAN",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-14"
+  },
+  {
+    "name": "James Hype",
+    "venue": "The Summer Club",
+    "location": "New York, NY",
+    "date": "2025-09-14"
+  },
+  {
+    "name": "Uncle Waffles",
+    "venue": "Rooftop at Pier 17",
+    "location": "New York, NY",
+    "date": "2025-09-14"
+  },
+  {
+    "name": "Sol at 1 Hotel",
+    "venue": "1 Hotel Brooklyn Bridge",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-14"
+  },
+  {
+    "name": "D.O.R Presents - Fashion Night Outside: Kush Jones, Daniro, BASSBEAR!!, Kai the Black Angel, Jay Envy",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-14"
+  },
+  {
+    "name": "DAFT PUNK NIGHT - a HARDER, BETTER, FASTER, STRONGER Party!",
+    "venue": "Market Hotel",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-14"
+  },
+  {
+    "name": "SMACK Presents: EDICA+",
+    "venue": "Roberta's",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-14"
+  },
+  {
+    "name": "M.E.A.T. Official Afters: Filipe Guerra",
+    "venue": "Club Lambda",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-14"
+  },
+  {
+    "name": "Cenote Project Open-Air Rooftop Sunset Party",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-09-14"
+  },
+  {
+    "name": "Eli Escobar, DJ Lloyd, Andy Pry",
+    "venue": "Ruins at Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-09-14"
   }
 ]
