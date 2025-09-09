@@ -60,15 +60,15 @@
     "date": "2025-09-11"
   },
   {
-    "name": "Lounge Sessions: Anthony Romano, James Patterson, LEFTI",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-11"
-  },
-  {
     "name": "Alok",
     "venue": "Edge at Hudson Yards",
     "location": "New York, NY",
+    "date": "2025-09-11"
+  },
+  {
+    "name": "Dana Ruh",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
     "date": "2025-09-11"
   },
   {
@@ -120,14 +120,14 @@
     "date": "2025-09-12"
   },
   {
-    "name": "Big Wild",
-    "venue": "Great Hall at Avant Gardner",
+    "name": "Indo Warehouse: Kahani, Kunal Merchant, Anvaya, Anyasa, Firungi",
+    "venue": "Brooklyn Paramount",
     "location": "Brooklyn, NY",
     "date": "2025-09-12"
   },
   {
-    "name": "Indo Warehouse: Kahani, Kunal Merchant, Anvaya, Anyasa, Firungi",
-    "venue": "Brooklyn Paramount",
+    "name": "Big Wild, Shallou",
+    "venue": "Brooklyn Bowl",
     "location": "Brooklyn, NY",
     "date": "2025-09-12"
   },
@@ -216,27 +216,27 @@
     "date": "2025-09-14"
   },
   {
-    "name": "SMACK Presents: EDICA+",
-    "venue": "Roberta's",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-14"
-  },
-  {
-    "name": "M.E.A.T. Official Afters: Filipe Guerra",
-    "venue": "Club Lambda",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-14"
-  },
-  {
-    "name": "Cenote Project Open-Air Rooftop Sunset Party",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-09-14"
-  },
-  {
     "name": "Eli Escobar, DJ Lloyd, Andy Pry",
     "venue": "Ruins at Knockdown Center",
     "location": "New York, NY",
+    "date": "2025-09-14"
+  },
+  {
+    "name": "Free RSVP",
+    "venue": "Althea's Rooftop",
+    "location": "New York, NY",
+    "date": "2025-09-14"
+  },
+  {
+    "name": "Ice Thompson",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-14"
+  },
+  {
+    "name": "Sounday's Listen: Caroline Arnich, Tucci, A.S.A, J David",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
     "date": "2025-09-14"
   }
 ]
