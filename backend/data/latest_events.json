@@ -1,18 +1,12 @@
 [
   {
-    "name": "Turbz",
-    "venue": "TAO Downtown",
-    "location": "New York, NY",
-    "date": "2025-09-10"
-  },
-  {
     "name": "Swedish House Mafia",
     "venue": "Arthur Ashe Stadium",
     "location": "New York, NY",
     "date": "2025-09-11"
   },
   {
-    "name": "veggi",
+    "name": "veggi, Vrdnyn, Bustin' Loose",
     "venue": "Elsewhere Rooftop",
     "location": "Brooklyn, NY",
     "date": "2025-09-11"
@@ -156,8 +150,8 @@
     "date": "2025-09-13"
   },
   {
-    "name": "Saeed Younan",
-    "venue": "Listen Brooklyn",
+    "name": "The Factory X Listen: Saeed Younan, Andy Cardona",
+    "venue": "198 Randolph Street",
     "location": "Brooklyn, NY",
     "date": "2025-09-13"
   },
@@ -220,5 +214,11 @@
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-09-14"
+  },
+  {
+    "name": "More Events \u2193",
+    "venue": "TAO Downtown",
+    "location": "New York, NY",
+    "date": "2025-09-17"
   }
 ]
