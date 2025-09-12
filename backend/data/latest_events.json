@@ -1,59 +1,5 @@
 [
   {
-    "name": "Swedish House Mafia",
-    "venue": "Arthur Ashe Stadium",
-    "location": "New York, NY",
-    "date": "2025-09-11"
-  },
-  {
-    "name": "veggi, Vrdnyn, Bustin' Loose",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-11"
-  },
-  {
-    "name": "DJ Sliink, Suzi Analogue",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-11"
-  },
-  {
-    "name": "Ciel, WTCHCRFT",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-11"
-  },
-  {
-    "name": "Where Else Thursdays",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-09-11"
-  },
-  {
-    "name": "Alok",
-    "venue": "Edge at Hudson Yards",
-    "location": "New York, NY",
-    "date": "2025-09-11"
-  },
-  {
-    "name": "Dana Ruh",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-11"
-  },
-  {
-    "name": "Pat Lok, Matt FX, okDUNC",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-11"
-  },
-  {
-    "name": "Palosanto on the Roof: Oktave, Temil",
-    "venue": "The Roof at Arlo Williamsburg",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-11"
-  },
-  {
     "name": "Teksupport: Mau P, Loco Dice, Discip",
     "venue": "Brooklyn Storehouse",
     "location": "Brooklyn, NY",
@@ -63,12 +9,6 @@
     "name": "Two Friends, Ian Asher, Kaleena Zanders",
     "venue": "Central Park SummerStage",
     "location": "New York, NY",
-    "date": "2025-09-12"
-  },
-  {
-    "name": "Indo Warehouse",
-    "venue": "Brooklyn Mirage",
-    "location": "Brooklyn, NY",
     "date": "2025-09-12"
   },
   {
@@ -92,6 +32,12 @@
   {
     "name": "Flosstradamus b2b 4B, TWONSKi",
     "venue": "Webster Hall",
+    "location": "New York, NY",
+    "date": "2025-09-12"
+  },
+  {
+    "name": "Nebula Saturdays Events Sounds: ALEOS, Bassjackers",
+    "venue": "Nebula",
     "location": "New York, NY",
     "date": "2025-09-12"
   },
@@ -144,12 +90,6 @@
     "date": "2025-09-13"
   },
   {
-    "name": "IN FLIGHT: Biscits, Truth x Lies",
-    "venue": "Superior Ingredients",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-13"
-  },
-  {
     "name": "The Factory X Listen: Saeed Younan, Andy Cardona",
     "venue": "198 Randolph Street",
     "location": "Brooklyn, NY",
@@ -168,7 +108,7 @@
     "date": "2025-09-14"
   },
   {
-    "name": "Uncle Waffles",
+    "name": "Uncle Waffles, DJ AK, Chase B",
     "venue": "Rooftop at Pier 17",
     "location": "New York, NY",
     "date": "2025-09-14"
@@ -186,9 +126,9 @@
     "date": "2025-09-14"
   },
   {
-    "name": "M.E.A.T. Official Afters: Filipe Guerra, DJ Jay Garcia",
-    "venue": "Club Lambda",
-    "location": "Brooklyn, NY",
+    "name": "Cenote Project Open-Air Rooftop Sunset Party",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
     "date": "2025-09-14"
   },
   {
@@ -220,5 +160,59 @@
     "venue": "TAO Downtown",
     "location": "New York, NY",
     "date": "2025-09-17"
+  },
+  {
+    "name": "Polo & Pan, Tycho",
+    "venue": "Brooklyn Storehouse",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-18"
+  },
+  {
+    "name": "The Chemical Brothers, Erol Alkan",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-09-18"
+  },
+  {
+    "name": "BAYNK, Swoosh",
+    "venue": "Elsewhere Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-18"
+  },
+  {
+    "name": "Where Else Thursdays",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-09-18"
+  },
+  {
+    "name": "Pariah",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-18"
+  },
+  {
+    "name": "Pariah",
+    "venue": "The Fleur Room",
+    "location": "New York, NY",
+    "date": "2025-09-18"
+  },
+  {
+    "name": "Tchami, AC Slater",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-09-18"
+  },
+  {
+    "name": "Palosanto on the Roof: Oktave, Temil",
+    "venue": "The Roof at Arlo Williamsburg",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-18"
+  },
+  {
+    "name": "Groove Theory X Compass Rose Presents: A lana",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-18"
   }
 ]
