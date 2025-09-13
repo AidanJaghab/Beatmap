@@ -1,65 +1,5 @@
 [
   {
-    "name": "Teksupport: Mau P, Loco Dice, Discip",
-    "venue": "Brooklyn Storehouse",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-12"
-  },
-  {
-    "name": "Two Friends, Ian Asher, Kaleena Zanders",
-    "venue": "Central Park SummerStage",
-    "location": "New York, NY",
-    "date": "2025-09-12"
-  },
-  {
-    "name": "Coone, Shogun",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-12"
-  },
-  {
-    "name": "Marquee Skydeck: Two Friends",
-    "venue": "Edge at Hudson Yards",
-    "location": "New York, NY",
-    "date": "2025-09-12"
-  },
-  {
-    "name": "Swedish House Mafia",
-    "venue": "Under the K Bridge Park",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-12"
-  },
-  {
-    "name": "Flosstradamus b2b 4B, TWONSKi",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2025-09-12"
-  },
-  {
-    "name": "Nebula Saturdays Events Sounds: ALEOS, Bassjackers",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-09-12"
-  },
-  {
-    "name": "Indo Warehouse: Kahani, Kunal Merchant, Anvaya, Anyasa, Firungi",
-    "venue": "Brooklyn Paramount",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-12"
-  },
-  {
-    "name": "Big Wild, Shallou",
-    "venue": "Brooklyn Bowl",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-12"
-  },
-  {
-    "name": "Vulfpeck",
-    "venue": "Madison Square Garden",
-    "location": "New York, NY",
-    "date": "2025-09-13"
-  },
-  {
     "name": "Open To Close Set",
     "venue": "Brooklyn Storehouse",
     "location": "Brooklyn, NY",
@@ -81,6 +21,12 @@
     "name": "Through My System Tour: it's murph, Starjunk 95, Arlo",
     "venue": "Great Hall at Avant Gardner",
     "location": "Brooklyn, NY",
+    "date": "2025-09-13"
+  },
+  {
+    "name": "Brighter Days: Honey Dijon, Cosmo",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
     "date": "2025-09-13"
   },
   {
@@ -108,7 +54,7 @@
     "date": "2025-09-14"
   },
   {
-    "name": "Uncle Waffles, DJ AK, Chase B",
+    "name": "Uncle Waffles, Jae Murphy, DJ AK, Chase B",
     "venue": "Rooftop at Pier 17",
     "location": "New York, NY",
     "date": "2025-09-14"
@@ -117,18 +63,6 @@
     "name": "Sol at 1 Hotel",
     "venue": "1 Hotel Brooklyn Bridge",
     "location": "Brooklyn, NY",
-    "date": "2025-09-14"
-  },
-  {
-    "name": "D.O.R Presents - Fashion Night Outside: Kush Jones, Daniro, BASSBEAR!!, Kai the Black Angel, Jay Envy",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-14"
-  },
-  {
-    "name": "Cenote Project Open-Air Rooftop Sunset Party",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
     "date": "2025-09-14"
   },
   {
@@ -156,10 +90,22 @@
     "date": "2025-09-14"
   },
   {
-    "name": "More Events \u2193",
-    "venue": "TAO Downtown",
+    "name": "Sunday Artists Showcase: Julian Abam, Sam Valle, Jacqalope, KASSITA, Samantha Dasilva, Natyra",
+    "venue": "No Nazar Cafe",
     "location": "New York, NY",
-    "date": "2025-09-17"
+    "date": "2025-09-14"
+  },
+  {
+    "name": "Presented by Forest D\u00f6wn Under: Ambrxse, Fireware",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-09-14"
+  },
+  {
+    "name": "Ecca Vandal, AFK",
+    "venue": "Club 101 NYC",
+    "location": "New York, NY",
+    "date": "2025-09-16"
   },
   {
     "name": "Polo & Pan, Tycho",
@@ -214,5 +160,59 @@
     "venue": "Moondog HiFi",
     "location": "Brooklyn, NY",
     "date": "2025-09-18"
+  },
+  {
+    "name": "Teksupport: The Blessed Madonna, Justin Cudmore",
+    "venue": "Sunset Park Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-19"
+  },
+  {
+    "name": "Desert Hearts Black: Marbs, Justin Marchacos, Medina",
+    "venue": "H0L0",
+    "location": "New York, NY",
+    "date": "2025-09-19"
+  },
+  {
+    "name": "Autograf, HOAX (BE), Samantha Michelle",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-19"
+  },
+  {
+    "name": "Gray Area Presents: Marco Faraone, Adam Meliani",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-19"
+  },
+  {
+    "name": "Jacques Greene, Nosaj Thing, Purelink, QRTR",
+    "venue": "Webster Hall",
+    "location": "New York, NY",
+    "date": "2025-09-19"
+  },
+  {
+    "name": "SG Lewis, Sofia Kourtesis",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-09-19"
+  },
+  {
+    "name": "Poolhaus, Beni Hana",
+    "venue": "Dead Letter No. 9",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-19"
+  },
+  {
+    "name": "me n \u00fc, Charmy",
+    "venue": "Elsewhere Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-19"
+  },
+  {
+    "name": "RSVP!",
+    "venue": "The Crown",
+    "location": "New York, NY",
+    "date": "2025-09-19"
   }
 ]
