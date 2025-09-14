@@ -1,47 +1,5 @@
 [
   {
-    "name": "Open To Close Set",
-    "venue": "Brooklyn Storehouse",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-13"
-  },
-  {
-    "name": "TWO LANES, Robert Koch",
-    "venue": "Brooklyn Steel",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-13"
-  },
-  {
-    "name": "demotapes, Eyezic, Nebita",
-    "venue": "Elsewhere Zone One",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-13"
-  },
-  {
-    "name": "Through My System Tour: it's murph, Starjunk 95, Arlo",
-    "venue": "Great Hall at Avant Gardner",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-13"
-  },
-  {
-    "name": "Brighter Days: Honey Dijon, Cosmo",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-09-13"
-  },
-  {
-    "name": "Marquee Skydeck: Lee Burridge",
-    "venue": "Edge at Hudson Yards",
-    "location": "New York, NY",
-    "date": "2025-09-13"
-  },
-  {
-    "name": "The Factory X Listen: Saeed Younan, Andy Cardona",
-    "venue": "198 Randolph Street",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-13"
-  },
-  {
     "name": "Gray Area Presents: Deep Dish, Dubfire, Sharam, Luna Mar, Khen, NURAN",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
@@ -100,6 +58,12 @@
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
     "date": "2025-09-14"
+  },
+  {
+    "name": "Open Bar 8-9pm (Provenza Sponsored)",
+    "venue": "Althea's Hideaway",
+    "location": "New York, NY",
+    "date": "2025-09-15"
   },
   {
     "name": "Ecca Vandal, AFK",
@@ -210,9 +174,63 @@
     "date": "2025-09-19"
   },
   {
-    "name": "RSVP!",
-    "venue": "The Crown",
-    "location": "New York, NY",
+    "name": "DECODED: Mafia B, BRIMAC b2b DEJA (NY), Gavin Gone, Simul b2b Waaablo",
+    "venue": "Superior Ingredients (Main Room)",
+    "location": "Brooklyn, NY",
     "date": "2025-09-19"
+  },
+  {
+    "name": "Showtek",
+    "venue": "Brooklyn Monarch",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-20"
+  },
+  {
+    "name": "Closing Party: Victor Calderone, Radio Slave, The Fellas",
+    "venue": "Sunset Park Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-20"
+  },
+  {
+    "name": "Awakenings Exo",
+    "venue": "Brooklyn Mirage",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-20"
+  },
+  {
+    "name": "KI/KI",
+    "venue": "Ruins at Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-09-20"
+  },
+  {
+    "name": "Lazare",
+    "venue": "Music For A While",
+    "location": "New York, NY",
+    "date": "2025-09-20"
+  },
+  {
+    "name": "Head In The Clouds: ISOxo, Rich Brian, KUN, Yuki Chiba, Juelz, GroovyRoom, No Na, Gemini, Nick Cheo, DJ Mandy, Hoodini, Adonix",
+    "venue": "Under the K Bridge Park",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-20"
+  },
+  {
+    "name": "Sedef Adas\u00ef, bashkka, Mike Servito, Blawan, D.Dan",
+    "venue": "BASEMENT NY",
+    "location": "New York, NY",
+    "date": "2025-09-20"
+  },
+  {
+    "name": "A Night in Tulum: Robidio, Goldee, Torie NY, Bando NY, Zane, Andrew Westphal, Santiago Orozco, Stereo Monkey, Mike Oddo",
+    "venue": "Superior Ingredients",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-20"
+  },
+  {
+    "name": "Palosanto: Oktave, Temil",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-20"
   }
 ]
