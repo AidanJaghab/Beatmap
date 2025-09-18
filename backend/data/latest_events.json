@@ -1,11 +1,5 @@
 [
   {
-    "name": "Somewhere Nowhere",
-    "venue": "TAO Downtown",
-    "location": "New York, NY",
-    "date": "2025-09-17"
-  },
-  {
     "name": "Polo & Pan, Tycho",
     "venue": "Brooklyn Storehouse",
     "location": "Brooklyn, NY",
@@ -138,15 +132,15 @@
     "date": "2025-09-20"
   },
   {
-    "name": "Lazare",
-    "venue": "Music For A While",
-    "location": "New York, NY",
-    "date": "2025-09-20"
-  },
-  {
     "name": "Head In The Clouds: ISOxo, Rich Brian, KUN, Yuki Chiba, Juelz, GroovyRoom, No Na, Gemini, Nick Cheo, DJ Mandy, Hoodini, Adonix",
     "venue": "Under the K Bridge Park",
     "location": "Brooklyn, NY",
+    "date": "2025-09-20"
+  },
+  {
+    "name": "Cat Dealers",
+    "venue": "Nebula",
+    "location": "New York, NY",
     "date": "2025-09-20"
   },
   {
@@ -186,8 +180,8 @@
     "date": "2025-09-21"
   },
   {
-    "name": "Chaos In The CBD, Frank & Tony",
-    "venue": "The Nursery at Public Records",
+    "name": "Antal",
+    "venue": "Refuge Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-09-21"
   },
@@ -214,5 +208,11 @@
     "venue": "14 Loisaida Avenue a",
     "location": "New York, NY",
     "date": "2025-09-21"
+  },
+  {
+    "name": "Listening Session",
+    "venue": "Silence Please",
+    "location": "New York, NY",
+    "date": "2025-09-24"
   }
 ]
