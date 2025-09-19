@@ -1,59 +1,5 @@
 [
   {
-    "name": "Polo & Pan, Tycho",
-    "venue": "Brooklyn Storehouse",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-18"
-  },
-  {
-    "name": "The Chemical Brothers, Erol Alkan",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-09-18"
-  },
-  {
-    "name": "BAYNK, Swoosh",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-18"
-  },
-  {
-    "name": "Tchami, AC Slater",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-09-18"
-  },
-  {
-    "name": "Where Else Thursdays",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-09-18"
-  },
-  {
-    "name": "Pariah",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-18"
-  },
-  {
-    "name": "Pariah",
-    "venue": "The Fleur Room",
-    "location": "New York, NY",
-    "date": "2025-09-18"
-  },
-  {
-    "name": "Palosanto on the Roof: Oktave, Temil",
-    "venue": "The Roof at Arlo Williamsburg",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-18"
-  },
-  {
-    "name": "Groove Theory X Compass Rose Presents: A lana",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-18"
-  },
-  {
     "name": "Teksupport: The Blessed Madonna, Justin Cudmore",
     "venue": "Sunset Park Rooftop",
     "location": "Brooklyn, NY",
@@ -78,20 +24,26 @@
     "date": "2025-09-19"
   },
   {
-    "name": "Jacques Greene, Nosaj Thing, Purelink, QRTR",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2025-09-19"
-  },
-  {
     "name": "SG Lewis, Sofia Kourtesis",
     "venue": "Knockdown Center",
     "location": "New York, NY",
     "date": "2025-09-19"
   },
   {
-    "name": "Poolhaus, Beni Hana",
-    "venue": "Dead Letter No. 9",
+    "name": "Experts Only Pre-Party: Layton Giordani, Kamino",
+    "venue": "Edge at Hudson Yards",
+    "location": "New York, NY",
+    "date": "2025-09-19"
+  },
+  {
+    "name": "Polo & Pan, Tycho",
+    "venue": "Brooklyn Storehouse",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-19"
+  },
+  {
+    "name": "Marten Lou",
+    "venue": "53 Scott Ave",
     "location": "Brooklyn, NY",
     "date": "2025-09-19"
   },
@@ -138,9 +90,9 @@
     "date": "2025-09-20"
   },
   {
-    "name": "Cat Dealers",
-    "venue": "Nebula",
-    "location": "New York, NY",
+    "name": "Amoura Presents: Nico De Andrea, Kassin, Andre Waoun, Spijker, Rachel Winters",
+    "venue": "96 Wythe Ave",
+    "location": "Brooklyn, NY",
     "date": "2025-09-20"
   },
   {
@@ -180,8 +132,8 @@
     "date": "2025-09-21"
   },
   {
-    "name": "Antal",
-    "venue": "Refuge Brooklyn",
+    "name": "Chaos In The CBD, Frank & Tony",
+    "venue": "The Nursery at Public Records",
     "location": "Brooklyn, NY",
     "date": "2025-09-21"
   },
@@ -198,21 +150,93 @@
     "date": "2025-09-21"
   },
   {
-    "name": "Sounday's Listen: Maria Sifontes Bday, Franklin Santana, JIRET_NYC",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-21"
-  },
-  {
     "name": "DJ Peppo",
     "venue": "14 Loisaida Avenue a",
     "location": "New York, NY",
     "date": "2025-09-21"
   },
   {
+    "name": "The Factory Monday Morning Party",
+    "venue": "20 Meadow Street",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-21"
+  },
+  {
+    "name": "SG Lewis",
+    "venue": "W New York",
+    "location": "New York, NY",
+    "date": "2025-09-23"
+  },
+  {
     "name": "Listening Session",
     "venue": "Silence Please",
     "location": "New York, NY",
     "date": "2025-09-24"
+  },
+  {
+    "name": "Free Entry",
+    "venue": "128 Rivington Street",
+    "location": "New York, NY",
+    "date": "2025-09-24"
+  },
+  {
+    "name": "Tasha Blank",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-25"
+  },
+  {
+    "name": "Moon Boots, James Juke, Sunny Cheeba, Lee Cash",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-25"
+  },
+  {
+    "name": "Marquee Grand Opening: Diplo",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-09-25"
+  },
+  {
+    "name": "Free Event | DM to play!",
+    "venue": "Bonnie Vee",
+    "location": "New York, NY",
+    "date": "2025-09-25"
+  },
+  {
+    "name": "Billy Woods, Gabe 'Nandez, Bruiser Wolf, ELUCID, DJ Haram, Cleo Reed",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-09-25"
+  },
+  {
+    "name": "Euphoricstacy Presents",
+    "venue": "Public Arts",
+    "location": "New York, NY",
+    "date": "2025-09-25"
+  },
+  {
+    "name": "City Soul Bus: DJ EH, Hushh, E-Mood, Remniqe, DJ Nope",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-25"
+  },
+  {
+    "name": "QSTV Presents The Zone Remix Edition",
+    "venue": "Dead Letter No. 9",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-25"
+  },
+  {
+    "name": "DJ Lo Down Loretta Brown aka Erykah Badu",
+    "venue": "Superior Ingredients",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-25"
+  },
+  {
+    "name": "free entry",
+    "venue": "260 W 35th Street",
+    "location": "New York, NY",
+    "date": "2025-09-25"
   }
 ]
