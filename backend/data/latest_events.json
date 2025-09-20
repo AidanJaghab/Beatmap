@@ -1,65 +1,5 @@
 [
   {
-    "name": "Teksupport: The Blessed Madonna, Justin Cudmore",
-    "venue": "Sunset Park Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-19"
-  },
-  {
-    "name": "Desert Hearts Black: Marbs, Justin Marchacos, Medina",
-    "venue": "H0L0",
-    "location": "New York, NY",
-    "date": "2025-09-19"
-  },
-  {
-    "name": "Autograf, HOAX (BE), Samantha Michelle",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-19"
-  },
-  {
-    "name": "Gray Area Presents: Marco Faraone, Adam Meliani",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-19"
-  },
-  {
-    "name": "SG Lewis, Sofia Kourtesis",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-09-19"
-  },
-  {
-    "name": "Experts Only Pre-Party: Layton Giordani, Kamino",
-    "venue": "Edge at Hudson Yards",
-    "location": "New York, NY",
-    "date": "2025-09-19"
-  },
-  {
-    "name": "Polo & Pan, Tycho",
-    "venue": "Brooklyn Storehouse",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-19"
-  },
-  {
-    "name": "Marten Lou",
-    "venue": "53 Scott Ave",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-19"
-  },
-  {
-    "name": "me n \u00fc, Charmy",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-19"
-  },
-  {
-    "name": "Open to Close",
-    "venue": "1 Hotel Brooklyn Bridge",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-19"
-  },
-  {
     "name": "Showtek",
     "venue": "Brooklyn Monarch",
     "location": "Brooklyn, NY",
@@ -87,6 +27,12 @@
     "name": "Head In The Clouds: ISOxo, Rich Brian, KUN, Yuki Chiba, Juelz, GroovyRoom, No Na, Gemini, Nick Cheo, DJ Mandy, Hoodini, Adonix",
     "venue": "Under the K Bridge Park",
     "location": "Brooklyn, NY",
+    "date": "2025-09-20"
+  },
+  {
+    "name": "SG Lewis, Sofia Kourtesis",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
     "date": "2025-09-20"
   },
   {
@@ -198,6 +144,18 @@
     "date": "2025-09-25"
   },
   {
+    "name": "Planet Yes: James Patterson",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-25"
+  },
+  {
+    "name": "She Past Away, Forever Grey, Andi (BK)",
+    "venue": "Xanadu Roller Arts",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-25"
+  },
+  {
     "name": "Free Event | DM to play!",
     "venue": "Bonnie Vee",
     "location": "New York, NY",
@@ -207,18 +165,6 @@
     "name": "Billy Woods, Gabe 'Nandez, Bruiser Wolf, ELUCID, DJ Haram, Cleo Reed",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-09-25"
-  },
-  {
-    "name": "Euphoricstacy Presents",
-    "venue": "Public Arts",
-    "location": "New York, NY",
-    "date": "2025-09-25"
-  },
-  {
-    "name": "City Soul Bus: DJ EH, Hushh, E-Mood, Remniqe, DJ Nope",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
     "date": "2025-09-25"
   },
   {
@@ -238,5 +184,65 @@
     "venue": "260 W 35th Street",
     "location": "New York, NY",
     "date": "2025-09-25"
+  },
+  {
+    "name": "Steve Aoki",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-09-26"
+  },
+  {
+    "name": "Holy Priest, hhunter, D\u00d8MINA, elMefti",
+    "venue": "Great Hall at Avant Gardner",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-26"
+  },
+  {
+    "name": "Gray Area Presents: Low Steppa, SYREETA, Collin Oliver",
+    "venue": "Superior Ingredients (Main Room)",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-26"
+  },
+  {
+    "name": "Aaron Hibell",
+    "venue": "Bowery Ballroom",
+    "location": "New York, NY",
+    "date": "2025-09-26"
+  },
+  {
+    "name": "beastboi., YUNIT.",
+    "venue": "The Woodshop Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-26"
+  },
+  {
+    "name": "Teksupport: Ahmed Spins, Mehdi, Samm (BE)",
+    "venue": "99 Scott Ave",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-26"
+  },
+  {
+    "name": "Bonobo, Maribou State, Dee Diggs",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-09-26"
+  },
+  {
+    "name": "ILLENIUM, Paperwater",
+    "venue": "Rooftop at Pier 17",
+    "location": "New York, NY",
+    "date": "2025-09-26"
+  },
+  {
+    "name": "Hardwell, Laidback Luke, Domeno",
+    "venue": "Terminal 5",
+    "location": "New York, NY",
+    "date": "2025-09-26"
+  },
+  {
+    "name": "Oliver Heldens (HI-LO Set), Le Youth, KAS:ST",
+    "venue": "Brooklyn Storehouse",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-26"
   }
 ]
