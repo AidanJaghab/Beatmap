@@ -1,65 +1,5 @@
 [
   {
-    "name": "Gray Area Presents Tech Afrique: Eli Fola, William Djoko, Floyd Lavine, Niara Sterling",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-21"
-  },
-  {
-    "name": "Experts Only Festival",
-    "venue": "Randall's Island",
-    "location": "New York, NY",
-    "date": "2025-09-21"
-  },
-  {
-    "name": "Lincoln Jesser",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-21"
-  },
-  {
-    "name": "Mark Knight, Oscar G",
-    "venue": "3 Dollar Bill",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-21"
-  },
-  {
-    "name": "Sol at 1 Hotel",
-    "venue": "1 Hotel Brooklyn Bridge",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-21"
-  },
-  {
-    "name": "Chaos In The CBD, Frank & Tony",
-    "venue": "The Nursery at Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-21"
-  },
-  {
-    "name": "Experts Only Fest Afters: DJ Seinfeld",
-    "venue": "Refuge Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-21"
-  },
-  {
-    "name": "Experts Only Fest Afters: Kasablanca",
-    "venue": "53 Scott Ave",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-21"
-  },
-  {
-    "name": "DJ Peppo",
-    "venue": "14 Loisaida Avenue a",
-    "location": "New York, NY",
-    "date": "2025-09-21"
-  },
-  {
-    "name": "The Factory Monday Morning Party",
-    "venue": "20 Meadow Street",
-    "location": "Brooklyn, NY",
-    "date": "2025-09-21"
-  },
-  {
     "name": "SG Lewis",
     "venue": "W New York",
     "location": "New York, NY",
@@ -244,5 +184,53 @@
     "venue": "Classic Car Club Manhattan",
     "location": "New York, NY",
     "date": "2025-09-27"
+  },
+  {
+    "name": "Gray Area Presents: Hozho",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-28"
+  },
+  {
+    "name": "Yaima, James Bird",
+    "venue": "Gramercy Theatre",
+    "location": "New York, NY",
+    "date": "2025-09-28"
+  },
+  {
+    "name": "Gray Area Presents: Shimza, Miluhska, DJ Tomer, Henry Mora",
+    "venue": "Under the K Bridge Park",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-28"
+  },
+  {
+    "name": "Gray Area Presents: Brunello, Dave DK, Ruthie Bandit",
+    "venue": "H0L0",
+    "location": "New York, NY",
+    "date": "2025-09-28"
+  },
+  {
+    "name": "Sol at 1 Hotel",
+    "venue": "1 Hotel Brooklyn Bridge",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-28"
+  },
+  {
+    "name": "Mid Autumn Moon Festival: Bingo Players, Slushii, Henry Fong, Kromi, SAVI",
+    "venue": "Rooftop at Pier 17",
+    "location": "New York, NY",
+    "date": "2025-09-28"
+  },
+  {
+    "name": "SGX, Psymon GT, Dharma, Bonilla",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-09-28"
+  },
+  {
+    "name": "Presented by Forest D\u00f6wn Under: Lohrasp Kansara",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-09-28"
   }
 ]
