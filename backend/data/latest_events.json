@@ -42,14 +42,14 @@
     "date": "2025-09-25"
   },
   {
-    "name": "She Past Away, Forever Grey, Andi (BK)",
-    "venue": "Xanadu Roller Arts",
-    "location": "Brooklyn, NY",
+    "name": "Turbz",
+    "venue": "TAO Downtown",
+    "location": "New York, NY",
     "date": "2025-09-25"
   },
   {
-    "name": "Turbz",
-    "venue": "TAO Downtown",
+    "name": "Free Event | DM to play!",
+    "venue": "Bonnie Vee",
     "location": "New York, NY",
     "date": "2025-09-25"
   },
@@ -60,8 +60,8 @@
     "date": "2025-09-25"
   },
   {
-    "name": "QSTV Presents The Zone Remix Edition",
-    "venue": "Dead Letter No. 9",
+    "name": "Palosanto on the Roof: Oktave, Temil",
+    "venue": "The Roof at Arlo Williamsburg",
     "location": "Brooklyn, NY",
     "date": "2025-09-25"
   },
@@ -232,5 +232,11 @@
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
     "date": "2025-09-28"
+  },
+  {
+    "name": "Tom Peters",
+    "venue": "Silence Please",
+    "location": "New York, NY",
+    "date": "2025-09-29"
   }
 ]
