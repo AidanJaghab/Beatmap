@@ -60,7 +60,7 @@
     "date": "2025-10-03"
   },
   {
-    "name": "Hamdi, Mala, Champion, Cesco",
+    "name": "Hamdi, Mala, Champion, Cesco, Shek",
     "venue": "Knockdown Center",
     "location": "New York, NY",
     "date": "2025-10-03"
@@ -108,7 +108,7 @@
     "date": "2025-10-04"
   },
   {
-    "name": "Young Franco",
+    "name": "Young Franco, James Juke, SANA",
     "venue": "Elsewhere Rooftop",
     "location": "Brooklyn, NY",
     "date": "2025-10-04"
@@ -210,166 +210,178 @@
     "date": "2025-10-05"
   },
   {
+    "name": "Sounday's Listen: Cristian Arango, Mark Dumitrescu, VNUZ, Nico S\u00f8ruco",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-05"
+  },
+  {
+    "name": "The Living Tombstone, Tokyo Machine, Qbomb",
+    "venue": "Webster Hall",
+    "location": "New York, NY",
+    "date": "2025-10-07"
+  },
+  {
     "name": "Alan Walker",
     "venue": "Marquee",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Sam Paganini",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "horsegiirL, Somewhere Special, Ali RQ",
     "venue": "Great Hall at Avant Gardner",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "YDG, OG Nixin, SuperAve.",
     "venue": "Webster Hall",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Torren Foot, Airwolf Paradise, Dreya V, Rana Iravani, Gradient, TCTS",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Akumandra, Sainte Vie, Fahlberg, Tim Engelhardt",
     "venue": "Ruins at Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "We Belong Here - Central Park: Lane 8, Porter Robinson, Nora En Pure, NEIL FRANCES, Wax Motif, Klingande, Sultan + Shepard, VNSSA, Nicky Elisabeth, ALEOS",
     "venue": "Wollman Rink at Central Park",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "BLOOD RAVE: Pictureplane, Kilbourne, Princess Peggie, Ohaileigh, NOWHERE2RUN",
     "venue": "TV Eye (The Ballroom)",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Teksupport: Pawsa",
     "venue": "Brooklyn Storehouse",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Alex Wann b2b Notre Dame",
     "venue": "99 Scott Ave",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "GoGo Penguin",
     "venue": "Le Poisson Rouge Gallery",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Agape X Domicile Present: 6EJOU, Gioh Cecato, Andr\u00e9s Garcil, Vyper, Naomi Luna",
     "venue": "The Chocolate Factory Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Chase & Status, G Jones, Shy FX, Taiki Nulight, Mary Droppinz",
     "venue": "Under the K Bridge Park",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Reb\u016bke, Stello, Kenzii Scott",
     "venue": "Superior Ingredients (Main Room)",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "We Belong Here - Central Park: Porter Robinson, Wax Motif, VNSSA, ALEOS",
     "venue": "Wollman Rink at Central Park",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "RZRKT, Aalioura",
     "venue": "The Meadows Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Shouse",
     "venue": "Elsewhere Rooftop",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Snakehips",
     "venue": "Westlight",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "horsegiirL",
     "venue": "Car Park",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Gray Area Presents: Tom & Collins",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "We Belong Here - Central Park: Nora En Pure, NEIL FRANCES, Klingande",
     "venue": "Wollman Rink at Central Park",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Bon Entenduer",
     "venue": "99 Scott Courtyard",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Presented by Forest D\u00f6wn Under: Moska",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Carl Craig, DJ Minx",
     "venue": "The Nursery at Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "ConTEAnental",
     "venue": "Body By Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "ANATTA, Chesster, James Wyler",
     "venue": "Superior Ingredients (Main Room)",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Meduza",
     "venue": "Edge at Hudson Yards",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Izzy Camina, More Eaze, Porches",
@@ -381,181 +393,181 @@
     "name": "Mirage 3 Day Takeover: Ti\u00ebsto",
     "venue": "Brooklyn Mirage",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Brownies & Lemonade: pluko",
     "venue": "Elsewhere Zone One",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "DJ Tennis, Meilgaarden, Timo Lee, Val Fleury",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Planet Yes - Gasolina: DJ Ultra Violet",
     "venue": "House of Yes",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Turbz",
     "venue": "Loosie's Nightclub",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Lilly Palmer, T78",
     "venue": "99 Scott Ave",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Jus-Ske",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "K\u00f6lsch",
     "venue": "Marquee",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "NOW HERE: Paco Osuna",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "GUNNAR",
     "venue": "Mercury Lounge NYC",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "The Audiosphere Tour: Mersiv, DENNETT",
     "venue": "Industry City",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
-    "name": "Heat House: Liva K",
-    "venue": "SILO Brooklyn",
+    "name": "BASS FREAKS",
+    "venue": "Superior Ingredients",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "SubDocta",
     "venue": "Superior Ingredients (Main Room)",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Presented by Forest D\u00f6wn Under",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Superior Ingredients Sunny Side Up Day Party: Jake Shore",
     "venue": "Superior Ingredients",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Will Sparks",
     "venue": "Nebula",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Chris Lorenzo",
     "venue": "Marquee",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "jigitz, Killen.",
     "venue": "Webster Hall",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Disclosure, Oppidan, Rose Kourts",
     "venue": "Forest Hills Stadium",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Maceo Plex, Sharif Laffrey",
     "venue": "Ruins at Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Linska, Soraya, Malcolm Zeller",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Gray Area Presents: Crusy, Cassimm, Tony Romera",
     "venue": "Superior Ingredients (Main Room)",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Disclosure",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Jayda G",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Gray Area Presents BLUE: Pretty Pink, Rodriguez Jr., Eric Yaz, Robyn Balliet",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Disclosure, JADALAREIGN, James Juke",
     "venue": "Ruins at Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "bullet tooth",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Alves, Italuv, Cicibi, Phantom",
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Togeki, Trowl, Melko b2b Blight",
     "venue": "The Meadows Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Presented by Forest D\u00f6wn Under: Oscar G",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Dimitri Vegas (of Dimitri Vegas & Like Mike)",
@@ -591,193 +603,211 @@
     "name": "Peggy Gou, Young Marco, Elkka, Alinka",
     "venue": "Brooklyn Mirage",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Midnight Tyrannosaurus",
     "venue": "The Meadows Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Sam Gellaitry",
     "venue": "Brooklyn Steel",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Maddy O'Neal, Vincent Antone, Phyphr",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Lost Frequencies",
     "venue": "Brooklyn Storehouse",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Yves Tumor",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "We Are Eclipse - 3rd Anniversary",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "City of Gods Halloween",
     "venue": "Industry City Music & Arts",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
+  },
+  {
+    "name": "We Are Eclipse 3rd Anniversary Party",
+    "venue": "Superior Ingredients",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-01"
   },
   {
     "name": "Francis Mercier",
     "venue": "Marquee",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Autechre, BeardMan",
     "venue": "Brooklyn Steel",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Dual Damage",
     "venue": "The Meadows Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "KAAZE",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Dieselboy, DrivenAM (Agent 137 & David Shichman), Dave Shichman",
     "venue": "Sultan Room Rooftop",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Horse Meat Disco",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-09-30"
-  },
-  {
-    "name": "Turbz",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Superior Ingredients Easy Tiger Presents",
     "venue": "Easy Tiger",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
+  },
+  {
+    "name": "Lost in Tempo brings you a night of spooky house, dubstep, & dnb.",
+    "venue": "Eris",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-01"
   },
   {
     "name": "Diva Diva, Nita Aviance, Ron Like Hell, Maenad, West Dakota",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Sunday Skate Club ft: Mike Servito",
     "venue": "Xanadu Roller Arts",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Robert Glasper, Taylor McFerrin",
     "venue": "Blue Note Jazz Club",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
+  },
+  {
+    "name": "FREAK ON, Rello, Madison Park, Jaesyun",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-01"
   },
   {
     "name": "Jus-Ske",
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Rexx Life Raj, Kaelin Ellis, Iman Europe",
     "venue": "Racket New York",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Kaskade",
     "venue": "Marquee",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Purity Ring, YUNIVERSE",
     "venue": "Brooklyn Steel",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Machine Girl",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Chop Em Up Halloween Party: BARELY ALIVE, Leada, Krystal Klarity",
     "venue": "Superior Ingredients (Main Room)",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Rave Jesus",
     "venue": "Gramercy Theatre",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Free | DM to play",
     "venue": "Bonnie Vee",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "The Villain's Ball | Halloween Weekend",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Planet Yes: Dirtyfinger",
     "venue": "House of Yes",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "GOTH SK8 NIGHT: Sissies of Mercy, Greg Fox, Qasim Naqvi, Johanna Constantine, Military Scientist",
     "venue": "Xanadu Roller Arts",
     "location": "Brooklyn, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Jus-Ske",
     "venue": "Loosie's Nightclub",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
   },
   {
     "name": "Turbz",
     "venue": "TAO Downtown",
     "location": "New York, NY",
-    "date": "2025-09-30"
+    "date": "2025-10-01"
+  },
+  {
+    "name": "Max Styler",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-10-03"
   },
   {
     "name": "Cityfox Halloween: CamelPhat",
@@ -819,12 +849,6 @@
     "name": "GENESI",
     "venue": "53 Scott Ave",
     "location": "Brooklyn, NY",
-    "date": "2025-10-03"
-  },
-  {
-    "name": "Max Styler",
-    "venue": "Marquee",
-    "location": "New York, NY",
     "date": "2025-10-03"
   }
 ]
