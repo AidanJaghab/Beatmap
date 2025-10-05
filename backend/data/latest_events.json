@@ -1,59 +1,5 @@
 [
   {
-    "name": "Fisher",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-10-04"
-  },
-  {
-    "name": "Amelie Lens",
-    "venue": "Brooklyn Mirage",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-04"
-  },
-  {
-    "name": "Da Tweekaz",
-    "venue": "Brooklyn Monarch",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-04"
-  },
-  {
-    "name": "TWINSICK, MOONLGHT, Beau Cruz, Gianni Glo",
-    "venue": "Terminal 5",
-    "location": "New York, NY",
-    "date": "2025-10-04"
-  },
-  {
-    "name": "Book Club Radio Festival #1 - The Circus: Aluna (of AlunaGeorge), Arianna Danae, Baby Weight, Baltra, Boogietraxx, BRUX, Dantiez, djladyd, Felix Da Housecat, Georgi, Griffin Maxwell Brooks, Haruka, Jojo Lorenzo, Junior Sanchez, Kim Anh, Lauren Flax, Lovie, Marshall Jefferson, Myyuh, Nicky Siano LIVE, Perel, Rimarkable, Shaun Ross, Swami Sound, Tedd Patterson, Todd Edwards, Tinzo, Varist, X & Ivy (Party Shirt)",
-    "venue": "Industry City",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-04"
-  },
-  {
-    "name": "Innervisions New York: \u00c2me, Curses, Dixon, Jimi Jules, Julya Karma, Sama' Abdulhadi, Trikk",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-10-04"
-  },
-  {
-    "name": "Effin",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-04"
-  },
-  {
-    "name": "Trivecta, HGods, Marty P, Leada",
-    "venue": "Le Poisson Rouge",
-    "location": "New York, NY",
-    "date": "2025-10-04"
-  },
-  {
-    "name": "Ben Nicky, Adam Scott, Hoodini",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-10-04"
-  },
-  {
     "name": "Sango, Amin\u00e9",
     "venue": "Rumsey Playfield at Central Park",
     "location": "New York, NY",
@@ -81,6 +27,12 @@
     "name": "Book Club Radio Music Festival: Tinzo, Todd Edwards, Jojo Lorenzo, Marshall Jefferson, DJ Lady D, Nicky Siano, Baltra, Lauren Flax, Kim Anh, Tedd Patterson, Varist, X & Ivy (Party Shirt), Haruka, Myyuh, Perel, BRUX, Boogietraxx",
     "venue": "Greenpoint Waterfront",
     "location": "Brooklyn, NY",
+    "date": "2025-10-05"
+  },
+  {
+    "name": "Presented by Forest D\u00f6wn Under: Stoon, Clave, Lasarte",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
     "date": "2025-10-05"
   },
   {
@@ -234,12 +186,6 @@
     "date": "2025-10-10"
   },
   {
-    "name": "YDG, OG Nixin, SuperAve.",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2025-10-10"
-  },
-  {
     "name": "Torren Foot, Airwolf Paradise, Dreya V, Rana Iravani, Gradient, TCTS",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
@@ -252,7 +198,7 @@
     "date": "2025-10-10"
   },
   {
-    "name": "We Belong Here - Central Park: Lane 8, Porter Robinson, Nora En Pure, NEIL FRANCES, Wax Motif, Klingande, Sultan + Shepard, VNSSA, Nicky Elisabeth, ALEOS",
+    "name": "We Belong Here - Central Park: Lane 8, Porter Robinson, Nora En Pure, NEIL FRANCES, Wax Motif, Klingande, Sultan + Shepard, VNSSA, Nicky Elisabeth, ALEOS, AX.EL, Sasha Atlas",
     "venue": "Wollman Rink at Central Park",
     "location": "New York, NY",
     "date": "2025-10-10"
@@ -274,5 +220,59 @@
     "venue": "99 Scott Ave",
     "location": "Brooklyn, NY",
     "date": "2025-10-10"
+  },
+  {
+    "name": "Agape X Domicile Present: 6EJOU, Gioh Cecato, Andr\u00e9s Garcil, Vyper, Naomi Luna",
+    "venue": "The Chocolate Factory Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-11"
+  },
+  {
+    "name": "Chase & Status, G Jones, Flowdan, Shy FX, Taiki Nulight, Mary Droppinz",
+    "venue": "Under the K Bridge Park",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-11"
+  },
+  {
+    "name": "Reb\u016bke, Stello, Kenzii Scott",
+    "venue": "Superior Ingredients (Main Room)",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-11"
+  },
+  {
+    "name": "We Belong Here - Central Park: Porter Robinson, Wax Motif, VNSSA, ALEOS",
+    "venue": "Wollman Rink at Central Park",
+    "location": "New York, NY",
+    "date": "2025-10-11"
+  },
+  {
+    "name": "RZRKT, Aalioura",
+    "venue": "The Meadows Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-11"
+  },
+  {
+    "name": "Shouse",
+    "venue": "Elsewhere Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-11"
+  },
+  {
+    "name": "Snakehips",
+    "venue": "Westlight",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-11"
+  },
+  {
+    "name": "horsegiirL",
+    "venue": "Car Park",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-11"
+  },
+  {
+    "name": "Joezi",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-10-11"
   }
 ]
