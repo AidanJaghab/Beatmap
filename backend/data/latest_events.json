@@ -1,71 +1,5 @@
 [
   {
-    "name": "Sango, Amin\u00e9",
-    "venue": "Rumsey Playfield at Central Park",
-    "location": "New York, NY",
-    "date": "2025-10-05"
-  },
-  {
-    "name": "Stardust NY Debut: Saraga, Omar S, Valencia, Denny Spektor",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-05"
-  },
-  {
-    "name": "Book Club Radio Music Festival: Tinzo, Todd Edwards, Jojo Lorenzo, Marshall Jefferson, DJ Lady D, Nicky Siano, Baltra, Lauren Flax, Kim Anh, Tedd Patterson, Varist, X & Ivy (Party Shirt), Haruka, Myyuh, Perel, BRUX, Boogietraxx",
-    "venue": "Industry City",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-05"
-  },
-  {
-    "name": "Book Club Radio Music Festival: Tinzo, Todd Edwards, Jojo Lorenzo, Marshall Jefferson, DJ Lady D, Nicky Siano, Baltra, Lauren Flax, Kim Anh, Tedd Patterson, Varist, X & Ivy (Party Shirt), Haruka, Myyuh, Perel, BRUX, Boogietraxx",
-    "venue": "We Belong Here",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-05"
-  },
-  {
-    "name": "Book Club Radio Music Festival: Tinzo, Todd Edwards, Jojo Lorenzo, Marshall Jefferson, DJ Lady D, Nicky Siano, Baltra, Lauren Flax, Kim Anh, Tedd Patterson, Varist, X & Ivy (Party Shirt), Haruka, Myyuh, Perel, BRUX, Boogietraxx",
-    "venue": "Greenpoint Waterfront",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-05"
-  },
-  {
-    "name": "Presented by Forest D\u00f6wn Under: Stoon, Clave, Lasarte",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-10-05"
-  },
-  {
-    "name": "Azure Day Party October 5th Season Finale: Ookay, Marty P",
-    "venue": "Arlo Williamsburg",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-05"
-  },
-  {
-    "name": "Eli Escobar, DJ Lloyd, Andy Pry",
-    "venue": "Ruins at Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-10-05"
-  },
-  {
-    "name": "Sounday's Listen: Cristian Arango, Mark Dumitrescu, VNUZ, Nico S\u00f8ruco",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-05"
-  },
-  {
-    "name": "The Groove Lab Sunday Morning: Gustavo Dominguez, JIRET_NYC",
-    "venue": "290 Meserole St",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-05"
-  },
-  {
-    "name": "Factory Sunday Night Party: KUFF",
-    "venue": "315 Meserole St",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-05"
-  },
-  {
     "name": "Open Decks Night",
     "venue": "Sleepwalk",
     "location": "Brooklyn, NY",
@@ -258,6 +192,12 @@
     "date": "2025-10-11"
   },
   {
+    "name": "Joezi",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-10-11"
+  },
+  {
     "name": "Snakehips",
     "venue": "Westlight",
     "location": "Brooklyn, NY",
@@ -270,9 +210,57 @@
     "date": "2025-10-11"
   },
   {
-    "name": "Joezi",
-    "venue": "Marquee",
+    "name": "Gray Area Presents: Tom & Collins",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-12"
+  },
+  {
+    "name": "Bon Entenduer",
+    "venue": "99 Scott Courtyard",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-12"
+  },
+  {
+    "name": "Meduza",
+    "venue": "Edge at Hudson Yards",
     "location": "New York, NY",
-    "date": "2025-10-11"
+    "date": "2025-10-12"
+  },
+  {
+    "name": "Presented by Forest D\u00f6wn Under: Moska",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-10-12"
+  },
+  {
+    "name": "Carl Craig, DJ Minx",
+    "venue": "The Nursery at Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-12"
+  },
+  {
+    "name": "ConTEAnental",
+    "venue": "Body By Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-12"
+  },
+  {
+    "name": "ANATTA, Chesster, James Wyler",
+    "venue": "Superior Ingredients (Main Room)",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-12"
+  },
+  {
+    "name": "Raw Area // Sunday Services",
+    "venue": "20 Meadow Street",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-12"
+  },
+  {
+    "name": "Sunday Skate Club: Saucy Lady, Disgonuts",
+    "venue": "Xanadu Roller Arts",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-12"
   }
 ]
