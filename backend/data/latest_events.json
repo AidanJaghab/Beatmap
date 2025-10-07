@@ -1,9 +1,9 @@
 [
   {
-    "name": "Open Decks Night",
-    "venue": "Sleepwalk",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-06"
+    "name": "Recently Added",
+    "venue": "1 Hotel Brooklyn Bridge",
+    "location": "New York, NY",
+    "date": "2025-10-10"
   },
   {
     "name": "The Living Tombstone, Tokyo Machine, Qbomb",
@@ -192,12 +192,6 @@
     "date": "2025-10-11"
   },
   {
-    "name": "Joezi",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-10-11"
-  },
-  {
     "name": "Snakehips",
     "venue": "Westlight",
     "location": "Brooklyn, NY",
@@ -207,6 +201,12 @@
     "name": "horsegiirL",
     "venue": "Car Park",
     "location": "Brooklyn, NY",
+    "date": "2025-10-11"
+  },
+  {
+    "name": "Joezi",
+    "venue": "Marquee",
+    "location": "New York, NY",
     "date": "2025-10-11"
   },
   {
@@ -262,5 +262,11 @@
     "venue": "Xanadu Roller Arts",
     "location": "Brooklyn, NY",
     "date": "2025-10-12"
+  },
+  {
+    "name": "Indigenous Peoples Day Beyond Borders Celebration: Jaguartivist, The Albchemist, Tony Touch",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-13"
   }
 ]
