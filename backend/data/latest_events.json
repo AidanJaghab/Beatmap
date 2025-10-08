@@ -1,15 +1,9 @@
 [
   {
-    "name": "Recently Added",
+    "name": "Marquee",
     "venue": "1 Hotel Brooklyn Bridge",
     "location": "New York, NY",
     "date": "2025-10-10"
-  },
-  {
-    "name": "The Living Tombstone, Tokyo Machine, Qbomb",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2025-10-07"
   },
   {
     "name": "Pachyman, Mndsgn, Gabriel Da Rosa",
@@ -48,7 +42,7 @@
     "date": "2025-10-09"
   },
   {
-    "name": "JAEL",
+    "name": "JAEL, Kels",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
     "date": "2025-10-09"
@@ -186,7 +180,7 @@
     "date": "2025-10-11"
   },
   {
-    "name": "Shouse",
+    "name": "Shouse, Parker Nelson",
     "venue": "Elsewhere Rooftop",
     "location": "Brooklyn, NY",
     "date": "2025-10-11"
@@ -261,6 +255,12 @@
     "name": "Sunday Skate Club: Saucy Lady, Disgonuts",
     "venue": "Xanadu Roller Arts",
     "location": "Brooklyn, NY",
+    "date": "2025-10-12"
+  },
+  {
+    "name": "Sleepy & Boo",
+    "venue": "Manhattan",
+    "location": "New York, NY",
     "date": "2025-10-12"
   },
   {
