@@ -1,36 +1,6 @@
 [
   {
-    "name": "Marquee",
-    "venue": "1 Hotel Brooklyn Bridge",
-    "location": "New York, NY",
-    "date": "2025-10-10"
-  },
-  {
-    "name": "Pachyman, Mndsgn, Gabriel Da Rosa",
-    "venue": "Music Hall of Williamsburg",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-08"
-  },
-  {
-    "name": "2hollis, Nate Sib",
-    "venue": "Terminal 5",
-    "location": "New York, NY",
-    "date": "2025-10-08"
-  },
-  {
-    "name": "Tomorrow Comes the Harvest: Jeff Mills, Jean Phi Dary, Prabhu Edouard",
-    "venue": "Pioneer Works",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-08"
-  },
-  {
-    "name": "Om Unit",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-08"
-  },
-  {
-    "name": "Sub Focus, NERO, Blossom",
+    "name": "Sub Focus, NERO, Yetti, Nito, Blossom",
     "venue": "Great Hall at Avant Gardner",
     "location": "Brooklyn, NY",
     "date": "2025-10-09"
@@ -66,21 +36,9 @@
     "date": "2025-10-09"
   },
   {
-    "name": "Shonen Shout - Anime Rave: DJ Vega",
-    "venue": "SOB's",
-    "location": "New York, NY",
-    "date": "2025-10-09"
-  },
-  {
     "name": "The Hall x Club Sonore - French Riviera Open Air: Nico Moon, Se\u00efvo, Artemat, Offkit",
     "venue": "1 Hotel Brooklyn Bridge",
     "location": "Brooklyn, NY",
-    "date": "2025-10-09"
-  },
-  {
-    "name": "Wabi Sabi Presents",
-    "venue": "The Deep End",
-    "location": "New York, NY",
     "date": "2025-10-09"
   },
   {
@@ -92,6 +50,12 @@
   {
     "name": "Eliot Lipp",
     "venue": "Nublu Classic",
+    "location": "New York, NY",
+    "date": "2025-10-09"
+  },
+  {
+    "name": "Use code - owa",
+    "venue": "Jack Doyle's",
     "location": "New York, NY",
     "date": "2025-10-09"
   },
@@ -268,5 +232,17 @@
     "venue": "House of Yes",
     "location": "Brooklyn, NY",
     "date": "2025-10-13"
+  },
+  {
+    "name": "Izzy Camina, More Eaze, Porches",
+    "venue": "Baby's All Right",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-15"
+  },
+  {
+    "name": "Co/Function: Celebrity Bitcrush, AleXander Gentil, WOOD WARD, Taboh, Tj McAu",
+    "venue": "H0L0",
+    "location": "New York, NY",
+    "date": "2025-10-15"
   }
 ]
