@@ -1,65 +1,5 @@
 [
   {
-    "name": "Sub Focus, NERO, Yetti, Nito, Blossom",
-    "venue": "Great Hall at Avant Gardner",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-09"
-  },
-  {
-    "name": "2hollis, The Hellp, Nate Sib",
-    "venue": "Terminal 5",
-    "location": "New York, NY",
-    "date": "2025-10-09"
-  },
-  {
-    "name": "JAEL, Kels",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-09"
-  },
-  {
-    "name": "Rick Wonder, Klutch",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-10-09"
-  },
-  {
-    "name": "Golden Record NYC: Bill Patrick, Solana",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-09"
-  },
-  {
-    "name": "Anthony Romano, LEFTI",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-09"
-  },
-  {
-    "name": "The Hall x Club Sonore - French Riviera Open Air: Nico Moon, Se\u00efvo, Artemat, Offkit",
-    "venue": "1 Hotel Brooklyn Bridge",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-09"
-  },
-  {
-    "name": "Turbz",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2025-10-09"
-  },
-  {
-    "name": "Eliot Lipp",
-    "venue": "Nublu Classic",
-    "location": "New York, NY",
-    "date": "2025-10-09"
-  },
-  {
-    "name": "Use code - owa",
-    "venue": "Jack Doyle's",
-    "location": "New York, NY",
-    "date": "2025-10-09"
-  },
-  {
     "name": "Alan Walker",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -244,5 +184,65 @@
     "venue": "H0L0",
     "location": "New York, NY",
     "date": "2025-10-15"
+  },
+  {
+    "name": "Ti\u00ebsto",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-10-16"
+  },
+  {
+    "name": "Brownies & Lemonade: pluko",
+    "venue": "Elsewhere Zone One",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-16"
+  },
+  {
+    "name": "DJ Tennis, Meilgaarden, Timo Lee, Val Fleury",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-16"
+  },
+  {
+    "name": "Lilly Palmer, T78",
+    "venue": "99 Scott Ave",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-16"
+  },
+  {
+    "name": "IN FLIGHT: Odd Mob",
+    "venue": "Superior Ingredients",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-16"
+  },
+  {
+    "name": "Planet Yes - Gasolina: DJ Ultra Violet",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-16"
+  },
+  {
+    "name": "Turbz",
+    "venue": "Loosie's Nightclub",
+    "location": "New York, NY",
+    "date": "2025-10-16"
+  },
+  {
+    "name": "Jus-Ske",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-10-16"
+  },
+  {
+    "name": "Jus-Ske",
+    "venue": "The Fleur Room",
+    "location": "New York, NY",
+    "date": "2025-10-16"
+  },
+  {
+    "name": "Signal: Vivian Wang, Joiah, Lis Sarocca",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-16"
   }
 ]
