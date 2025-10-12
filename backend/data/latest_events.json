@@ -1,65 +1,5 @@
 [
   {
-    "name": "Joezi",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-10-11"
-  },
-  {
-    "name": "Agape X Domicile Present: 6EJOU, Gioh Cecato, Andr\u00e9s Garcil, Vyper, Naomi Luna",
-    "venue": "The Chocolate Factory Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-11"
-  },
-  {
-    "name": "Chase & Status, G Jones, Flowdan, Shy FX, Taiki Nulight, Mary Droppinz",
-    "venue": "Under the K Bridge Park",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-11"
-  },
-  {
-    "name": "Reb\u016bke, Stello, Kenzii Scott",
-    "venue": "Superior Ingredients (Main Room)",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-11"
-  },
-  {
-    "name": "We Belong Here - Central Park: Porter Robinson, Wax Motif, VNSSA, ALEOS",
-    "venue": "Wollman Rink at Central Park",
-    "location": "New York, NY",
-    "date": "2025-10-11"
-  },
-  {
-    "name": "RZRKT, Aalioura",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-11"
-  },
-  {
-    "name": "Teksupport: Pawsa",
-    "venue": "Brooklyn Storehouse",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-11"
-  },
-  {
-    "name": "Shouse, Parker Nelson",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-11"
-  },
-  {
-    "name": "Snakehips",
-    "venue": "Westlight",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-11"
-  },
-  {
-    "name": "horsegiirL",
-    "venue": "Car Park",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-11"
-  },
-  {
     "name": "Gray Area Presents: Tom & Collins",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
@@ -234,12 +174,6 @@
     "date": "2025-10-17"
   },
   {
-    "name": "Superior Ingredients Sunny Side Up Day Party: Jake Shore",
-    "venue": "Superior Ingredients",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-17"
-  },
-  {
     "name": "Codd Dubz, Aweminus, Midroll",
     "venue": "The Meadows Brooklyn",
     "location": "Brooklyn, NY",
@@ -262,5 +196,65 @@
     "venue": "290 Meserole St",
     "location": "Brooklyn, NY",
     "date": "2025-10-17"
+  },
+  {
+    "name": "Chachi",
+    "venue": "Mission Nightclub",
+    "location": "New York, NY",
+    "date": "2025-10-17"
+  },
+  {
+    "name": "Chris Lorenzo",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-10-18"
+  },
+  {
+    "name": "Ti\u00ebsto",
+    "venue": "Great Hall at Avant Gardner",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-18"
+  },
+  {
+    "name": "jigitz, Killen.",
+    "venue": "Webster Hall",
+    "location": "New York, NY",
+    "date": "2025-10-18"
+  },
+  {
+    "name": "Disclosure, Oppidan, Rose Kourts",
+    "venue": "Forest Hills Stadium",
+    "location": "New York, NY",
+    "date": "2025-10-18"
+  },
+  {
+    "name": "Maceo Plex, Sharif Laffrey",
+    "venue": "Ruins at Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-10-18"
+  },
+  {
+    "name": "Linska, Soraya, Malcolm Zeller",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-18"
+  },
+  {
+    "name": "Gray Area Presents: Crusy, Cassimm, Tony Romera, D\u00e1melo, Collin Oliver",
+    "venue": "Superior Ingredients (Main Room)",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-18"
+  },
+  {
+    "name": "Disclosure",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-10-18"
+  },
+  {
+    "name": "Jayda G",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-18"
   }
 ]
