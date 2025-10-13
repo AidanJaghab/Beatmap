@@ -1,65 +1,5 @@
 [
   {
-    "name": "Gray Area Presents: Tom & Collins",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-12"
-  },
-  {
-    "name": "Bon Entenduer",
-    "venue": "99 Scott Courtyard",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-12"
-  },
-  {
-    "name": "Meduza",
-    "venue": "Edge at Hudson Yards",
-    "location": "New York, NY",
-    "date": "2025-10-12"
-  },
-  {
-    "name": "Presented by Forest D\u00f6wn Under: Moska",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-10-12"
-  },
-  {
-    "name": "Carl Craig, DJ Minx",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-12"
-  },
-  {
-    "name": "ConTEAnental",
-    "venue": "Body By Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-12"
-  },
-  {
-    "name": "ANATTA, Chesster, James Wyler",
-    "venue": "Superior Ingredients (Main Room)",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-12"
-  },
-  {
-    "name": "Raw Area // Sunday Services",
-    "venue": "20 Meadow Street",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-12"
-  },
-  {
-    "name": "Sunday Skate Club: Saucy Lady, Disgonuts",
-    "venue": "Xanadu Roller Arts",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-12"
-  },
-  {
-    "name": "Sleepy & Boo",
-    "venue": "Manhattan",
-    "location": "New York, NY",
-    "date": "2025-10-12"
-  },
-  {
     "name": "Indigenous Peoples Day Beyond Borders Celebration: Jaguartivist, The Albchemist, Tony Touch",
     "venue": "House of Yes",
     "location": "Brooklyn, NY",
@@ -90,7 +30,7 @@
     "date": "2025-10-16"
   },
   {
-    "name": "Brownies & Lemonade: pluko",
+    "name": "Brownies & Lemonade: pluko, Contact Sports, Dasychira",
     "venue": "Elsewhere Zone One",
     "location": "Brooklyn, NY",
     "date": "2025-10-16"
@@ -174,12 +114,6 @@
     "date": "2025-10-17"
   },
   {
-    "name": "Codd Dubz, Aweminus, Midroll",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-17"
-  },
-  {
     "name": "Follow The Music Take Over! Hosted by - #PartyWithRey: Francisco Samuel, Bash (NY), JMFJ",
     "venue": "Easy Tiger",
     "location": "Brooklyn, NY",
@@ -200,6 +134,12 @@
   {
     "name": "Chachi",
     "venue": "Mission Nightclub",
+    "location": "New York, NY",
+    "date": "2025-10-17"
+  },
+  {
+    "name": "DaddyBorja",
+    "venue": "DOM",
     "location": "New York, NY",
     "date": "2025-10-17"
   },
@@ -256,5 +196,53 @@
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
     "date": "2025-10-18"
+  },
+  {
+    "name": "Gray Area Presents BLUE: Pretty Pink, Rodriguez Jr., Eric Yaz, Robyn Balliet",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-19"
+  },
+  {
+    "name": "Disclosure, JADALAREIGN, James Juke",
+    "venue": "Ruins at Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-10-19"
+  },
+  {
+    "name": "bullet tooth",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-19"
+  },
+  {
+    "name": "Alves, Italuv, Cicibi, Phantom",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-19"
+  },
+  {
+    "name": "Togeki, Trowl, Melko b2b Blight",
+    "venue": "The Meadows Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-19"
+  },
+  {
+    "name": "Presented by Forest D\u00f6wn Under: Oscar G, Jivan Calderone",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-10-19"
+  },
+  {
+    "name": "FLWRSHRK, Camila W\u00f6lf, Jeny Michelle, Branqueeno, F\u00e1tima, Sarindipity",
+    "venue": "W New York",
+    "location": "New York, NY",
+    "date": "2025-10-19"
+  },
+  {
+    "name": "DJ Manny, Marsh Crane, Ted Kamal",
+    "venue": "Club 101 NYC",
+    "location": "New York, NY",
+    "date": "2025-10-19"
   }
 ]
