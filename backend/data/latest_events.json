@@ -78,6 +78,12 @@
     "date": "2025-10-16"
   },
   {
+    "name": "RSVP ASAP",
+    "venue": "UNVEILED",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-16"
+  },
+  {
     "name": "K\u00f6lsch",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -114,12 +120,6 @@
     "date": "2025-10-17"
   },
   {
-    "name": "City Soul - Drum & Bass: DJ EH, Remniqe",
-    "venue": "Wonderville",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-17"
-  },
-  {
     "name": "The Groove Lab Saturday Morning",
     "venue": "290 Meserole St",
     "location": "Brooklyn, NY",
@@ -134,6 +134,12 @@
   {
     "name": "DaddyBorja",
     "venue": "DOM",
+    "location": "New York, NY",
+    "date": "2025-10-17"
+  },
+  {
+    "name": "Frank Walker",
+    "venue": "Le Poisson Rouge",
     "location": "New York, NY",
     "date": "2025-10-17"
   },
@@ -244,5 +250,11 @@
     "venue": "Gramercy Theatre",
     "location": "New York, NY",
     "date": "2025-10-20"
+  },
+  {
+    "name": "Tuesday Baby Tuesday",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-10-21"
   }
 ]
