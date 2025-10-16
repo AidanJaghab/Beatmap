@@ -1,23 +1,5 @@
 [
   {
-    "name": "Ruckus",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-10-15"
-  },
-  {
-    "name": "Izzy Camina, More Eaze, Porches",
-    "venue": "Baby's All Right",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-15"
-  },
-  {
-    "name": "Co/Function: Celebrity Bitcrush, AleXander Gentil, WOOD WARD, Taboh, Tj McAu",
-    "venue": "H0L0",
-    "location": "New York, NY",
-    "date": "2025-10-15"
-  },
-  {
     "name": "Ti\u00ebsto",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -54,24 +36,6 @@
     "date": "2025-10-16"
   },
   {
-    "name": "Turbz",
-    "venue": "Loosie's Nightclub",
-    "location": "New York, NY",
-    "date": "2025-10-16"
-  },
-  {
-    "name": "Jus-Ske",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-10-16"
-  },
-  {
-    "name": "Jus-Ske",
-    "venue": "The Fleur Room",
-    "location": "New York, NY",
-    "date": "2025-10-16"
-  },
-  {
     "name": "Signal: Vivian Wang, Joiah, Lis Sarocca",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
@@ -80,6 +44,18 @@
   {
     "name": "RSVP ASAP",
     "venue": "UNVEILED",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-16"
+  },
+  {
+    "name": "Angie Ocampo",
+    "venue": "198 Randolph Street",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-16"
+  },
+  {
+    "name": "The Official Friday Morning Party: Psymon GT, Alejo Garcia",
+    "venue": "20 Meadow Street",
     "location": "Brooklyn, NY",
     "date": "2025-10-16"
   },
@@ -256,5 +232,11 @@
     "venue": "Nebula",
     "location": "New York, NY",
     "date": "2025-10-21"
+  },
+  {
+    "name": "Eduardo Castillo",
+    "venue": "W New York",
+    "location": "New York, NY",
+    "date": "2025-10-22"
   }
 ]
