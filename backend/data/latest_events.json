@@ -1,65 +1,5 @@
 [
   {
-    "name": "Ti\u00ebsto",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-10-16"
-  },
-  {
-    "name": "Brownies & Lemonade: pluko, Contact Sports, Dasychira",
-    "venue": "Elsewhere Zone One",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-16"
-  },
-  {
-    "name": "DJ Tennis, Meilgaarden, Timo Lee, Val Fleury",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-16"
-  },
-  {
-    "name": "Lilly Palmer, T78",
-    "venue": "99 Scott Ave",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-16"
-  },
-  {
-    "name": "IN FLIGHT: Odd Mob",
-    "venue": "Superior Ingredients",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-16"
-  },
-  {
-    "name": "Planet Yes - Gasolina: DJ Ultra Violet",
-    "venue": "House of Yes",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-16"
-  },
-  {
-    "name": "Signal: Vivian Wang, Joiah, Lis Sarocca",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-16"
-  },
-  {
-    "name": "RSVP ASAP",
-    "venue": "UNVEILED",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-16"
-  },
-  {
-    "name": "Angie Ocampo",
-    "venue": "198 Randolph Street",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-16"
-  },
-  {
-    "name": "The Official Friday Morning Party: Psymon GT, Alejo Garcia",
-    "venue": "20 Meadow Street",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-16"
-  },
-  {
     "name": "K\u00f6lsch",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -90,12 +30,6 @@
     "date": "2025-10-17"
   },
   {
-    "name": "Follow The Music Take Over! Hosted by - #PartyWithRey: Francisco Samuel, Bash (NY), JMFJ",
-    "venue": "Easy Tiger",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-17"
-  },
-  {
     "name": "The Groove Lab Saturday Morning",
     "venue": "290 Meserole St",
     "location": "Brooklyn, NY",
@@ -116,6 +50,12 @@
   {
     "name": "Frank Walker",
     "venue": "Le Poisson Rouge",
+    "location": "New York, NY",
+    "date": "2025-10-17"
+  },
+  {
+    "name": "Highlight Room Rooftop",
+    "venue": "The Highlight Room New York",
     "location": "New York, NY",
     "date": "2025-10-17"
   },
@@ -238,5 +178,53 @@
     "venue": "W New York",
     "location": "New York, NY",
     "date": "2025-10-22"
+  },
+  {
+    "name": "Dimitri Vegas (of Dimitri Vegas & Like Mike)",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-10-23"
+  },
+  {
+    "name": "Ela Minus, Danz CM",
+    "venue": "Elsewhere Hall",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-23"
+  },
+  {
+    "name": "Cyberia: DJ Camgirl",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-23"
+  },
+  {
+    "name": "Neil Jackson",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2025-10-23"
+  },
+  {
+    "name": "Klutch, Chachi",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-10-23"
+  },
+  {
+    "name": "Signal: Penelope, Shvili, Max Sprauer:",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-23"
+  },
+  {
+    "name": "Great Dane, Luhv, Samsin, Swum",
+    "venue": "Alphaville",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-23"
+  },
+  {
+    "name": "Scandalo NYC",
+    "venue": "Rebecca's",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-23"
   }
 ]
