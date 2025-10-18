@@ -1,65 +1,5 @@
 [
   {
-    "name": "K\u00f6lsch",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-10-17"
-  },
-  {
-    "name": "NOW HERE: Paco Osuna",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-10-17"
-  },
-  {
-    "name": "Mirage 3 Day Takeover: Ti\u00ebsto",
-    "venue": "Great Hall at Avant Gardner",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-17"
-  },
-  {
-    "name": "GUNNAR",
-    "venue": "Mercury Lounge NYC",
-    "location": "New York, NY",
-    "date": "2025-10-17"
-  },
-  {
-    "name": "The Audiosphere Tour: Mersiv, DENNETT, Mystic Methods",
-    "venue": "Industry City",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-17"
-  },
-  {
-    "name": "The Groove Lab Saturday Morning",
-    "venue": "290 Meserole St",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-17"
-  },
-  {
-    "name": "Chachi",
-    "venue": "Mission Nightclub",
-    "location": "New York, NY",
-    "date": "2025-10-17"
-  },
-  {
-    "name": "DaddyBorja",
-    "venue": "DOM",
-    "location": "New York, NY",
-    "date": "2025-10-17"
-  },
-  {
-    "name": "Frank Walker",
-    "venue": "Le Poisson Rouge",
-    "location": "New York, NY",
-    "date": "2025-10-17"
-  },
-  {
-    "name": "Highlight Room Rooftop",
-    "venue": "The Highlight Room New York",
-    "location": "New York, NY",
-    "date": "2025-10-17"
-  },
-  {
     "name": "Chris Lorenzo",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -108,8 +48,8 @@
     "date": "2025-10-18"
   },
   {
-    "name": "Jayda G",
-    "venue": "Elsewhere",
+    "name": "Peer Pressure",
+    "venue": "C'mon Everybody",
     "location": "Brooklyn, NY",
     "date": "2025-10-18"
   },
@@ -158,6 +98,18 @@
   {
     "name": "DJ Manny, Marsh Crane, Ted Kamal",
     "venue": "Club 101 NYC",
+    "location": "New York, NY",
+    "date": "2025-10-19"
+  },
+  {
+    "name": "The Official Monday Morning Party: VNUZ",
+    "venue": "20 Meadow Street",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-19"
+  },
+  {
+    "name": "Cristian Arango, Cortes",
+    "venue": "Code Astoria",
     "location": "New York, NY",
     "date": "2025-10-19"
   },
@@ -226,5 +178,41 @@
     "venue": "Rebecca's",
     "location": "Brooklyn, NY",
     "date": "2025-10-23"
+  },
+  {
+    "name": "Peggy Gou, Young Marco, Elkka, Alinka",
+    "venue": "Avant Gardner",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-24"
+  },
+  {
+    "name": "Midnight Tyrannosaurus",
+    "venue": "The Meadows Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-24"
+  },
+  {
+    "name": "Sam Gellaitry",
+    "venue": "Brooklyn Steel",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-24"
+  },
+  {
+    "name": "Maddy O'Neal, Vincent Antone, Phyphr, Waybach",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-24"
+  },
+  {
+    "name": "Luude",
+    "venue": "154 Scott Ave",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-24"
+  },
+  {
+    "name": "Yves Tumor",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-24"
   }
 ]
