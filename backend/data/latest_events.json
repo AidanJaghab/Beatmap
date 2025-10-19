@@ -1,59 +1,5 @@
 [
   {
-    "name": "Chris Lorenzo",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-10-18"
-  },
-  {
-    "name": "Ti\u00ebsto",
-    "venue": "Great Hall at Avant Gardner",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-18"
-  },
-  {
-    "name": "jigitz, Killen.",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2025-10-18"
-  },
-  {
-    "name": "Disclosure, Oppidan, Rose Kourts",
-    "venue": "Forest Hills Stadium",
-    "location": "New York, NY",
-    "date": "2025-10-18"
-  },
-  {
-    "name": "Maceo Plex, Sharif Laffrey",
-    "venue": "Ruins at Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-10-18"
-  },
-  {
-    "name": "Linska, Soraya, Malcolm Zeller",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-18"
-  },
-  {
-    "name": "Gray Area Presents: Crusy, Cassimm, Tony Romera, D\u00e1melo, Collin Oliver",
-    "venue": "Superior Ingredients (Main Room)",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-18"
-  },
-  {
-    "name": "Disclosure",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-10-18"
-  },
-  {
-    "name": "Peer Pressure",
-    "venue": "C'mon Everybody",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-18"
-  },
-  {
     "name": "Gray Area Presents BLUE: Pretty Pink, Rodriguez Jr., Eric Yaz, Robyn Balliet",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
@@ -162,7 +108,7 @@
     "date": "2025-10-23"
   },
   {
-    "name": "Signal: Penelope, Shvili, Max Sprauer:",
+    "name": "Signal: Penelope, Shvili b2b Max Sprauer",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-10-23"
@@ -214,5 +160,65 @@
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
     "date": "2025-10-24"
+  },
+  {
+    "name": "Francis Mercier",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-10-25"
+  },
+  {
+    "name": "Autechre, BeardMan",
+    "venue": "Brooklyn Steel",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-25"
+  },
+  {
+    "name": "Dual Damage",
+    "venue": "The Meadows Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-25"
+  },
+  {
+    "name": "BEAUZ",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-10-25"
+  },
+  {
+    "name": "Dieselboy, DrivenAM (Agent 137 & David Shichman), Dave Shichman",
+    "venue": "Sultan Room Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-25"
+  },
+  {
+    "name": "Horse Meat Disco",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-10-25"
+  },
+  {
+    "name": "Diplo",
+    "venue": "Edge at Hudson Yards",
+    "location": "New York, NY",
+    "date": "2025-10-25"
+  },
+  {
+    "name": "ARMNHMR",
+    "venue": "Brooklyn Hangar",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-25"
+  },
+  {
+    "name": "Tell No One - Night 2: DJ Sneak",
+    "venue": "530 W 27th Street",
+    "location": "New York, NY",
+    "date": "2025-10-25"
+  },
+  {
+    "name": "Enrico Meloni, Danny Kim",
+    "venue": "Harbor New York",
+    "location": "New York, NY",
+    "date": "2025-10-25"
   }
 ]
