@@ -1,65 +1,5 @@
 [
   {
-    "name": "Gray Area Presents BLUE: Pretty Pink, Rodriguez Jr., Eric Yaz, Robyn Balliet",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-19"
-  },
-  {
-    "name": "Disclosure, JADALAREIGN, James Juke",
-    "venue": "Ruins at Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-10-19"
-  },
-  {
-    "name": "bullet tooth, Cosmo",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-19"
-  },
-  {
-    "name": "Alves, Italuv, Cicibi, Phantom",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-19"
-  },
-  {
-    "name": "Togeki, Trowl, Melko b2b Blight",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-19"
-  },
-  {
-    "name": "Presented by Forest D\u00f6wn Under: Oscar G, Jivan Calderone",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-10-19"
-  },
-  {
-    "name": "FLWRSHRK, Camila W\u00f6lf, Jeny Michelle, Branqueeno, F\u00e1tima, Sarindipity",
-    "venue": "W New York",
-    "location": "New York, NY",
-    "date": "2025-10-19"
-  },
-  {
-    "name": "DJ Manny, Marsh Crane, Ted Kamal",
-    "venue": "Club 101 NYC",
-    "location": "New York, NY",
-    "date": "2025-10-19"
-  },
-  {
-    "name": "The Official Monday Morning Party: VNUZ",
-    "venue": "20 Meadow Street",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-19"
-  },
-  {
-    "name": "Cristian Arango, Cortes",
-    "venue": "Code Astoria",
-    "location": "New York, NY",
-    "date": "2025-10-19"
-  },
-  {
     "name": "Britton, Cam",
     "venue": "Gramercy Theatre",
     "location": "New York, NY",
@@ -162,6 +102,12 @@
     "date": "2025-10-24"
   },
   {
+    "name": "Open bar 10-11pm",
+    "venue": "Mission Nightclub",
+    "location": "New York, NY",
+    "date": "2025-10-24"
+  },
+  {
     "name": "Francis Mercier",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -220,5 +166,53 @@
     "venue": "Harbor New York",
     "location": "New York, NY",
     "date": "2025-10-25"
+  },
+  {
+    "name": "Diva Diva, Nita Aviance, Ron Like Hell, Maenad, West Dakota",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-26"
+  },
+  {
+    "name": "Sunday Skate Club ft: Mike Servito",
+    "venue": "Xanadu Roller Arts",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-26"
+  },
+  {
+    "name": "Robert Glasper, Taylor McFerrin",
+    "venue": "Blue Note Jazz Club",
+    "location": "New York, NY",
+    "date": "2025-10-26"
+  },
+  {
+    "name": "Presented by Forest D\u00f6wn Under",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-10-26"
+  },
+  {
+    "name": "FREAK ON, Rello, Madison Park, Jaesyun",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-26"
+  },
+  {
+    "name": "Machine Girl",
+    "venue": "Rough Trade Below",
+    "location": "New York, NY",
+    "date": "2025-10-26"
+  },
+  {
+    "name": "Sunday Soir\u00e9e",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-26"
+  },
+  {
+    "name": "Arc De Soleil, sunflwr",
+    "venue": "Brooklyn Steel",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-26"
   }
 ]
