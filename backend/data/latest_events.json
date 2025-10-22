@@ -1,11 +1,5 @@
 [
   {
-    "name": "Tuesday Baby Tuesday",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-10-21"
-  },
-  {
     "name": "Eduardo Castillo",
     "venue": "W New York",
     "location": "New York, NY",
@@ -66,7 +60,7 @@
     "date": "2025-10-24"
   },
   {
-    "name": "Midnight Tyrannosaurus",
+    "name": "Midnight Tyrannosaurus, Chibs, CRiiOZ",
     "venue": "The Meadows Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-10-24"
@@ -90,14 +84,14 @@
     "date": "2025-10-24"
   },
   {
-    "name": "Yves Tumor",
+    "name": "Yves Tumor, Immolate, Dani Rev, AKAFA\u00cb",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
     "date": "2025-10-24"
   },
   {
-    "name": "Laurel Halo, Nick Le\u00f3n, Tom\u00e1s Urquieta",
-    "venue": "Public Records",
+    "name": "Mike Servito, Pageant Queens, Ariel Zetina, Miss Twink USA, Shyboi, Kilopatrah Jones, Makadsi",
+    "venue": "Paragon",
     "location": "Brooklyn, NY",
     "date": "2025-10-24"
   },
@@ -150,9 +144,9 @@
     "date": "2025-10-25"
   },
   {
-    "name": "ARMNHMR",
-    "venue": "Brooklyn Hangar",
-    "location": "Brooklyn, NY",
+    "name": "Tell No One - Night 2: DJ Sneak",
+    "venue": "530 W 27th Street",
+    "location": "New York, NY",
     "date": "2025-10-25"
   },
   {
@@ -208,5 +202,23 @@
     "venue": "Brooklyn Steel",
     "location": "Brooklyn, NY",
     "date": "2025-10-26"
+  },
+  {
+    "name": "Jus-Ske",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2025-10-28"
+  },
+  {
+    "name": "The Aftermath Party",
+    "venue": "TV Eye (The Ballroom)",
+    "location": "New York, NY",
+    "date": "2025-10-28"
+  },
+  {
+    "name": "Tuesday Baby Tuesday",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-10-28"
   }
 ]
