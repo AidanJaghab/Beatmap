@@ -1,57 +1,9 @@
 [
   {
-    "name": "Dimitri Vegas (of Dimitri Vegas & Like Mike)",
-    "venue": "Marquee",
+    "name": "Little Sister Lounge",
+    "venue": "ShipWreck'd",
     "location": "New York, NY",
-    "date": "2025-10-23"
-  },
-  {
-    "name": "Ela Minus, Danz CM",
-    "venue": "Elsewhere Hall",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-23"
-  },
-  {
-    "name": "Cyberia: DJ Camgirl",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-23"
-  },
-  {
-    "name": "Neil Jackson",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2025-10-23"
-  },
-  {
-    "name": "Klutch, Chachi",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-10-23"
-  },
-  {
-    "name": "Signal: Penelope, Shvili b2b Max Sprauer",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-23"
-  },
-  {
-    "name": "Great Dane, Luhv, Samsin, Swum",
-    "venue": "Alphaville",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-23"
-  },
-  {
-    "name": "Scandalo NYC",
-    "venue": "Rebecca's",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-23"
-  },
-  {
-    "name": "Lost in BK: Steen",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-23"
+    "date": "2025-10-24"
   },
   {
     "name": "Peggy Gou, Young Marco, Elkka, Alinka",
@@ -198,6 +150,12 @@
     "date": "2025-10-26"
   },
   {
+    "name": "Late Night Soir\u00e9e: Camilo Porras",
+    "venue": "221 2nd Avenue",
+    "location": "New York, NY",
+    "date": "2025-10-26"
+  },
+  {
     "name": "Jus-Ske",
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
@@ -238,5 +196,59 @@
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-10-29"
+  },
+  {
+    "name": "Kaskade",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-10-30"
+  },
+  {
+    "name": "Purity Ring, YUNIVERSE",
+    "venue": "Brooklyn Steel",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-30"
+  },
+  {
+    "name": "Machine Girl",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-10-30"
+  },
+  {
+    "name": "Rave Jesus",
+    "venue": "Gramercy Theatre",
+    "location": "New York, NY",
+    "date": "2025-10-30"
+  },
+  {
+    "name": "The Villain's Ball | Halloween Weekend: Gordo, Cristian Arango, Eddie Deville, Harden, Sphynx",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-10-30"
+  },
+  {
+    "name": "Planet Yes: GG Magree, Rossi., Dirtyfinger",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-30"
+  },
+  {
+    "name": "KMOR",
+    "venue": "Isola Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-30"
+  },
+  {
+    "name": "Trim Presents Acid Terror: Marcin Mierz, CloudedMind",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-30"
+  },
+  {
+    "name": "Free with RSVP",
+    "venue": "Wiggle Room NYC",
+    "location": "New York, NY",
+    "date": "2025-10-30"
   }
 ]
