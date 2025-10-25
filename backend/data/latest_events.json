@@ -1,47 +1,5 @@
 [
   {
-    "name": "Little Sister Lounge",
-    "venue": "ShipWreck'd",
-    "location": "New York, NY",
-    "date": "2025-10-24"
-  },
-  {
-    "name": "Peggy Gou, Young Marco, Elkka, Alinka",
-    "venue": "Avant Gardner",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-24"
-  },
-  {
-    "name": "Midnight Tyrannosaurus, Chibs, CRiiOZ",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-24"
-  },
-  {
-    "name": "Sam Gellaitry",
-    "venue": "Brooklyn Steel",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-24"
-  },
-  {
-    "name": "Maddy O'Neal, Vincent Antone, Phyphr, Waybach",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-24"
-  },
-  {
-    "name": "Yves Tumor, Sevyn 0000, Immolate, Dani Rev",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-24"
-  },
-  {
-    "name": "Paradiso: Mike Servito, Ariel Zetina, Miss Twink USA, Shyboi, Kilopatrah Jones, Makadsi",
-    "venue": "Paragon",
-    "location": "Brooklyn, NY",
-    "date": "2025-10-24"
-  },
-  {
     "name": "Francis Mercier",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -96,9 +54,9 @@
     "date": "2025-10-25"
   },
   {
-    "name": "Enrico Meloni, Danny Kim",
-    "venue": "Harbor New York",
-    "location": "New York, NY",
+    "name": "4:30am",
+    "venue": "32 33rd St",
+    "location": "Brooklyn, NY",
     "date": "2025-10-25"
   },
   {
@@ -216,12 +174,6 @@
     "date": "2025-10-30"
   },
   {
-    "name": "Rave Jesus",
-    "venue": "Gramercy Theatre",
-    "location": "New York, NY",
-    "date": "2025-10-30"
-  },
-  {
     "name": "The Villain's Ball | Halloween Weekend: Gordo, Cristian Arango, Eddie Deville, Harden, Sphynx",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
@@ -250,5 +202,59 @@
     "venue": "Wiggle Room NYC",
     "location": "New York, NY",
     "date": "2025-10-30"
+  },
+  {
+    "name": "Charlie, Ika, Usherenko",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-30"
+  },
+  {
+    "name": "Max Styler",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-10-31"
+  },
+  {
+    "name": "Cityfox Halloween: CamelPhat",
+    "venue": "Avant Gardner",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-31"
+  },
+  {
+    "name": "NYC'S BIGGEST HALLOWEEN DNB & DUBSTEP RAVE WITH SKELLYTN: Skellytn, Trowl, Samisosa, Ultra, DJ Nope, Papa Runkz, Amita, Rayn, Nito, AERO MC",
+    "venue": "The Woodshop Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-31"
+  },
+  {
+    "name": "Circoloco Halloween: Circoloco, &ME, Carlita, Job Jobse, Konstantin, Mapache, Palms Trax, Prospa, Rampa",
+    "venue": "Brooklyn Storehouse",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-31"
+  },
+  {
+    "name": "Chris Luno",
+    "venue": "Car Park",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-31"
+  },
+  {
+    "name": "Sigala",
+    "venue": "Musica NYC",
+    "location": "New York, NY",
+    "date": "2025-10-31"
+  },
+  {
+    "name": "GENESI",
+    "venue": "53 Scott Ave",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-31"
+  },
+  {
+    "name": "Code 'APEX' for discounted tic!",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2025-10-31"
   }
 ]
