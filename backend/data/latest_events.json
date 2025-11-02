@@ -1,53 +1,5 @@
 [
   {
-    "name": "Angerfist, Lady Faith, CTRLFR33K",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Minty Boi Presents: Sidewalks and Skeletons",
-    "venue": "Market Hotel",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Mason Collective, Jaden Thompson",
-    "venue": "Classic Car Club Manhattan",
-    "location": "New York, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Pablo Ceballos, Chriss Vargas, Mike Nervous, Jason Munoz",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "As Above So Below: Autograf",
-    "venue": "Arlo Williamsburg",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "The Black Star Experience: amaarae",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "D\u00cdA DE MUERTOS: Mayan Warrior, MAXA, Damian Lazarus, Adam Ten, Vanjee, Le Pr\u00e9sident",
-    "venue": "Industry City",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Ali Berger, Scott Grooves, Russell E.L. Butler, DJ Tara, Francis Harris, Tal",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
     "name": "Lenny Pearce",
     "venue": "Irving Plaza",
     "location": "New York, NY",
@@ -56,12 +8,6 @@
   {
     "name": "Murphy's Law, Ruze, Todd Terry, SHIFTY, America Rose",
     "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-02"
-  },
-  {
-    "name": "Layla Benitez",
-    "venue": "The Ornate Studio",
     "location": "Brooklyn, NY",
     "date": "2025-11-02"
   },
@@ -90,8 +36,14 @@
     "date": "2025-11-02"
   },
   {
-    "name": "FEVER Halloween - The Emerald Ball",
-    "venue": "Polygon BK",
+    "name": "Listening Session",
+    "venue": "Silence Please",
+    "location": "New York, NY",
+    "date": "2025-11-02"
+  },
+  {
+    "name": "Sunday Skate Club ft",
+    "venue": "Xanadu Roller Arts",
     "location": "Brooklyn, NY",
     "date": "2025-11-02"
   },
@@ -150,12 +102,6 @@
     "date": "2025-11-05"
   },
   {
-    "name": "Listening Session",
-    "venue": "Silence Please",
-    "location": "New York, NY",
-    "date": "2025-11-05"
-  },
-  {
     "name": "Kerala Dust, Amiture",
     "venue": "Music Hall of Williamsburg",
     "location": "Brooklyn, NY",
@@ -164,12 +110,6 @@
   {
     "name": "Andy Stott",
     "venue": "Pioneer Works",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-06"
-  },
-  {
-    "name": "OUTWATCH x Ladies on Wax: Carl H., Mr. Murray, Emsho, Miss Frizzle, Subcultures",
-    "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-11-06"
   },
@@ -216,6 +156,12 @@
     "date": "2025-11-06"
   },
   {
+    "name": "Durations",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-06"
+  },
+  {
     "name": "Noizu",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -240,7 +186,7 @@
     "date": "2025-11-07"
   },
   {
-    "name": "Skepsis",
+    "name": "Skepsis, Yetti",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-11-07"
@@ -270,406 +216,238 @@
     "date": "2025-11-07"
   },
   {
-    "name": "Steen",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Sebastian Ingrosso",
+    "name": "Afrojack",
     "venue": "Marquee",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-08"
   },
   {
-    "name": "Tractorbeam",
-    "venue": "Elsewhere Hall",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Turbz",
-    "venue": "TAO Downtown",
-    "location": "New York, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Kurilo, Mazko A",
-    "venue": "H0L0",
-    "location": "New York, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Brendan Kyle, Excalibur P, Jungle, N.B. Rhythm, Tuesday Clark",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Sooo 2016 - Party like it's summer 2016",
-    "venue": "Market Hotel",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Conditioner: BATTYGYAL, Swaya, Meth Math, umru, .cutspace, Rabit",
-    "venue": "Nowadays",
-    "location": "New York, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Outer Heaven Presents",
-    "venue": "Outer Heaven NYC",
-    "location": "New York, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Sublee, Alex Dima, Woreq, J. Richards",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "In Flagrante Delicto: LeBRON, Sznl, Dorian Flagrant, Dr Miracle",
-    "venue": "Sleepwalk",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "KSHMR",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "The Ornate Project: Funk Tribu",
-    "venue": "Park Slope Warehouse",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "by Gray Area: Duke Dumont",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Dial Showcase: Eddie Fowlkes, Zeina, Lauren Ritter, Dor Levi",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "The Disco Biscuits",
-    "venue": "Brooklyn Steel",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Borgeous",
-    "venue": "Superior Ingredients",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Disco Biscuits Late Night: DJ Brownie (of Disco Biscuits), Chris G, Newpy Hundo",
-    "venue": "Sultan Room",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Fractals x Trim Presents - Vigor: 3.2KM, Cassandrah, Dante Pasquale, RAPTURE, CRYFXB, Naomi Luna, DJ Goth Queen, PARADEX, Fortissimo",
-    "venue": "H0L0",
-    "location": "New York, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Claptone",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Infected Mushroom",
-    "venue": "Brooklyn Monarch",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "by Gray Area: Bora Uzer, Julia Sandstorm, Lauren Murada",
-    "venue": "99 Scott",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "TOBEHONEST, Broken Hill, Welker, Stixx",
-    "venue": "Superior Ingredients (Main Room)",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "SABAI, HALIENE, Dreamdriver, Miles Away",
-    "venue": "Terminal 5",
-    "location": "New York, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Vandelux",
-    "venue": "Racket New York",
-    "location": "New York, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "The Nightlife: Honey Dijon, livwutang",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Wahala: DJ Assault, MikeQ, sola system, wahala.wav",
-    "venue": "Paragon",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Doubleheader: Gene Farris, The Shapeshifters, Edd, Malcolm Zeller, Kisin, HANZONDECK",
+    "name": "MoBlack, Falyn, Val Fleury, Samantha Michelle, Sam Hysell",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-08"
   },
   {
-    "name": "Sundays in the Atrium: Justin Cudmore, Hercules & Love Affair",
-    "venue": "Public Records",
+    "name": "Kaytranada, Justice, Busy P",
+    "venue": "Barclays Center",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-08"
   },
   {
-    "name": "Sunday Skate Club: Toribio",
-    "venue": "Xanadu Roller Arts",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Come Together",
-    "venue": "Good Room",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Antiics, Jeremy Giros",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Amir Egozy, Onili",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "The Carry Nation",
-    "venue": "Rumi",
+    "name": "Fish56Octagon, JEV",
+    "venue": "Webster Hall",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-08"
   },
   {
-    "name": "Honcho, Mystic Bill, Maenad",
-    "venue": "Signal Brooklyn",
+    "name": "Opiuo, parkbreezy, AURAcle",
+    "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-08"
   },
   {
-    "name": "Robert Owens, GROOVECREATOR",
-    "venue": "The Ornate Studio",
+    "name": "HEYZ",
+    "venue": "The Wood Shop",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-08"
   },
   {
-    "name": "Steen",
-    "venue": "Denizens NYC",
+    "name": "KREAM",
+    "venue": "Nebula",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-08"
   },
   {
-    "name": "Steen",
-    "venue": "Jupiter Disco",
+    "name": "19:26, Henri Bergmann, Pagoda, Jono Stephenson",
+    "venue": "Superior Ingredients (Main Room)",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-08"
+  },
+  {
+    "name": "Rush, 999999999, Anetha, Mos",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-11-08"
+  },
+  {
+    "name": "AFRO HOUSE MUSIC PARTY",
+    "venue": "Acoustik Garden Lounge",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-08"
   },
   {
     "name": "Cut Chemist, Chali 2na",
     "venue": "Brooklyn Bowl",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Minty Boi Presents: Evanora Unlimited",
-    "venue": "Market Hotel",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-01"
-  },
-  {
-    "name": "Where Else Thursdays?",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Rodney Chrome, Dylan Ali, Byrell The Great",
     "venue": "Purgatory",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
+  },
+  {
+    "name": "Minty Boi Presents: Evanora Unlimited",
+    "venue": "Market Hotel",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-02"
+  },
+  {
+    "name": "Where Else Thursdays?",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-11-02"
   },
   {
     "name": "VOLLKOMMEN Berlin in NYC: TIZI, Mark La Placa, Nik Andersson",
     "venue": "Laissez Faire",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Arroyo, Omar Ahmad, Sasan Oskouei",
     "venue": "Jupiter Disco",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Kimby, Eleou",
     "venue": "Moondog HiFi",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Body Hack",
     "venue": "Nowadays",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Clovis, Huerta, Vithz",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Heat House - The Road to Nairobi",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Two Friends",
     "venue": "Marquee",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Big Gigantic",
     "venue": "Great Hall at Avant Gardner",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Cut Copy, Ora The Molecule",
     "venue": "Brooklyn Steel",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Rabbit in the Moon",
     "venue": "Brooklyn Bowl",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Sam Divine, Club Angel, Chaney, Gigi Rio, Not That Serious",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Tadeo, Julia Govor, Heels & Souls, Zotos",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Night Tales, LAPORTE, Zak Leever",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "The Juan Maclean, Justin Strauss, Carlo Sine",
     "venue": "Cargo at Dead Letter No. 9",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
-    "name": "Sam Divine, Club Angel, Chaney, Gigi Rio, Not That Serious, softer, TIGRR, Bomba Zeen",
-    "venue": "Elsewhere",
+    "name": "Rimarkable, Toribio",
+    "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Benny Benassi",
     "venue": "Marquee",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "LYNY, Stooki Sound, Dabow",
     "venue": "Brooklyn Monarch",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "CYCLOPS",
     "venue": "17 Meadow St",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Dillon Francis",
     "venue": "Le Poisson Rouge",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Giuseppe Ottaviani, Nifra",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Jai Wolf",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "AceMo, flotussin",
     "venue": "Paragon",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Jesse Calosso",
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
-    "name": "Turbz",
-    "venue": "The Highlight Room New York",
+    "name": "Doctor Jeep, Bobi, Koyaanisqtatsi, Xi, Audrey Chou, Entroplay, Mark Shephard, Jessie Han",
+    "venue": "00:00",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Ranger Trucco",
     "venue": "Refuge",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Apache, Olaf, Monobase, Cameron Jack, Kamcoco",
@@ -699,222 +477,222 @@
     "name": "Steen, FLWRSHRK, Bojaq",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Neil Jackson",
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Sam Alfred, Silva Bumpa",
     "venue": "Elsewhere Hall",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Perry Wayne, BRAINRACK, Nikademis",
     "venue": "Superior Ingredients (Main Room)",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "F*ck It, We Dance: Dana Montana, Boyyyish",
     "venue": "House of Yes",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Patrice B\u00e4umel",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Rafa Barrios, Kofla, Cicibi",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Oscar G",
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Louie Vega",
     "venue": "Musica NYC",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Shaun Reeves, Stretch, Camilla, Greg Paulus",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Sam Alfred, Silva Bumpa, IN PARALLEL",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Light Asylum, Heavy Halo, NightNight, Vyper",
     "venue": "H0L0",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Gustavo Dominguez, Cristian Arango, VNUZ",
     "venue": "Superior Ingredients (Main Room)",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Timmy Trumpet",
     "venue": "Marquee",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Teksupport: KETTAMA",
     "venue": "Brooklyn Steel",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Township Rebellion",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Slumber Party: Mak\u00e8z, Yasmin",
     "venue": "House of Yes",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Soulection: Joe Kay, Gia Fu",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Lasership: Levity",
     "venue": "Brooklyn Paramount",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Crossbow, CATA, Mafia B, BRIMAC, Jonah Almost, TALK Shivi, Andg Luna",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Razor-N-Tape, Recloose, Jkriv, Adi Oasis, Disgonuts",
     "venue": "Good Room",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Theo Parrish",
     "venue": "Nowadays",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Sunny Side Up",
     "venue": "Superior Ingredients",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "by Gray Area: Paul van Dyk",
     "venue": "99 Scott",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "I Hate Models, Juliana Huxtable",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Benji B, Lovie, Jenifa Mayanja, D'Sean",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Giorgia Angiuli",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Neverdogs",
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Luciano",
     "venue": "Marquee",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Stuntsz",
     "venue": "Good Room",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Hole Pics - Trantasy",
     "venue": "Judson Memorial Church",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Pleasure Jams, Horse Opera",
     "venue": "Jupiter Disco",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Lauren Flax",
     "venue": "Nowadays",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "I Hate Models",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Teksupport: SOSA",
     "venue": "99 Scott",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "Tylerfromwhere",
     "venue": "Jupiter Disco",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   },
   {
     "name": "rosewater: Ladji Mouflet, GabSoul, BOYDELL, ANICHE, SANA, $EJ, Anjali Taneja",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-11-01"
+    "date": "2025-11-02"
   }
 ]
