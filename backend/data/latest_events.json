@@ -1,17 +1,5 @@
 [
   {
-    "name": "Turbz",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2025-11-04"
-  },
-  {
-    "name": "Tuesday Baby Tuesday",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-11-04"
-  },
-  {
     "name": "Michael Simpson",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -222,7 +210,7 @@
     "date": "2025-11-08"
   },
   {
-    "name": "AFRO HOUSE MUSIC PARTY",
+    "name": "Afro House Music Party",
     "venue": "Acoustik Garden Lounge",
     "location": "Brooklyn, NY",
     "date": "2025-11-08"
@@ -286,5 +274,11 @@
     "venue": "The Ornate Studio",
     "location": "Brooklyn, NY",
     "date": "2025-11-09"
+  },
+  {
+    "name": "Tuesday Baby Tuesday",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-11-11"
   }
 ]
