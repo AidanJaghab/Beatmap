@@ -1,47 +1,5 @@
 [
   {
-    "name": "Michael Simpson",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-11-05"
-  },
-  {
-    "name": "Open Decks: Steen",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-05"
-  },
-  {
-    "name": "Purr, Alex Jay, DJ girlcrush, Babeitspurr",
-    "venue": "Bossa Nova Civic Club",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-05"
-  },
-  {
-    "name": "KingKlav\u00e9, Pedrito Martinez, DJ Mickey Perez",
-    "venue": "Cargo at Dead Letter No. 9",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-05"
-  },
-  {
-    "name": "Below Surface: SRRMN, DJ BLVD",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-05"
-  },
-  {
-    "name": "Durations: 320, Amelia Holt, Call Super, Clarisa Kimskii, Dorisburg, Perko, F\u00e9licia Atkinson, Kamma, Masalo, Lyra Pramuk, MARR\u00d8N, Margaret Dygas, Nene H, Scott Zacharias, Sybil, Tornado Wallace, Vlada, Yibing",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-05"
-  },
-  {
-    "name": "Listening Session",
-    "venue": "Silence Please",
-    "location": "New York, NY",
-    "date": "2025-11-05"
-  },
-  {
     "name": "Kerala Dust, Amiture",
     "venue": "Music Hall of Williamsburg",
     "location": "Brooklyn, NY",
@@ -84,12 +42,6 @@
     "date": "2025-11-06"
   },
   {
-    "name": "Discodelic",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-06"
-  },
-  {
     "name": "Kilbourne, Relaxer, Leonce",
     "venue": "Nowadays",
     "location": "New York, NY",
@@ -120,7 +72,7 @@
     "date": "2025-11-07"
   },
   {
-    "name": "Interplanetary Criminal, Effy",
+    "name": "Interplanetary Criminal, Effy, X & Ivy (Party Shirt)",
     "venue": "Knockdown Center",
     "location": "New York, NY",
     "date": "2025-11-07"
@@ -135,12 +87,6 @@
     "name": "Ely Oaks",
     "venue": "154 Scott Ave",
     "location": "Brooklyn, NY",
-    "date": "2025-11-07"
-  },
-  {
-    "name": "Maddix",
-    "venue": "Classic Car Club Manhattan",
-    "location": "New York, NY",
     "date": "2025-11-07"
   },
   {
@@ -234,18 +180,6 @@
     "date": "2025-11-09"
   },
   {
-    "name": "ConTEAnenental: Patrick Kyle",
-    "venue": "Body By Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-09"
-  },
-  {
-    "name": "Presented by Forest D\u00f6wn Under: Tom Enzy, Stoon, Alexandros, Fomore",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-11-09"
-  },
-  {
     "name": "718 Sessions",
     "venue": "Good Room",
     "location": "Brooklyn, NY",
@@ -276,9 +210,33 @@
     "date": "2025-11-09"
   },
   {
+    "name": "Sunday Selectors: Nelson Paradise Roman",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-09"
+  },
+  {
     "name": "Tuesday Baby Tuesday",
     "venue": "Nebula",
     "location": "New York, NY",
     "date": "2025-11-11"
+  },
+  {
+    "name": "Steen",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-12"
+  },
+  {
+    "name": "Jay Prouty",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-12"
+  },
+  {
+    "name": "Tamada, baer-e, NoahShea, RYDER, Jeffery",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-12"
   }
 ]
