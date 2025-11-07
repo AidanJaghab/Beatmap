@@ -1,59 +1,5 @@
 [
   {
-    "name": "Kerala Dust, Amiture",
-    "venue": "Music Hall of Williamsburg",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-06"
-  },
-  {
-    "name": "Andy Stott",
-    "venue": "Pioneer Works",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-06"
-  },
-  {
-    "name": "Dombrance",
-    "venue": "Jean's",
-    "location": "New York, NY",
-    "date": "2025-11-06"
-  },
-  {
-    "name": "Woodshop presented by Out and Abt",
-    "venue": "Cargo at Dead Letter No. 9",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-06"
-  },
-  {
-    "name": "TEE EM DEE, Daye",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-06"
-  },
-  {
-    "name": "Panteros666",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-06"
-  },
-  {
-    "name": "Nabihah Iqbal, Zara Dekho",
-    "venue": "Mood Ring",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-06"
-  },
-  {
-    "name": "Kilbourne, Relaxer, Leonce",
-    "venue": "Nowadays",
-    "location": "New York, NY",
-    "date": "2025-11-06"
-  },
-  {
-    "name": "Durations",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-06"
-  },
-  {
     "name": "Noizu",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -84,14 +30,8 @@
     "date": "2025-11-07"
   },
   {
-    "name": "Ely Oaks",
-    "venue": "154 Scott Ave",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-07"
-  },
-  {
-    "name": "Joey Beltram, 1morning, Juno, Cosmo, S4M23",
-    "venue": "Paragon",
+    "name": "HoneyLuv, Dennis Free, Karl Brisseaux, Jay Esko",
+    "venue": "Elsewhere",
     "location": "Brooklyn, NY",
     "date": "2025-11-07"
   },
@@ -238,5 +178,71 @@
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-11-12"
+  },
+  {
+    "name": "Listening Session",
+    "venue": "Silence Please",
+    "location": "New York, NY",
+    "date": "2025-11-12"
+  },
+  {
+    "name": "Sebastian Ingrosso",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-11-13"
+  },
+  {
+    "name": "Tractorbeam",
+    "venue": "Elsewhere Hall",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-13"
+  },
+  {
+    "name": "Kurilo, Mazko A",
+    "venue": "H0L0",
+    "location": "New York, NY",
+    "date": "2025-11-13"
+  },
+  {
+    "name": "Brendan Kyle, Excalibur P, N.B. Rhythm, Tuesday Clark",
+    "venue": "Jupiter Disco",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-13"
+  },
+  {
+    "name": "Sooo 2016 - Party like it's summer 2016",
+    "venue": "Market Hotel",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-13"
+  },
+  {
+    "name": "Conditioner: BATTYGYAL, Swaya, Meth Math, umru, .cutspace, Rabit",
+    "venue": "Nowadays",
+    "location": "New York, NY",
+    "date": "2025-11-13"
+  },
+  {
+    "name": "Outer Heaven Presents",
+    "venue": "Outer Heaven NYC",
+    "location": "New York, NY",
+    "date": "2025-11-13"
+  },
+  {
+    "name": "Sublee, Alex Dima, Woreq, J. Richards",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-13"
+  },
+  {
+    "name": "In Flagrante Delicto: LeBRON, Sznl, Dorian Flagrant, Dr Miracle",
+    "venue": "Sleepwalk",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-13"
+  },
+  {
+    "name": "Analog Future",
+    "venue": "Early Terrible New York City",
+    "location": "New York, NY",
+    "date": "2025-11-13"
   }
 ]
