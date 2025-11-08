@@ -1,47 +1,5 @@
 [
   {
-    "name": "Noizu",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-11-07"
-  },
-  {
-    "name": "Adventure Club, Borgore, SwitchBlades, Dream Takers",
-    "venue": "Terminal 5",
-    "location": "New York, NY",
-    "date": "2025-11-07"
-  },
-  {
-    "name": "Live Nation and Project 91 Presents: MC4D, Leondis, Coastr, Auxshan",
-    "venue": "Irving Plaza",
-    "location": "New York, NY",
-    "date": "2025-11-07"
-  },
-  {
-    "name": "Interplanetary Criminal, Effy, X & Ivy (Party Shirt)",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-11-07"
-  },
-  {
-    "name": "Skepsis, Yetti",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-07"
-  },
-  {
-    "name": "HoneyLuv, Dennis Free, Karl Brisseaux, Jay Esko",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-07"
-  },
-  {
-    "name": "Open to close, no phone policy",
-    "venue": "53 Scott Ave",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-07"
-  },
-  {
     "name": "Afrojack",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -114,7 +72,7 @@
     "date": "2025-11-09"
   },
   {
-    "name": "Sunday Skate Club ft",
+    "name": "Sunday Skate Club",
     "venue": "Xanadu Roller Arts",
     "location": "Brooklyn, NY",
     "date": "2025-11-09"
@@ -244,5 +202,59 @@
     "venue": "Early Terrible New York City",
     "location": "New York, NY",
     "date": "2025-11-13"
+  },
+  {
+    "name": "KSHMR",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-11-14"
+  },
+  {
+    "name": "The Ornate Project: Funk Tribu, JSMN",
+    "venue": "Park Slope Warehouse",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-14"
+  },
+  {
+    "name": "by Gray Area: Duke Dumont, Perel, Branqueeno",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-11-14"
+  },
+  {
+    "name": "Dial Showcase: Eddie Fowlkes, Zeina, Lauren Ritter, Dor Levi",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-14"
+  },
+  {
+    "name": "The Disco Biscuits",
+    "venue": "Brooklyn Steel",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-14"
+  },
+  {
+    "name": "Borgeous",
+    "venue": "Superior Ingredients",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-14"
+  },
+  {
+    "name": "Junkie Kid, HELLBOUND!",
+    "venue": "The Meadows Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-14"
+  },
+  {
+    "name": "Firebeatz",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-11-14"
+  },
+  {
+    "name": "Disco Biscuits Late Night: DJ Brownie (of Disco Biscuits), Chris G, Newpy Hundo",
+    "venue": "Sultan Room",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-14"
   }
 ]
