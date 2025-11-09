@@ -1,63 +1,9 @@
 [
   {
-    "name": "Afrojack",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-11-08"
-  },
-  {
-    "name": "MoBlack, Falyn, Val Fleury, Samantha Michelle, Sam Hysell",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-08"
-  },
-  {
     "name": "Kaytranada, Justice, Busy P",
     "venue": "Barclays Center",
     "location": "Brooklyn, NY",
-    "date": "2025-11-08"
-  },
-  {
-    "name": "Fish56Octagon, JEV",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2025-11-08"
-  },
-  {
-    "name": "Opiuo, parkbreezy, AURAcle",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-08"
-  },
-  {
-    "name": "HEYZ",
-    "venue": "The Wood Shop",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-08"
-  },
-  {
-    "name": "KREAM",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-11-08"
-  },
-  {
-    "name": "19:26, Henri Bergmann, Pagoda, Jono Stephenson",
-    "venue": "Superior Ingredients (Main Room)",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-08"
-  },
-  {
-    "name": "Rush, 999999999, Anetha, Mos",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-11-08"
-  },
-  {
-    "name": "Afro House Music Party",
-    "venue": "Acoustik Garden Lounge",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-08"
+    "date": "2025-11-09"
   },
   {
     "name": "Patrick Shiroishi, Jeff Parker, Fergus Jones, M. Sage, Lyra Pramuk, Call Super, Amelia Holt",
@@ -78,15 +24,15 @@
     "date": "2025-11-09"
   },
   {
-    "name": "718 Sessions",
-    "venue": "Good Room",
+    "name": "ConTEAnenental: Patrick Kyle",
+    "venue": "Body By Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-11-09"
   },
   {
-    "name": "Sasha Crush",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
+    "name": "Presented by Forest D\u00f6wn Under: Tom Enzy, Stoon, Alexandros, Fomore",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
     "date": "2025-11-09"
   },
   {
@@ -156,15 +102,15 @@
     "date": "2025-11-13"
   },
   {
-    "name": "Kurilo, Mazko A",
-    "venue": "H0L0",
-    "location": "New York, NY",
+    "name": "Debauch x S1 Records: Frankie Bones, Rage.inald, Steen",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
     "date": "2025-11-13"
   },
   {
-    "name": "Brendan Kyle, Excalibur P, N.B. Rhythm, Tuesday Clark",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
+    "name": "Kurilo, Mazko A",
+    "venue": "H0L0",
+    "location": "New York, NY",
     "date": "2025-11-13"
   },
   {
@@ -180,26 +126,26 @@
     "date": "2025-11-13"
   },
   {
-    "name": "Outer Heaven Presents",
-    "venue": "Outer Heaven NYC",
-    "location": "New York, NY",
-    "date": "2025-11-13"
-  },
-  {
     "name": "Sublee, Alex Dima, Woreq, J. Richards",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-11-13"
   },
   {
-    "name": "In Flagrante Delicto: LeBRON, Sznl, Dorian Flagrant, Dr Miracle",
-    "venue": "Sleepwalk",
+    "name": "Analog Future",
+    "venue": "Early Terrible New York City",
+    "location": "New York, NY",
+    "date": "2025-11-13"
+  },
+  {
+    "name": "Cadence Presents",
+    "venue": "Dead Letter No. 9",
     "location": "Brooklyn, NY",
     "date": "2025-11-13"
   },
   {
-    "name": "Analog Future",
-    "venue": "Early Terrible New York City",
+    "name": "PENTHOUSE X Le Bain: planetperris",
+    "venue": "Le Bain",
     "location": "New York, NY",
     "date": "2025-11-13"
   },
@@ -256,5 +202,59 @@
     "venue": "Sultan Room",
     "location": "Brooklyn, NY",
     "date": "2025-11-14"
+  },
+  {
+    "name": "Claptone",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-11-15"
+  },
+  {
+    "name": "Infected Mushroom",
+    "venue": "Brooklyn Monarch",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-15"
+  },
+  {
+    "name": "by Gray Area: Bora Uzer, Julia Sandstorm, Lauren Murada",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-15"
+  },
+  {
+    "name": "TOBEHONEST, Broken Hill, Welker, Stixx",
+    "venue": "Superior Ingredients (Main Room)",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-15"
+  },
+  {
+    "name": "SABAI, HALIENE, Dreamdriver, Miles Away",
+    "venue": "Terminal 5",
+    "location": "New York, NY",
+    "date": "2025-11-15"
+  },
+  {
+    "name": "Vandelux",
+    "venue": "Racket New York",
+    "location": "New York, NY",
+    "date": "2025-11-15"
+  },
+  {
+    "name": "The Nightlife: Honey Dijon, livwutang",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-11-15"
+  },
+  {
+    "name": "Bassjackers",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-11-15"
+  },
+  {
+    "name": "Wahala: DJ Assault, MikeQ, sola system, wahala.wav",
+    "venue": "Paragon",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-15"
   }
 ]
