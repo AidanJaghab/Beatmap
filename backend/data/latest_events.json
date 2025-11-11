@@ -1,11 +1,5 @@
 [
   {
-    "name": "The Official Monday Morning Party: JIRET_NYC, KUFF",
-    "venue": "20 Meadow Street",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-10"
-  },
-  {
     "name": "Tuesday Baby Tuesday",
     "venue": "Nebula",
     "location": "New York, NY",
@@ -32,6 +26,12 @@
   {
     "name": "Listening Session",
     "venue": "Silence Please",
+    "location": "New York, NY",
+    "date": "2025-11-12"
+  },
+  {
+    "name": "Eli Escobar",
+    "venue": "Le Bain",
     "location": "New York, NY",
     "date": "2025-11-12"
   },
@@ -72,12 +72,6 @@
     "date": "2025-11-13"
   },
   {
-    "name": "Sublee, Alex Dima, Woreq, J. Richards",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-13"
-  },
-  {
     "name": "Analog Future",
     "venue": "Early Terrible New York City",
     "location": "New York, NY",
@@ -108,7 +102,7 @@
     "date": "2025-11-14"
   },
   {
-    "name": "by Gray Area: Duke Dumont, Perel, Branqueeno",
+    "name": "Duke Dumont, Perel, Branqueeno",
     "venue": "Knockdown Center",
     "location": "New York, NY",
     "date": "2025-11-14"
@@ -162,7 +156,7 @@
     "date": "2025-11-15"
   },
   {
-    "name": "by Gray Area: Bora Uzer, Julia Sandstorm, Lauren Murada",
+    "name": "Bora Uzer, Julia Sandstorm, Lauren Murada",
     "venue": "99 Scott",
     "location": "Brooklyn, NY",
     "date": "2025-11-15"
@@ -182,6 +176,12 @@
   {
     "name": "Vandelux",
     "venue": "Racket New York",
+    "location": "New York, NY",
+    "date": "2025-11-15"
+  },
+  {
+    "name": "The Tides Of Change: Josh Teed, Daggz, Mantra Sounds",
+    "venue": "Melrose Ballroom",
     "location": "New York, NY",
     "date": "2025-11-15"
   },
@@ -240,18 +240,6 @@
     "date": "2025-11-16"
   },
   {
-    "name": "Honcho, Mystic Bill, Maenad",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-16"
-  },
-  {
-    "name": "Robert Owens, GROOVECREATOR",
-    "venue": "The Ornate Studio",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-16"
-  },
-  {
     "name": "All proceeds to Building Beats",
     "venue": "286 Meserole St",
     "location": "Brooklyn, NY",
@@ -260,6 +248,12 @@
   {
     "name": "Sounday's Listen: Davide Mentesana, Italuv, Migue Rodriguez, March",
     "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-16"
+  },
+  {
+    "name": "Day Party with Art Expo & Vendors!",
+    "venue": "Aura Cocina",
     "location": "Brooklyn, NY",
     "date": "2025-11-16"
   }
