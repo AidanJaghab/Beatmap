@@ -1,11 +1,5 @@
 [
   {
-    "name": "Tuesday Baby Tuesday",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-11-11"
-  },
-  {
     "name": "Steen",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
@@ -45,6 +39,12 @@
     "name": "Tractorbeam",
     "venue": "Elsewhere Hall",
     "location": "Brooklyn, NY",
+    "date": "2025-11-13"
+  },
+  {
+    "name": "Where Else Thursdays?",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
     "date": "2025-11-13"
   },
   {
@@ -180,12 +180,6 @@
     "date": "2025-11-15"
   },
   {
-    "name": "The Tides Of Change: Josh Teed, Daggz, Mantra Sounds",
-    "venue": "Melrose Ballroom",
-    "location": "New York, NY",
-    "date": "2025-11-15"
-  },
-  {
     "name": "The Nightlife: Honey Dijon, livwutang",
     "venue": "Knockdown Center",
     "location": "New York, NY",
@@ -228,15 +222,15 @@
     "date": "2025-11-16"
   },
   {
-    "name": "Amir Egozy, Onili",
-    "venue": "Moondog HiFi",
+    "name": "Honcho, Mystic Bill, Maenad",
+    "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-11-16"
   },
   {
-    "name": "The Carry Nation",
-    "venue": "Rumi",
-    "location": "New York, NY",
+    "name": "Robert Owens, GROOVECREATOR",
+    "venue": "The Ornate Studio",
+    "location": "Brooklyn, NY",
     "date": "2025-11-16"
   },
   {
@@ -256,5 +250,17 @@
     "venue": "Aura Cocina",
     "location": "Brooklyn, NY",
     "date": "2025-11-16"
+  },
+  {
+    "name": "Tuesday Baby Tuesday",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-11-18"
+  },
+  {
+    "name": "Jus-Ske",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2025-11-18"
   }
 ]
