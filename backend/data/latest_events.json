@@ -1,35 +1,5 @@
 [
   {
-    "name": "Steen",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-12"
-  },
-  {
-    "name": "Jay Prouty",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-12"
-  },
-  {
-    "name": "Tamada, baer-e, NoahShea, RYDER, Jeffery",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-12"
-  },
-  {
-    "name": "Listening Session",
-    "venue": "Silence Please",
-    "location": "New York, NY",
-    "date": "2025-11-12"
-  },
-  {
-    "name": "Eli Escobar",
-    "venue": "Le Bain",
-    "location": "New York, NY",
-    "date": "2025-11-12"
-  },
-  {
     "name": "Sebastian Ingrosso",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -39,12 +9,6 @@
     "name": "Tractorbeam",
     "venue": "Elsewhere Hall",
     "location": "Brooklyn, NY",
-    "date": "2025-11-13"
-  },
-  {
-    "name": "Where Else Thursdays?",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
     "date": "2025-11-13"
   },
   {
@@ -192,14 +156,14 @@
     "date": "2025-11-15"
   },
   {
-    "name": "Doubleheader: Gene Farris, The Shapeshifters, Edd, Malcolm Zeller, Kisin, HANZONDECK",
-    "venue": "Superior Ingredients (Rooftop)",
+    "name": "Rudimental, GEE LEE, Yetti, Samisosa",
+    "venue": "Elsewhere",
     "location": "Brooklyn, NY",
-    "date": "2025-11-16"
+    "date": "2025-11-15"
   },
   {
-    "name": "Sundays in the Atrium: Justin Cudmore, Hercules & Love Affair",
-    "venue": "Public Records",
+    "name": "Doubleheader: Gene Farris, The Shapeshifters, Edd, Malcolm Zeller, Kisin, HANZONDECK",
+    "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
     "date": "2025-11-16"
   },
@@ -222,21 +186,15 @@
     "date": "2025-11-16"
   },
   {
-    "name": "Honcho, Mystic Bill, Maenad",
-    "venue": "Signal Brooklyn",
+    "name": "Amir Egozy, Onili",
+    "venue": "Moondog HiFi",
     "location": "Brooklyn, NY",
     "date": "2025-11-16"
   },
   {
-    "name": "Robert Owens, GROOVECREATOR",
-    "venue": "The Ornate Studio",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-16"
-  },
-  {
-    "name": "All proceeds to Building Beats",
-    "venue": "286 Meserole St",
-    "location": "Brooklyn, NY",
+    "name": "The Carry Nation",
+    "venue": "Rumi",
+    "location": "New York, NY",
     "date": "2025-11-16"
   },
   {
@@ -252,6 +210,18 @@
     "date": "2025-11-16"
   },
   {
+    "name": "Sundays in the Atrium: Kim Anh, Jeffrey Sfire, Justin Cudmore",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-16"
+  },
+  {
+    "name": "Sunday Selectors",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-16"
+  },
+  {
     "name": "Tuesday Baby Tuesday",
     "venue": "Nebula",
     "location": "New York, NY",
@@ -262,5 +232,29 @@
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
     "date": "2025-11-18"
+  },
+  {
+    "name": "Steen",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-19"
+  },
+  {
+    "name": "Steen",
+    "venue": "Denizens NYC",
+    "location": "New York, NY",
+    "date": "2025-11-19"
+  },
+  {
+    "name": "Steen",
+    "venue": "Jupiter Disco",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-19"
+  },
+  {
+    "name": "Emiliano De Pasqual",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-19"
   }
 ]
