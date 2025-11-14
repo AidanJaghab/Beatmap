@@ -1,59 +1,5 @@
 [
   {
-    "name": "Sebastian Ingrosso",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-11-13"
-  },
-  {
-    "name": "Tractorbeam",
-    "venue": "Elsewhere Hall",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-13"
-  },
-  {
-    "name": "Debauch x S1 Records: Frankie Bones, Rage.inald, Steen",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-13"
-  },
-  {
-    "name": "Kurilo, Mazko A",
-    "venue": "H0L0",
-    "location": "New York, NY",
-    "date": "2025-11-13"
-  },
-  {
-    "name": "Sooo 2016 - Party like it's summer 2016",
-    "venue": "Market Hotel",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-13"
-  },
-  {
-    "name": "Conditioner: BATTYGYAL, Swaya, Meth Math, umru, .cutspace, Rabit",
-    "venue": "Nowadays",
-    "location": "New York, NY",
-    "date": "2025-11-13"
-  },
-  {
-    "name": "Analog Future",
-    "venue": "Early Terrible New York City",
-    "location": "New York, NY",
-    "date": "2025-11-13"
-  },
-  {
-    "name": "Cadence Presents",
-    "venue": "Dead Letter No. 9",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-13"
-  },
-  {
-    "name": "PENTHOUSE X Le Bain: planetperris",
-    "venue": "Le Bain",
-    "location": "New York, NY",
-    "date": "2025-11-13"
-  },
-  {
     "name": "KSHMR",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -174,27 +120,15 @@
     "date": "2025-11-16"
   },
   {
-    "name": "Come Together",
-    "venue": "Good Room",
+    "name": "Honcho, Mystic Bill, Maenad",
+    "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-11-16"
   },
   {
-    "name": "Antiics, Jeremy Giros",
-    "venue": "Jupiter Disco",
+    "name": "Robert Owens, GROOVECREATOR",
+    "venue": "The Ornate Studio",
     "location": "Brooklyn, NY",
-    "date": "2025-11-16"
-  },
-  {
-    "name": "Amir Egozy, Onili",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-16"
-  },
-  {
-    "name": "The Carry Nation",
-    "venue": "Rumi",
-    "location": "New York, NY",
     "date": "2025-11-16"
   },
   {
@@ -218,6 +152,12 @@
   {
     "name": "Sunday Selectors",
     "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-16"
+  },
+  {
+    "name": "Day Rooftop 1 Hotel Brooklyn",
+    "venue": "1 Hotel Brooklyn Bridge",
     "location": "Brooklyn, NY",
     "date": "2025-11-16"
   },
@@ -256,5 +196,65 @@
     "venue": "Moondog HiFi",
     "location": "Brooklyn, NY",
     "date": "2025-11-19"
+  },
+  {
+    "name": "Cut Chemist, Chali 2na",
+    "venue": "Brooklyn Bowl",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-20"
+  },
+  {
+    "name": "Rodney Chrome, Dylan Ali, Byrell The Great",
+    "venue": "Purgatory",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-20"
+  },
+  {
+    "name": "Where Else Thursdays?",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-11-20"
+  },
+  {
+    "name": "Planet Yes - Wicked: Dirtyfinger",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-20"
+  },
+  {
+    "name": "VOLLKOMMEN Berlin in NYC: TIZI, Mark La Placa, Nik Andersson",
+    "venue": "Laissez Faire",
+    "location": "New York, NY",
+    "date": "2025-11-20"
+  },
+  {
+    "name": "Heat House - The Road to Nairobi",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-20"
+  },
+  {
+    "name": "Green Room Presents: KRN, Max Sprauer, Camilla",
+    "venue": "195 Morgan Avenue",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-20"
+  },
+  {
+    "name": "Techno Thursdays: Lanat b2b Briela Veneno",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-20"
+  },
+  {
+    "name": "Outer Heaven Presents",
+    "venue": "Outer Heaven NYC",
+    "location": "New York, NY",
+    "date": "2025-11-20"
+  },
+  {
+    "name": "Late Replies",
+    "venue": "Superior Ingredients",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-20"
   }
 ]
