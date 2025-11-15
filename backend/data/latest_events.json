@@ -1,59 +1,5 @@
 [
   {
-    "name": "KSHMR",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-11-14"
-  },
-  {
-    "name": "The Ornate Project: Funk Tribu, JSMN",
-    "venue": "Park Slope Warehouse",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-14"
-  },
-  {
-    "name": "Duke Dumont, Perel, Branqueeno",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-11-14"
-  },
-  {
-    "name": "Dial Showcase: Eddie Fowlkes, Zeina, Lauren Ritter, Dor Levi",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-14"
-  },
-  {
-    "name": "The Disco Biscuits",
-    "venue": "Brooklyn Steel",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-14"
-  },
-  {
-    "name": "Borgeous",
-    "venue": "Superior Ingredients",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-14"
-  },
-  {
-    "name": "Junkie Kid, HELLBOUND!",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-14"
-  },
-  {
-    "name": "Firebeatz",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-11-14"
-  },
-  {
-    "name": "Disco Biscuits Late Night: DJ Brownie (of Disco Biscuits), Chris G, Newpy Hundo",
-    "venue": "Sultan Room",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-14"
-  },
-  {
     "name": "Claptone",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -120,6 +66,12 @@
     "date": "2025-11-16"
   },
   {
+    "name": "Come Together",
+    "venue": "Good Room",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-16"
+  },
+  {
     "name": "Honcho, Mystic Bill, Maenad",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
@@ -128,12 +80,6 @@
   {
     "name": "Robert Owens, GROOVECREATOR",
     "venue": "The Ornate Studio",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-16"
-  },
-  {
-    "name": "Sounday's Listen: Davide Mentesana, Italuv, Migue Rodriguez, March",
-    "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-11-16"
   },
@@ -210,6 +156,12 @@
     "date": "2025-11-20"
   },
   {
+    "name": "Minty Boi Presents: Evanora Unlimited",
+    "venue": "Market Hotel",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-20"
+  },
+  {
     "name": "Where Else Thursdays?",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
@@ -225,18 +177,6 @@
     "name": "VOLLKOMMEN Berlin in NYC: TIZI, Mark La Placa, Nik Andersson",
     "venue": "Laissez Faire",
     "location": "New York, NY",
-    "date": "2025-11-20"
-  },
-  {
-    "name": "Heat House - The Road to Nairobi",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-20"
-  },
-  {
-    "name": "Green Room Presents: KRN, Max Sprauer, Camilla",
-    "venue": "195 Morgan Avenue",
-    "location": "Brooklyn, NY",
     "date": "2025-11-20"
   },
   {
@@ -256,5 +196,65 @@
     "venue": "Superior Ingredients",
     "location": "Brooklyn, NY",
     "date": "2025-11-20"
+  },
+  {
+    "name": "Leg Room",
+    "venue": "Cargo at Dead Letter No. 9",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-20"
+  },
+  {
+    "name": "Two Friends",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-11-21"
+  },
+  {
+    "name": "Cut Copy, Ora The Molecule",
+    "venue": "Brooklyn Steel",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-21"
+  },
+  {
+    "name": "Rabbit in the Moon",
+    "venue": "Brooklyn Bowl",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-21"
+  },
+  {
+    "name": "Sam Divine, Club Angel, Chaney, Gigi Rio, Not That Serious",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-21"
+  },
+  {
+    "name": "Tadeo, Julia Govor, Heels & Souls, Zotos",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-21"
+  },
+  {
+    "name": "Night Tales, LAPORTE, Zak Leever",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-21"
+  },
+  {
+    "name": "The Juan Maclean, Justin Strauss, Renata Do Valle, Carlo Sine",
+    "venue": "Cargo at Dead Letter No. 9",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-21"
+  },
+  {
+    "name": "Juany Bravo",
+    "venue": "Virgo New York",
+    "location": "New York, NY",
+    "date": "2025-11-21"
+  },
+  {
+    "name": "Lucas & Steve",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-11-21"
   }
 ]
