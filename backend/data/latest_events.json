@@ -1,59 +1,5 @@
 [
   {
-    "name": "Doubleheader: Gene Farris, The Shapeshifters, Edd, Malcolm Zeller, Kisin, HANZONDECK",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-16"
-  },
-  {
-    "name": "Sunday Skate Club: Toribio, Mat\u00fck",
-    "venue": "Xanadu Roller Arts",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-16"
-  },
-  {
-    "name": "Come Together",
-    "venue": "Good Room",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-16"
-  },
-  {
-    "name": "BATTLE HYMN Amanda Lepore's Birthday: Tedd Patterson, The Carry Nation",
-    "venue": "Rumi",
-    "location": "New York, NY",
-    "date": "2025-11-16"
-  },
-  {
-    "name": "Honcho, Mystic Bill, Maenad",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-16"
-  },
-  {
-    "name": "Day Party with Art Expo & Vendors!",
-    "venue": "Aura Cocina",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-16"
-  },
-  {
-    "name": "Sundays in the Atrium: Kim Anh, Jeffrey Sfire, Justin Cudmore",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-16"
-  },
-  {
-    "name": "Sunday Selectors",
-    "venue": "Refuge",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-16"
-  },
-  {
-    "name": "Day Rooftop 1 Hotel Brooklyn",
-    "venue": "1 Hotel Brooklyn Bridge",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-16"
-  },
-  {
     "name": "Tuesday Baby Tuesday",
     "venue": "Nebula",
     "location": "New York, NY",
@@ -228,7 +174,7 @@
     "date": "2025-11-22"
   },
   {
-    "name": "Jai Wolf, Firungi, Banglaboy",
+    "name": "Jai Wolf, Firungi, BANGLABOY",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
     "date": "2025-11-22"
@@ -256,5 +202,59 @@
     "venue": "House of Yes",
     "location": "Brooklyn, NY",
     "date": "2025-11-22"
+  },
+  {
+    "name": "Apache, Olaf, Monobase, Cameron Jack, Kamcoco",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-23"
+  },
+  {
+    "name": "Presented by Forest D\u00f6wn Under: Cristian Arango",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-11-23"
+  },
+  {
+    "name": "Nicole Kidman, Makadsi, Leonce, Rose Kourts",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-23"
+  },
+  {
+    "name": "Under Construction",
+    "venue": "Sultan Room",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-23"
+  },
+  {
+    "name": "Sunday Skate Club: Jeffrey Sfire, Ben Zo",
+    "venue": "Xanadu Roller Arts",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-23"
+  },
+  {
+    "name": "Kayo, Sal Paradise, Matt Atkinson",
+    "venue": "Cargo at Dead Letter No. 9",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-23"
+  },
+  {
+    "name": "Your Shot 2025: CHerrera",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-23"
+  },
+  {
+    "name": "Shelter - Rememberance",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-23"
+  },
+  {
+    "name": "Undr-nyc",
+    "venue": "Long Island City",
+    "location": "New York, NY",
+    "date": "2025-11-23"
   }
 ]
