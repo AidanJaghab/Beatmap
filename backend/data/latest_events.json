@@ -48,12 +48,6 @@
     "date": "2025-11-20"
   },
   {
-    "name": "Minty Boi Presents: Evanora Unlimited",
-    "venue": "Market Hotel",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-20"
-  },
-  {
     "name": "Where Else Thursdays?",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
@@ -69,6 +63,12 @@
     "name": "VOLLKOMMEN Berlin in NYC: TIZI, Mark La Placa, Nik Andersson",
     "venue": "Laissez Faire",
     "location": "New York, NY",
+    "date": "2025-11-20"
+  },
+  {
+    "name": "Green Room Presents: KRN, Max Sprauer, Camilla",
+    "venue": "195 Morgan Avenue",
+    "location": "Brooklyn, NY",
     "date": "2025-11-20"
   },
   {
@@ -210,12 +210,6 @@
     "date": "2025-11-23"
   },
   {
-    "name": "Presented by Forest D\u00f6wn Under: Cristian Arango",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-11-23"
-  },
-  {
     "name": "Nicole Kidman, Makadsi, Leonce, Rose Kourts",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
@@ -255,6 +249,12 @@
     "name": "Undr-nyc",
     "venue": "Long Island City",
     "location": "New York, NY",
+    "date": "2025-11-23"
+  },
+  {
+    "name": "Sunday Selectors: Tony Humphries",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
     "date": "2025-11-23"
   }
 ]
