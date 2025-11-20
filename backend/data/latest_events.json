@@ -1,29 +1,5 @@
 [
   {
-    "name": "Steen",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-19"
-  },
-  {
-    "name": "Steen",
-    "venue": "Denizens NYC",
-    "location": "New York, NY",
-    "date": "2025-11-19"
-  },
-  {
-    "name": "Steen",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-19"
-  },
-  {
-    "name": "Emiliano De Pasqual",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-19"
-  },
-  {
     "name": "Cut Chemist, Chali 2na",
     "venue": "Brooklyn Bowl",
     "location": "Brooklyn, NY",
@@ -32,12 +8,6 @@
   {
     "name": "Rodney Chrome, Dylan Ali, Byrell The Great",
     "venue": "Purgatory",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-20"
-  },
-  {
-    "name": "Minty Boi Presents: Evanora Unlimited",
-    "venue": "Market Hotel",
     "location": "Brooklyn, NY",
     "date": "2025-11-20"
   },
@@ -57,6 +27,12 @@
     "name": "VOLLKOMMEN Berlin in NYC: TIZI, Mark La Placa, Nik Andersson",
     "venue": "Laissez Faire",
     "location": "New York, NY",
+    "date": "2025-11-20"
+  },
+  {
+    "name": "Green Room Presents: KRN, Max Sprauer, Camilla",
+    "venue": "195 Morgan Avenue",
+    "location": "Brooklyn, NY",
     "date": "2025-11-20"
   },
   {
@@ -198,12 +174,6 @@
     "date": "2025-11-23"
   },
   {
-    "name": "Presented by Forest D\u00f6wn Under: Cristian Arango",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-11-23"
-  },
-  {
     "name": "Nicole Kidman, Makadsi, Leonce, Rose Kourts",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
@@ -212,12 +182,6 @@
   {
     "name": "Under Construction",
     "venue": "Sultan Room",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-23"
-  },
-  {
-    "name": "Sunday Skate Club: Jeffrey Sfire, Ben Zo",
-    "venue": "Xanadu Roller Arts",
     "location": "Brooklyn, NY",
     "date": "2025-11-23"
   },
@@ -246,6 +210,18 @@
     "date": "2025-11-23"
   },
   {
+    "name": "Raw Area",
+    "venue": "20 Meadow Street",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-23"
+  },
+  {
+    "name": "Serge Devant",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-23"
+  },
+  {
     "name": "Steen, FLWRSHRK, Bojaq",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
@@ -262,5 +238,59 @@
     "venue": "Nebula",
     "location": "New York, NY",
     "date": "2025-11-25"
+  },
+  {
+    "name": "Joel Corry",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-11-26"
+  },
+  {
+    "name": "Sam Alfred, Silva Bumpa",
+    "venue": "Elsewhere Hall",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-26"
+  },
+  {
+    "name": "Perry Wayne, BRAINRACK, Nikademis",
+    "venue": "Superior Ingredients (Main Room)",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-26"
+  },
+  {
+    "name": "F*ck It, We Dance: Dana Montana, Boyyyish",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-26"
+  },
+  {
+    "name": "Patrice B\u00e4umel",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-26"
+  },
+  {
+    "name": "Rafa Barrios, Kofla, Cicibi",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-26"
+  },
+  {
+    "name": "Oscar G",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-26"
+  },
+  {
+    "name": "Local Support Presents: Laidback Luke",
+    "venue": "Captain Lawrence Brewery",
+    "location": "New York, NY",
+    "date": "2025-11-26"
+  },
+  {
+    "name": "The Ginseng Museum Exhibition: kimj, SEBii, Dachen",
+    "venue": "Rash",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-26"
   }
 ]
