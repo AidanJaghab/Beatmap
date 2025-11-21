@@ -1,65 +1,5 @@
 [
   {
-    "name": "Cut Chemist, Chali 2na",
-    "venue": "Brooklyn Bowl",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-20"
-  },
-  {
-    "name": "Rodney Chrome, Dylan Ali, Byrell The Great",
-    "venue": "Purgatory",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-20"
-  },
-  {
-    "name": "Where Else Thursdays?",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-11-20"
-  },
-  {
-    "name": "Planet Yes - Wicked: Dirtyfinger",
-    "venue": "House of Yes",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-20"
-  },
-  {
-    "name": "VOLLKOMMEN Berlin in NYC: TIZI, Mark La Placa, Nik Andersson",
-    "venue": "Laissez Faire",
-    "location": "New York, NY",
-    "date": "2025-11-20"
-  },
-  {
-    "name": "Green Room Presents: KRN, Max Sprauer, Camilla",
-    "venue": "195 Morgan Avenue",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-20"
-  },
-  {
-    "name": "Techno Thursdays: Lanat b2b Briela Veneno",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-20"
-  },
-  {
-    "name": "Outer Heaven Presents",
-    "venue": "Outer Heaven NYC",
-    "location": "New York, NY",
-    "date": "2025-11-20"
-  },
-  {
-    "name": "Late Replies",
-    "venue": "Superior Ingredients",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-20"
-  },
-  {
-    "name": "Leg Room",
-    "venue": "Cargo at Dead Letter No. 9",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-20"
-  },
-  {
     "name": "Two Friends",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -74,12 +14,6 @@
   {
     "name": "Rabbit in the Moon",
     "venue": "Brooklyn Bowl",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-21"
-  },
-  {
-    "name": "Sam Divine, Club Angel, Chaney, Gigi Rio, Not That Serious",
-    "venue": "Elsewhere",
     "location": "Brooklyn, NY",
     "date": "2025-11-21"
   },
@@ -111,6 +45,12 @@
     "name": "Lucas & Steve",
     "venue": "Nebula",
     "location": "New York, NY",
+    "date": "2025-11-21"
+  },
+  {
+    "name": "Sam Divine, Club Angel, Chaney, Gigi Rio, Not That Serious, softer, TIGRR, Bomba Zeen",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
     "date": "2025-11-21"
   },
   {
@@ -198,7 +138,7 @@
     "date": "2025-11-23"
   },
   {
-    "name": "Undr-nyc",
+    "name": "UNDR-NYC",
     "venue": "Long Island City",
     "location": "New York, NY",
     "date": "2025-11-23"
@@ -219,6 +159,12 @@
     "name": "Serge Devant",
     "venue": "Refuge",
     "location": "Brooklyn, NY",
+    "date": "2025-11-23"
+  },
+  {
+    "name": "Fran\u00e7ois K",
+    "venue": "Le Bain",
+    "location": "New York, NY",
     "date": "2025-11-23"
   },
   {
@@ -292,5 +238,17 @@
     "venue": "Rash",
     "location": "Brooklyn, NY",
     "date": "2025-11-26"
+  },
+  {
+    "name": "Gustavo Dominguez, Cristian Arango, VNUZ",
+    "venue": "Superior Ingredients (Main Room)",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-27"
+  },
+  {
+    "name": "Techno Thursdays: D\u00d8MINA, Sanchez Jr.",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-27"
   }
 ]
