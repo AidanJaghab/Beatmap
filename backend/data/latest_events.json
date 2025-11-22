@@ -1,59 +1,5 @@
 [
   {
-    "name": "Two Friends",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-11-21"
-  },
-  {
-    "name": "Cut Copy, Ora The Molecule",
-    "venue": "Brooklyn Steel",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-21"
-  },
-  {
-    "name": "Rabbit in the Moon",
-    "venue": "Brooklyn Bowl",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-21"
-  },
-  {
-    "name": "Tadeo, Julia Govor, Heels & Souls, Zotos",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-21"
-  },
-  {
-    "name": "Night Tales, LAPORTE, Zak Leever",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-21"
-  },
-  {
-    "name": "The Juan Maclean, Justin Strauss, Renata Do Valle, Carlo Sine",
-    "venue": "Cargo at Dead Letter No. 9",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-21"
-  },
-  {
-    "name": "Juany Bravo",
-    "venue": "Virgo New York",
-    "location": "New York, NY",
-    "date": "2025-11-21"
-  },
-  {
-    "name": "Lucas & Steve",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-11-21"
-  },
-  {
-    "name": "Sam Divine, Club Angel, Chaney, Gigi Rio, Not That Serious, softer, TIGRR, Bomba Zeen",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-21"
-  },
-  {
     "name": "Benny Benassi",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -66,7 +12,7 @@
     "date": "2025-11-22"
   },
   {
-    "name": "CYCLOPS",
+    "name": "CYCLOPS, BA1i, LUCIU$, On The Hunt, GuyGuy",
     "venue": "17 Meadow St",
     "location": "Brooklyn, NY",
     "date": "2025-11-22"
@@ -84,21 +30,15 @@
     "date": "2025-11-22"
   },
   {
+    "name": "Yotto",
+    "venue": "Car Park",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-22"
+  },
+  {
     "name": "UNIIQU3, AceMo, flotussin",
     "venue": "Paragon",
     "location": "Brooklyn, NY",
-    "date": "2025-11-22"
-  },
-  {
-    "name": "Jesse Calosso",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-22"
-  },
-  {
-    "name": "Jaden Bojsen",
-    "venue": "Nebula",
-    "location": "New York, NY",
     "date": "2025-11-22"
   },
   {
@@ -132,12 +72,6 @@
     "date": "2025-11-23"
   },
   {
-    "name": "Shelter - Rememberance",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-23"
-  },
-  {
     "name": "UNDR-NYC",
     "venue": "Long Island City",
     "location": "New York, NY",
@@ -165,6 +99,12 @@
     "name": "Fran\u00e7ois K",
     "venue": "Le Bain",
     "location": "New York, NY",
+    "date": "2025-11-23"
+  },
+  {
+    "name": "Club Advisory After Party",
+    "venue": "UNVEILED",
+    "location": "Brooklyn, NY",
     "date": "2025-11-23"
   },
   {
@@ -250,5 +190,65 @@
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-11-27"
+  },
+  {
+    "name": "Timmy Trumpet",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-11-28"
+  },
+  {
+    "name": "Teksupport: KETTAMA",
+    "venue": "Brooklyn Steel",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-28"
+  },
+  {
+    "name": "Township Rebellion",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-28"
+  },
+  {
+    "name": "Slumber Party: Mak\u00e8z, Yasmin",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-28"
+  },
+  {
+    "name": "Soulection: Joe Kay, Gia Fu",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-11-28"
+  },
+  {
+    "name": "Mike Williams",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-11-28"
+  },
+  {
+    "name": "Afters: Levity",
+    "venue": "Brooklyn Bowl",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-28"
+  },
+  {
+    "name": "Cosmjn, Kurilo, J. Richards, Adree",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-28"
+  },
+  {
+    "name": "Claudio PRC, Isabel Soto, Convextion, Henry Chow, Malik Abdul-Rahmaan",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-28"
+  },
+  {
+    "name": "WTCHCRFT",
+    "venue": "Rash",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-28"
   }
 ]
