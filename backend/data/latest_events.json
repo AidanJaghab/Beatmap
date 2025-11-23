@@ -1,53 +1,5 @@
 [
   {
-    "name": "Benny Benassi",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-11-22"
-  },
-  {
-    "name": "LYNY, Stooki Sound, Dabow",
-    "venue": "Brooklyn Monarch",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-22"
-  },
-  {
-    "name": "CYCLOPS, BA1i, LUCIU$, On The Hunt, GuyGuy",
-    "venue": "17 Meadow St",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-22"
-  },
-  {
-    "name": "Giuseppe Ottaviani, Nifra, Castor & Pollux, SunrYse, 4Y\u00db",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-22"
-  },
-  {
-    "name": "Jai Wolf, Firungi, BANGLABOY",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-22"
-  },
-  {
-    "name": "Yotto",
-    "venue": "Car Park",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-22"
-  },
-  {
-    "name": "UNIIQU3, AceMo, flotussin",
-    "venue": "Paragon",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-22"
-  },
-  {
-    "name": "Palosanto: Oktave, NOMIS, Temil, Henry McBride",
-    "venue": "House of Yes",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-22"
-  },
-  {
     "name": "Apache, Olaf, Monobase, Cameron Jack, Kamcoco",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
@@ -246,9 +198,63 @@
     "date": "2025-11-28"
   },
   {
-    "name": "WTCHCRFT",
-    "venue": "Rash",
+    "name": "Zone One",
+    "venue": "Elsewhere",
     "location": "Brooklyn, NY",
     "date": "2025-11-28"
+  },
+  {
+    "name": "Open To Close: Paul van Dyk",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-29"
+  },
+  {
+    "name": "I Hate Models, Juliana Huxtable",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-11-29"
+  },
+  {
+    "name": "Benji B, Lovie, Jenifa Mayanja, D'Sean",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-29"
+  },
+  {
+    "name": "Giorgia Angiuli",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-29"
+  },
+  {
+    "name": "Neverdogs",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-29"
+  },
+  {
+    "name": "Mesto",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-11-29"
+  },
+  {
+    "name": "EUWHORIA, Tygapaw, Shyboi, CYB3R BULL, Xana, Lun\u00e1tica, XANA 101",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-29"
+  },
+  {
+    "name": "BOLO",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-29"
+  },
+  {
+    "name": "Luciano",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-11-29"
   }
 ]
