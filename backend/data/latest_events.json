@@ -1,65 +1,5 @@
 [
   {
-    "name": "Apache, Olaf, Monobase, Cameron Jack, Kamcoco",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-23"
-  },
-  {
-    "name": "Nicole Kidman, Makadsi, Leonce, Rose Kourts",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-23"
-  },
-  {
-    "name": "Under Construction",
-    "venue": "Sultan Room",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-23"
-  },
-  {
-    "name": "Your Shot 2025: CHerrera",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-23"
-  },
-  {
-    "name": "UNDR-NYC",
-    "venue": "Long Island City",
-    "location": "New York, NY",
-    "date": "2025-11-23"
-  },
-  {
-    "name": "Sunday Selectors: Tony Humphries",
-    "venue": "Refuge",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-23"
-  },
-  {
-    "name": "Raw Area",
-    "venue": "20 Meadow Street",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-23"
-  },
-  {
-    "name": "Serge Devant",
-    "venue": "Refuge",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-23"
-  },
-  {
-    "name": "Fran\u00e7ois K",
-    "venue": "Le Bain",
-    "location": "New York, NY",
-    "date": "2025-11-23"
-  },
-  {
-    "name": "Club Advisory After Party",
-    "venue": "UNVEILED",
-    "location": "Brooklyn, NY",
-    "date": "2025-11-23"
-  },
-  {
     "name": "Steen, FLWRSHRK, Bojaq",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
@@ -84,7 +24,7 @@
     "date": "2025-11-26"
   },
   {
-    "name": "Sam Alfred, Silva Bumpa",
+    "name": "Sam Alfred, Silva Bumpa, IN PARALLEL",
     "venue": "Elsewhere Hall",
     "location": "Brooklyn, NY",
     "date": "2025-11-26"
@@ -256,5 +196,59 @@
     "venue": "Marquee",
     "location": "New York, NY",
     "date": "2025-11-29"
+  },
+  {
+    "name": "I Hate Models",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-11-30"
+  },
+  {
+    "name": "Paul van Dyk, Luzi Tudor, Grum, SunrYse",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-30"
+  },
+  {
+    "name": "Teksupport: SOSA",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-30"
+  },
+  {
+    "name": "tylerfromwhere",
+    "venue": "Jupiter Disco",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-30"
+  },
+  {
+    "name": "rosewater: Ladji Mouflet, GabSoul, BOYDELL, ANICHE, SANA, $EJ, Anjali Taneja",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-30"
+  },
+  {
+    "name": "Mercury in Reggaeton - BROOKLYN: Sterling Juan Diaz, Pauli Cakes",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-30"
+  },
+  {
+    "name": "Crudo Presents: AADJA",
+    "venue": "20 Meadow Street",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-30"
+  },
+  {
+    "name": "Eli (of Soul Clap), Baby Prince, Rissa Garcia",
+    "venue": "The Ornate Studio",
+    "location": "Brooklyn, NY",
+    "date": "2025-11-30"
+  },
+  {
+    "name": "Fran\u00e7ois K",
+    "venue": "Le Bain",
+    "location": "New York, NY",
+    "date": "2025-11-30"
   }
 ]
