@@ -1,21 +1,9 @@
 [
   {
-    "name": "Kasper",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-12-03"
-  },
-  {
-    "name": "Steen",
-    "venue": "SILO Brooklyn",
+    "name": "Myd, Kels, nataliepops",
+    "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-12-03"
-  },
-  {
-    "name": "Matthew Law, TEE EM DEE",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-03"
+    "date": "2025-12-04"
   },
   {
     "name": "The Drop: Elliott LaRue, Noah Appel, Jojosoul",
@@ -24,26 +12,8 @@
     "date": "2025-12-04"
   },
   {
-    "name": "Neil Jackson, YMX",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-12-04"
-  },
-  {
     "name": "Totally Enormous Extinct Dinosaurs (TEED)",
     "venue": "Good Room",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-04"
-  },
-  {
-    "name": "Lounge Sessions: Anthony Romano, LEFTI, Josie.",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-04"
-  },
-  {
-    "name": "Green Room x Vigilante Present: Dan Ghenacia, Jean-Paul, Joiah",
-    "venue": "Green Room NYC",
     "location": "Brooklyn, NY",
     "date": "2025-12-04"
   },
@@ -69,6 +39,18 @@
     "name": "Turbz",
     "venue": "Loosie's Nightclub",
     "location": "New York, NY",
+    "date": "2025-12-04"
+  },
+  {
+    "name": "8th Anniversary Staff Takeover: Alissa Brianna, Michael King, BK, MZ3, DILUVIA, Solofan, James Hopper, Tiny T-Bone, Love Letters, Puff, Matas, Sevyn Love, Rage.inald, Raw Unkut",
+    "venue": "Nowadays",
+    "location": "New York, NY",
+    "date": "2025-12-04"
+  },
+  {
+    "name": "Techno Thursdays: Common Poetry",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
     "date": "2025-12-04"
   },
   {
@@ -156,14 +138,14 @@
     "date": "2025-12-06"
   },
   {
-    "name": "Chromeo, Shallowhalo",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
+    "name": "MGNA Crrrta",
+    "venue": "Elsewhere Zone One",
+    "location": "Brooklyn, NY",
     "date": "2025-12-06"
   },
   {
-    "name": "MGNA Crrrta",
-    "venue": "Elsewhere Zone One",
+    "name": "SMACK x REACT SOUND PRESENT: Kursa, Two Swords, Combine, Trowl, Melko, Blight",
+    "venue": "The Meadows Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-12-06"
   },
@@ -228,6 +210,18 @@
     "date": "2025-12-07"
   },
   {
+    "name": "Sounday: SGX, Kazzanm, Egipto",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-07"
+  },
+  {
+    "name": "Kofla",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-07"
+  },
+  {
     "name": "Tuesday Baby Tuesday",
     "venue": "Nebula",
     "location": "New York, NY",
@@ -240,87 +234,39 @@
     "date": "2025-12-09"
   },
   {
-    "name": "Shallou",
-    "venue": "Elsewhere",
+    "name": "Amado, Steen",
+    "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-12-03"
+    "date": "2025-12-10"
   },
   {
-    "name": "Ship Wrek, Juos",
-    "venue": "99 Scott",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-03"
-  },
-  {
-    "name": "Jus-Ske",
-    "venue": "Little Sister Lounge",
+    "name": "JP Solis",
+    "venue": "Nowadays",
     "location": "New York, NY",
-    "date": "2025-12-03"
+    "date": "2025-12-10"
   },
   {
-    "name": "Oliver Heldens, Marty P",
-    "venue": "Marquee",
+    "name": "Nickodemus",
+    "venue": "Nublu Classic",
     "location": "New York, NY",
-    "date": "2025-12-03"
-  },
-  {
-    "name": "Elsewhere NYE: Mall Grab, Effy, Baltra, Swami Sound, Dazegxd, gum.mp3, gumskiiiiiii, Hope 808, SLAYCEY",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-03"
-  },
-  {
-    "name": "Sama' Abdulhadi",
-    "venue": "99 Scott",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-03"
-  },
-  {
-    "name": "LSDXOXO, Mazurbate",
-    "venue": "Car Park",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-03"
-  },
-  {
-    "name": "Sistek",
-    "venue": "Arlo Williamsburg",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-03"
-  },
-  {
-    "name": "NYE: Audien",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-12-03"
-  },
-  {
-    "name": "Nora En Pure",
-    "venue": "315 Meserole St",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-03"
-  },
-  {
-    "name": "DJ Stingray 313, Holographic, Kilopatrah Jones b2b Cosmo",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-03"
+    "date": "2025-12-10"
   },
   {
     "name": "Ticketed Event",
     "venue": "Paradise Island",
     "location": "New York, NY",
-    "date": "2025-12-03"
+    "date": "2025-12-04"
   },
   {
     "name": "1w ago",
     "venue": "Added Herbert Holler, One Hotel Brooklyn Bridge, Morning Glory",
     "location": "New York, NY",
-    "date": "2025-12-03"
+    "date": "2025-12-04"
   },
   {
     "name": "2w ago",
     "venue": "Added Candlelight",
     "location": "New York, NY",
-    "date": "2025-12-03"
+    "date": "2025-12-04"
   }
 ]
