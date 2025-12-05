@@ -1,59 +1,5 @@
 [
   {
-    "name": "Myd, Kels, nataliepops",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-04"
-  },
-  {
-    "name": "The Drop: Elliott LaRue, Noah Appel, Jojosoul",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-04"
-  },
-  {
-    "name": "Totally Enormous Extinct Dinosaurs (TEED)",
-    "venue": "Good Room",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-04"
-  },
-  {
-    "name": "FREE ENTRY",
-    "venue": "Elsewhere Hall",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-04"
-  },
-  {
-    "name": "Space Punk Discoteca: Sebastian Posso",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-04"
-  },
-  {
-    "name": "Maksim, J. Richards",
-    "venue": "Outer Heaven NYC",
-    "location": "New York, NY",
-    "date": "2025-12-04"
-  },
-  {
-    "name": "Turbz",
-    "venue": "Loosie's Nightclub",
-    "location": "New York, NY",
-    "date": "2025-12-04"
-  },
-  {
-    "name": "8th Anniversary Staff Takeover: Alissa Brianna, Michael King, BK, MZ3, DILUVIA, Solofan, James Hopper, Tiny T-Bone, Love Letters, Puff, Matas, Sevyn Love, Rage.inald, Raw Unkut",
-    "venue": "Nowadays",
-    "location": "New York, NY",
-    "date": "2025-12-04"
-  },
-  {
-    "name": "Techno Thursdays: Common Poetry",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-04"
-  },
-  {
     "name": "Lost Frequencies",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -168,7 +114,7 @@
     "date": "2025-12-07"
   },
   {
-    "name": "Sundays in the Atrium: Dee Diggs, Dana Montana",
+    "name": "House of Diggs: Dee Diggs, Dana Montana",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
     "date": "2025-12-07"
@@ -252,21 +198,87 @@
     "date": "2025-12-10"
   },
   {
+    "name": "Roni Size, Don-Ri",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-11"
+  },
+  {
+    "name": "Roni Size, Don-Ri",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-12-11"
+  },
+  {
+    "name": "Rituals: Evelyn",
+    "venue": "Mood Ring",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-11"
+  },
+  {
+    "name": "Outer Heaven Presents",
+    "venue": "Outer Heaven NYC",
+    "location": "New York, NY",
+    "date": "2025-12-11"
+  },
+  {
+    "name": "Honey Trap: Amelia Holt, Budino, Ron Like Hell, Second Contact, 98dots",
+    "venue": "Nowadays",
+    "location": "New York, NY",
+    "date": "2025-12-11"
+  },
+  {
+    "name": "Octo Octa",
+    "venue": "Green Room NYC",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-11"
+  },
+  {
+    "name": "Jay Tripwire, Manny, Sergio Dimoff, Hilu, Kevin Osha",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-11"
+  },
+  {
+    "name": "Makadsi, Dee Diggs, Young Male, HNDRNC, Tory Stiletto, Erik Braun, skoglund",
+    "venue": "Good Room",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-11"
+  },
+  {
+    "name": "Turbz",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2025-12-11"
+  },
+  {
+    "name": "Techno Thursdays",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-11"
+  },
+  {
     "name": "Ticketed Event",
     "venue": "Paradise Island",
     "location": "New York, NY",
-    "date": "2025-12-04"
+    "date": "2025-12-05"
+  },
+  {
+    "name": "1d ago",
+    "venue": "Added Rosal\u00eda, Nino Man, El Parche Navide\u00f1o NYC, Detty December Tour In.., NYE 2026 at Eden NYC, Candlelight",
+    "location": "New York, NY",
+    "date": "2025-12-05"
   },
   {
     "name": "1w ago",
     "venue": "Added Herbert Holler, One Hotel Brooklyn Bridge, Morning Glory",
     "location": "New York, NY",
-    "date": "2025-12-04"
+    "date": "2025-12-05"
   },
   {
     "name": "2w ago",
     "venue": "Added Candlelight",
     "location": "New York, NY",
-    "date": "2025-12-04"
+    "date": "2025-12-05"
   }
 ]
