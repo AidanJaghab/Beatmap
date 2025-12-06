@@ -1,59 +1,5 @@
 [
   {
-    "name": "Lost Frequencies",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-12-05"
-  },
-  {
-    "name": "Chromeo, Milk & Bone",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2025-12-05"
-  },
-  {
-    "name": "Nils Hoffmann, Coastlines",
-    "venue": "99 Scott",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-05"
-  },
-  {
-    "name": "VAVO",
-    "venue": "Mulcahy's Pub & Concert Hall",
-    "location": "New York, NY",
-    "date": "2025-12-05"
-  },
-  {
-    "name": "TVBOO, Canabliss, JAMiAM, Bronze Sun, womp",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-05"
-  },
-  {
-    "name": "Ky William, Airrica",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-05"
-  },
-  {
-    "name": "Mia Koden, SP:MC, Skeptical, Carr\u00e9, Sepehr",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-05"
-  },
-  {
-    "name": "DVS1, Demi Riqu\u00edsimo, Tommy Hart, Meilgaarden",
-    "venue": "BASEMENT NY",
-    "location": "New York, NY",
-    "date": "2025-12-05"
-  },
-  {
-    "name": "Cheyenne Giles",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-12-05"
-  },
-  {
     "name": "Green Velvet",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -138,24 +84,6 @@
     "date": "2025-12-07"
   },
   {
-    "name": "Sunday Skate Club: Kilopatrah Jones, DJ D, estro",
-    "venue": "Xanadu Roller Arts",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-07"
-  },
-  {
-    "name": "J&J's Repairs: Cromby, Sterling Juan Diaz, Justin Cudmore, Jeffrey Sfire",
-    "venue": "East Williamsburg",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-07"
-  },
-  {
-    "name": "Fran\u00e7ois K",
-    "venue": "Le Bain",
-    "location": "New York, NY",
-    "date": "2025-12-07"
-  },
-  {
     "name": "Sounday: SGX, Kazzanm, Egipto",
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
@@ -164,6 +92,18 @@
   {
     "name": "Kofla",
     "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-07"
+  },
+  {
+    "name": "Aftermath Monday Morning: SGX",
+    "venue": "20 Meadow Street",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-07"
+  },
+  {
+    "name": "Aftermath Sunday Morning: KUFF b2b Egipt0 b2b Obaando",
+    "venue": "317 Stagg St",
     "location": "Brooklyn, NY",
     "date": "2025-12-07"
   },
@@ -180,6 +120,12 @@
     "date": "2025-12-09"
   },
   {
+    "name": "Nickodemus",
+    "venue": "Nublu Classic",
+    "location": "New York, NY",
+    "date": "2025-12-10"
+  },
+  {
     "name": "Amado, Steen",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
@@ -192,27 +138,21 @@
     "date": "2025-12-10"
   },
   {
-    "name": "Nickodemus",
-    "venue": "Nublu Classic",
-    "location": "New York, NY",
-    "date": "2025-12-10"
-  },
-  {
     "name": "Roni Size, Don-Ri",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
     "date": "2025-12-11"
   },
   {
-    "name": "Roni Size, Don-Ri",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
+    "name": "Octo Octa",
+    "venue": "Green Room NYC",
+    "location": "Brooklyn, NY",
     "date": "2025-12-11"
   },
   {
-    "name": "Rituals: Evelyn",
-    "venue": "Mood Ring",
-    "location": "Brooklyn, NY",
+    "name": "Octo Octa",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
     "date": "2025-12-11"
   },
   {
@@ -228,20 +168,8 @@
     "date": "2025-12-11"
   },
   {
-    "name": "Octo Octa",
-    "venue": "Green Room NYC",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-11"
-  },
-  {
     "name": "Jay Tripwire, Manny, Sergio Dimoff, Hilu, Kevin Osha",
     "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-11"
-  },
-  {
-    "name": "Makadsi, Dee Diggs, Young Male, HNDRNC, Tory Stiletto, Erik Braun, skoglund",
-    "venue": "Good Room",
     "location": "Brooklyn, NY",
     "date": "2025-12-11"
   },
@@ -258,27 +186,75 @@
     "date": "2025-12-11"
   },
   {
+    "name": "FLWRSHRK, KMOR, Natalia, SilkyBlack",
+    "venue": "The Onyx Room at House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-11"
+  },
+  {
+    "name": "TWINSICK",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-12-12"
+  },
+  {
+    "name": "Lumasi, OkayJake, Schmux",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-12"
+  },
+  {
+    "name": "Modestep, Dr. Ush\u016bu",
+    "venue": "Racket New York",
+    "location": "New York, NY",
+    "date": "2025-12-12"
+  },
+  {
+    "name": "Byrell The Great, Umfang, MUERTE LENTA",
+    "venue": "Paragon",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-12"
+  },
+  {
+    "name": "Akua, Miss Parker, DJ Plead, Josh Steers, Mira Mira",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-12"
+  },
+  {
+    "name": "Fedde Le Grand",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-12-12"
+  },
+  {
+    "name": "ReSolute Presents: Shonky",
+    "venue": "H0L0",
+    "location": "New York, NY",
+    "date": "2025-12-12"
+  },
+  {
+    "name": "ReSolute Presents: Shonky",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2025-12-12"
+  },
+  {
+    "name": "Tom & Collins",
+    "venue": "UNVEILED",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-12"
+  },
+  {
     "name": "Ticketed Event",
     "venue": "Paradise Island",
     "location": "New York, NY",
-    "date": "2025-12-05"
+    "date": "2025-12-06"
   },
   {
-    "name": "1d ago",
-    "venue": "Added Rosal\u00eda, Nino Man, El Parche Navide\u00f1o NYC, Detty December Tour In.., NYE 2026 at Eden NYC, Candlelight",
+    "name": "2d ago",
+    "venue": "Added Rosal\u00eda, Nino Man, El Parche Navide\u00f1o NYC, Detty December Tour In.., Candlelight",
     "location": "New York, NY",
-    "date": "2025-12-05"
-  },
-  {
-    "name": "1w ago",
-    "venue": "Added Herbert Holler, One Hotel Brooklyn Bridge, Morning Glory",
-    "location": "New York, NY",
-    "date": "2025-12-05"
-  },
-  {
-    "name": "2w ago",
-    "venue": "Added Candlelight",
-    "location": "New York, NY",
-    "date": "2025-12-05"
+    "date": "2025-12-06"
   }
 ]
