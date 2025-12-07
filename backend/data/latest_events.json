@@ -1,59 +1,5 @@
 [
   {
-    "name": "Green Velvet",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-12-06"
-  },
-  {
-    "name": "Notion, BAMBII, Klo",
-    "venue": "Great Hall at Avant Gardner",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-06"
-  },
-  {
-    "name": "Kompany, Calcium, THE STOOG3S (BLVNKSPVCE x HAMRO x SQISHI)",
-    "venue": "Brooklyn Steel",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-06"
-  },
-  {
-    "name": "Martin Ikin, Chelina Manuhutu, Manu Gonzalez",
-    "venue": "Superior Ingredients (Main Room)",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-06"
-  },
-  {
-    "name": "Desert Hearts",
-    "venue": "99 Scott",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-06"
-  },
-  {
-    "name": "MGNA Crrrta",
-    "venue": "Elsewhere Zone One",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-06"
-  },
-  {
-    "name": "SMACK x REACT SOUND PRESENT: Kursa, Two Swords, Combine, Trowl, Melko, Blight",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-06"
-  },
-  {
-    "name": "Elsewhere Presents: Mura Masa",
-    "venue": "154 Scott Ave",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-06"
-  },
-  {
-    "name": "Phase Fatale, Makadsi, Ron Like Hell, Ryan Smith",
-    "venue": "BASEMENT NY",
-    "location": "New York, NY",
-    "date": "2025-12-06"
-  },
-  {
     "name": "Roger Sanchez, Vltra, Arturo Sanchez, Luna Mar, Merc",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
@@ -72,14 +18,14 @@
     "date": "2025-12-07"
   },
   {
-    "name": "718 Sessions: Toribio",
-    "venue": "Good Room",
+    "name": "Eevee, CRTR, [kd], Dame, Wauce",
+    "venue": "Jupiter Disco",
     "location": "Brooklyn, NY",
     "date": "2025-12-07"
   },
   {
-    "name": "Eevee, CRTR, [kd], Dame, Wauce",
-    "venue": "Jupiter Disco",
+    "name": "Sunday Skate Club: Kilopatrah Jones, DJ D, estro",
+    "venue": "Xanadu Roller Arts",
     "location": "Brooklyn, NY",
     "date": "2025-12-07"
   },
@@ -222,6 +168,12 @@
     "date": "2025-12-12"
   },
   {
+    "name": "Volvox, KYRUH, Annie Lew, x3butterfly, Sterling, Eli Escobar, Sterling Juan Diaz, Alexis De La Rosa",
+    "venue": "BASEMENT NY",
+    "location": "New York, NY",
+    "date": "2025-12-12"
+  },
+  {
     "name": "Fedde Le Grand",
     "venue": "Nebula",
     "location": "New York, NY",
@@ -234,27 +186,69 @@
     "date": "2025-12-12"
   },
   {
-    "name": "ReSolute Presents: Shonky",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2025-12-12"
-  },
-  {
     "name": "Tom & Collins",
     "venue": "UNVEILED",
     "location": "Brooklyn, NY",
     "date": "2025-12-12"
   },
   {
-    "name": "Ticketed Event",
-    "venue": "Paradise Island",
+    "name": "Elderbrook",
+    "venue": "Marquee",
     "location": "New York, NY",
-    "date": "2025-12-06"
+    "date": "2025-12-13"
   },
   {
-    "name": "2d ago",
-    "venue": "Added Rosal\u00eda, Nino Man, El Parche Navide\u00f1o NYC, Detty December Tour In.., Candlelight",
+    "name": "Dirt Monkey, Smoakland, JiV, Ultra",
+    "venue": "Webster Hall",
     "location": "New York, NY",
-    "date": "2025-12-06"
+    "date": "2025-12-13"
+  },
+  {
+    "name": "Mozey",
+    "venue": "The Meadows Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-13"
+  },
+  {
+    "name": "The Summer Club Presents: Sickick",
+    "venue": "The Summer Club",
+    "location": "New York, NY",
+    "date": "2025-12-13"
+  },
+  {
+    "name": "The Knocks, Dragonette, Aquaria",
+    "venue": "Irving Plaza",
+    "location": "New York, NY",
+    "date": "2025-12-13"
+  },
+  {
+    "name": "Beatport LIVE New York: Kilimanjaro, Chlo\u00e9 Robinson, Honey Bun",
+    "venue": "Car Park",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-13"
+  },
+  {
+    "name": "Horse Meat Disco, Luis M, Sterling Juan Diaz",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-12-13"
+  },
+  {
+    "name": "Harvy Valencia, Ale De Tuglie, Paul Llano, Alessandro de Tuglie",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-13"
+  },
+  {
+    "name": "Ge-ology, Marcellus Pittman, Shawn Dub, Cosmo",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-13"
+  },
+  {
+    "name": "Yamagucci",
+    "venue": "UNVEILED",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-13"
   }
 ]
