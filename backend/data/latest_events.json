@@ -1,17 +1,5 @@
 [
   {
-    "name": "Tuesday Baby Tuesday",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-12-09"
-  },
-  {
-    "name": "Neil Jackson",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2025-12-09"
-  },
-  {
     "name": "Nickodemus",
     "venue": "Nublu Classic",
     "location": "New York, NY",
@@ -42,27 +30,27 @@
     "date": "2025-12-11"
   },
   {
-    "name": "Octo Octa",
+    "name": "Jay Tripwire, Manny, Sergio Dimoff, Hilu, Kevin Osha",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-11"
+  },
+  {
+    "name": "Jay Tripwire, Manny, Sergio Dimoff, Hilu, Kevin Osha",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
     "date": "2025-12-11"
   },
   {
-    "name": "Rituals: Evelyn",
-    "venue": "Mood Ring",
-    "location": "Brooklyn, NY",
+    "name": "Outer Heaven Presents",
+    "venue": "Outer Heaven NYC",
+    "location": "New York, NY",
     "date": "2025-12-11"
   },
   {
     "name": "Honey Trap: Amelia Holt, Budino, Ron Like Hell, Second Contact, 98dots",
     "venue": "Nowadays",
     "location": "New York, NY",
-    "date": "2025-12-11"
-  },
-  {
-    "name": "Jay Tripwire, Manny, Sergio Dimoff, Hilu, Kevin Osha",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
     "date": "2025-12-11"
   },
   {
@@ -87,6 +75,12 @@
     "name": "TWINSICK",
     "venue": "Marquee",
     "location": "New York, NY",
+    "date": "2025-12-12"
+  },
+  {
+    "name": "No Photo Policy!!",
+    "venue": "Brooklyn Storehouse",
+    "location": "Brooklyn, NY",
     "date": "2025-12-12"
   },
   {
@@ -132,8 +126,8 @@
     "date": "2025-12-12"
   },
   {
-    "name": "Green Room Presents: Kai Alc\u00e9, JADALAREIGN, Omer Mil",
-    "venue": "Green Room NYC",
+    "name": "Myles O'Neal",
+    "venue": "Superior Ingredients (Main Room)",
     "location": "Brooklyn, NY",
     "date": "2025-12-12"
   },
@@ -186,19 +180,13 @@
     "date": "2025-12-13"
   },
   {
-    "name": "Ge-ology, Marcellus Pittman, Shawn Dub, Cosmo",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-13"
-  },
-  {
     "name": "Yamagucci",
     "venue": "UNVEILED",
     "location": "Brooklyn, NY",
     "date": "2025-12-13"
   },
   {
-    "name": "Joyhauser, BEC, CRYFXB, Yazz",
+    "name": "Joyhauser, M.I.K.E. Push, CRYFXB, Yazz, BEC",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
     "date": "2025-12-14"
@@ -256,5 +244,11 @@
     "venue": "Refuge",
     "location": "Brooklyn, NY",
     "date": "2025-12-14"
+  },
+  {
+    "name": "Tuesday Baby Tuesday",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-12-16"
   }
 ]
