@@ -1,23 +1,5 @@
 [
   {
-    "name": "Nickodemus",
-    "venue": "Nublu Classic",
-    "location": "New York, NY",
-    "date": "2025-12-10"
-  },
-  {
-    "name": "Amado, Steen",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-10"
-  },
-  {
-    "name": "JP Solis",
-    "venue": "Nowadays",
-    "location": "New York, NY",
-    "date": "2025-12-10"
-  },
-  {
     "name": "Roni Size, Don-Ri",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
@@ -42,6 +24,12 @@
     "date": "2025-12-11"
   },
   {
+    "name": "Rituals: Evelyn",
+    "venue": "Mood Ring",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-11"
+  },
+  {
     "name": "Outer Heaven Presents",
     "venue": "Outer Heaven NYC",
     "location": "New York, NY",
@@ -50,12 +38,6 @@
   {
     "name": "Honey Trap: Amelia Holt, Budino, Ron Like Hell, Second Contact, 98dots",
     "venue": "Nowadays",
-    "location": "New York, NY",
-    "date": "2025-12-11"
-  },
-  {
-    "name": "Turbz",
-    "venue": "Little Sister Lounge",
     "location": "New York, NY",
     "date": "2025-12-11"
   },
@@ -246,9 +228,21 @@
     "date": "2025-12-14"
   },
   {
+    "name": "Sounday's Listen: Lasarte, Aries, Rachel Gresco",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-14"
+  },
+  {
     "name": "Tuesday Baby Tuesday",
     "venue": "Nebula",
     "location": "New York, NY",
     "date": "2025-12-16"
+  },
+  {
+    "name": "Steen",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-17"
   }
 ]
