@@ -1,59 +1,5 @@
 [
   {
-    "name": "Roni Size, Don-Ri",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-11"
-  },
-  {
-    "name": "Octo Octa",
-    "venue": "Green Room NYC",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-11"
-  },
-  {
-    "name": "Jay Tripwire, Manny, Sergio Dimoff, Hilu, Kevin Osha",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-11"
-  },
-  {
-    "name": "Jay Tripwire, Manny, Sergio Dimoff, Hilu, Kevin Osha",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-12-11"
-  },
-  {
-    "name": "Rituals: Evelyn",
-    "venue": "Mood Ring",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-11"
-  },
-  {
-    "name": "Outer Heaven Presents",
-    "venue": "Outer Heaven NYC",
-    "location": "New York, NY",
-    "date": "2025-12-11"
-  },
-  {
-    "name": "Honey Trap: Amelia Holt, Budino, Ron Like Hell, Second Contact, 98dots",
-    "venue": "Nowadays",
-    "location": "New York, NY",
-    "date": "2025-12-11"
-  },
-  {
-    "name": "Techno Thursdays: Common Poetry",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-11"
-  },
-  {
-    "name": "FLWRSHRK, KMOR, Natalia, SilkyBlack",
-    "venue": "The Onyx Room at House of Yes",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-11"
-  },
-  {
     "name": "TWINSICK",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -192,18 +138,6 @@
     "date": "2025-12-14"
   },
   {
-    "name": "tyler.xls, acidbrunch",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-14"
-  },
-  {
-    "name": "Riccardo Tavarez, Greg Scarnici",
-    "venue": "Body By Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-14"
-  },
-  {
     "name": "Fran\u00e7ois K",
     "venue": "Le Bain",
     "location": "New York, NY",
@@ -234,6 +168,12 @@
     "date": "2025-12-14"
   },
   {
+    "name": "Spaghetti Strap: Ariel Zetina, Lady Blacktronika, Faited, YAKI, SPRKLBB",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-14"
+  },
+  {
     "name": "Tuesday Baby Tuesday",
     "venue": "Nebula",
     "location": "New York, NY",
@@ -244,5 +184,65 @@
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-12-17"
+  },
+  {
+    "name": "Jkriv, Moon Boots, Sunny Cheeba, Disco Bambino",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-18"
+  },
+  {
+    "name": "A Very House of Yes Hanukkah: David Kiss",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-18"
+  },
+  {
+    "name": "Crespo, Trueblends",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-12-18"
+  },
+  {
+    "name": "Sid Vaga, Subjacent, Jay Hill",
+    "venue": "Cargo at Dead Letter No. 9",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-18"
+  },
+  {
+    "name": "DJ Neat Freak (Andrew VanWyngarden of MGMT), Heidy P, Charles Trees",
+    "venue": "Good Room",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-18"
+  },
+  {
+    "name": "Hanukkah Ball: Matt Dubb, TBA",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-12-18"
+  },
+  {
+    "name": "Vera Logdanidi, DJ Brian b2b Emi, Joiah b2b Zayd, Kurilo b2b DJ S",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-18"
+  },
+  {
+    "name": "Machine Thirst Vol. 4: Firebunny",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-18"
+  },
+  {
+    "name": "Turbz",
+    "venue": "TAO Downtown",
+    "location": "New York, NY",
+    "date": "2025-12-18"
+  },
+  {
+    "name": "Techno Thursdays: White Sabbath, Bouncer, Salomon Wize, Kasanto",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-18"
   }
 ]
