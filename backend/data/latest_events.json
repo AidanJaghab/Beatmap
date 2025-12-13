@@ -1,65 +1,5 @@
 [
   {
-    "name": "TWINSICK",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-12-12"
-  },
-  {
-    "name": "No Photo Policy!!",
-    "venue": "Brooklyn Storehouse",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-12"
-  },
-  {
-    "name": "Lumasi, OkayJake, Schmux",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-12"
-  },
-  {
-    "name": "Modestep, Dr. Ush\u016bu",
-    "venue": "Racket New York",
-    "location": "New York, NY",
-    "date": "2025-12-12"
-  },
-  {
-    "name": "Byrell The Great, Umfang, MUERTE LENTA",
-    "venue": "Paragon",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-12"
-  },
-  {
-    "name": "Akua, Miss Parker, DJ Plead, Josh Steers, Mira Mira",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-12"
-  },
-  {
-    "name": "Volvox, KYRUH, Annie Lew, x3butterfly, Sterling, Eli Escobar, Sterling Juan Diaz, Alexis De La Rosa",
-    "venue": "BASEMENT NY",
-    "location": "New York, NY",
-    "date": "2025-12-12"
-  },
-  {
-    "name": "Fedde Le Grand",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-12-12"
-  },
-  {
-    "name": "ReSolute Presents: Shonky",
-    "venue": "H0L0",
-    "location": "New York, NY",
-    "date": "2025-12-12"
-  },
-  {
-    "name": "Myles O'Neal",
-    "venue": "Superior Ingredients (Main Room)",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-12"
-  },
-  {
     "name": "Elderbrook",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -108,7 +48,7 @@
     "date": "2025-12-13"
   },
   {
-    "name": "Yamagucci",
+    "name": "Yamagucci, Sapian, Dox, Jivan Calderone, Dres N Seb",
     "venue": "UNVEILED",
     "location": "Brooklyn, NY",
     "date": "2025-12-13"
@@ -144,12 +84,6 @@
     "date": "2025-12-14"
   },
   {
-    "name": "Battle Hymn Manhattan Holiday Party: Eli Escobar, Tedd Patterson",
-    "venue": "Rumi",
-    "location": "New York, NY",
-    "date": "2025-12-14"
-  },
-  {
     "name": "M.E.A.T. x RENEGADE AFTERS: Juka, Jose Rendon",
     "venue": "The Meadows Brooklyn",
     "location": "Brooklyn, NY",
@@ -170,6 +104,12 @@
   {
     "name": "Spaghetti Strap: Ariel Zetina, Lady Blacktronika, Faited, YAKI, SPRKLBB",
     "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-14"
+  },
+  {
+    "name": "Aftermath Monday Morning: Betancur",
+    "venue": "20 Meadow Street",
     "location": "Brooklyn, NY",
     "date": "2025-12-14"
   },
@@ -244,5 +184,65 @@
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-12-18"
+  },
+  {
+    "name": "USE CODE 26OFF FOR 26% DISCOUNT!",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-12-19"
+  },
+  {
+    "name": "YOOKiE",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-19"
+  },
+  {
+    "name": "YOOKiE",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2025-12-19"
+  },
+  {
+    "name": "Sullivan King, ATLiens",
+    "venue": "Terminal 5",
+    "location": "New York, NY",
+    "date": "2025-12-19"
+  },
+  {
+    "name": "UFO95, Julia Govor, Simone de Kunovich, Ketia",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-19"
+  },
+  {
+    "name": "Rooler, VINKA WYDRO",
+    "venue": "Manhattan",
+    "location": "New York, NY",
+    "date": "2025-12-19"
+  },
+  {
+    "name": "Eli Escobar",
+    "venue": "Good Room",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-19"
+  },
+  {
+    "name": "Lusso",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-12-19"
+  },
+  {
+    "name": "PAST Presents - INFRARED: KYRUH, Rah, Evelyn, The Corner",
+    "venue": "310 Meserole St",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-19"
+  },
+  {
+    "name": "Sam Allan",
+    "venue": "1 Hotel Brooklyn Bridge",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-19"
   }
 ]
