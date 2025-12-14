@@ -1,59 +1,5 @@
 [
   {
-    "name": "Elderbrook",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-12-13"
-  },
-  {
-    "name": "Dirt Monkey, Smoakland, JiV, Ultra",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2025-12-13"
-  },
-  {
-    "name": "Mozey",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-13"
-  },
-  {
-    "name": "The Summer Club Presents: Sickick",
-    "venue": "The Summer Club",
-    "location": "New York, NY",
-    "date": "2025-12-13"
-  },
-  {
-    "name": "The Knocks, Dragonette, Aquaria",
-    "venue": "Irving Plaza",
-    "location": "New York, NY",
-    "date": "2025-12-13"
-  },
-  {
-    "name": "Beatport LIVE New York: Kilimanjaro, Chlo\u00e9 Robinson, Hitty, Honey Bun",
-    "venue": "Car Park",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-13"
-  },
-  {
-    "name": "Horse Meat Disco, Luis M, Sterling Juan Diaz",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-12-13"
-  },
-  {
-    "name": "Harvy Valencia, Ale De Tuglie, Paul Llano, Alessandro de Tuglie",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-13"
-  },
-  {
-    "name": "Yamagucci, Sapian, Dox, Jivan Calderone, Dres N Seb",
-    "venue": "UNVEILED",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-13"
-  },
-  {
     "name": "Joyhauser, M.I.K.E. Push, CRYFXB, Yazz, BEC",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
@@ -78,9 +24,9 @@
     "date": "2025-12-14"
   },
   {
-    "name": "Fran\u00e7ois K",
-    "venue": "Le Bain",
-    "location": "New York, NY",
+    "name": "tyler.xls, acidbrunch",
+    "venue": "Jupiter Disco",
+    "location": "Brooklyn, NY",
     "date": "2025-12-14"
   },
   {
@@ -228,15 +174,15 @@
     "date": "2025-12-19"
   },
   {
-    "name": "Lusso",
-    "venue": "Nebula",
+    "name": "Mirari",
+    "venue": "ArtSpace at PUBLIC Hotels",
     "location": "New York, NY",
     "date": "2025-12-19"
   },
   {
-    "name": "PAST Presents - INFRARED: KYRUH, Rah, Evelyn, The Corner",
-    "venue": "310 Meserole St",
-    "location": "Brooklyn, NY",
+    "name": "Lusso",
+    "venue": "Nebula",
+    "location": "New York, NY",
     "date": "2025-12-19"
   },
   {
@@ -244,5 +190,59 @@
     "venue": "1 Hotel Brooklyn Bridge",
     "location": "Brooklyn, NY",
     "date": "2025-12-19"
+  },
+  {
+    "name": "Austin Millz",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-12-20"
+  },
+  {
+    "name": "Oden & Fatzo, Chesster, Shek, Cut & Sew",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-20"
+  },
+  {
+    "name": "Durante, Yulia Niko, Paraleven, Koumby",
+    "venue": "Superior Ingredients (Main Room)",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-20"
+  },
+  {
+    "name": "Rivo, Avante, Subversive, Abetta",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-20"
+  },
+  {
+    "name": "Oscar Mulero, Quelza, Cotton, Massimiliano Pagliara, ISAbella, The Carry Nation",
+    "venue": "BASEMENT NY",
+    "location": "New York, NY",
+    "date": "2025-12-20"
+  },
+  {
+    "name": "Showtek",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-12-20"
+  },
+  {
+    "name": "Anton Khabbaz",
+    "venue": "Laissez Faire",
+    "location": "New York, NY",
+    "date": "2025-12-20"
+  },
+  {
+    "name": "Technasia, Mark Dumitrescu, Bodega, Flair Gambit",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-20"
+  },
+  {
+    "name": "Young Marco",
+    "venue": "Lovejoys",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-20"
   }
 ]
