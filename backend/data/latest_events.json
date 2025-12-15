@@ -1,65 +1,5 @@
 [
   {
-    "name": "Joyhauser, M.I.K.E. Push, CRYFXB, Yazz, BEC",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-14"
-  },
-  {
-    "name": "Forest D\u00f6wn Under: Oscar G, Cristian Arango",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-12-14"
-  },
-  {
-    "name": "Quentin Harris, The Illustrious Blacks",
-    "venue": "Love's Club",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-14"
-  },
-  {
-    "name": "Tarka Anniversary Party: Armana Khan, esile, Lapgan, Ushka, Zara Dekho",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-14"
-  },
-  {
-    "name": "tyler.xls, acidbrunch",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-14"
-  },
-  {
-    "name": "M.E.A.T. x RENEGADE AFTERS: Juka, Jose Rendon",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-14"
-  },
-  {
-    "name": "Sunday Selectors: Kervyn Mark",
-    "venue": "Refuge",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-14"
-  },
-  {
-    "name": "Sounday's Listen: Lasarte, Aries, Rachel Gresco",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-14"
-  },
-  {
-    "name": "Spaghetti Strap: Ariel Zetina, Lady Blacktronika, Faited, YAKI, SPRKLBB",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-14"
-  },
-  {
-    "name": "Aftermath Monday Morning: Betancur",
-    "venue": "20 Meadow Street",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-14"
-  },
-  {
     "name": "Tuesday Baby Tuesday",
     "venue": "Nebula",
     "location": "New York, NY",
@@ -102,7 +42,7 @@
     "date": "2025-12-18"
   },
   {
-    "name": "Hanukkah Ball: Matt Dubb, TBA",
+    "name": "Hanukkah Ball: Matt Dubb, Leviticus",
     "venue": "Nebula",
     "location": "New York, NY",
     "date": "2025-12-18"
@@ -244,5 +184,59 @@
     "venue": "Lovejoys",
     "location": "Brooklyn, NY",
     "date": "2025-12-20"
+  },
+  {
+    "name": "Stephan Jolk, German Brigante, Robyn Balliet",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-21"
+  },
+  {
+    "name": "Stephan Jolk, German Brigante, Robyn Balliet",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-12-21"
+  },
+  {
+    "name": "Public Service Holiday Reunion: Deon Jamar, Meftah, Mickey P\u00e9rez, Toribio",
+    "venue": "Nowadays",
+    "location": "New York, NY",
+    "date": "2025-12-21"
+  },
+  {
+    "name": "Fran\u00e7ois K",
+    "venue": "Le Bain",
+    "location": "New York, NY",
+    "date": "2025-12-21"
+  },
+  {
+    "name": "Sunday Selectors: Tony Humphries",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-21"
+  },
+  {
+    "name": "Sleepy & Boo",
+    "venue": "Manhattan",
+    "location": "New York, NY",
+    "date": "2025-12-21"
+  },
+  {
+    "name": "DJ Koco, Boogie Blind",
+    "venue": "Green Room NYC",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-21"
+  },
+  {
+    "name": "GIDE\u00d6N, Makadsi, Via App",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-21"
+  },
+  {
+    "name": "Sounday's Listen",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-21"
   }
 ]
