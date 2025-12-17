@@ -1,11 +1,5 @@
 [
   {
-    "name": "Tuesday Baby Tuesday",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-12-16"
-  },
-  {
     "name": "Steen",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
@@ -27,12 +21,6 @@
     "name": "Crespo, Trueblends",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
-    "date": "2025-12-18"
-  },
-  {
-    "name": "Sid Vaga, Subjacent, Jay Hill",
-    "venue": "Cargo at Dead Letter No. 9",
-    "location": "Brooklyn, NY",
     "date": "2025-12-18"
   },
   {
@@ -72,6 +60,12 @@
     "date": "2025-12-18"
   },
   {
+    "name": "Mike Simonetti",
+    "venue": "Pianos",
+    "location": "New York, NY",
+    "date": "2025-12-18"
+  },
+  {
     "name": "ARMNHMR",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -102,6 +96,12 @@
     "date": "2025-12-19"
   },
   {
+    "name": "Freddy K, The Lady Machine, Holden Federico, DJ Tool, Gabrielle Kwarteng, Ian Crane",
+    "venue": "BASEMENT NY",
+    "location": "New York, NY",
+    "date": "2025-12-19"
+  },
+  {
     "name": "Rooler, VINKA WYDRO",
     "venue": "Manhattan",
     "location": "New York, NY",
@@ -110,12 +110,6 @@
   {
     "name": "$15.00 - $30.00",
     "venue": "Brooklyn Monarch",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-19"
-  },
-  {
-    "name": "Rob The Bank",
-    "venue": "Superior Ingredients",
     "location": "Brooklyn, NY",
     "date": "2025-12-19"
   },
@@ -222,12 +216,6 @@
     "date": "2025-12-21"
   },
   {
-    "name": "Sleepy & Boo",
-    "venue": "Manhattan",
-    "location": "New York, NY",
-    "date": "2025-12-21"
-  },
-  {
     "name": "DJ Koco, Boogie Blind",
     "venue": "Green Room NYC",
     "location": "Brooklyn, NY",
@@ -238,5 +226,23 @@
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-12-21"
+  },
+  {
+    "name": "Sleepy & Boo",
+    "venue": "Manhattan",
+    "location": "New York, NY",
+    "date": "2025-12-21"
+  },
+  {
+    "name": "Ian Asher",
+    "venue": "Mulcahy's Pub & Concert Hall",
+    "location": "New York, NY",
+    "date": "2025-12-23"
+  },
+  {
+    "name": "Tuesday Baby Tuesday",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-12-23"
   }
 ]
