@@ -1,11 +1,5 @@
 [
   {
-    "name": "Steen",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-17"
-  },
-  {
     "name": "Jkriv, Moon Boots, Sunny Cheeba, Disco Bambino",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
@@ -162,12 +156,6 @@
     "date": "2025-12-20"
   },
   {
-    "name": "Anton Khabbaz",
-    "venue": "Laissez Faire",
-    "location": "New York, NY",
-    "date": "2025-12-20"
-  },
-  {
     "name": "Technasia, Mark Dumitrescu, Bodega, Flair Gambit",
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
@@ -244,5 +232,17 @@
     "venue": "Nebula",
     "location": "New York, NY",
     "date": "2025-12-23"
+  },
+  {
+    "name": "Cash Cash",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-12-24"
+  },
+  {
+    "name": "Ugly Sweater Xmas Reunion: Cristian Arango, Anthony Lopez",
+    "venue": "Now & Then NYC",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-24"
   }
 ]
