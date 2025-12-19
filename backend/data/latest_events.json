@@ -1,65 +1,5 @@
 [
   {
-    "name": "Jkriv, Moon Boots, Sunny Cheeba, Disco Bambino",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-18"
-  },
-  {
-    "name": "A Very House of Yes Hanukkah: David Kiss",
-    "venue": "House of Yes",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-18"
-  },
-  {
-    "name": "Crespo, Trueblends",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-12-18"
-  },
-  {
-    "name": "DJ Neat Freak (Andrew VanWyngarden of MGMT), Heidy P, Charles Trees",
-    "venue": "Good Room",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-18"
-  },
-  {
-    "name": "Hanukkah Ball: Matt Dubb, Leviticus",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-12-18"
-  },
-  {
-    "name": "Vera Logdanidi, DJ Brian b2b Emi, Joiah b2b Zayd, Kurilo b2b DJ S",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-18"
-  },
-  {
-    "name": "Machine Thirst Vol. 4: Firebunny",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-18"
-  },
-  {
-    "name": "Turbz",
-    "venue": "TAO Downtown",
-    "location": "New York, NY",
-    "date": "2025-12-18"
-  },
-  {
-    "name": "Techno Thursdays: White Sabbath, Bouncer, Salomon Wize, Kasanto",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-18"
-  },
-  {
-    "name": "Mike Simonetti",
-    "venue": "Pianos",
-    "location": "New York, NY",
-    "date": "2025-12-18"
-  },
-  {
     "name": "ARMNHMR",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -96,18 +36,6 @@
     "date": "2025-12-19"
   },
   {
-    "name": "Rooler, VINKA WYDRO",
-    "venue": "Manhattan",
-    "location": "New York, NY",
-    "date": "2025-12-19"
-  },
-  {
-    "name": "$15.00 - $30.00",
-    "venue": "Brooklyn Monarch",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-19"
-  },
-  {
     "name": "Lusso",
     "venue": "Nebula",
     "location": "New York, NY",
@@ -116,6 +44,12 @@
   {
     "name": "Sam Allan",
     "venue": "1 Hotel Brooklyn Bridge",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-19"
+  },
+  {
+    "name": "The Factory X Listen Friday Night Party: Ciclo",
+    "venue": "198 Randolph Street",
     "location": "Brooklyn, NY",
     "date": "2025-12-19"
   },
@@ -192,12 +126,6 @@
     "date": "2025-12-21"
   },
   {
-    "name": "Sunday Selectors: Tony Humphries",
-    "venue": "Refuge",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-21"
-  },
-  {
     "name": "Sounday's Listen",
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
@@ -222,16 +150,40 @@
     "date": "2025-12-21"
   },
   {
+    "name": "SUNDAY SERVICES AT RAW AREA",
+    "venue": "20 Meadow Street",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-21"
+  },
+  {
+    "name": "Sunday Skate Club: DONIS, DJ Tone Capo, Emerald Cuts, LSDFriendly",
+    "venue": "Xanadu Roller Arts",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-21"
+  },
+  {
     "name": "Ian Asher",
     "venue": "Mulcahy's Pub & Concert Hall",
     "location": "New York, NY",
     "date": "2025-12-23"
   },
   {
-    "name": "Tuesday Baby Tuesday",
+    "name": "Tuesday Baby Tuesday: Reach, Shortkutz, Jon Luc, Carlucci",
     "venue": "Nebula",
     "location": "New York, NY",
     "date": "2025-12-23"
+  },
+  {
+    "name": "Listening Session: Amelia Holt",
+    "venue": "Silence Please",
+    "location": "New York, NY",
+    "date": "2025-12-23"
+  },
+  {
+    "name": "Ugly Sweater Xmas Reunion: Cristian Arango, Anthony Lopez",
+    "venue": "Now & Then NYC",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-24"
   },
   {
     "name": "Cash Cash",
@@ -240,9 +192,9 @@
     "date": "2025-12-24"
   },
   {
-    "name": "Ugly Sweater Xmas Reunion: Cristian Arango, Anthony Lopez",
-    "venue": "Now & Then NYC",
-    "location": "Brooklyn, NY",
+    "name": "Elysium - A Dance Music Event: RNX, Xiranda, Jeecck, KRIX, WIX, Economize",
+    "venue": "Aura 57 NYC",
+    "location": "New York, NY",
     "date": "2025-12-24"
   }
 ]
