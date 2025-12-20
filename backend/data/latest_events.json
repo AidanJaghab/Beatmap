@@ -1,59 +1,5 @@
 [
   {
-    "name": "ARMNHMR",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-12-19"
-  },
-  {
-    "name": "YOOKiE",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-19"
-  },
-  {
-    "name": "YOOKiE",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2025-12-19"
-  },
-  {
-    "name": "Sullivan King, ATLiens",
-    "venue": "Terminal 5",
-    "location": "New York, NY",
-    "date": "2025-12-19"
-  },
-  {
-    "name": "UFO95, Julia Govor, Simone de Kunovich, Ketia",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-19"
-  },
-  {
-    "name": "Freddy K, The Lady Machine, Holden Federico, DJ Tool, Gabrielle Kwarteng, Ian Crane",
-    "venue": "BASEMENT NY",
-    "location": "New York, NY",
-    "date": "2025-12-19"
-  },
-  {
-    "name": "Lusso",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-12-19"
-  },
-  {
-    "name": "Sam Allan",
-    "venue": "1 Hotel Brooklyn Bridge",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-19"
-  },
-  {
-    "name": "The Factory X Listen Friday Night Party: Ciclo",
-    "venue": "198 Randolph Street",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-19"
-  },
-  {
     "name": "Austin Millz",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -74,6 +20,12 @@
   {
     "name": "Rivo, Avante, Abetta b2b Subversive, Remi Jolie",
     "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-20"
+  },
+  {
+    "name": "GET CRANKED!: Crankdat, Mary Droppinz, nikko, Zoey808, HGods, Nadia, DROPTOPGUNDAM",
+    "venue": "Brooklyn Storehouse",
     "location": "Brooklyn, NY",
     "date": "2025-12-20"
   },
@@ -126,20 +78,14 @@
     "date": "2025-12-21"
   },
   {
-    "name": "Sounday's Listen",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-21"
-  },
-  {
-    "name": "DJ Koco, Boogie Blind",
-    "venue": "Green Room NYC",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-21"
-  },
-  {
     "name": "GIDE\u00d6N, Makadsi, Via App",
     "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-21"
+  },
+  {
+    "name": "Sounday's Listen",
+    "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-12-21"
   },
@@ -150,7 +96,7 @@
     "date": "2025-12-21"
   },
   {
-    "name": "SUNDAY SERVICES AT RAW AREA",
+    "name": "Sunday Services at Raw Area",
     "venue": "20 Meadow Street",
     "location": "Brooklyn, NY",
     "date": "2025-12-21"
@@ -158,6 +104,12 @@
   {
     "name": "Sunday Skate Club: DONIS, DJ Tone Capo, Emerald Cuts, LSDFriendly",
     "venue": "Xanadu Roller Arts",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-21"
+  },
+  {
+    "name": "Aftermath Monday Morning: Psymon GT, Just Jordan",
+    "venue": "20 Meadow Street",
     "location": "Brooklyn, NY",
     "date": "2025-12-21"
   },
@@ -196,5 +148,47 @@
     "venue": "Aura 57 NYC",
     "location": "New York, NY",
     "date": "2025-12-24"
+  },
+  {
+    "name": "NGHTMRE",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-12-26"
+  },
+  {
+    "name": "Danny Tenaglia, Luna Mar",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-26"
+  },
+  {
+    "name": "ACRAZE",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-12-26"
+  },
+  {
+    "name": "Drip Sounds Collective Presents: Levitation Jones, Lemondoza",
+    "venue": "Club Andromeda",
+    "location": "New York, NY",
+    "date": "2025-12-26"
+  },
+  {
+    "name": "Agape Presents: Odymel",
+    "venue": "The Chocolate Factory Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-26"
+  },
+  {
+    "name": "Refuge Fridays: BIIA, Cera Khin, Salomon Wize, SoundPilot",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-26"
+  },
+  {
+    "name": "Sky Society",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-26"
   }
 ]
