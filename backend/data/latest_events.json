@@ -1,66 +1,18 @@
 [
   {
-    "name": "Austin Millz",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-12-20"
-  },
-  {
-    "name": "Oden & Fatzo, Chesster, Shek, Cut & Sew",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-20"
-  },
-  {
-    "name": "Durante, Yulia Niko, Paraleven, Koumby",
-    "venue": "Superior Ingredients (Main Room)",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-20"
-  },
-  {
-    "name": "Rivo, Avante, Abetta b2b Subversive, Remi Jolie",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-20"
-  },
-  {
-    "name": "GET CRANKED!: Crankdat, Mary Droppinz, nikko, Zoey808, HGods, Nadia, DROPTOPGUNDAM",
-    "venue": "Brooklyn Storehouse",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-20"
-  },
-  {
-    "name": "Oscar Mulero, Quelza, Cotton, Massimiliano Pagliara, ISAbella, The Carry Nation",
-    "venue": "BASEMENT NY",
-    "location": "New York, NY",
-    "date": "2025-12-20"
-  },
-  {
-    "name": "Showtek",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-12-20"
-  },
-  {
-    "name": "Technasia, Mark Dumitrescu, Bodega, Flair Gambit",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-20"
-  },
-  {
-    "name": "Young Marco",
-    "venue": "Lovejoys",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-20"
-  },
-  {
     "name": "Stephan Jolk, German Brigante, Robyn Balliet",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
     "date": "2025-12-21"
   },
   {
-    "name": "Stephan Jolk, German Brigante, Robyn Balliet",
+    "name": "Sounday's Listen",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-21"
+  },
+  {
+    "name": "Sounday's Listen",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
     "date": "2025-12-21"
@@ -80,12 +32,6 @@
   {
     "name": "GIDE\u00d6N, Makadsi, Via App",
     "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-21"
-  },
-  {
-    "name": "Sounday's Listen",
-    "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2025-12-21"
   },
@@ -180,6 +126,12 @@
     "date": "2025-12-26"
   },
   {
+    "name": "Open bar 10-11pm",
+    "venue": "Mission Nightclub",
+    "location": "New York, NY",
+    "date": "2025-12-26"
+  },
+  {
     "name": "Refuge Fridays: BIIA, Cera Khin, Salomon Wize, SoundPilot",
     "venue": "Refuge",
     "location": "Brooklyn, NY",
@@ -190,5 +142,59 @@
     "venue": "Moondog HiFi",
     "location": "Brooklyn, NY",
     "date": "2025-12-26"
+  },
+  {
+    "name": "Don Diablo",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-12-27"
+  },
+  {
+    "name": "Worakls, SunrYse, Asch Pintura",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-27"
+  },
+  {
+    "name": "DVBBS",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-12-27"
+  },
+  {
+    "name": "Mike Servito, Jacob Meehan, Kilopatrah Jones, Jeffrey Sfire",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-27"
+  },
+  {
+    "name": "Juan Atkins, Lauren Flax, Niyah West",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-27"
+  },
+  {
+    "name": "Disco Tehran End of Year Party",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-27"
+  },
+  {
+    "name": "Calussa",
+    "venue": "Superior Ingredients (Main Room)",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-27"
+  },
+  {
+    "name": "Open Decks Live on IG",
+    "venue": "VShow",
+    "location": "New York, NY",
+    "date": "2025-12-27"
+  },
+  {
+    "name": "Filip The First, Groowkemix",
+    "venue": "Laissez Faire",
+    "location": "New York, NY",
+    "date": "2025-12-27"
   }
 ]
