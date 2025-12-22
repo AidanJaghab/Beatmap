@@ -1,65 +1,5 @@
 [
   {
-    "name": "Stephan Jolk, German Brigante, Robyn Balliet",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-21"
-  },
-  {
-    "name": "Sounday's Listen",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-21"
-  },
-  {
-    "name": "Sounday's Listen",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2025-12-21"
-  },
-  {
-    "name": "Public Service Holiday Reunion: Deon Jamar, Meftah, Mickey P\u00e9rez, Toribio",
-    "venue": "Nowadays",
-    "location": "New York, NY",
-    "date": "2025-12-21"
-  },
-  {
-    "name": "Fran\u00e7ois K",
-    "venue": "Le Bain",
-    "location": "New York, NY",
-    "date": "2025-12-21"
-  },
-  {
-    "name": "GIDE\u00d6N, Makadsi, Via App",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-21"
-  },
-  {
-    "name": "Sleepy & Boo",
-    "venue": "Manhattan",
-    "location": "New York, NY",
-    "date": "2025-12-21"
-  },
-  {
-    "name": "Sunday Services at Raw Area",
-    "venue": "20 Meadow Street",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-21"
-  },
-  {
-    "name": "Sunday Skate Club: DONIS, DJ Tone Capo, Emerald Cuts, LSDFriendly",
-    "venue": "Xanadu Roller Arts",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-21"
-  },
-  {
-    "name": "Aftermath Monday Morning: Psymon GT, Just Jordan",
-    "venue": "20 Meadow Street",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-21"
-  },
-  {
     "name": "Ian Asher",
     "venue": "Mulcahy's Pub & Concert Hall",
     "location": "New York, NY",
@@ -84,22 +24,10 @@
     "date": "2025-12-24"
   },
   {
-    "name": "Cash Cash",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-12-24"
-  },
-  {
     "name": "Elysium - A Dance Music Event: RNX, Xiranda, Jeecck, KRIX, WIX, Economize",
     "venue": "Aura 57 NYC",
     "location": "New York, NY",
     "date": "2025-12-24"
-  },
-  {
-    "name": "NGHTMRE",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2025-12-26"
   },
   {
     "name": "Danny Tenaglia, Luna Mar",
@@ -174,21 +102,21 @@
     "date": "2025-12-27"
   },
   {
-    "name": "Disco Tehran End of Year Party",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-27"
-  },
-  {
     "name": "Calussa",
     "venue": "Superior Ingredients (Main Room)",
     "location": "Brooklyn, NY",
     "date": "2025-12-27"
   },
   {
-    "name": "Open Decks Live on IG",
-    "venue": "VShow",
-    "location": "New York, NY",
+    "name": "Disco Tehran End of Year Party",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-27"
+  },
+  {
+    "name": "Labubu Rave",
+    "venue": "Brooklyn Monarch",
+    "location": "Brooklyn, NY",
     "date": "2025-12-27"
   },
   {
@@ -196,5 +124,59 @@
     "venue": "Laissez Faire",
     "location": "New York, NY",
     "date": "2025-12-27"
+  },
+  {
+    "name": "Zedd",
+    "venue": "Great Hall at Avant Gardner",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-28"
+  },
+  {
+    "name": "SLANDER, FrostTop, REDLINE",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-12-28"
+  },
+  {
+    "name": "Sundays in the Atrium: Eli Escobar",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-28"
+  },
+  {
+    "name": "Konstantin Sibold, L9, Woke Brian",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-28"
+  },
+  {
+    "name": "Konstantin Sibold, L9, Woke Brian",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2025-12-28"
+  },
+  {
+    "name": "Sunday Skate Club",
+    "venue": "Xanadu Roller Arts",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-28"
+  },
+  {
+    "name": "Sunday Selectors: Jellybean Benitez",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-28"
+  },
+  {
+    "name": "DISCO X JOURNEY Party: DJ Spinna, Merlin Bobb",
+    "venue": "Good Room",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-28"
+  },
+  {
+    "name": "M.E.A.T. Afters: Isis Muretech, John W",
+    "venue": "Harbor New York",
+    "location": "New York, NY",
+    "date": "2025-12-28"
   }
 ]
