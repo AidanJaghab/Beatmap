@@ -60,7 +60,7 @@
     "date": "2025-12-26"
   },
   {
-    "name": "Refuge Fridays: BIIA, Cera Khin, Salomon Wize, SoundPilot",
+    "name": "Techno Brooklyn: BIIA, Cera Khin, Salomon Wize, SoundPilot",
     "venue": "Refuge",
     "location": "Brooklyn, NY",
     "date": "2025-12-26"
@@ -114,8 +114,8 @@
     "date": "2025-12-27"
   },
   {
-    "name": "Labubu Rave",
-    "venue": "Brooklyn Monarch",
+    "name": "AFTERGLOW: Shadowbeatsnyc",
+    "venue": "Eris",
     "location": "Brooklyn, NY",
     "date": "2025-12-27"
   },
@@ -178,5 +178,17 @@
     "venue": "Harbor New York",
     "location": "New York, NY",
     "date": "2025-12-28"
+  },
+  {
+    "name": "John Digweed, Spencer Brown, HVNLEE",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-29"
+  },
+  {
+    "name": "SLANDER, Au5, REDLINE",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-12-29"
   }
 ]
