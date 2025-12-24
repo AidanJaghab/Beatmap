@@ -1,23 +1,5 @@
 [
   {
-    "name": "Ian Asher",
-    "venue": "Mulcahy's Pub & Concert Hall",
-    "location": "New York, NY",
-    "date": "2025-12-23"
-  },
-  {
-    "name": "Tuesday Baby Tuesday: Reach, Shortkutz, Jon Luc, Carlucci",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-12-23"
-  },
-  {
-    "name": "Listening Session: Amelia Holt",
-    "venue": "Silence Please",
-    "location": "New York, NY",
-    "date": "2025-12-23"
-  },
-  {
     "name": "Ugly Sweater Xmas Reunion: Cristian Arango, Anthony Lopez",
     "venue": "Now & Then NYC",
     "location": "Brooklyn, NY",
@@ -28,6 +10,18 @@
     "venue": "Aura 57 NYC",
     "location": "New York, NY",
     "date": "2025-12-24"
+  },
+  {
+    "name": "Magit Cacoon",
+    "venue": "Eden NYC",
+    "location": "New York, NY",
+    "date": "2025-12-25"
+  },
+  {
+    "name": "4am Thursday morning",
+    "venue": "Now & Then NYC",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-25"
   },
   {
     "name": "Danny Tenaglia, Luna Mar",
@@ -48,18 +42,6 @@
     "date": "2025-12-26"
   },
   {
-    "name": "Agape Presents: Odymel",
-    "venue": "The Chocolate Factory Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-26"
-  },
-  {
-    "name": "Open bar 10-11pm",
-    "venue": "Mission Nightclub",
-    "location": "New York, NY",
-    "date": "2025-12-26"
-  },
-  {
     "name": "Techno Brooklyn: BIIA, Cera Khin, Salomon Wize, SoundPilot",
     "venue": "Refuge",
     "location": "Brooklyn, NY",
@@ -68,6 +50,18 @@
   {
     "name": "Sky Society",
     "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-26"
+  },
+  {
+    "name": "Andi, Justin Strauss",
+    "venue": "Le Bain",
+    "location": "New York, NY",
+    "date": "2025-12-26"
+  },
+  {
+    "name": "Anja Schneider",
+    "venue": "MAD Radio NYC",
     "location": "Brooklyn, NY",
     "date": "2025-12-26"
   },
@@ -108,12 +102,6 @@
     "date": "2025-12-27"
   },
   {
-    "name": "Disco Tehran End of Year Party",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-27"
-  },
-  {
     "name": "AFTERGLOW: Shadowbeatsnyc",
     "venue": "Eris",
     "location": "Brooklyn, NY",
@@ -123,6 +111,12 @@
     "name": "Filip The First, Groowkemix",
     "venue": "Laissez Faire",
     "location": "New York, NY",
+    "date": "2025-12-27"
+  },
+  {
+    "name": "Juliana Huxtable, SCRAAATCH, DOULA, Fashion, SydFalls, Via App, DICAP",
+    "venue": "Green Room NYC",
+    "location": "Brooklyn, NY",
     "date": "2025-12-27"
   },
   {
@@ -180,6 +174,12 @@
     "date": "2025-12-28"
   },
   {
+    "name": "GE-OLOGY",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-28"
+  },
+  {
     "name": "John Digweed, Spencer Brown, HVNLEE",
     "venue": "99 Scott",
     "location": "Brooklyn, NY",
@@ -190,5 +190,29 @@
     "venue": "Nebula",
     "location": "New York, NY",
     "date": "2025-12-29"
+  },
+  {
+    "name": "Shallou, M\u00f6lly",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-30"
+  },
+  {
+    "name": "Ship Wrek, Juos",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-30"
+  },
+  {
+    "name": "Jus-Ske",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2025-12-30"
+  },
+  {
+    "name": "Tuesday Baby Tuesday: Reach, Shortkutz, Jon Luc, Carlucci",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-12-30"
   }
 ]
