@@ -1,17 +1,5 @@
 [
   {
-    "name": "Ugly Sweater Xmas Reunion: Cristian Arango, Anthony Lopez",
-    "venue": "Now & Then NYC",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-24"
-  },
-  {
-    "name": "Elysium - A Dance Music Event: RNX, Xiranda, Jeecck, KRIX, WIX, Economize",
-    "venue": "Aura 57 NYC",
-    "location": "New York, NY",
-    "date": "2025-12-24"
-  },
-  {
     "name": "Magit Cacoon",
     "venue": "Eden NYC",
     "location": "New York, NY",
@@ -162,20 +150,20 @@
     "date": "2025-12-28"
   },
   {
-    "name": "DISCO X JOURNEY Party: DJ Spinna, Merlin Bobb",
-    "venue": "Good Room",
+    "name": "GE-OLOGY",
+    "venue": "Moondog HiFi",
     "location": "Brooklyn, NY",
     "date": "2025-12-28"
   },
   {
-    "name": "M.E.A.T. Afters: Isis Muretech, John W",
-    "venue": "Harbor New York",
+    "name": "Close Quarters By Descendants: Meedy, Pizzi, Dualitty, KB Da DJ",
+    "venue": "Nowadays",
     "location": "New York, NY",
     "date": "2025-12-28"
   },
   {
-    "name": "GE-OLOGY",
-    "venue": "Moondog HiFi",
+    "name": "Aftermath Monday Morning",
+    "venue": "20 Meadow Street",
     "location": "Brooklyn, NY",
     "date": "2025-12-28"
   },
@@ -214,5 +202,53 @@
     "venue": "Nebula",
     "location": "New York, NY",
     "date": "2025-12-30"
+  },
+  {
+    "name": "Oliver Heldens, Sam Allan",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2025-12-31"
+  },
+  {
+    "name": "Elsewhere NYE: Mall Grab, Effy, Baltra, Swami Sound, Dazegxd, gum.mp3, gumskiiiiiii, Hope 808, SLAYCEY",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-31"
+  },
+  {
+    "name": "Sama' Abdulhadi, Lauren Flax, Saphe",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-31"
+  },
+  {
+    "name": "Sistek, Marty P, Emmy Adelle",
+    "venue": "Arlo Williamsburg",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-31"
+  },
+  {
+    "name": "50% off with code NYE50",
+    "venue": "The Gallery at Dream Downtown",
+    "location": "New York, NY",
+    "date": "2025-12-31"
+  },
+  {
+    "name": "NYE: Audien",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2025-12-31"
+  },
+  {
+    "name": "Nora En Pure, Lincoln Jesser, Rissa Garcia",
+    "venue": "315 Meserole St",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-31"
+  },
+  {
+    "name": "umru, Petal Supply",
+    "venue": "Brooklyn Brewery",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-31"
   }
 ]
