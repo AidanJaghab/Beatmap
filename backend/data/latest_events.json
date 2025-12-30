@@ -1,21 +1,9 @@
 [
   {
-    "name": "John Digweed, Spencer Brown, HVNLEE",
-    "venue": "99 Scott",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-29"
-  },
-  {
-    "name": "Zedd",
-    "venue": "Great Hall at Avant Gardner",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-29"
-  },
-  {
-    "name": "SLANDER, Au5, REDLINE",
-    "venue": "Nebula",
+    "name": "Sistem",
+    "venue": "4AM.wav",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-31"
   },
   {
     "name": "Shallou, M\u00f6lly",
@@ -48,7 +36,7 @@
     "date": "2025-12-30"
   },
   {
-    "name": "Oliver Heldens, Sam Allan",
+    "name": "Oliver Heldens, Sam Allan, SAMPLR",
     "venue": "Marquee",
     "location": "New York, NY",
     "date": "2025-12-31"
@@ -72,7 +60,7 @@
     "date": "2025-12-31"
   },
   {
-    "name": "50% off with code NYE50",
+    "name": "Code NYE50 or XMAS for discounts!",
     "venue": "The Gallery at Dream Downtown",
     "location": "New York, NY",
     "date": "2025-12-31"
@@ -276,106 +264,112 @@
     "date": "2026-01-04"
   },
   {
+    "name": "MMF Society Open Decks: shirlz, MISS VEE, lotus.",
+    "venue": "The Rose New York",
+    "location": "New York, NY",
+    "date": "2026-01-05"
+  },
+  {
     "name": "Gareth Emery, Adam Scott",
     "venue": "Marquee",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Sunnery James & Ryan Marciano",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Snow Strippers, EVILGIANE, EERA, anna luna",
     "venue": "Terminal 5",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Grace Sands, Ian Pooley, Radio Slave, Mutualism, Haseeb Iqbal",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Beats On Time: Robag Wruhme, Saqib, SANA, Esther Silex, Taylor Bradford",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Pressure: DJ Swisha, WTCHCRFT, estoc, Black Rave Culture",
     "venue": "Paragon",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Sabine Blaizin, Kamala Muse, Jeremy Giros, Bendito",
     "venue": "Cargo at Dead Letter No. 9",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
-  },
-  {
-    "name": "Toribio, Mira Mira, Haseeb Iqbal",
-    "venue": "Good Room",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-29"
-  },
-  {
-    "name": "The Ornate Project: Kai Song, Mike Marquez",
-    "venue": "Starchild Rooftop",
-    "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Rick Wonder",
     "venue": "Nebula",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
+  },
+  {
+    "name": "Toribio, Mira Mira, Haseeb Iqbal",
+    "venue": "Good Room",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-30"
+  },
+  {
+    "name": "The Ornate Project: Kai Song, Mike Marquez",
+    "venue": "Starchild Rooftop",
+    "location": "New York, NY",
+    "date": "2025-12-30"
   },
   {
     "name": "Austra",
     "venue": "Baby's All Right",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Romain Garcia, Niki Sadeki, Tommylogik",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Gilles Peterson, Ron Trent, Kassa Overall",
     "venue": "Elsewhere Hall",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Gilles Peterson, Ron Trent, Kassa Overall",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Sunday Skate Club: Honey Bun, Kristen London, DJ girlcrush",
     "venue": "Xanadu Roller Arts",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Gilles Peterson, Giant Step",
     "venue": "Roulette Intermedium",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Steen, Touch Base",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Bush D\u00fcf: Ben Zo, Primordian",
@@ -405,211 +399,217 @@
     "name": "Deorro",
     "venue": "Marquee",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Salvatore Ganacci",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Rosa Pistola, Verraco, Markus, Riobamba",
     "venue": "Paragon",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "u.r.trax, Henning Baer, Mesm\u00e9, Ina Kacz, DJ Scribe",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "EVAN GIIA, moistbreezy",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Cut Chemist",
     "venue": "Superior Ingredients",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Sean Doron",
     "venue": "Laissez Faire",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "BLAIZE, CRVM, Val Fleury, Wolf Spritzer, Bridge (NY)",
     "venue": "Jupiter Disco",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
+  },
+  {
+    "name": "Mike Parker, Neel, Torsion b2b Kudeki",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-30"
   },
   {
     "name": "GiNjA",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
-  },
-  {
-    "name": "Hoodini",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Big Gigantic, ProbCause, Bad Snacks",
     "venue": "Brooklyn Steel",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Markus Schulz, SunrYse, Dan Miles",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Jerome Isma-Ae",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Carista, Nabihah Iqbal, Cosmo, Dee Diggs",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "19:26",
     "venue": "99 Scott",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Paradiso: Introspekt, Bored Lord, RYKER, Makadsi, Fashion",
     "venue": "Paragon",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
-  },
-  {
-    "name": "Import/Export Presents: Sepehr, Emsho b2b J. Richards",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-29"
-  },
-  {
-    "name": "Aaron J, DJ G, Jek, DJ Healthy, Eden Aurelius, Gar\u00e7on, Yibing",
-    "venue": "East Williamsburg",
-    "location": "Brooklyn, NY",
-    "date": "2025-12-29"
-  },
-  {
-    "name": "Snakehips, Zion",
-    "venue": "Mission Nightclub",
-    "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Elephante",
     "venue": "Nebula",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
+  },
+  {
+    "name": "The Basement Project: Drew Proud, Heedon, FRANZIV, ViV:On, Siia, DJ Bookworm",
+    "venue": "Eris",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-30"
+  },
+  {
+    "name": "Aaron J, DJ G, Jek, DJ Healthy, Eden Aurelius, Gar\u00e7on, Yibing",
+    "venue": "East Williamsburg",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-30"
+  },
+  {
+    "name": "Snakehips, Zion",
+    "venue": "Mission Nightclub",
+    "location": "New York, NY",
+    "date": "2025-12-30"
   },
   {
     "name": "DI\u00d8N, Crossbow, Adam Meliani",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Traxx, Shawn Dub",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Body & Soul: Fran\u00e7ois K, Danny Krivit, Joe Claussell",
     "venue": "Musica NYC",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "BATTLE HYMN: Tedd Patterson, The Carry Nation",
     "venue": "Rumi",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Loco Carnaval Party: Oscar G, Lohrasp Kansara, Alejandro Arce",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Lumia, Gia Huy, Van Der Laan, BKG",
     "venue": "Elsewhere Zone One",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "F*ck It, We Dance",
     "venue": "House of Yes",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Soul Summit, Bridge (NY), Lea (NYC)",
     "venue": "Nowadays",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Sunday Skate Club",
     "venue": "Xanadu Roller Arts",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
+  },
+  {
+    "name": "M.E.A.T. Afters: Morabito",
+    "venue": "Harbor New York",
+    "location": "New York, NY",
+    "date": "2025-12-30"
   },
   {
     "name": "Steen",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "TUNNELWERK - TECHNO NACHT",
     "venue": "Baker Falls",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Magic City Hippies, Supertaste",
     "venue": "Brooklyn Bowl",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "umru",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Techno Thursday: Bruce Wayne",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "ENY.fm, Vesi, Tempo Twist",
     "venue": "UNVEILED",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Wax Motif",
@@ -675,151 +675,157 @@
     "name": "WonkyWilla, Smith. b2b Buku, MontyCler b2b Overeasy, RiddimNYC",
     "venue": "Webster Hall",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Carlo Lio b2b Boris (NYC)",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Carlo Lio b2b Boris (NYC)",
     "venue": "RNR X Golden Record NYC",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Frank & Tony, Snad, Simone de Kunovich, Queen Majesty, Pancratio",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Jacky Sommer, Kim Anh, Cosmo, The Egyptian Lover",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Coffintexts, Sister Zo, Sister System, Ryan Smith, Amanda Mussi, Devoye, Ron Like Hell",
     "venue": "BASEMENT NY",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "OFF SIGNL: Nick Curly, Special Guest",
     "venue": "Manhattan",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Rich Medina",
     "venue": "Green Room NYC",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "The Carry Nation, Nita Aviance, Will Automagic",
     "venue": "315 Meserole St",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
-    "name": "Destination SXM Festival",
+    "name": "Destination SXM Festival: YokoO, Julian Prince",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
+  },
+  {
+    "name": "Sundays in the Atrium: Eli Escobar, Honey Bun",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2025-12-30"
   },
   {
     "name": "Steen, Transmute",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Fox Stevenson",
     "venue": "Elsewhere Hall",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "LAERZ",
     "venue": "Music Hall of Williamsburg",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Signal x Infra Boston: Dustin Zahn, Rush Plus, Annie Lew",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Platonic Romance Tour: DRAMA",
     "venue": "Brooklyn Paramount",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Body Hack",
     "venue": "Nowadays",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Lavern",
     "venue": "Marquee",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Riot Ten, Ruvlo, Hexxa",
     "venue": "Brooklyn Monarch",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Hybrid Minds, Dave Shichman",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Surf Mesa, DJ Planet Express",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Amenthia Showcase: Agonis, Kamran Sadeghi, Nastia, Ayanna Heaven",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Open To Close: Mind Against",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Chippy Nonstop, DJ Warning, MPeach, Miss Twink USA, RANMA",
     "venue": "Paragon",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "x3butterfly, Seb Wildblood, EREZ",
     "venue": "National Sawdust",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Perreo Meets Techno",
     "venue": "The Meadows Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2025-12-29"
+    "date": "2025-12-30"
   },
   {
     "name": "Valentino Khan",
