@@ -1,66 +1,6 @@
 [
   {
-    "name": "D.O.D",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "DJ Sliink, Miley Serious, shekdash, Kweku Saunderson, Suzi Analogue, Rose Kourts",
-    "venue": "Paragon",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Delroy Edwards, JADALAREIGN, Heidi Lawden, Tim Sweeney, Justin Strauss",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Zeemuffin, AceMo, EQUISS, TEE EM DEE, Stonie Blue",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "David Berrie, Elia Nafzger, Zach G",
-    "venue": "MAD Radio NYC",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Sleepy & Boo",
-    "venue": "Sistem",
-    "location": "New York, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Aura (Soca House Music Party): Bruce Wayne, Rebel Muzik, Stella Key",
-    "venue": "Aura 57 NYC",
-    "location": "New York, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "6AM - 5PM",
-    "venue": "99 Scott",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Raw Area Open Season: Purdy",
-    "venue": "20 Meadow Street",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Listening Session: Hamadi",
-    "venue": "Silence Please",
-    "location": "New York, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "More Events \u2193",
+    "name": "Jupiter Disco",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
     "date": "2026-01-04"
@@ -144,6 +84,12 @@
     "date": "2026-01-09"
   },
   {
+    "name": "Luis Torres",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-01-09"
+  },
+  {
     "name": "Forest D\u00f6wn Under",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
@@ -153,12 +99,6 @@
     "name": "Road To Northern Invasion: Warlord, STAYNS, MXRLY b2b Sakuro, RiddimNYC b2b Astrominate b2b Jellbass, HER\u00d8 b2b Terps b2b Momay",
     "venue": "The Broadway Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-01-09"
-  },
-  {
-    "name": "Luis Torres",
-    "venue": "Nebula",
-    "location": "New York, NY",
     "date": "2026-01-09"
   },
   {
@@ -174,123 +114,57 @@
     "date": "2026-01-09"
   },
   {
-    "name": "Lavern",
+    "name": "Gareth Emery, Adam Scott",
     "venue": "Marquee",
     "location": "New York, NY",
-    "date": "2026-01-03"
+    "date": "2026-01-10"
   },
   {
-    "name": "Riot Ten, Ruvlo, Hexxa",
-    "venue": "Brooklyn Monarch",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Hybrid Minds, Dave Shichman",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Surf Mesa, DJ Planet Express",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Amenthia Showcase: Agonis, Kamran Sadeghi, Nastia, Ayanna Heaven",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Open To Close: Mind Against",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Chippy Nonstop, DJ Warning, MPeach, Miss Twink USA, RANMA",
-    "venue": "Paragon",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Winter Wonderglam: GlamCocks, Morabito, autogyro, Ben Wild, Xtian, Foster",
-    "venue": "House of Yes",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Dense Musium: ESSE, HWANEE, YK",
-    "venue": "00:00",
-    "location": "New York, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Jedai, Nasser Baker",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Valentino Khan",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Weval",
-    "venue": "Elsewhere Hall",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Wakyin, Ferra Black, Wemi",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "NYC Debut",
+    "name": "Sunnery James & Ryan Marciano",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2026-01-03"
+    "date": "2026-01-10"
   },
   {
-    "name": "Oliver Smith, Coastlines",
-    "venue": "SILO Brooklyn",
+    "name": "Snow Strippers, EVILGIANE, EERA, anna luna",
+    "venue": "Terminal 5",
+    "location": "New York, NY",
+    "date": "2026-01-10"
+  },
+  {
+    "name": "Grace Sands, Ian Pooley, Radio Slave, Mutualism, Haseeb Iqbal",
+    "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2026-01-03"
+    "date": "2026-01-10"
   },
   {
-    "name": "Swimming Paul",
-    "venue": "Brooklyn Steel",
+    "name": "Beats On Time: Robag Wruhme, Saqib, SANA, Esther Silex, Taylor Bradford",
+    "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-01-03"
+    "date": "2026-01-10"
   },
   {
-    "name": "Joey Beltram, Mike Servito, HELLTEKK",
+    "name": "Pressure: DJ Swisha, WTCHCRFT, estoc, Black Rave Culture",
     "venue": "Paragon",
     "location": "Brooklyn, NY",
-    "date": "2026-01-03"
+    "date": "2026-01-10"
   },
   {
-    "name": "Pictureplane, NOWHERE2RUN, Princess Peggie, Ohaileigh",
-    "venue": "TV Eye",
-    "location": "New York, NY",
-    "date": "2026-01-03"
-  },
-  {
-    "name": "Detroit Love: Carl Craig, DJ Holographic, Van Der Laan, Skin",
-    "venue": "Superior Ingredients (Main Room)",
+    "name": "Sabine Blaizin, Kamala Muse, Jeremy Giros, Bendito",
+    "venue": "Cargo at Dead Letter No. 9",
     "location": "Brooklyn, NY",
-    "date": "2026-01-03"
+    "date": "2026-01-10"
   },
   {
-    "name": "Amelia Holt, Second Contact",
-    "venue": "Outer Heaven NYC",
+    "name": "Rick Wonder",
+    "venue": "Nebula",
     "location": "New York, NY",
-    "date": "2026-01-03"
+    "date": "2026-01-10"
+  },
+  {
+    "name": "Chicken Town X Spicyfish: Theus Mago, Eliezer",
+    "venue": "Eden NYC",
+    "location": "New York, NY",
+    "date": "2026-01-10"
   }
 ]
