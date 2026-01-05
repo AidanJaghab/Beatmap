@@ -1,23 +1,5 @@
 [
   {
-    "name": "Jupiter Disco",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2026-01-04"
-  },
-  {
-    "name": "SOUNDAY - B2B Marathon",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-04"
-  },
-  {
-    "name": "Listening Session",
-    "venue": "Silence Please",
-    "location": "New York, NY",
-    "date": "2026-01-04"
-  },
-  {
     "name": "MMF Society Open Decks: shirlz, MISS VEE, lotus.",
     "venue": "The Rose New York",
     "location": "New York, NY",
@@ -90,14 +72,14 @@
     "date": "2026-01-09"
   },
   {
-    "name": "Forest D\u00f6wn Under",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
+    "name": "Road To Northern Invasion: Warlord, STAYNS, MXRLY b2b Sakuro, RiddimNYC b2b Astrominate b2b Jellbass, HER\u00d8 b2b Terps b2b Momay",
+    "venue": "The Broadway Brooklyn",
+    "location": "Brooklyn, NY",
     "date": "2026-01-09"
   },
   {
-    "name": "Road To Northern Invasion: Warlord, STAYNS, MXRLY b2b Sakuro, RiddimNYC b2b Astrominate b2b Jellbass, HER\u00d8 b2b Terps b2b Momay",
-    "venue": "The Broadway Brooklyn",
+    "name": "Trim Presents Industrial Concept Part 2: Dante Pasquale",
+    "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-01-09"
   },
@@ -166,5 +148,53 @@
     "venue": "Eden NYC",
     "location": "New York, NY",
     "date": "2026-01-10"
+  },
+  {
+    "name": "Austra",
+    "venue": "Baby's All Right",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-11"
+  },
+  {
+    "name": "Romain Garcia, Niki Sadeki, Tommylogik",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-11"
+  },
+  {
+    "name": "Gilles Peterson, Ron Trent, Kassa Overall",
+    "venue": "Elsewhere Hall",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-11"
+  },
+  {
+    "name": "Gilles Peterson, Ron Trent, Kassa Overall",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2026-01-11"
+  },
+  {
+    "name": "Sunday Skate Club: Honey Bun, Kristen London, DJ girlcrush",
+    "venue": "Xanadu Roller Arts",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-11"
+  },
+  {
+    "name": "Physical Therapy, Shaun J. Wright, Charlene",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-11"
+  },
+  {
+    "name": "Danny Krivit",
+    "venue": "Nowadays",
+    "location": "New York, NY",
+    "date": "2026-01-11"
+  },
+  {
+    "name": "Sunday Services at Raw Area",
+    "venue": "20 Meadow Street",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-11"
   }
 ]
