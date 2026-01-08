@@ -1,15 +1,9 @@
 [
   {
-    "name": "Steen, David Lunch",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-07"
-  },
-  {
-    "name": "AG (NYC), Eevee (NYC)",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-07"
+    "name": "Refuge",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2026-01-08"
   },
   {
     "name": "Lounge Sessions: Anthony Romano, LEFTI, Raven Savere, Smokey Rose",
@@ -90,7 +84,7 @@
     "date": "2026-01-09"
   },
   {
-    "name": "MARK GRUSANE, Lauren Murada, Finn Jones, Miss Alicia, XANDER (FR), Party Dad",
+    "name": "Mark Grusane, Lauren Murada, Finn Jones, Miss Alicia, XANDER (FR), Party Dad",
     "venue": "Good Room",
     "location": "Brooklyn, NY",
     "date": "2026-01-09"
@@ -144,15 +138,15 @@
     "date": "2026-01-10"
   },
   {
-    "name": "Chicken Town X Spicyfish: Theus Mago, Eliezer",
-    "venue": "Eden NYC",
+    "name": "Open bar 10-11pm",
+    "venue": "Mission Nightclub",
     "location": "New York, NY",
     "date": "2026-01-10"
   },
   {
-    "name": "Open bar 10-11pm",
-    "venue": "Mission Nightclub",
-    "location": "New York, NY",
+    "name": "Saint James Joy, DONIS, Citysoul, DJ eh Remniqe, DJ Nope",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
     "date": "2026-01-10"
   },
   {
@@ -204,15 +198,15 @@
     "date": "2026-01-11"
   },
   {
+    "name": "Sunday Selectors",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-11"
+  },
+  {
     "name": "Gilles Peterson, Giant Step",
     "venue": "Roulette Intermedium",
     "location": "Brooklyn, NY",
-    "date": "2026-01-13"
-  },
-  {
-    "name": "Tuesday Baby Tuesday",
-    "venue": "Nebula",
-    "location": "New York, NY",
     "date": "2026-01-13"
   },
   {
@@ -220,5 +214,11 @@
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
     "date": "2026-01-13"
+  },
+  {
+    "name": "Steen, Touch Base",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-14"
   }
 ]
