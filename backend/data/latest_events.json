@@ -1,41 +1,5 @@
 [
   {
-    "name": "Refuge",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2026-01-08"
-  },
-  {
-    "name": "Lounge Sessions: Anthony Romano, LEFTI, Raven Savere, Smokey Rose",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-08"
-  },
-  {
-    "name": "Barac, Maksim b2b Ruslan",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-08"
-  },
-  {
-    "name": "$20 - 30",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-08"
-  },
-  {
-    "name": "Turbz",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2026-01-08"
-  },
-  {
-    "name": "Neil Jackson",
-    "venue": "TAO Downtown",
-    "location": "New York, NY",
-    "date": "2026-01-08"
-  },
-  {
     "name": "NOTD",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -72,20 +36,26 @@
     "date": "2026-01-09"
   },
   {
-    "name": "Slush Puppy Presents - Sound Bites",
-    "venue": "Eris",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-09"
-  },
-  {
-    "name": "Justin Strauss",
-    "venue": "Outer Heaven NYC",
+    "name": "Luis Torres",
+    "venue": "Little Sister Lounge",
     "location": "New York, NY",
     "date": "2026-01-09"
   },
   {
     "name": "Mark Grusane, Lauren Murada, Finn Jones, Miss Alicia, XANDER (FR), Party Dad",
     "venue": "Good Room",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-09"
+  },
+  {
+    "name": "Sleepy & Boo",
+    "venue": "Manhattan",
+    "location": "New York, NY",
+    "date": "2026-01-09"
+  },
+  {
+    "name": "6PM - 10PM",
+    "venue": "The Wood Shop",
     "location": "Brooklyn, NY",
     "date": "2026-01-09"
   },
@@ -204,6 +174,12 @@
     "date": "2026-01-11"
   },
   {
+    "name": "Sounday: Maria Peace b2b Angie Cano, Rada, Sav",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-11"
+  },
+  {
     "name": "Gilles Peterson, Giant Step",
     "venue": "Roulette Intermedium",
     "location": "Brooklyn, NY",
@@ -220,5 +196,53 @@
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-01-14"
+  },
+  {
+    "name": "Evening Tea Endzeit Presents: Neel, Kudeki, Torsion",
+    "venue": "Silence Please",
+    "location": "New York, NY",
+    "date": "2026-01-14"
+  },
+  {
+    "name": "Bush D\u00fcf: Ben Zo, Erik Braun, Primordian, k\u014d-an",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-15"
+  },
+  {
+    "name": "Desyn, Rasho, Max Sprauer",
+    "venue": "Green Room NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-15"
+  },
+  {
+    "name": "Sepp, Armii1n b2b Choukroun, Monk b2b Zayd",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-15"
+  },
+  {
+    "name": "Turbz",
+    "venue": "Loosie's Nightclub",
+    "location": "New York, NY",
+    "date": "2026-01-15"
+  },
+  {
+    "name": "Pour It Forward: THREESIXTY",
+    "venue": "Damballa",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-15"
+  },
+  {
+    "name": "True Panther, King Krule, Dazegxd, Eurohead, Frost Children, Grace Ives, Kuru, Lucy Bedroque, quiet light, Skating Ends",
+    "venue": "Xanadu Roller Arts",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-15"
+  },
+  {
+    "name": "Listening Session: Dynoman",
+    "venue": "Silence Please",
+    "location": "New York, NY",
+    "date": "2026-01-15"
   }
 ]
