@@ -1,65 +1,5 @@
 [
   {
-    "name": "NOTD",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-01-09"
-  },
-  {
-    "name": "Emorfik, WODD",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-09"
-  },
-  {
-    "name": "Elevation x Midnight Caviar Present: Kellie Allen, Daniel Cowel, BUGGI, Casimir von Oettingen, \u1ecdba+flip",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-09"
-  },
-  {
-    "name": "Mathew Jonson, Lychee, Akanbi, Victoria Mussi, e-Lite",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-09"
-  },
-  {
-    "name": "Paradiso: Kevin Saunderson, Todd Terry, Kilopatrah Jones, Concrete Husband, KXAH",
-    "venue": "Paragon",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-09"
-  },
-  {
-    "name": "Luis Torres",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2026-01-09"
-  },
-  {
-    "name": "Luis Torres",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2026-01-09"
-  },
-  {
-    "name": "Mark Grusane, Lauren Murada, Finn Jones, Miss Alicia, XANDER (FR), Party Dad",
-    "venue": "Good Room",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-09"
-  },
-  {
-    "name": "Sleepy & Boo",
-    "venue": "Manhattan",
-    "location": "New York, NY",
-    "date": "2026-01-09"
-  },
-  {
-    "name": "6PM - 10PM",
-    "venue": "The Wood Shop",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-09"
-  },
-  {
     "name": "Gareth Emery, Adam Scott",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -114,7 +54,7 @@
     "date": "2026-01-10"
   },
   {
-    "name": "Saint James Joy, DONIS, Citysoul, DJ eh Remniqe, DJ Nope",
+    "name": "Saint James Joy, DONIS, DJ eh Remniqe, DJ Nope",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
     "date": "2026-01-10"
@@ -176,6 +116,12 @@
   {
     "name": "Sounday: Maria Peace b2b Angie Cano, Rada, Sav",
     "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-11"
+  },
+  {
+    "name": "Mark Dumitrescu",
+    "venue": "96 Morgan Ave",
     "location": "Brooklyn, NY",
     "date": "2026-01-11"
   },
@@ -244,5 +190,65 @@
     "venue": "Silence Please",
     "location": "New York, NY",
     "date": "2026-01-15"
+  },
+  {
+    "name": "Deorro",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-01-16"
+  },
+  {
+    "name": "Salvatore Ganacci, Luna Mar",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-01-16"
+  },
+  {
+    "name": "Rosa Pistola, Verraco, Markus, Riobamba",
+    "venue": "Paragon",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-16"
+  },
+  {
+    "name": "u.r.trax, Henning Baer, Mesm\u00e9, Ina Kacz, DJ Scribe",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-16"
+  },
+  {
+    "name": "EVAN GIIA, moistbreezy",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-16"
+  },
+  {
+    "name": "Cut Chemist",
+    "venue": "Superior Ingredients",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-16"
+  },
+  {
+    "name": "Sean Doron",
+    "venue": "Laissez Faire",
+    "location": "New York, NY",
+    "date": "2026-01-16"
+  },
+  {
+    "name": "FIGHT CLVB",
+    "venue": "Brooklyn Monarch",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-16"
+  },
+  {
+    "name": "Sleepy & Boo",
+    "venue": "Manhattan",
+    "location": "New York, NY",
+    "date": "2026-01-16"
+  },
+  {
+    "name": "Good Friday: Dawson, Dropo, DJ Mitch Ferrino, Kilopatrah Jones, Alexis Tucci",
+    "venue": "Red Eye NY",
+    "location": "New York, NY",
+    "date": "2026-01-16"
   }
 ]
