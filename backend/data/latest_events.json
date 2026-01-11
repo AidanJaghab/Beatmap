@@ -1,65 +1,5 @@
 [
   {
-    "name": "Gareth Emery, Adam Scott",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-01-10"
-  },
-  {
-    "name": "Sunnery James & Ryan Marciano",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-10"
-  },
-  {
-    "name": "Snow Strippers, EVILGIANE, EERA, anna luna",
-    "venue": "Terminal 5",
-    "location": "New York, NY",
-    "date": "2026-01-10"
-  },
-  {
-    "name": "Grace Sands, Ian Pooley, Radio Slave, Mutualism, Haseeb Iqbal",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-10"
-  },
-  {
-    "name": "Beats On Time: Robag Wruhme, Saqib, SANA, Esther Silex, Taylor Bradford",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-10"
-  },
-  {
-    "name": "Pressure: DJ Swisha, WTCHCRFT, estoc, Black Rave Culture",
-    "venue": "Paragon",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-10"
-  },
-  {
-    "name": "Sabine Blaizin, Kamala Muse, Jeremy Giros, Bendito",
-    "venue": "Cargo at Dead Letter No. 9",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-10"
-  },
-  {
-    "name": "Rick Wonder",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2026-01-10"
-  },
-  {
-    "name": "Open bar 10-11pm",
-    "venue": "Mission Nightclub",
-    "location": "New York, NY",
-    "date": "2026-01-10"
-  },
-  {
-    "name": "Saint James Joy, DONIS, DJ eh Remniqe, DJ Nope",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-10"
-  },
-  {
     "name": "Austra",
     "venue": "Baby's All Right",
     "location": "Brooklyn, NY",
@@ -80,24 +20,6 @@
   {
     "name": "Gilles Peterson, Ron Trent, Kassa Overall",
     "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2026-01-11"
-  },
-  {
-    "name": "Sunday Skate Club: Honey Bun, Kristen London, DJ girlcrush",
-    "venue": "Xanadu Roller Arts",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-11"
-  },
-  {
-    "name": "Physical Therapy, Shaun J. Wright, Charlene",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-11"
-  },
-  {
-    "name": "Danny Krivit",
-    "venue": "Nowadays",
     "location": "New York, NY",
     "date": "2026-01-11"
   },
@@ -126,6 +48,18 @@
     "date": "2026-01-11"
   },
   {
+    "name": "HumanbIAN, SHAUNIE, Moist Briefs",
+    "venue": "Jupiter Disco",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-11"
+  },
+  {
+    "name": "Occupy The Disco",
+    "venue": "Le Bain",
+    "location": "New York, NY",
+    "date": "2026-01-11"
+  },
+  {
     "name": "Gilles Peterson, Giant Step",
     "venue": "Roulette Intermedium",
     "location": "Brooklyn, NY",
@@ -138,6 +72,12 @@
     "date": "2026-01-13"
   },
   {
+    "name": "EXTRA SPICY PLEASE Open Decks",
+    "venue": "Honey's",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-13"
+  },
+  {
     "name": "Steen, Touch Base",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
@@ -147,6 +87,12 @@
     "name": "Evening Tea Endzeit Presents: Neel, Kudeki, Torsion",
     "venue": "Silence Please",
     "location": "New York, NY",
+    "date": "2026-01-14"
+  },
+  {
+    "name": "Eurohead, Oc\u00e9ane",
+    "venue": "Rash",
+    "location": "Brooklyn, NY",
     "date": "2026-01-14"
   },
   {
@@ -192,6 +138,18 @@
     "date": "2026-01-15"
   },
   {
+    "name": "Gojnea76, Omar Ludwig, AG (NYC)",
+    "venue": "MAD Radio NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-15"
+  },
+  {
+    "name": "Pure Immanence",
+    "venue": "Queer Nightlife Community Center",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-15"
+  },
+  {
     "name": "Deorro",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -234,15 +192,15 @@
     "date": "2026-01-16"
   },
   {
-    "name": "FIGHT CLVB",
-    "venue": "Brooklyn Monarch",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-16"
-  },
-  {
     "name": "Sleepy & Boo",
     "venue": "Manhattan",
     "location": "New York, NY",
+    "date": "2026-01-16"
+  },
+  {
+    "name": "Agape Presents: Aisha, AKR, Andre-KX, Parad\u00f8x",
+    "venue": "The Chocolate Factory Brooklyn",
+    "location": "Brooklyn, NY",
     "date": "2026-01-16"
   },
   {
@@ -250,5 +208,65 @@
     "venue": "Red Eye NY",
     "location": "New York, NY",
     "date": "2026-01-16"
+  },
+  {
+    "name": "Big Gigantic, ProbCause, Bad Snacks",
+    "venue": "Brooklyn Steel",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-17"
+  },
+  {
+    "name": "Markus Schulz, SunrYse b2b Derya Zor, Dan Miles, Groove Kitty b2b Staski",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-17"
+  },
+  {
+    "name": "Promo Code - Aziman",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-17"
+  },
+  {
+    "name": "Carista, Nabihah Iqbal, Cosmo, Dee Diggs",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-17"
+  },
+  {
+    "name": "19:26, Melissa XYZ, MANTi",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-17"
+  },
+  {
+    "name": "Guy Mantzur",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-01-17"
+  },
+  {
+    "name": "Paradiso: Introspekt, Bored Lord, RYKER, Makadsi, Fashion",
+    "venue": "Paragon",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-17"
+  },
+  {
+    "name": "Elephante",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-01-17"
+  },
+  {
+    "name": "Cocodrills",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-17"
+  },
+  {
+    "name": "BOYDELL, Gigi Rio, Sasha Rome, Ben Chadda",
+    "venue": "Alphaville",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-17"
   }
 ]
