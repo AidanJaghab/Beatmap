@@ -3,61 +3,7 @@
     "name": "Austra",
     "venue": "Baby's All Right",
     "location": "Brooklyn, NY",
-    "date": "2026-01-11"
-  },
-  {
-    "name": "Romain Garcia, Niki Sadeki, Tommylogik",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-11"
-  },
-  {
-    "name": "Gilles Peterson, Ron Trent, Kassa Overall",
-    "venue": "Elsewhere Hall",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-11"
-  },
-  {
-    "name": "Gilles Peterson, Ron Trent, Kassa Overall",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2026-01-11"
-  },
-  {
-    "name": "Sunday Services at Raw Area",
-    "venue": "20 Meadow Street",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-11"
-  },
-  {
-    "name": "Sunday Selectors",
-    "venue": "Refuge",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-11"
-  },
-  {
-    "name": "Sounday: Maria Peace b2b Angie Cano, Rada, Sav",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-11"
-  },
-  {
-    "name": "Mark Dumitrescu",
-    "venue": "96 Morgan Ave",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-11"
-  },
-  {
-    "name": "HumanbIAN, SHAUNIE, Moist Briefs",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-11"
-  },
-  {
-    "name": "Occupy The Disco",
-    "venue": "Le Bain",
-    "location": "New York, NY",
-    "date": "2026-01-11"
+    "date": "2026-01-12"
   },
   {
     "name": "Gilles Peterson, Giant Step",
@@ -150,6 +96,12 @@
     "date": "2026-01-15"
   },
   {
+    "name": "Ali RQ, Heartbreaker, DJ Brandy Melville, Alive Girl, zzzplz",
+    "venue": "Le Bain",
+    "location": "New York, NY",
+    "date": "2026-01-15"
+  },
+  {
     "name": "Deorro",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -210,6 +162,18 @@
     "date": "2026-01-16"
   },
   {
+    "name": "DC Salas (Correspondant), Intergalactic Gary (Dekmantel), Privacy (Berlin) + more: DC Salas, Intergalactic Gary, Privacy",
+    "venue": "H0L0",
+    "location": "New York, NY",
+    "date": "2026-01-17"
+  },
+  {
+    "name": "Guy Mantzur",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-01-17"
+  },
+  {
     "name": "Big Gigantic, ProbCause, Bad Snacks",
     "venue": "Brooklyn Steel",
     "location": "Brooklyn, NY",
@@ -228,21 +192,9 @@
     "date": "2026-01-17"
   },
   {
-    "name": "Carista, Nabihah Iqbal, Cosmo, Dee Diggs",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-17"
-  },
-  {
-    "name": "19:26, Melissa XYZ, MANTi",
+    "name": "19:26, JOA, Melissa XYZ, MANTi",
     "venue": "99 Scott",
     "location": "Brooklyn, NY",
-    "date": "2026-01-17"
-  },
-  {
-    "name": "Guy Mantzur",
-    "venue": "Marquee",
-    "location": "New York, NY",
     "date": "2026-01-17"
   },
   {
@@ -268,5 +220,65 @@
     "venue": "Alphaville",
     "location": "Brooklyn, NY",
     "date": "2026-01-17"
+  },
+  {
+    "name": "DI\u00d8N, Ammara, Crossbow, Adam Meliani, Medina",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-18"
+  },
+  {
+    "name": "Traxx, Shawn Dub",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-18"
+  },
+  {
+    "name": "Body & Soul: Fran\u00e7ois K, Danny Krivit, Joe Claussell",
+    "venue": "Musica NYC",
+    "location": "New York, NY",
+    "date": "2026-01-18"
+  },
+  {
+    "name": "BATTLE HYMN: Tedd Patterson, The Carry Nation",
+    "venue": "Rumi",
+    "location": "New York, NY",
+    "date": "2026-01-18"
+  },
+  {
+    "name": "Loco Carnaval Party: Oscar G, Lohrasp Kansara, Alejandro Arce",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2026-01-18"
+  },
+  {
+    "name": "Sounday: Angie Ocampo, Aries, Egipto",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-18"
+  },
+  {
+    "name": "Listening Session: Caire",
+    "venue": "Silence Please",
+    "location": "New York, NY",
+    "date": "2026-01-18"
+  },
+  {
+    "name": "Sterling Juan Diaz, Ron Like Hell, x3butterfly, Pure Immanence, Jacob Meehan",
+    "venue": "Queer Nightlife Community Center",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-18"
+  },
+  {
+    "name": "Karim Olen Ash",
+    "venue": "The Parkside Lounge",
+    "location": "New York, NY",
+    "date": "2026-01-18"
+  },
+  {
+    "name": "DJ Shannon, Miss Twink USA, Madre Gu\u00eda, DJ DEADNAME, Sevyn Love, Giovannii, Will Jack",
+    "venue": "Rein Studios",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-18"
   }
 ]
