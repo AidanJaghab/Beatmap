@@ -1,11 +1,5 @@
 [
   {
-    "name": "Austra",
-    "venue": "Baby's All Right",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-12"
-  },
-  {
     "name": "Gilles Peterson, Giant Step",
     "venue": "Roulette Intermedium",
     "location": "Brooklyn, NY",
@@ -62,6 +56,12 @@
   {
     "name": "Turbz",
     "venue": "Loosie's Nightclub",
+    "location": "New York, NY",
+    "date": "2026-01-15"
+  },
+  {
+    "name": "Turbz",
+    "venue": "TAO Downtown",
     "location": "New York, NY",
     "date": "2026-01-15"
   },
@@ -168,12 +168,6 @@
     "date": "2026-01-17"
   },
   {
-    "name": "Guy Mantzur",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-01-17"
-  },
-  {
     "name": "Big Gigantic, ProbCause, Bad Snacks",
     "venue": "Brooklyn Steel",
     "location": "Brooklyn, NY",
@@ -206,6 +200,12 @@
   {
     "name": "Elephante",
     "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-01-17"
+  },
+  {
+    "name": "Guy Mantzur",
+    "venue": "Marquee",
     "location": "New York, NY",
     "date": "2026-01-17"
   },
