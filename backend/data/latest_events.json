@@ -1,23 +1,5 @@
 [
   {
-    "name": "Steen, Touch Base",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-14"
-  },
-  {
-    "name": "Evening Tea Endzeit Presents: Neel, Kudeki, Torsion",
-    "venue": "Silence Please",
-    "location": "New York, NY",
-    "date": "2026-01-14"
-  },
-  {
-    "name": "Eurohead, Oc\u00e9ane",
-    "venue": "Rash",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-14"
-  },
-  {
     "name": "Bush D\u00fcf: Ben Zo, Erik Braun, Primordian, k\u014d-an",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
@@ -126,12 +108,6 @@
     "date": "2026-01-16"
   },
   {
-    "name": "Sleepy & Boo",
-    "venue": "Manhattan",
-    "location": "New York, NY",
-    "date": "2026-01-16"
-  },
-  {
     "name": "Agape Presents: Aisha, AKR, Andre-KX, Parad\u00f8x",
     "venue": "The Chocolate Factory Brooklyn",
     "location": "Brooklyn, NY",
@@ -144,8 +120,20 @@
     "date": "2026-01-16"
   },
   {
+    "name": "RSVP",
+    "venue": "Aura 57 NYC",
+    "location": "New York, NY",
+    "date": "2026-01-16"
+  },
+  {
     "name": "DC Salas (Correspondant), Intergalactic Gary (Dekmantel), Privacy (Berlin) + more: DC Salas, Intergalactic Gary, Privacy",
     "venue": "H0L0",
+    "location": "New York, NY",
+    "date": "2026-01-17"
+  },
+  {
+    "name": "Guy Mantzur",
+    "venue": "Marquee",
     "location": "New York, NY",
     "date": "2026-01-17"
   },
@@ -186,12 +174,6 @@
     "date": "2026-01-17"
   },
   {
-    "name": "Guy Mantzur",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-01-17"
-  },
-  {
     "name": "Cocodrills",
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
@@ -218,12 +200,6 @@
   {
     "name": "Body & Soul: Fran\u00e7ois K, Danny Krivit, Joe Claussell",
     "venue": "Musica NYC",
-    "location": "New York, NY",
-    "date": "2026-01-18"
-  },
-  {
-    "name": "BATTLE HYMN: Tedd Patterson, The Carry Nation",
-    "venue": "Rumi",
     "location": "New York, NY",
     "date": "2026-01-18"
   },
@@ -264,9 +240,27 @@
     "date": "2026-01-18"
   },
   {
+    "name": "Sunday Selectors: Tony Humphries",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-18"
+  },
+  {
     "name": "Tuesday Baby Tuesday",
     "venue": "Nebula",
     "location": "New York, NY",
     "date": "2026-01-20"
+  },
+  {
+    "name": "Steen",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-21"
+  },
+  {
+    "name": "TUNNELWERK - TECHNO NACHT",
+    "venue": "Baker Falls",
+    "location": "New York, NY",
+    "date": "2026-01-21"
   }
 ]
