@@ -1,71 +1,5 @@
 [
   {
-    "name": "Bush D\u00fcf: Ben Zo, Erik Braun, Primordian, k\u014d-an",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-15"
-  },
-  {
-    "name": "Desyn, Rasho, Max Sprauer",
-    "venue": "Green Room NYC",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-15"
-  },
-  {
-    "name": "Sepp, Armii1n b2b Choukroun, Monk b2b Zayd",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-15"
-  },
-  {
-    "name": "Turbz",
-    "venue": "Loosie's Nightclub",
-    "location": "New York, NY",
-    "date": "2026-01-15"
-  },
-  {
-    "name": "Turbz",
-    "venue": "TAO Downtown",
-    "location": "New York, NY",
-    "date": "2026-01-15"
-  },
-  {
-    "name": "Pour It Forward: THREESIXTY",
-    "venue": "Damballa",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-15"
-  },
-  {
-    "name": "True Panther, King Krule, Dazegxd, Eurohead, Frost Children, Grace Ives, Kuru, Lucy Bedroque, quiet light, Skating Ends",
-    "venue": "Xanadu Roller Arts",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-15"
-  },
-  {
-    "name": "Listening Session: Dynoman",
-    "venue": "Silence Please",
-    "location": "New York, NY",
-    "date": "2026-01-15"
-  },
-  {
-    "name": "Gojnea76, Omar Ludwig, AG (NYC)",
-    "venue": "MAD Radio NYC",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-15"
-  },
-  {
-    "name": "Pure Immanence",
-    "venue": "Queer Nightlife Community Center",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-15"
-  },
-  {
-    "name": "Ali RQ, Heartbreaker, DJ Brandy Melville, Alive Girl, zzzplz",
-    "venue": "Le Bain",
-    "location": "New York, NY",
-    "date": "2026-01-15"
-  },
-  {
     "name": "Deorro",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -198,18 +132,6 @@
     "date": "2026-01-18"
   },
   {
-    "name": "Body & Soul: Fran\u00e7ois K, Danny Krivit, Joe Claussell",
-    "venue": "Musica NYC",
-    "location": "New York, NY",
-    "date": "2026-01-18"
-  },
-  {
-    "name": "Loco Carnaval Party: Oscar G, Lohrasp Kansara, Alejandro Arce",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2026-01-18"
-  },
-  {
     "name": "Sounday: Angie Ocampo, Aries, Egipto",
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
@@ -246,6 +168,18 @@
     "date": "2026-01-18"
   },
   {
+    "name": "Sunday Services",
+    "venue": "20 Meadow Street",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-18"
+  },
+  {
+    "name": "Jovonn, Very J",
+    "venue": "MAD Radio NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-18"
+  },
+  {
     "name": "Tuesday Baby Tuesday",
     "venue": "Nebula",
     "location": "New York, NY",
@@ -262,5 +196,47 @@
     "venue": "Baker Falls",
     "location": "New York, NY",
     "date": "2026-01-21"
+  },
+  {
+    "name": "Magic City Hippies, Supertaste",
+    "venue": "Brooklyn Bowl",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-22"
+  },
+  {
+    "name": "umru b2b Swami Sound, Love Higher",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-22"
+  },
+  {
+    "name": "Techno Thursday: Bruce Wayne",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-22"
+  },
+  {
+    "name": "Techno Thursday: Bruce Wayne",
+    "venue": "The Fleur Room",
+    "location": "New York, NY",
+    "date": "2026-01-22"
+  },
+  {
+    "name": "Turbz",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2026-01-22"
+  },
+  {
+    "name": "Sezar Uysal",
+    "venue": "Eden NYC",
+    "location": "New York, NY",
+    "date": "2026-01-22"
+  },
+  {
+    "name": "Refuge Thursday: Ben Techy, Briela Veneno, KXAH",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-22"
   }
 ]
