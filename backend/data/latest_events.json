@@ -1,65 +1,5 @@
 [
   {
-    "name": "Deorro",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-01-16"
-  },
-  {
-    "name": "Salvatore Ganacci, Luna Mar",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-01-16"
-  },
-  {
-    "name": "Rosa Pistola, Verraco, Markus, Riobamba",
-    "venue": "Paragon",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-16"
-  },
-  {
-    "name": "u.r.trax, Henning Baer, Mesm\u00e9, Ina Kacz, DJ Scribe",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-16"
-  },
-  {
-    "name": "EVAN GIIA, moistbreezy",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-16"
-  },
-  {
-    "name": "Cut Chemist",
-    "venue": "Superior Ingredients",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-16"
-  },
-  {
-    "name": "Sean Doron",
-    "venue": "Laissez Faire",
-    "location": "New York, NY",
-    "date": "2026-01-16"
-  },
-  {
-    "name": "Agape Presents: Aisha, AKR, Andre-KX, Parad\u00f8x",
-    "venue": "The Chocolate Factory Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-16"
-  },
-  {
-    "name": "Good Friday: Dawson, Dropo, DJ Mitch Ferrino, Kilopatrah Jones, Alexis Tucci",
-    "venue": "Red Eye NY",
-    "location": "New York, NY",
-    "date": "2026-01-16"
-  },
-  {
-    "name": "RSVP",
-    "venue": "Aura 57 NYC",
-    "location": "New York, NY",
-    "date": "2026-01-16"
-  },
-  {
     "name": "DC Salas (Correspondant), Intergalactic Gary (Dekmantel), Privacy (Berlin) + more: DC Salas, Intergalactic Gary, Privacy",
     "venue": "H0L0",
     "location": "New York, NY",
@@ -132,14 +72,14 @@
     "date": "2026-01-18"
   },
   {
-    "name": "Sounday: Angie Ocampo, Aries, Egipto",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
+    "name": "Body & Soul: Fran\u00e7ois K, Danny Krivit, Joe Claussell",
+    "venue": "Musica NYC",
+    "location": "New York, NY",
     "date": "2026-01-18"
   },
   {
-    "name": "Listening Session: Caire",
-    "venue": "Silence Please",
+    "name": "Loco Carnaval Party: Oscar G, Lohrasp Kansara, Alejandro Arce",
+    "venue": "Somewhere Nowhere",
     "location": "New York, NY",
     "date": "2026-01-18"
   },
@@ -178,6 +118,12 @@
     "venue": "MAD Radio NYC",
     "location": "Brooklyn, NY",
     "date": "2026-01-18"
+  },
+  {
+    "name": "Black2Black",
+    "venue": "Bossa Nova Civic Club",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-19"
   },
   {
     "name": "Tuesday Baby Tuesday",
@@ -238,5 +184,65 @@
     "venue": "Refuge",
     "location": "Brooklyn, NY",
     "date": "2026-01-22"
+  },
+  {
+    "name": "Wax Motif",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-01-23"
+  },
+  {
+    "name": "Turn It Up Tour: Eliminate, Acyan, Skii",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-23"
+  },
+  {
+    "name": "Beats Antique",
+    "venue": "Brooklyn Bowl",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-23"
+  },
+  {
+    "name": "Claudio PRC, Woody, Julia Govor, Profiler",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-23"
+  },
+  {
+    "name": "AKUMANDRA: Sainte Vie, Mateo b2b Eli (Akumandra), Booka Shade",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-01-23"
+  },
+  {
+    "name": "Truth x Lies",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-23"
+  },
+  {
+    "name": "Club Stars: Crystallmess, Toccororo, coyado, Nadus, Arielle Lana",
+    "venue": "Paragon",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-23"
+  },
+  {
+    "name": "RNR x Golden Record NYC: Luke Slater (L.B. Dub Corp Set), Henry Chow, S4M23",
+    "venue": "Green Room NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-23"
+  },
+  {
+    "name": "Mariposa, Shameless Deejay, Lauren Yoon, Loomer, Suasimodo",
+    "venue": "Honey's",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-23"
+  },
+  {
+    "name": "Free entry before 1am",
+    "venue": "Brooklyn Monarch",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-23"
   }
 ]
