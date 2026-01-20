@@ -1,11 +1,5 @@
 [
   {
-    "name": "Black2Black",
-    "venue": "Bossa Nova Civic Club",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-19"
-  },
-  {
     "name": "Tuesday Baby Tuesday",
     "venue": "Nebula",
     "location": "New York, NY",
@@ -72,13 +66,19 @@
     "date": "2026-01-22"
   },
   {
+    "name": "Winter Jamzz",
+    "venue": "Speak Softly at LouLou",
+    "location": "New York, NY",
+    "date": "2026-01-22"
+  },
+  {
     "name": "Wax Motif",
     "venue": "Marquee",
     "location": "New York, NY",
     "date": "2026-01-23"
   },
   {
-    "name": "Turn It Up Tour: Eliminate, Acyan, Skii",
+    "name": "Turn It Up Tour: Eliminate, Acyan, Skii, Winter Atlas",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-01-23"
@@ -162,14 +162,14 @@
     "date": "2026-01-24"
   },
   {
-    "name": "Frank & Tony, Snad, Simone de Kunovich, Queen Majesty, Pancratio",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
+    "name": "Coffintexts, Sister Zo, Sister System, Ryan Smith, Amanda Mussi, Devoye, Ron Like Hell",
+    "venue": "BASEMENT NY",
+    "location": "New York, NY",
     "date": "2026-01-24"
   },
   {
-    "name": "Coffintexts, Sister Zo, Sister System, Ryan Smith, Amanda Mussi, Devoye, Ron Like Hell",
-    "venue": "BASEMENT NY",
+    "name": "OFF SIGNL: Nick Curly, Avision, Mai Iachetti, Armii1n, EREZ.JPG, SECR3T KEY",
+    "venue": "Eden NYC",
     "location": "New York, NY",
     "date": "2026-01-24"
   },
@@ -218,6 +218,12 @@
   {
     "name": "Sunday Skate Club",
     "venue": "Xanadu Roller Arts",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-25"
+  },
+  {
+    "name": "Sounday: Maria Sifontes b2b Milo, Johan Cardona, FEMMS",
+    "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-01-25"
   }
