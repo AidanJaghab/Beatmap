@@ -1,23 +1,5 @@
 [
   {
-    "name": "Steen",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-21"
-  },
-  {
-    "name": "TUNNELWERK - TECHNO NACHT: Ian Ford, XSB-R",
-    "venue": "Baker Falls",
-    "location": "New York, NY",
-    "date": "2026-01-21"
-  },
-  {
-    "name": "DONIS, Mohogany, DJ Q",
-    "venue": "Le Bain",
-    "location": "New York, NY",
-    "date": "2026-01-21"
-  },
-  {
     "name": "Magic City Hippies, Supertaste",
     "venue": "Brooklyn Bowl",
     "location": "Brooklyn, NY",
@@ -132,8 +114,8 @@
     "date": "2026-01-23"
   },
   {
-    "name": "Anime meet Hard EDM",
-    "venue": "Sugar Mouse NYC",
+    "name": "Free RSVP",
+    "venue": "00:00",
     "location": "New York, NY",
     "date": "2026-01-23"
   },
@@ -238,5 +220,11 @@
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-01-27"
+  },
+  {
+    "name": "Steen, Transmute",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-28"
   }
 ]
