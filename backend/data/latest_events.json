@@ -1,65 +1,5 @@
 [
   {
-    "name": "Magic City Hippies, Supertaste",
-    "venue": "Brooklyn Bowl",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-22"
-  },
-  {
-    "name": "umru b2b Swami Sound, Love Higher",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-22"
-  },
-  {
-    "name": "Techno Thursday: Bruce Wayne",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-22"
-  },
-  {
-    "name": "Techno Thursday: Bruce Wayne",
-    "venue": "The Fleur Room",
-    "location": "New York, NY",
-    "date": "2026-01-22"
-  },
-  {
-    "name": "Turbz",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2026-01-22"
-  },
-  {
-    "name": "Sezar Uysal",
-    "venue": "Eden NYC",
-    "location": "New York, NY",
-    "date": "2026-01-22"
-  },
-  {
-    "name": "Refuge Thursday: Ben Techy, Briela Veneno, KXAH",
-    "venue": "Refuge",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-22"
-  },
-  {
-    "name": "Daniro, shekdash, Saintclair",
-    "venue": "Bossa Nova Civic Club",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-22"
-  },
-  {
-    "name": "Winter Jamzz",
-    "venue": "Speak Softly at LouLou",
-    "location": "New York, NY",
-    "date": "2026-01-22"
-  },
-  {
-    "name": "Kristen London",
-    "venue": "sLICe Astoria",
-    "location": "New York, NY",
-    "date": "2026-01-22"
-  },
-  {
     "name": "Wax Motif",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -108,8 +48,8 @@
     "date": "2026-01-23"
   },
   {
-    "name": "Free entry before 1am",
-    "venue": "Brooklyn Monarch",
+    "name": "Friday Night Live Music: Chase Manhattan, Valley Latini",
+    "venue": "Desert 5 Spot",
     "location": "Brooklyn, NY",
     "date": "2026-01-23"
   },
@@ -226,5 +166,77 @@
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-01-28"
+  },
+  {
+    "name": "James Park, Elijah Manuel",
+    "venue": "MAD Radio NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-28"
+  },
+  {
+    "name": "Fox Stevenson",
+    "venue": "Elsewhere Hall",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-29"
+  },
+  {
+    "name": "LAERZ",
+    "venue": "Music Hall of Williamsburg",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-29"
+  },
+  {
+    "name": "Signal x Infra Boston: Dustin Zahn, Rush Plus, Annie Lew",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-29"
+  },
+  {
+    "name": "Machinedrum",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-29"
+  },
+  {
+    "name": "Platonic Romance Tour: DRAMA",
+    "venue": "Brooklyn Paramount",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-29"
+  },
+  {
+    "name": "Body Hack",
+    "venue": "Nowadays",
+    "location": "New York, NY",
+    "date": "2026-01-29"
+  },
+  {
+    "name": "Turbz",
+    "venue": "Loosie's Nightclub",
+    "location": "New York, NY",
+    "date": "2026-01-29"
+  },
+  {
+    "name": "Neil Jackson",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2026-01-29"
+  },
+  {
+    "name": "Nocturna",
+    "venue": "Paragon",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-29"
+  },
+  {
+    "name": "Techno Thursdays: Lourdes, Concrete Husband, Briela Veneno, Diego Darko, Iuveni",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-29"
+  },
+  {
+    "name": "Machine Thirst Vol. 5: Firebunny, Rage.inald",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-29"
   }
 ]
