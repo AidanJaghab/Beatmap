@@ -1,73 +1,7 @@
 [
   {
-    "name": "Wax Motif",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-01-23"
-  },
-  {
-    "name": "Turn It Up Tour: Eliminate, Acyan, Skii, Winter Atlas",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-23"
-  },
-  {
-    "name": "Beats Antique",
-    "venue": "Brooklyn Bowl",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-23"
-  },
-  {
-    "name": "Claudio PRC, Woody, Julia Govor, Profiler",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-23"
-  },
-  {
-    "name": "AKUMANDRA: Sainte Vie, Mateo b2b Eli (Akumandra), Booka Shade",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-01-23"
-  },
-  {
-    "name": "Truth x Lies",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-23"
-  },
-  {
-    "name": "Club Stars: Crystallmess, Toccororo, coyado, Nadus, Arielle Lana",
-    "venue": "Paragon",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-23"
-  },
-  {
-    "name": "Nomi Ruiz, Justin Strauss",
-    "venue": "Sultan Room",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-23"
-  },
-  {
-    "name": "Friday Night Live Music: Chase Manhattan, Valley Latini",
-    "venue": "Desert 5 Spot",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-23"
-  },
-  {
-    "name": "Free RSVP",
-    "venue": "00:00",
-    "location": "New York, NY",
-    "date": "2026-01-23"
-  },
-  {
     "name": "Beachcrimes",
     "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-01-24"
-  },
-  {
-    "name": "WonkyWilla, Smith. b2b Buku, MontyCler b2b Overeasy, RiddimNYC",
-    "venue": "Webster Hall",
     "location": "New York, NY",
     "date": "2026-01-24"
   },
@@ -102,6 +36,12 @@
     "date": "2026-01-24"
   },
   {
+    "name": "OFF SIGNL: Nick Curly, Avision, Mai Iachetti, Armii1n, EREZ.JPG, SECR3T KEY",
+    "venue": "Eden NYC",
+    "location": "New York, NY",
+    "date": "2026-01-24"
+  },
+  {
     "name": "DubVision",
     "venue": "Nebula",
     "location": "New York, NY",
@@ -122,12 +62,6 @@
   {
     "name": "The Carry Nation, Nita Aviance, Will Automagic",
     "venue": "315 Meserole St",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-25"
-  },
-  {
-    "name": "JOURNEY Party: DJ Spinna",
-    "venue": "Good Room",
     "location": "Brooklyn, NY",
     "date": "2026-01-25"
   },
@@ -164,12 +98,6 @@
   {
     "name": "Steen, Transmute",
     "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-28"
-  },
-  {
-    "name": "James Park, Elijah Manuel",
-    "venue": "MAD Radio NYC",
     "location": "Brooklyn, NY",
     "date": "2026-01-28"
   },
@@ -238,5 +166,65 @@
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-01-29"
+  },
+  {
+    "name": "Lavern",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-01-30"
+  },
+  {
+    "name": "Riot Ten, Ruvlo, Hexxa",
+    "venue": "Brooklyn Monarch",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-30"
+  },
+  {
+    "name": "Hybrid Minds, Dave Shichman, Ultra",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-30"
+  },
+  {
+    "name": "Surf Mesa, DJ Planet Express",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-30"
+  },
+  {
+    "name": "Amenthia Showcase: Agonis, Kamran Sadeghi, Nastia, Ayanna Heaven",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-30"
+  },
+  {
+    "name": "Open To Close: Mind Against",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-01-30"
+  },
+  {
+    "name": "Chippy Nonstop, DJ Warning, MPeach, Miss Twink USA, RANMA",
+    "venue": "Paragon",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-30"
+  },
+  {
+    "name": "Sam Allan",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-01-30"
+  },
+  {
+    "name": "Sebastian Ledher",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-30"
+  },
+  {
+    "name": "HEATED RIVALRY - The Party",
+    "venue": "9 Bob Note at 3 Dollar Bill",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-30"
   }
 ]
