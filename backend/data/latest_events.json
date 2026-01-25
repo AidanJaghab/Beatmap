@@ -1,59 +1,5 @@
 [
   {
-    "name": "Beachcrimes",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-01-24"
-  },
-  {
-    "name": "Carlo Lio b2b Boris (NYC)",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-24"
-  },
-  {
-    "name": "Carlo Lio b2b Boris (NYC)",
-    "venue": "RNR X Golden Record NYC",
-    "location": "New York, NY",
-    "date": "2026-01-24"
-  },
-  {
-    "name": "Agape Presents: KUKO, Diossa, Junkfile, yion, AleXander Gentil",
-    "venue": "154 Scott Ave",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-24"
-  },
-  {
-    "name": "Frank & Tony, Snad, Simone de Kunovich, Queen Majesty, Pancratio",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-24"
-  },
-  {
-    "name": "Coffintexts, Sister Zo, Sister System, Ryan Smith, Amanda Mussi, Devoye, Ron Like Hell",
-    "venue": "BASEMENT NY",
-    "location": "New York, NY",
-    "date": "2026-01-24"
-  },
-  {
-    "name": "OFF SIGNL: Nick Curly, Avision, Mai Iachetti, Armii1n, EREZ.JPG, SECR3T KEY",
-    "venue": "Eden NYC",
-    "location": "New York, NY",
-    "date": "2026-01-24"
-  },
-  {
-    "name": "DubVision",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2026-01-24"
-  },
-  {
-    "name": "Decoded 3 Year Anniversary: Martina Vesela, Mafia B, Riya, Phil Moscato",
-    "venue": "00:00",
-    "location": "New York, NY",
-    "date": "2026-01-24"
-  },
-  {
     "name": "Sundays in the Atrium: Eli Escobar, Honey Bun",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
@@ -156,7 +102,7 @@
     "date": "2026-01-29"
   },
   {
-    "name": "Techno Thursdays: Lourdes, Concrete Husband, Briela Veneno, Diego Darko, Iuveni",
+    "name": "Techno Thursdays: Lourdes, Concrete Husband, Briela Veneno, Diego Darko, Iuvenis",
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-01-29"
@@ -226,5 +172,65 @@
     "venue": "9 Bob Note at 3 Dollar Bill",
     "location": "Brooklyn, NY",
     "date": "2026-01-30"
+  },
+  {
+    "name": "Valentino Khan",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-01-31"
+  },
+  {
+    "name": "Weval",
+    "venue": "Elsewhere Hall",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-31"
+  },
+  {
+    "name": "Wakyin, Ferra Black, Sparrow, Wemi",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-01-31"
+  },
+  {
+    "name": "NYC Debut",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-31"
+  },
+  {
+    "name": "Oliver Smith, Coastlines",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-31"
+  },
+  {
+    "name": "Swimming Paul, DJ Shannon",
+    "venue": "Brooklyn Steel",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-31"
+  },
+  {
+    "name": "Joey Beltram, Mike Servito, HELLTEKK",
+    "venue": "Paragon",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-31"
+  },
+  {
+    "name": "Pictureplane, NOWHERE2RUN, Princess Peggie, Ohaileigh",
+    "venue": "TV Eye",
+    "location": "New York, NY",
+    "date": "2026-01-31"
+  },
+  {
+    "name": "Detroit Love: Carl Craig, DJ Holographic, Van Der Laan, Skin",
+    "venue": "Superior Ingredients (Main Room)",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-31"
+  },
+  {
+    "name": "Julian Jordan",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-01-31"
   }
 ]
