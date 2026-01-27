@@ -1,11 +1,5 @@
 [
   {
-    "name": "1 Hotel Brooklyn Bridge",
-    "venue": "Sights & Sounds",
-    "location": "New York, NY",
-    "date": "2026-01-26"
-  },
-  {
     "name": "Danny L Harle",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
@@ -24,7 +18,7 @@
     "date": "2026-01-29"
   },
   {
-    "name": "LAERZ",
+    "name": "LAERZ, Samantha Michelle",
     "venue": "Music Hall of Williamsburg",
     "location": "Brooklyn, NY",
     "date": "2026-01-29"
@@ -42,30 +36,6 @@
     "date": "2026-01-29"
   },
   {
-    "name": "Platonic Romance Tour: DRAMA",
-    "venue": "Brooklyn Paramount",
-    "location": "Brooklyn, NY",
-    "date": "2026-01-29"
-  },
-  {
-    "name": "Body Hack",
-    "venue": "Nowadays",
-    "location": "New York, NY",
-    "date": "2026-01-29"
-  },
-  {
-    "name": "Turbz",
-    "venue": "Loosie's Nightclub",
-    "location": "New York, NY",
-    "date": "2026-01-29"
-  },
-  {
-    "name": "Neil Jackson",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2026-01-29"
-  },
-  {
     "name": "Nocturna",
     "venue": "Paragon",
     "location": "Brooklyn, NY",
@@ -80,6 +50,24 @@
   {
     "name": "Machine Thirst Vol. 5: Firebunny, Rage.inald",
     "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-29"
+  },
+  {
+    "name": "THE WAVES - DJ Set & Band: Maayan Nidam, Jason Lindner, Greg Paulus, Baby Prince",
+    "venue": "Green Room NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-29"
+  },
+  {
+    "name": "Thursdays are Casual: Tempo Twist, lotus.",
+    "venue": "UNVEILED",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-29"
+  },
+  {
+    "name": "Trip Don't Sleep: Auphoria, J. Richards, Gian-Paul, Dayna C",
+    "venue": "MAD Radio NYC",
     "location": "Brooklyn, NY",
     "date": "2026-01-29"
   },
@@ -186,9 +174,9 @@
     "date": "2026-01-31"
   },
   {
-    "name": "Pictureplane, NOWHERE2RUN, Princess Peggie, Ohaileigh",
-    "venue": "TV Eye",
-    "location": "New York, NY",
+    "name": "Luca Agnelli, Mish, JI1, Julia Kova, CiM",
+    "venue": "Brooklyn Monarch",
+    "location": "Brooklyn, NY",
     "date": "2026-01-31"
   },
   {
@@ -246,154 +234,172 @@
     "date": "2026-02-01"
   },
   {
+    "name": "Sounday: VNUZ, Franklin Santana, Nico Arias",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-01"
+  },
+  {
     "name": "Steen, Dane Deveraux",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Da Punks x Shotgun: Niki Sadeki, Time After Time, Groowkemix, Vanja Popovic",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
   },
   {
     "name": "Romare",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Shed, Ne/Re/A, Concrete Husband",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Turbz",
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Sangarang",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Dali",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2026-01-27"
   },
   {
     "name": "Spring Festival - Lunar New Year: Louis The Child",
     "venue": "Brooklyn Hangar",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Loud Luxury",
     "venue": "Marquee",
     "location": "New York, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Mac Declos, Isabella Koen, WTCHCRFT, Debit, OZA",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Paradiso: X-Coast, Nikki Nair, flirty800, Jubilee, DJ Lita",
     "venue": "Paragon",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Kode9",
     "venue": "H0L0",
     "location": "New York, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "RUSH: H\u00e9ctor Oaks, Estella Boersma, BAUGRUPPE90",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Armen Miran, \u1ecdba+flip",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "ReSolute + BAB\u00cbL Present 13th Dimension: DJ Harvey",
     "venue": "530 W 27th Street",
     "location": "New York, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
-    "name": "Juliana Huxtable",
-    "venue": "Queer Nightlife Community Center",
+    "name": "Saint Valentine's Rave: Zach Witness, Boyyyish",
+    "venue": "Dead Letter No. 9",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
-    "name": "USE CODE EDMTRAIN FOR 15% OFF",
-    "venue": "Loft 39",
-    "location": "New York, NY",
-    "date": "2026-01-26"
+    "name": "Raw Burlesque - Valentine's Day Edition",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
   },
   {
     "name": "Monolink, Catching Flies",
     "venue": "Brooklyn Paramount",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Port Zero Tour: INFEKT, Eater, Bommer",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Sully (US), Darwin, BLAIZE, BASSBEAR!!",
     "venue": "Paragon",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Kreayshawn, Cortisa Star, umru, REYSHA RAMI",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "New York Ski Lodge: Lost Kings",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Code RAVEWAVENYC for $10 off!",
     "venue": "Brooklyn Hangar",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Horse Meat Disco, The Illustrious Blacks, Dangerous Rose",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Lyra Rooftop Party",
     "venue": "Magic Hour Rooftop Bar & Lounge",
     "location": "New York, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Boys Noize, Juliana Huxtable, Katie Rex, ISAbella, Al\u00edrio, Markus, e-Lite",
     "venue": "BASEMENT NY",
     "location": "New York, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Sick Individuals",
     "venue": "Nebula",
     "location": "New York, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Ape Drums, Awen, Tiffy Vera, Asmot, Firungi",
@@ -459,24 +465,282 @@
     "name": "Public Service: Toribio, Mickey P\u00e9rez",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Louie Vega, Lisa Fischer",
     "venue": "Blue Note Jazz Club",
     "location": "New York, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "Tasha Blank",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
   },
   {
     "name": "David Berrie, Zach G, Dayna C, Bella Mutino",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-01-26"
+    "date": "2026-01-27"
+  },
+  {
+    "name": "dweller Body Hack",
+    "venue": "Nowadays",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "STS9, lespecial",
+    "venue": "The Capitol Theatre",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Franc Moody",
+    "venue": "Brooklyn Steel",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Louie Vega, Dee Dee Bridgewater",
+    "venue": "Blue Note Jazz Club",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Tycho, Anton Khabbaz, Teen Daze, Serrian, Tory, Lazy Rockets",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Rio Kosta",
+    "venue": "Baby's All Right",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Jamie Jones",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Mesto",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Bassel Darwish",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Nic Fanciulli, Bontan",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "STS9, Thought Process",
+    "venue": "Irving Plaza",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "San Pacho, Greg 99, CatLadyHi, Bahng",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Franky Rizardo, Jay de Lys, Nacho Scoppa, Ms. Mada, Ammo Avenue, HVNLEE",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "19 and Up",
+    "venue": "Webster Hall",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "16 and Up",
+    "venue": "Webster Hall",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Louie Vega",
+    "venue": "Blue Note Jazz Club",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Bassjackers",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Dimitri Vegas",
+    "venue": "Terminal 5",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Justin Martin, Player Dave, Laurence Guy, Jasa, Ruthie Bandit",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Sundays in the Atrium: Kyle Hall, Marco Weibel",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Loco Carnaval: Siwell, Cyrus",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "DJ Spinna",
+    "venue": "Crown Hill Theatre",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "ConTEAnental: Sainte Francis, Riccardo Tavarez",
+    "venue": "Body By Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Red Axes",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Agents Of Time",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Fibonacci Tour: Subtronics, Yetti, TroyBoi, capshun, AVELLO, Juelz, Roots, Blossom",
+    "venue": "Brooklyn Storehouse",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "camoufly, MATRAKK",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "KI/KI",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Timecop1983",
+    "venue": "Music Hall of Williamsburg",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Danny L Harle",
+    "venue": "Elsewhere Hall",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Eli Escobar, Cosmo",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Kamino",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Club Stars: DJ Assault, Raven, Daniro, Swan Meat, WTCHCRFT",
+    "venue": "Paragon",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Martin Ikin",
+    "venue": "The Summer Club",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "INZO, Know Good, Super Future, Blookah, Lhasa Petik",
+    "venue": "Brooklyn Steel",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Peaches, Model/Actriz",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Fibonacci Tour: Subtronics, Yetti, TroyBoi, capshun",
+    "venue": "Brooklyn Storehouse",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "HNTR",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Son of Son, Henri Bergmann",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Richie Hawtin, DJ Stingray 313, Lindsey Herbert",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Locklead",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Flava D",
+    "venue": "The Wood Shop",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
+  },
+  {
+    "name": "Toni Varga",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-01-27"
   }
 ]
