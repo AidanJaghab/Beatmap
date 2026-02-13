@@ -1,65 +1,5 @@
 [
   {
-    "name": "Outer Heaven NYC",
-    "venue": "@CONVERTINGCULTURE / @iPlay.nyc",
-    "location": "New York, NY",
-    "date": "2026-02-14"
-  },
-  {
-    "name": "Romare",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-12"
-  },
-  {
-    "name": "Soiree x Signal Present: Taimur",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-12"
-  },
-  {
-    "name": "Turbz",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2026-02-12"
-  },
-  {
-    "name": "Sangarang",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-12"
-  },
-  {
-    "name": "Dali",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2026-02-12"
-  },
-  {
-    "name": "House of Nasty: LADYBOI, DJ Ultra Violet, HardCandy",
-    "venue": "The Onyx Room at House of Yes",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-12"
-  },
-  {
-    "name": "Death Island, Machete, Comply, Slaat",
-    "venue": "Unruly Collective",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-12"
-  },
-  {
-    "name": "VIRGO PRESENTS",
-    "venue": "Virgo New York",
-    "location": "New York, NY",
-    "date": "2026-02-12"
-  },
-  {
-    "name": "Hard Dance NYC",
-    "venue": "TV Eye (The Ballroom)",
-    "location": "New York, NY",
-    "date": "2026-02-12"
-  },
-  {
     "name": "Loud Luxury",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -78,7 +18,7 @@
     "date": "2026-02-13"
   },
   {
-    "name": "Kode9",
+    "name": "Kode9, Arielle Lana, Raw Unkut",
     "venue": "H0L0",
     "location": "New York, NY",
     "date": "2026-02-13"
@@ -96,8 +36,8 @@
     "date": "2026-02-13"
   },
   {
-    "name": "Ankho\u00ef",
-    "venue": "UNVEILED",
+    "name": "Reborn Project x Midnight Caviar: Armen Miran, \u1ecdba+flip, Mihai Pol",
+    "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-02-13"
   },
@@ -132,12 +72,6 @@
     "date": "2026-02-14"
   },
   {
-    "name": "Sully (US), Darwin, BLAIZE, BASSBEAR!!",
-    "venue": "Paragon",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-14"
-  },
-  {
     "name": "Kreayshawn, Cortisa Star, umru, REYSHA RAMI",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
@@ -147,6 +81,12 @@
     "name": "New York Ski Lodge: Lost Kings",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
+    "date": "2026-02-14"
+  },
+  {
+    "name": "Horse Meat Disco, The Illustrious Blacks, Dangerous Rose",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
     "date": "2026-02-14"
   },
   {
@@ -180,7 +120,7 @@
     "date": "2026-02-15"
   },
   {
-    "name": "Love Hangover: BIIANCO, Zorza, Flash (NYC)",
+    "name": "Love Hangover: BIIANCO, Zorza, Flash Gea",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
     "date": "2026-02-15"
@@ -222,7 +162,7 @@
     "date": "2026-02-15"
   },
   {
-    "name": "MISS JENNIFER x THE FACTORY Sunday Night 2/15 Brooklyn, NY: Miss Jennifer, Andy Cardona, David Jonez, Ilario Luna",
+    "name": "Miss Jennifer, Andy Cardona, David Jonez, Ilario Luna",
     "venue": "96 Morgan Ave",
     "location": "Brooklyn, NY",
     "date": "2026-02-15"
@@ -232,5 +172,47 @@
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-02-16"
+  },
+  {
+    "name": "Louie Vega, Lisa Fischer",
+    "venue": "Blue Note Jazz Club",
+    "location": "New York, NY",
+    "date": "2026-02-19"
+  },
+  {
+    "name": "dweller Thursday: Moor Mother, Hieroglyphic Being, DOULA, Force Placement",
+    "venue": "Paragon",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-19"
+  },
+  {
+    "name": "Tasha Blank",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-19"
+  },
+  {
+    "name": "David Berrie, Zach G, Dayna C, Bella Mutino",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-19"
+  },
+  {
+    "name": "dweller Body Hack",
+    "venue": "Nowadays",
+    "location": "New York, NY",
+    "date": "2026-02-19"
+  },
+  {
+    "name": "[dweller] Limited Network: Niyah West, Bookworms, DJ Linda, Max Watts, Stemlines",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-19"
+  },
+  {
+    "name": "MGNA Crrrta, Ali RQ, Christ Dillinger",
+    "venue": "Elsewhere Hall",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-19"
   }
 ]
