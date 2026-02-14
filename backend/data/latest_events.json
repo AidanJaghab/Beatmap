@@ -1,65 +1,5 @@
 [
   {
-    "name": "Loud Luxury",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-02-13"
-  },
-  {
-    "name": "Mac Declos, Isabella Koen, WTCHCRFT, Debit",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-13"
-  },
-  {
-    "name": "Paradiso: X-Coast, Nikki Nair, flirty800, Jubilee, DJ Lita",
-    "venue": "Paragon",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-13"
-  },
-  {
-    "name": "Kode9, Arielle Lana, Raw Unkut",
-    "venue": "H0L0",
-    "location": "New York, NY",
-    "date": "2026-02-13"
-  },
-  {
-    "name": "Samplifire, SQISHI, Leada, Sheez-It",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-13"
-  },
-  {
-    "name": "RUSH: H\u00e9ctor Oaks, Estella Boersma, BAUGRUPPE90",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-02-13"
-  },
-  {
-    "name": "Reborn Project x Midnight Caviar: Armen Miran, \u1ecdba+flip, Mihai Pol",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-13"
-  },
-  {
-    "name": "Rick Wonder",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2026-02-13"
-  },
-  {
-    "name": "Club 90s - Heated Rivalry",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2026-02-13"
-  },
-  {
-    "name": "The Jukeboxx: Dee Diggs, James Juke",
-    "venue": "Jupiter Disco",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-13"
-  },
-  {
     "name": "Monolink, Catching Flies",
     "venue": "Brooklyn Paramount",
     "location": "Brooklyn, NY",
@@ -138,7 +78,7 @@
     "date": "2026-02-15"
   },
   {
-    "name": "Loco Carnaval: Lohrasp Kansara, Valent\u00edn",
+    "name": "Loco Carnaval Sundays: Lohrasp Kansara, Benny, Valent\u00edn",
     "venue": "Somewhere Nowhere",
     "location": "New York, NY",
     "date": "2026-02-15"
@@ -214,5 +154,71 @@
     "venue": "Elsewhere Hall",
     "location": "Brooklyn, NY",
     "date": "2026-02-19"
+  },
+  {
+    "name": "A Lana",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-19"
+  },
+  {
+    "name": "STS9, lespecial",
+    "venue": "The Capitol Theatre",
+    "location": "New York, NY",
+    "date": "2026-02-20"
+  },
+  {
+    "name": "Franc Moody",
+    "venue": "Brooklyn Steel",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-20"
+  },
+  {
+    "name": "Louie Vega, Dee Dee Bridgewater",
+    "venue": "Blue Note Jazz Club",
+    "location": "New York, NY",
+    "date": "2026-02-20"
+  },
+  {
+    "name": "Tycho, Anton Khabbaz, Teen Daze, Serrian",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-20"
+  },
+  {
+    "name": "Rio Kosta",
+    "venue": "Baby's All Right",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-20"
+  },
+  {
+    "name": "Jamie Jones",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-02-20"
+  },
+  {
+    "name": "Bassel Darwish",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-20"
+  },
+  {
+    "name": "Oscar L, BRIMAC, Chillosophy",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-20"
+  },
+  {
+    "name": "Teksupport: Bedouin, Lumia",
+    "venue": "Capitale NYC",
+    "location": "New York, NY",
+    "date": "2026-02-20"
+  },
+  {
+    "name": "Lohrasp Kansara",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-02-20"
   }
 ]
