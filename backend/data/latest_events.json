@@ -1,53 +1,5 @@
 [
   {
-    "name": "Monolink, Catching Flies",
-    "venue": "Brooklyn Paramount",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-14"
-  },
-  {
-    "name": "Port Zero Tour: INFEKT, Bommer, Usaybflow, Electric Dad",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-14"
-  },
-  {
-    "name": "Kreayshawn, Cortisa Star, umru, REYSHA RAMI",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-14"
-  },
-  {
-    "name": "New York Ski Lodge: Lost Kings",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-14"
-  },
-  {
-    "name": "Horse Meat Disco, The Illustrious Blacks, Dangerous Rose",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-02-14"
-  },
-  {
-    "name": "Boys Noize, Juliana Huxtable, Katie Rex, ISAbella, Al\u00edrio, Markus, e-Lite",
-    "venue": "BASEMENT NY",
-    "location": "New York, NY",
-    "date": "2026-02-14"
-  },
-  {
-    "name": "Sick Individuals",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2026-02-14"
-  },
-  {
-    "name": "Agape Presents: CLTX, RYTM, Vyper",
-    "venue": "Superior Ingredients",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-14"
-  },
-  {
     "name": "Ape Drums, Awen, Tiffy Vera, Asmot, Firungi",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
@@ -112,6 +64,12 @@
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-02-16"
+  },
+  {
+    "name": "L8 at Nebula",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-02-17"
   },
   {
     "name": "Louie Vega, Lisa Fischer",
@@ -220,5 +178,59 @@
     "venue": "Marquee",
     "location": "New York, NY",
     "date": "2026-02-20"
+  },
+  {
+    "name": "Nic Fanciulli, Bontan",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-02-21"
+  },
+  {
+    "name": "STS9, Thought Process",
+    "venue": "Irving Plaza",
+    "location": "New York, NY",
+    "date": "2026-02-21"
+  },
+  {
+    "name": "San Pacho, Greg 99, CatLadyHi, Bahng",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-21"
+  },
+  {
+    "name": "FLOW NEW YORK: Franky Rizardo, Jay de Lys, Nacho Scoppa, Ms. Mada, Ammo Avenue, HVNLEE",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-02-21"
+  },
+  {
+    "name": "19 and Up",
+    "venue": "Webster Hall",
+    "location": "New York, NY",
+    "date": "2026-02-21"
+  },
+  {
+    "name": "16 and Up",
+    "venue": "Webster Hall",
+    "location": "New York, NY",
+    "date": "2026-02-21"
+  },
+  {
+    "name": "Refuge Saturdays: DJ Seinfeld",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-21"
+  },
+  {
+    "name": "Bassjackers",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-02-21"
+  },
+  {
+    "name": "Dimitri Vegas, MATTN",
+    "venue": "Terminal 5",
+    "location": "New York, NY",
+    "date": "2026-02-21"
   }
 ]
