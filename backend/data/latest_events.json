@@ -1,65 +1,5 @@
 [
   {
-    "name": "Ape Drums, Awen, Tiffy Vera, Asmot, Firungi",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-15"
-  },
-  {
-    "name": "Spring Festival - Lunar New Year: Alan Walker, Mike Posner, KUPYD, Cyberpunk",
-    "venue": "Brooklyn Hangar",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-15"
-  },
-  {
-    "name": "Love Hangover: BIIANCO, Zorza, Flash Gea",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-15"
-  },
-  {
-    "name": "DJ Minx, Dee Diggs, livwutang",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-15"
-  },
-  {
-    "name": "The Carry Nation, Alexis De La Rosa, Alissa Brianna",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-15"
-  },
-  {
-    "name": "Loco Carnaval Sundays: Lohrasp Kansara, Benny, Valent\u00edn",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2026-02-15"
-  },
-  {
-    "name": "Sounday: Joe Vanditti, Cristian Arango, Ikeepuhating",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-15"
-  },
-  {
-    "name": "Indo Warehouse, Harji, Zaynah",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-02-15"
-  },
-  {
-    "name": "Ari El",
-    "venue": "Virgo New York",
-    "location": "New York, NY",
-    "date": "2026-02-15"
-  },
-  {
-    "name": "Miss Jennifer, Andy Cardona, David Jonez, Ilario Luna",
-    "venue": "96 Morgan Ave",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-15"
-  },
-  {
     "name": "Public Service: Toribio, Mickey P\u00e9rez",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
@@ -156,7 +96,7 @@
     "date": "2026-02-20"
   },
   {
-    "name": "Bassel Darwish",
+    "name": "Bassel Darwish, Bodega b2b Italuv, LEDO, JMFJ, Sav",
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-02-20"
@@ -232,5 +172,59 @@
     "venue": "Terminal 5",
     "location": "New York, NY",
     "date": "2026-02-21"
+  },
+  {
+    "name": "Louie Vega",
+    "venue": "Blue Note Jazz Club",
+    "location": "New York, NY",
+    "date": "2026-02-22"
+  },
+  {
+    "name": "Justin Martin, Player Dave, Laurence Guy, Jasa, Ruthie Bandit",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-22"
+  },
+  {
+    "name": "Sundays in the Atrium: Kyle Hall, Marco Weibel",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-22"
+  },
+  {
+    "name": "Loco Carnaval Sundays: Siwell, Cyrus, Watson, DABITTAN",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2026-02-22"
+  },
+  {
+    "name": "ConTEAnental: Sainte Francis, Riccardo Tavarez",
+    "venue": "Body By Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-22"
+  },
+  {
+    "name": "Turbz",
+    "venue": "Magic Hour Rooftop Bar & Lounge",
+    "location": "New York, NY",
+    "date": "2026-02-22"
+  },
+  {
+    "name": "Makadsi, Kilopatrah Jones, Sevyn",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-22"
+  },
+  {
+    "name": "Sounday: Niia Guerra, Daniel Paz, John Rengifo",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-22"
+  },
+  {
+    "name": "Sunday Skate Club",
+    "venue": "Xanadu Roller Arts",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-22"
   }
 ]
