@@ -1,15 +1,15 @@
 [
   {
-    "name": "Public Service: Toribio, Mickey P\u00e9rez",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-16"
-  },
-  {
     "name": "L8 at Nebula",
     "venue": "Nebula",
     "location": "New York, NY",
     "date": "2026-02-17"
+  },
+  {
+    "name": "Liondub",
+    "venue": "Le Bain",
+    "location": "New York, NY",
+    "date": "2026-02-18"
   },
   {
     "name": "Louie Vega, Lisa Fischer",
@@ -60,6 +60,18 @@
     "date": "2026-02-19"
   },
   {
+    "name": "In Flagrante Delicto",
+    "venue": "Sleepwalk",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-19"
+  },
+  {
+    "name": "Techno Thursday: Timo, KRAVE, Bruce Wayne (US), Phantom, Medina, Chriscendo, Asa, Slist",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-19"
+  },
+  {
     "name": "STS9, lespecial",
     "venue": "The Capitol Theatre",
     "location": "New York, NY",
@@ -90,7 +102,7 @@
     "date": "2026-02-20"
   },
   {
-    "name": "Jamie Jones",
+    "name": "Jamie Jones, Eli Escobar",
     "venue": "Knockdown Center",
     "location": "New York, NY",
     "date": "2026-02-20"
@@ -216,15 +228,21 @@
     "date": "2026-02-22"
   },
   {
-    "name": "Sounday: Niia Guerra, Daniel Paz, John Rengifo",
-    "venue": "Listen Brooklyn",
+    "name": "Sunday Skate Club",
+    "venue": "Xanadu Roller Arts",
     "location": "Brooklyn, NY",
     "date": "2026-02-22"
   },
   {
-    "name": "Sunday Skate Club",
-    "venue": "Xanadu Roller Arts",
+    "name": "Capyac",
+    "venue": "Sultan Room",
     "location": "Brooklyn, NY",
+    "date": "2026-02-22"
+  },
+  {
+    "name": "M.e.a.t. Manhattan Afters",
+    "venue": "Harbor New York",
+    "location": "New York, NY",
     "date": "2026-02-22"
   }
 ]
