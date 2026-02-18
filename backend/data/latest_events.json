@@ -1,11 +1,5 @@
 [
   {
-    "name": "L8 at Nebula",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2026-02-17"
-  },
-  {
     "name": "Liondub",
     "venue": "Le Bain",
     "location": "New York, NY",
@@ -78,7 +72,7 @@
     "date": "2026-02-20"
   },
   {
-    "name": "Franc Moody",
+    "name": "Franc Moody, Museum of Love",
     "venue": "Brooklyn Steel",
     "location": "Brooklyn, NY",
     "date": "2026-02-20"
@@ -108,7 +102,7 @@
     "date": "2026-02-20"
   },
   {
-    "name": "Bassel Darwish, Bodega b2b Italuv, LEDO, JMFJ, Sav",
+    "name": "Bassel Darwish, Bodega, Italuv, LEDO, JMFJ",
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-02-20"
@@ -180,7 +174,7 @@
     "date": "2026-02-21"
   },
   {
-    "name": "Dimitri Vegas, MATTN",
+    "name": "Dimitri Vegas, MATTN, 4YU",
     "venue": "Terminal 5",
     "location": "New York, NY",
     "date": "2026-02-21"
@@ -228,12 +222,6 @@
     "date": "2026-02-22"
   },
   {
-    "name": "Sunday Skate Club",
-    "venue": "Xanadu Roller Arts",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-22"
-  },
-  {
     "name": "Capyac",
     "venue": "Sultan Room",
     "location": "Brooklyn, NY",
@@ -244,5 +232,23 @@
     "venue": "Harbor New York",
     "location": "New York, NY",
     "date": "2026-02-22"
+  },
+  {
+    "name": "Hex Hector, Hector Romero, k.tea",
+    "venue": "Jean's",
+    "location": "New York, NY",
+    "date": "2026-02-22"
+  },
+  {
+    "name": "More Events \u2193",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "OPERATION BRING THE HEAT: The Heat, LILLA, pei up, Annabelle, CYB3R BULL, XANA 101, Daniro, shekdash, Eros, coyado, Jojo Lorenzo, Tinzo, Kilopatrah Jones, Honey B, KYRUH, KXAH, nextdimensional, WTCHCRFT, Pauli Cakes, Skin Contact, Soo Intoit",
+    "venue": "Paragon",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
   }
 ]
