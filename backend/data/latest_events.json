@@ -1,11 +1,5 @@
 [
   {
-    "name": "Liondub",
-    "venue": "Le Bain",
-    "location": "New York, NY",
-    "date": "2026-02-18"
-  },
-  {
     "name": "Louie Vega, Lisa Fischer",
     "venue": "Blue Note Jazz Club",
     "location": "New York, NY",
@@ -126,6 +120,12 @@
     "date": "2026-02-20"
   },
   {
+    "name": "Teksupport: Cassian",
+    "venue": "Brooklyn Storehouse",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-21"
+  },
+  {
     "name": "Nic Fanciulli, Bontan",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -216,12 +216,6 @@
     "date": "2026-02-22"
   },
   {
-    "name": "Makadsi, Kilopatrah Jones, Sevyn",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-22"
-  },
-  {
     "name": "Capyac",
     "venue": "Sultan Room",
     "location": "Brooklyn, NY",
@@ -240,6 +234,12 @@
     "date": "2026-02-22"
   },
   {
+    "name": "Eli Escobar, Bridge (NY), ANICHE, Coco Prosecco",
+    "venue": "Gabriela",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-22"
+  },
+  {
     "name": "More Events \u2193",
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
@@ -250,5 +250,17 @@
     "venue": "Paragon",
     "location": "Brooklyn, NY",
     "date": "2026-02-24"
+  },
+  {
+    "name": "Mel DeBarge",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-02-25"
+  },
+  {
+    "name": "AceMo, Christian Tokyo",
+    "venue": "Club 101 NYC",
+    "location": "New York, NY",
+    "date": "2026-02-25"
   }
 ]
