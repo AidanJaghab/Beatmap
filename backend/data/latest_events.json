@@ -1,65 +1,5 @@
 [
   {
-    "name": "STS9, lespecial",
-    "venue": "The Capitol Theatre",
-    "location": "New York, NY",
-    "date": "2026-02-20"
-  },
-  {
-    "name": "Franc Moody, Museum of Love",
-    "venue": "Brooklyn Steel",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-20"
-  },
-  {
-    "name": "Louie Vega, Dee Dee Bridgewater",
-    "venue": "Blue Note Jazz Club",
-    "location": "New York, NY",
-    "date": "2026-02-20"
-  },
-  {
-    "name": "Tycho, Anton Khabbaz, Teen Daze, Serrian",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-20"
-  },
-  {
-    "name": "Rio Kosta",
-    "venue": "Baby's All Right",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-20"
-  },
-  {
-    "name": "Jamie Jones, Eli Escobar",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-02-20"
-  },
-  {
-    "name": "Bassel Darwish, Bodega, Italuv, LEDO, JMFJ",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-20"
-  },
-  {
-    "name": "Oscar L, BRIMAC, Chillosophy",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-20"
-  },
-  {
-    "name": "Teksupport: Bedouin, Lumia",
-    "venue": "Capitale NYC",
-    "location": "New York, NY",
-    "date": "2026-02-20"
-  },
-  {
-    "name": "Lohrasp Kansara",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-02-20"
-  },
-  {
     "name": "Teksupport: Cassian",
     "venue": "Brooklyn Storehouse",
     "location": "Brooklyn, NY",
@@ -150,12 +90,6 @@
     "date": "2026-02-22"
   },
   {
-    "name": "Turbz",
-    "venue": "Magic Hour Rooftop Bar & Lounge",
-    "location": "New York, NY",
-    "date": "2026-02-22"
-  },
-  {
     "name": "Capyac",
     "venue": "Sultan Room",
     "location": "Brooklyn, NY",
@@ -232,5 +166,65 @@
     "venue": "Paragon",
     "location": "Brooklyn, NY",
     "date": "2026-02-26"
+  },
+  {
+    "name": "Thursdays are Casual: Vesi, Tempo Twist",
+    "venue": "Virgo New York",
+    "location": "New York, NY",
+    "date": "2026-02-26"
+  },
+  {
+    "name": "Benjamin Lloyd",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-02-27"
+  },
+  {
+    "name": "Fibonacci Tour: Subtronics, Yetti, TroyBoi, capshun, AVELLO, Juelz, Roots, Blossom",
+    "venue": "Brooklyn Storehouse",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-27"
+  },
+  {
+    "name": "camoufly, MATRAKK",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-27"
+  },
+  {
+    "name": "KI/KI",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-02-27"
+  },
+  {
+    "name": "Timecop1983, The Bad Dreamers",
+    "venue": "Music Hall of Williamsburg",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-27"
+  },
+  {
+    "name": "Danny L Harle",
+    "venue": "Elsewhere Hall",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-27"
+  },
+  {
+    "name": "Eli Escobar, Cosmo",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-27"
+  },
+  {
+    "name": "Kamino",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-02-27"
+  },
+  {
+    "name": "Club Stars: DJ Assault, Raven, Daniro, Swan Meat, WTCHCRFT",
+    "venue": "Paragon",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-27"
   }
 ]
