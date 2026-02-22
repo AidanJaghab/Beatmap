@@ -1,65 +1,5 @@
 [
   {
-    "name": "Teksupport: Cassian",
-    "venue": "Brooklyn Storehouse",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-21"
-  },
-  {
-    "name": "Nic Fanciulli, Bontan",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-02-21"
-  },
-  {
-    "name": "STS9, Thought Process",
-    "venue": "Irving Plaza",
-    "location": "New York, NY",
-    "date": "2026-02-21"
-  },
-  {
-    "name": "San Pacho, Greg 99, CatLadyHi, Bahng",
-    "venue": "99 Scott",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-21"
-  },
-  {
-    "name": "FLOW NEW YORK: Franky Rizardo, Jay de Lys, Nacho Scoppa, Ms. Mada, Ammo Avenue, HVNLEE",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-02-21"
-  },
-  {
-    "name": "19 and Up",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2026-02-21"
-  },
-  {
-    "name": "16 and Up",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2026-02-21"
-  },
-  {
-    "name": "Refuge Saturdays: DJ Seinfeld",
-    "venue": "Refuge",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-21"
-  },
-  {
-    "name": "Bassjackers",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2026-02-21"
-  },
-  {
-    "name": "Dimitri Vegas, MATTN, 4YU",
-    "venue": "Terminal 5",
-    "location": "New York, NY",
-    "date": "2026-02-21"
-  },
-  {
     "name": "Louie Vega",
     "venue": "Blue Note Jazz Club",
     "location": "New York, NY",
@@ -87,6 +27,12 @@
     "name": "ConTEAnental: Sainte Francis, Riccardo Tavarez",
     "venue": "Body By Brooklyn",
     "location": "Brooklyn, NY",
+    "date": "2026-02-22"
+  },
+  {
+    "name": "Turbz",
+    "venue": "Magic Hour Rooftop Bar & Lounge",
+    "location": "New York, NY",
     "date": "2026-02-22"
   },
   {
@@ -226,5 +172,65 @@
     "venue": "Paragon",
     "location": "Brooklyn, NY",
     "date": "2026-02-27"
+  },
+  {
+    "name": "Tom & Collins, Sam Allan",
+    "venue": "1 Hotel Brooklyn Bridge",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-28"
+  },
+  {
+    "name": "Martin Ikin",
+    "venue": "The Summer Club",
+    "location": "New York, NY",
+    "date": "2026-02-28"
+  },
+  {
+    "name": "INZO, Know Good, Super Future, Blookah, Lhasa Petik",
+    "venue": "Brooklyn Steel",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-28"
+  },
+  {
+    "name": "Peaches, Model/Actriz",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-02-28"
+  },
+  {
+    "name": "Fibonacci Tour: Subtronics, Yetti, TroyBoi, capshun",
+    "venue": "Brooklyn Storehouse",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-28"
+  },
+  {
+    "name": "HNTR, Rafael Cerato, Kenzii Scott, Marta",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-28"
+  },
+  {
+    "name": "Son of Son, Henri Bergmann, Ka\u00ef, Fireware",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-28"
+  },
+  {
+    "name": "Richie Hawtin, DJ Stingray 313, Lindsey Herbert",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-02-28"
+  },
+  {
+    "name": "Locklead",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-28"
+  },
+  {
+    "name": "Flava D, Ultra, Render One, DJ Nope, LeCamille, AERO MC",
+    "venue": "The Wood Shop",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-28"
   }
 ]
