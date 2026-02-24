@@ -1,6 +1,6 @@
 [
   {
-    "name": "Little Sister Lounge",
+    "name": "Althea's Hideaway",
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
     "date": "2026-02-24"
@@ -66,6 +66,12 @@
     "date": "2026-02-26"
   },
   {
+    "name": "Trip Don't Sleep: Auphoria, Armii1n, Choukroun, Brunno Lima",
+    "venue": "MAD Radio NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-26"
+  },
+  {
     "name": "Benjamin Lloyd",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -84,7 +90,7 @@
     "date": "2026-02-27"
   },
   {
-    "name": "KI/KI",
+    "name": "RUSH Presents: KI/KI, Lauren Flax, LYDO",
     "venue": "Knockdown Center",
     "location": "New York, NY",
     "date": "2026-02-27"
@@ -168,12 +174,6 @@
     "date": "2026-02-28"
   },
   {
-    "name": "Locklead",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-02-28"
-  },
-  {
     "name": "Flava D, Ultra, Render One, DJ Nope, LeCamille, AERO MC, Jonas Loeb",
     "venue": "The Wood Shop",
     "location": "Brooklyn, NY",
@@ -240,178 +240,184 @@
     "date": "2026-03-01"
   },
   {
+    "name": "Purim Madness: Matt Dubb, Levyticus",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-03-02"
+  },
+  {
     "name": "Saxsquatch, Electric Dad, Light Chaser",
     "venue": "Racket New York",
     "location": "New York, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Saxsquatch, Electric Dad, Light Chaser",
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Holding Pattern: Alex Compton, Ben Bondy, Goyle",
     "venue": "Trans-Pecos",
     "location": "New York, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Names Divine \u2022 Spires That in the Sunset Rise: Lubelski",
     "venue": "Union Pool",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "dh2 Label Night: George Daniel, Oscar Farrell, 2D0GS",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "AFROJACK (Kapuchon Set)",
     "venue": "Refuge",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Soir\u00e9e Presents: Nicolas Matar, Krane b2b Camila W\u00f6lf, AMBA",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Third Floor Sounds: Analog Soul, TEE EM DEE, DJ Shannon",
     "venue": "H0L0",
     "location": "New York, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Turbz",
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Kimby",
     "venue": "Moondog HiFi",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "AYYBO",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Christian L\u00f6ffler, Otherwish",
     "venue": "Elsewhere Hall",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "MUZZ, Dieselboy, Dave Shichman",
     "venue": "Car Park",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Nikita the Wicked",
     "venue": "Elsewhere Zone One",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Pegassi, Cole Knight, Boy Sanders",
     "venue": "99 Scott",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Lil Texas",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "yetep, KLAXX, juuku, I See Colors",
     "venue": "Racket New York",
     "location": "New York, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Sunsquabi, Manic Focus",
     "venue": "Brooklyn Bowl",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "DR. GABBA, nextdimensional, Switch Angel, Soo Intoit",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Cheeky Bugger Tour: Taiki Nulight, Rohaan",
     "venue": "Bowery Ballroom",
     "location": "New York, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "BARELY ALIVE, TYNAN, RiddimNYC",
     "venue": "Webster Hall",
     "location": "New York, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Oppidan",
     "venue": "99 Scott",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Jeff Mills, Ken Ishii",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
-    "name": "\u00d8TTA",
+    "name": "\u00d8TTA, Jonah Almost, Zlata, JSMN",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Labyrinth New York debut: Da Capo, Enoo Napa, Nick Castle",
     "venue": "The Chocolate Factory Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Tom Enzy, Eran Hersh, MAAHEZ, DEROZA",
     "venue": "Superior Ingredients (Main Room)",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Jody Wisternoff, Wassu",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Andhim",
     "venue": "UNVEILED",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Lucas & Steve",
     "venue": "Nebula",
     "location": "New York, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Joezi, Darmon, Mish, chandi",
@@ -450,39 +456,345 @@
     "date": "2026-03-01"
   },
   {
+    "name": "M.e.a.t. Brooklyn Afters",
+    "venue": "The Meadows Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-01"
+  },
+  {
     "name": "Steen",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Pictureplane, Suzy Sheer, ros3yy",
     "venue": "Sultan Room",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Gasolina: DJ Ultra Violet",
     "venue": "House of Yes",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "Accessory Records Showcase: Rose Kourts, Miles Mercer b2b Simic, Second Contact",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "bambinodj, CZ Wang, Emma DJ b2b Via App, Khotin, Toxe",
     "venue": "Nowadays",
     "location": "New York, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
   },
   {
     "name": "BRUX",
     "venue": "Elsewhere",
     "location": "Brooklyn, NY",
-    "date": "2026-02-23"
+    "date": "2026-02-24"
+  },
+  {
+    "name": "DJ Pauly D",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Roddy Lima",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "The Dark Night of The Soul Tour: Kaivon",
+    "venue": "Bowery Ballroom",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Mindchatter, Aka Vinnie",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Teksupport x Prophecy: Prospa, Josh Baker",
+    "venue": "Brooklyn Storehouse",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Hernan Cattaneo",
+    "venue": "The Chocolate Factory Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Indira Paganotto",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Jessica Audiffred",
+    "venue": "Brooklyn Steel",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "CHYL",
+    "venue": "Racket New York",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Cyberia",
+    "venue": "Baby's All Right",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Bob Sinclar",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "mind enterprises",
+    "venue": "Elsewhere Hall",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Kaivon, PORTYL, KC",
+    "venue": "Bowery Ballroom",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Jkyl & Hyde",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Teksupport: Carl Cox, Nicole Moudaber, Ilario Alicante, Viot",
+    "venue": "Brooklyn Storehouse",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "FKA twigs, Tokischa",
+    "venue": "Madison Square Garden",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Sabo, Unders",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "OMNOM",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Mont Rouge, Auguste, Koti\u0113r, Friend Of Honor, Miss Hazard",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Time Lapse: Darren Styles, RayRay",
+    "venue": "Eden NYC",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Emanuel Satie, Sean Doron, Amy Jor",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Sundays in the Atrium: DJ Sprinkles, Frank & Tony",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Loco Carnaval Sundays: Simone Vitullo, Watson, Saxxdoc, SHNKR",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Sunday Selectors",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Maayan Nidam",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Sense Invites: Elle Dee, Mod21, 1NTT, Epfnia",
+    "venue": "telos.haus",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Jus-Ske",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Joris Delacroix",
+    "venue": "Elsewhere Hall",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Collective Memory: DJ DEADNAME b2b Eva Loveless, Yumi",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "R3HAB",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "PRADA2000, Flash Gea, Firebunny, Remniqe",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "oskar med k",
+    "venue": "Webster Hall",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Pan-Pot, ONYVAA",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Adam Ten",
+    "venue": "Industry City",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "1 Hotel Brooklyn Bridge",
+    "venue": "1 Hotel Brooklyn Bridge",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Fideles",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "BOUND Blackout: Lolsnake, Elle Dee, Katie Rex, Miss Twink USA, Makadsi, Sterling Juan Diaz",
+    "venue": "BASEMENT NY",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Birds of Mind",
+    "venue": "UNVEILED",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Basstripper, Sam Collins",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "ReSolute x CHAOS: Fumiya Tanaka",
+    "venue": "H0L0",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Last Heroes, Years Of War",
+    "venue": "Racket New York",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Friction Presents - Synergy: Friction, Yetti, Samisosa",
+    "venue": "Car Park",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Alix Perez",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Horse Meat Disco, Ryan Farr",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Bradley Zero, Louise Chen, Tornado Wallace, Alex McCracken, Cosmo",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Swimming Paul",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Alt\u00e6r 6 Year Anniversary: Beste Hira, Yant, Auspex, Ketia, Kim Anh, Will Jack [!",
+    "venue": "BASEMENT NY",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Selina Labara",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Ferreck Dawn, Cassimm, Pavel Petrov, Ms. Unicorn, Naiman",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Hannah Account, Cades, Alien D, J. Albert, DJ Purple",
+    "venue": "Jupiter Disco",
+    "location": "Brooklyn, NY",
+    "date": "2026-02-24"
   }
 ]
