@@ -1,33 +1,9 @@
 [
   {
-    "name": "Turbz",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-03-11"
-  },
-  {
-    "name": "Holding Pattern: Alex Compton, Ben Bondy, Goyle",
-    "venue": "Trans-Pecos",
-    "location": "New York, NY",
-    "date": "2026-03-11"
-  },
-  {
-    "name": "SRL Wednesdays: JADALAREIGN",
-    "venue": "Time Out Market New York",
+    "name": "AFROJACK (Kapuchon Set), Aly Meza",
+    "venue": "Refuge",
     "location": "Brooklyn, NY",
-    "date": "2026-03-11"
-  },
-  {
-    "name": "Outer Heaven Presents: Pablo Romero",
-    "venue": "Outer Heaven NYC",
-    "location": "New York, NY",
-    "date": "2026-03-11"
-  },
-  {
-    "name": "Eli Escobar, Boy Cordero, Tim Fields",
-    "venue": "Le Bain",
-    "location": "New York, NY",
-    "date": "2026-03-11"
+    "date": "2026-03-12"
   },
   {
     "name": "Names Divine \u2022 Spires That in the Sunset Rise: Lubelski",
@@ -38,12 +14,6 @@
   {
     "name": "dh2 Label Night: George Daniel, Oscar Farrell, 2D0GS",
     "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-12"
-  },
-  {
-    "name": "AFROJACK (Kapuchon Set), Aly Meza",
-    "venue": "Refuge",
     "location": "Brooklyn, NY",
     "date": "2026-03-12"
   },
@@ -144,6 +114,12 @@
     "date": "2026-03-13"
   },
   {
+    "name": "NOTD",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-03-14"
+  },
+  {
     "name": "Cheeky Bugger Tour: Taiki Nulight, Rohaan",
     "venue": "Bowery Ballroom",
     "location": "New York, NY",
@@ -198,12 +174,6 @@
     "date": "2026-03-14"
   },
   {
-    "name": "NOTD",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-03-14"
-  },
-  {
     "name": "Joezi, Darmon, Mish, chandi",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
@@ -228,6 +198,18 @@
     "date": "2026-03-15"
   },
   {
+    "name": "Nelson Paradise Roman",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-15"
+  },
+  {
+    "name": "M.e.a.t. Brooklyn Afters",
+    "venue": "The Meadows Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-15"
+  },
+  {
     "name": "Victor Calderone",
     "venue": "Refuge",
     "location": "Brooklyn, NY",
@@ -236,18 +218,6 @@
   {
     "name": "Victor Calderone",
     "venue": "Brooklyn Warehouse",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-15"
-  },
-  {
-    "name": "Spiral Generator: 30000AD, Pamela_ and Her Sons, Kiernan Laveaux, T.Wan, Rage.inald, Mira Mira",
-    "venue": "Bossa Nova Civic Club",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-15"
-  },
-  {
-    "name": "Tossd: Juana, Miss Parker, S4M23, Connor Wrong, DJ DEADNAME",
-    "venue": "telos.haus",
     "location": "Brooklyn, NY",
     "date": "2026-03-15"
   },
@@ -268,5 +238,23 @@
     "venue": "Purgatory",
     "location": "Brooklyn, NY",
     "date": "2026-03-17"
+  },
+  {
+    "name": "Neil Jackson",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-03-18"
+  },
+  {
+    "name": "Steen",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-18"
+  },
+  {
+    "name": "8ULENTINA, Arushi Jain, Hamadi, Kamran Sadeghi",
+    "venue": "Nowadays",
+    "location": "New York, NY",
+    "date": "2026-03-18"
   }
 ]
