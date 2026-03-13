@@ -1,65 +1,5 @@
 [
   {
-    "name": "AFROJACK (Kapuchon Set), Aly Meza",
-    "venue": "Refuge",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-12"
-  },
-  {
-    "name": "Names Divine \u2022 Spires That in the Sunset Rise: Lubelski",
-    "venue": "Union Pool",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-12"
-  },
-  {
-    "name": "dh2 Label Night: George Daniel, Oscar Farrell, 2D0GS",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-12"
-  },
-  {
-    "name": "Soir\u00e9e Presents: Nicolas Matar, Krane b2b Camila W\u00f6lf, AMBA",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-12"
-  },
-  {
-    "name": "Third Floor Sounds: Analog Soul, TEE EM DEE, DJ Shannon",
-    "venue": "H0L0",
-    "location": "New York, NY",
-    "date": "2026-03-12"
-  },
-  {
-    "name": "Turbz",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2026-03-12"
-  },
-  {
-    "name": "Kimby",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-12"
-  },
-  {
-    "name": "wavcrash presents",
-    "venue": "Hotel Chantelle",
-    "location": "New York, NY",
-    "date": "2026-03-12"
-  },
-  {
-    "name": "Ladies on Wax presents: Mr. Murray",
-    "venue": "Outer Heaven NYC",
-    "location": "New York, NY",
-    "date": "2026-03-12"
-  },
-  {
-    "name": "LISTENING SESSION - The Nonlinear Blues: Braxton",
-    "venue": "Silence Please",
-    "location": "New York, NY",
-    "date": "2026-03-12"
-  },
-  {
     "name": "AYYBO",
     "venue": "Knockdown Center",
     "location": "New York, NY",
@@ -204,8 +144,8 @@
     "date": "2026-03-15"
   },
   {
-    "name": "M.e.a.t. Brooklyn Afters",
-    "venue": "The Meadows Brooklyn",
+    "name": "Sunday Skate Club: Miss Alicia, DJ Houseplants",
+    "venue": "Xanadu Roller Arts",
     "location": "Brooklyn, NY",
     "date": "2026-03-15"
   },
@@ -226,12 +166,6 @@
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-03-15"
-  },
-  {
-    "name": "Nebula Tuesdays",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2026-03-17"
   },
   {
     "name": "Level UP!",
@@ -256,5 +190,71 @@
     "venue": "Nowadays",
     "location": "New York, NY",
     "date": "2026-03-18"
+  },
+  {
+    "name": "Pictureplane, Suzy Sheer, ros3yy",
+    "venue": "Sultan Room",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-19"
+  },
+  {
+    "name": "BRUX",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-19"
+  },
+  {
+    "name": "Gasolina: DJ Ultra Violet",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-19"
+  },
+  {
+    "name": "Accessory Records Showcase: Rose Kourts, Miles Mercer b2b Simic, Second Contact",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-19"
+  },
+  {
+    "name": "bambinodj, CZ Wang, Emma DJ b2b Via App, Khotin, Toxe",
+    "venue": "Nowadays",
+    "location": "New York, NY",
+    "date": "2026-03-19"
+  },
+  {
+    "name": "Tour de PR: x3butterfly, Petal Supply, Callie Reiff, Raquel Michel",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-19"
+  },
+  {
+    "name": "Off Topic Presents: Pedro Borlado, Sweater, Parker Mac, Kamerguy, Bee Chapin, Kaegi",
+    "venue": "H0L0",
+    "location": "New York, NY",
+    "date": "2026-03-19"
+  },
+  {
+    "name": "Palosanto Presents: Oktave",
+    "venue": "Outer Heaven NYC",
+    "location": "New York, NY",
+    "date": "2026-03-19"
+  },
+  {
+    "name": "Resolved - Claire Was There (DSA fundraiser for Claire Valdez): Lauren Flax, Lychee, PlayPlay, DJ Shannon",
+    "venue": "Paragon",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-19"
+  },
+  {
+    "name": "Techno Brooklyn: Marco Bailey",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-19"
+  },
+  {
+    "name": "Compass Rose Presents - Fluture",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-19"
   }
 ]
