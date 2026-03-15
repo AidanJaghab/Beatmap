@@ -1,65 +1,5 @@
 [
   {
-    "name": "NOTD",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-03-14"
-  },
-  {
-    "name": "Cheeky Bugger Tour: Taiki Nulight, Rohaan",
-    "venue": "Bowery Ballroom",
-    "location": "New York, NY",
-    "date": "2026-03-14"
-  },
-  {
-    "name": "BARELY ALIVE, TYNAN, RiddimNYC",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2026-03-14"
-  },
-  {
-    "name": "Oppidan, Branqueeno, Gigi Rio",
-    "venue": "99 Scott",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-14"
-  },
-  {
-    "name": "Jeff Mills, Ken Ishii",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-03-14"
-  },
-  {
-    "name": "St. Lucia",
-    "venue": "Brooklyn Steel",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-14"
-  },
-  {
-    "name": "\u00d8TTA, Jonah Almost, Zlata, JSMN",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-14"
-  },
-  {
-    "name": "Labyrinth New York debut: Da Capo, Enoo Napa, Nick Castle",
-    "venue": "The Chocolate Factory Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-14"
-  },
-  {
-    "name": "Jody Wisternoff, Wassu",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-14"
-  },
-  {
-    "name": "Lucas & Steve",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2026-03-14"
-  },
-  {
     "name": "Joezi, Darmon, Mish, chandi",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
@@ -256,5 +196,59 @@
     "venue": "Webster Hall",
     "location": "New York, NY",
     "date": "2026-03-20"
+  },
+  {
+    "name": "Bob Sinclar",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-03-21"
+  },
+  {
+    "name": "mind enterprises",
+    "venue": "Elsewhere Hall",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-21"
+  },
+  {
+    "name": "Kaivon, PORTYL, KC",
+    "venue": "Bowery Ballroom",
+    "location": "New York, NY",
+    "date": "2026-03-21"
+  },
+  {
+    "name": "Jkyl & Hyde",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-21"
+  },
+  {
+    "name": "Teksupport: Carl Cox, Nicole Moudaber, Ilario Alicante, Viot",
+    "venue": "Brooklyn Storehouse",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-21"
+  },
+  {
+    "name": "FKA twigs, Tokischa",
+    "venue": "Madison Square Garden",
+    "location": "New York, NY",
+    "date": "2026-03-21"
+  },
+  {
+    "name": "OMNOM, Kamino",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-21"
+  },
+  {
+    "name": "Mont Rouge, Auguste, Koti\u0113r, Friend Of Honor, Miss Hazard",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-21"
+  },
+  {
+    "name": "Firebeatz",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-03-21"
   }
 ]
