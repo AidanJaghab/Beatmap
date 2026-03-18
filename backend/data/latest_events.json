@@ -1,17 +1,5 @@
 [
   {
-    "name": "Raw Cuts: Obsk\u00fcr, Armii1n, Ford Scott",
-    "venue": "H0L0",
-    "location": "New York, NY",
-    "date": "2026-03-17"
-  },
-  {
-    "name": "Level UP!",
-    "venue": "Purgatory",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-17"
-  },
-  {
     "name": "Neil Jackson",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -126,7 +114,7 @@
     "date": "2026-03-20"
   },
   {
-    "name": "Indira Paganotto",
+    "name": "Indira Paganotto, Mha Iri, Katie Rex",
     "venue": "Knockdown Center",
     "location": "New York, NY",
     "date": "2026-03-20"
@@ -180,7 +168,7 @@
     "date": "2026-03-21"
   },
   {
-    "name": "OMNOM, Kamino",
+    "name": "OMNOM, Kamino, Caleb Dent, Valencia",
     "venue": "99 Scott",
     "location": "Brooklyn, NY",
     "date": "2026-03-21"
@@ -222,12 +210,6 @@
     "date": "2026-03-22"
   },
   {
-    "name": "Maayan Nidam",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-22"
-  },
-  {
     "name": "Sense Invites: Elle Dee, Mod21, 1NTT, Epfnia",
     "venue": "telos.haus",
     "location": "Brooklyn, NY",
@@ -240,15 +222,45 @@
     "date": "2026-03-22"
   },
   {
-    "name": "Sunday Skate Club: k.tea, Mark Francis, amora, Ellis Delta",
-    "venue": "Xanadu Roller Arts",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-22"
-  },
-  {
     "name": "Jon Jon Hernandez",
     "venue": "MAD Radio NYC",
     "location": "Brooklyn, NY",
     "date": "2026-03-22"
+  },
+  {
+    "name": "Maxinne",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-22"
+  },
+  {
+    "name": "Deep Listening",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-22"
+  },
+  {
+    "name": "Spaghetti Strap: Bearcat, Leonce, Loren, Sobolik, SPRKLBB",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-22"
+  },
+  {
+    "name": "Jus-Ske",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2026-03-24"
+  },
+  {
+    "name": "Nebula Tuesdays",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-03-24"
+  },
+  {
+    "name": "Level UP!",
+    "venue": "Purgatory",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-24"
   }
 ]
