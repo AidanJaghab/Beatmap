@@ -1,29 +1,5 @@
 [
   {
-    "name": "Neil Jackson",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-03-18"
-  },
-  {
-    "name": "Steen",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-18"
-  },
-  {
-    "name": "8ULENTINA, Arushi Jain, Hamadi, Kamran Sadeghi",
-    "venue": "Nowadays",
-    "location": "New York, NY",
-    "date": "2026-03-18"
-  },
-  {
-    "name": "Eli Escobar, Boy Cordero",
-    "venue": "Le Bain",
-    "location": "New York, NY",
-    "date": "2026-03-18"
-  },
-  {
     "name": "Pictureplane, Suzy Sheer, ros3yy",
     "venue": "Sultan Room",
     "location": "Brooklyn, NY",
@@ -210,8 +186,8 @@
     "date": "2026-03-22"
   },
   {
-    "name": "Sense Invites: Elle Dee, Mod21, 1NTT, Epfnia",
-    "venue": "telos.haus",
+    "name": "Maayan Nidam",
+    "venue": "Moondog HiFi",
     "location": "Brooklyn, NY",
     "date": "2026-03-22"
   },
@@ -258,9 +234,21 @@
     "date": "2026-03-24"
   },
   {
-    "name": "Level UP!",
-    "venue": "Purgatory",
+    "name": "Steen",
+    "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-03-24"
+    "date": "2026-03-25"
+  },
+  {
+    "name": "Out The Bag presents: Cem Ozden",
+    "venue": "Outer Heaven NYC",
+    "location": "New York, NY",
+    "date": "2026-03-25"
+  },
+  {
+    "name": "Trueblends",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-03-25"
   }
 ]
