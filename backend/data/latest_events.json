@@ -1,65 +1,5 @@
 [
   {
-    "name": "DJ Pauly D",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-03-20"
-  },
-  {
-    "name": "Roddy Lima",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-20"
-  },
-  {
-    "name": "The Dark Night of The Soul Tour: Kaivon",
-    "venue": "Bowery Ballroom",
-    "location": "New York, NY",
-    "date": "2026-03-20"
-  },
-  {
-    "name": "Mindchatter, Aka Vinnie",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-03-20"
-  },
-  {
-    "name": "Teksupport x Prophecy: Prospa, Josh Baker",
-    "venue": "Brooklyn Storehouse",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-20"
-  },
-  {
-    "name": "Hernan Cattaneo, Mike Isai",
-    "venue": "The Chocolate Factory Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-20"
-  },
-  {
-    "name": "Indira Paganotto, Mha Iri, Katie Rex",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-03-20"
-  },
-  {
-    "name": "CHYL",
-    "venue": "Racket New York",
-    "location": "New York, NY",
-    "date": "2026-03-20"
-  },
-  {
-    "name": "Alarico, Concrete Husband, fka.m4a, Tommy Hart, Ana B",
-    "venue": "BASEMENT NY",
-    "location": "New York, NY",
-    "date": "2026-03-20"
-  },
-  {
-    "name": "Mindchatter",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2026-03-20"
-  },
-  {
     "name": "mind enterprises",
     "venue": "Elsewhere Hall",
     "location": "Brooklyn, NY",
@@ -256,5 +196,65 @@
     "venue": "MAD Radio NYC",
     "location": "Brooklyn, NY",
     "date": "2026-03-26"
+  },
+  {
+    "name": "R3HAB",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-03-27"
+  },
+  {
+    "name": "PRADA2000, Flash Gea, Firebunny, Remniqe",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-27"
+  },
+  {
+    "name": "oskar med k",
+    "venue": "Webster Hall",
+    "location": "New York, NY",
+    "date": "2026-03-27"
+  },
+  {
+    "name": "Conducta, Jialing, Samo, Honey B",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-27"
+  },
+  {
+    "name": "Pan-Pot, ONYVAA, Julia Govor",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-03-27"
+  },
+  {
+    "name": "Adam Ten",
+    "venue": "Industry City",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-27"
+  },
+  {
+    "name": "Luis Torres",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-03-27"
+  },
+  {
+    "name": "We Are Eclipse & LON Presents: Amy Jor, Jennifer Michelle, Yochanan, JLU",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-27"
+  },
+  {
+    "name": "Free RSVP",
+    "venue": "New York City",
+    "location": "New York, NY",
+    "date": "2026-03-27"
+  },
+  {
+    "name": "Refuge Fridays: Concrete Husband, Briela Veneno, Per Pleks, Amotik",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-27"
   }
 ]
