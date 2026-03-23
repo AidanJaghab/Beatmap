@@ -1,59 +1,5 @@
 [
   {
-    "name": "Emanuel Satie, Sean Doron, Amy Jor",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-22"
-  },
-  {
-    "name": "Sundays in the Atrium: DJ Sprinkles, Frank & Tony",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-22"
-  },
-  {
-    "name": "Loco Carnaval Sundays: Lohrasp Kansara, Nektunes b2b Mathias Pace",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2026-03-22"
-  },
-  {
-    "name": "Jellybean Benitez",
-    "venue": "Refuge",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-22"
-  },
-  {
-    "name": "Maayan Nidam",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-22"
-  },
-  {
-    "name": "Maxinne",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-22"
-  },
-  {
-    "name": "Deep Listening",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-22"
-  },
-  {
-    "name": "Spaghetti Strap: Bearcat, Leonce, Loren, Sobolik, SPRKLBB",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-03-22"
-  },
-  {
-    "name": "Occupy The Disco",
-    "venue": "Le Bain",
-    "location": "New York, NY",
-    "date": "2026-03-22"
-  },
-  {
     "name": "Jus-Ske",
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
@@ -256,5 +202,65 @@
     "venue": "Nebula",
     "location": "New York, NY",
     "date": "2026-03-28"
+  },
+  {
+    "name": "Zoobstool",
+    "venue": "The Penthouse NY",
+    "location": "New York, NY",
+    "date": "2026-03-28"
+  },
+  {
+    "name": "Ferreck Dawn, Cassimm, Pavel Petrov, Ms. Unicorn, Naiman",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-29"
+  },
+  {
+    "name": "food house (Fraxiom & Gupi), Diveo",
+    "venue": "Baby's All Right",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-29"
+  },
+  {
+    "name": "Sunday Selectors",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-29"
+  },
+  {
+    "name": "Hannah Account, Cades, Alien D, J. Albert, DJ Purple",
+    "venue": "Jupiter Disco",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-29"
+  },
+  {
+    "name": "Loco Carnaval Sundays",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2026-03-29"
+  },
+  {
+    "name": "GEEKED UP - SQUIDS BIRTHDAY PARTY",
+    "venue": "Body By Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-29"
+  },
+  {
+    "name": "Morabito, Boyyyish",
+    "venue": "Good Room",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-29"
+  },
+  {
+    "name": "Sunday Services",
+    "venue": "20 Meadow Street",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-29"
+  },
+  {
+    "name": "Toribio",
+    "venue": "Head Hi",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-29"
   }
 ]
