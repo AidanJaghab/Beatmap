@@ -1,17 +1,5 @@
 [
   {
-    "name": "Jus-Ske",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2026-03-24"
-  },
-  {
-    "name": "Nebula Tuesdays",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2026-03-24"
-  },
-  {
     "name": "Trueblends",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -75,6 +63,12 @@
     "name": "Body Hack",
     "venue": "Nowadays",
     "location": "New York, NY",
+    "date": "2026-03-26"
+  },
+  {
+    "name": "Joris Delacroix",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
     "date": "2026-03-26"
   },
   {
@@ -198,8 +192,8 @@
     "date": "2026-03-28"
   },
   {
-    "name": "Habibi Secret NYC: Art Beatz",
-    "venue": "Bomba Lounge",
+    "name": "Alt\u00e6r 6 Year Anniversary: Beste Hira, Yant, Auspex, Ketia, Kim Anh, Will Jack [!",
+    "venue": "BASEMENT NY",
     "location": "New York, NY",
     "date": "2026-03-28"
   },
@@ -256,5 +250,23 @@
     "venue": "Head Hi",
     "location": "Brooklyn, NY",
     "date": "2026-03-29"
+  },
+  {
+    "name": "Atune - Deep Listening",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2026-03-31"
+  },
+  {
+    "name": "Nebula Tuesdays",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-03-31"
+  },
+  {
+    "name": "Kaelin Ellis",
+    "venue": "Nublu Classic",
+    "location": "New York, NY",
+    "date": "2026-03-31"
   }
 ]
