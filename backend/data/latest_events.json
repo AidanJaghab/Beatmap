@@ -1,23 +1,5 @@
 [
   {
-    "name": "Outer Heaven Presents: Pablo Romero",
-    "venue": "Outer Heaven NYC",
-    "location": "New York, NY",
-    "date": "2026-04-08"
-  },
-  {
-    "name": "Smothered + Covered: Xavier BLK, Kweku",
-    "venue": "Mood Ring",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-08"
-  },
-  {
-    "name": "Holding Pattern: Naomi Asa",
-    "venue": "Trans-Pecos",
-    "location": "New York, NY",
-    "date": "2026-04-08"
-  },
-  {
     "name": "Psychowarrior Tour: Machine Girl, Sextile, Kumo 99",
     "venue": "Brooklyn Paramount",
     "location": "Brooklyn, NY",
@@ -96,7 +78,7 @@
     "date": "2026-04-10"
   },
   {
-    "name": "Teksupport: CamelPhat, The Kimonos, Airrica",
+    "name": "CamelPhat, The Kimonos, Airrica",
     "venue": "Brooklyn Storehouse",
     "location": "Brooklyn, NY",
     "date": "2026-04-10"
@@ -114,12 +96,6 @@
     "date": "2026-04-10"
   },
   {
-    "name": "Run P., Bok Bok, Daniro",
-    "venue": "Friends and Lovers",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-10"
-  },
-  {
     "name": "Pink Mammoth: Rodriguez Jr., Niki Sadeki, Rob Adelmann",
     "venue": "House of Yes",
     "location": "Brooklyn, NY",
@@ -132,10 +108,10 @@
     "date": "2026-04-10"
   },
   {
-    "name": "Audien",
-    "venue": "Marquee",
+    "name": "KUPYD",
+    "venue": "Mission Nightclub",
     "location": "New York, NY",
-    "date": "2026-04-11"
+    "date": "2026-04-10"
   },
   {
     "name": "Deep Dish",
@@ -246,6 +222,12 @@
     "date": "2026-04-12"
   },
   {
+    "name": "RSVP",
+    "venue": "Althea's Hideaway",
+    "location": "New York, NY",
+    "date": "2026-04-13"
+  },
+  {
     "name": "Neil Jackson",
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
@@ -256,5 +238,17 @@
     "venue": "Honey's",
     "location": "Brooklyn, NY",
     "date": "2026-04-14"
+  },
+  {
+    "name": "Eamon Harkin",
+    "venue": "Nowadays",
+    "location": "New York, NY",
+    "date": "2026-04-15"
+  },
+  {
+    "name": "ION, Kudzu",
+    "venue": "Jupiter Disco",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-15"
   }
 ]
