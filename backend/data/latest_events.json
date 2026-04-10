@@ -1,59 +1,5 @@
 [
   {
-    "name": "Psychowarrior Tour: Machine Girl, Sextile, Kumo 99",
-    "venue": "Brooklyn Paramount",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-09"
-  },
-  {
-    "name": "Tasha Blank",
-    "venue": "House of Yes",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-09"
-  },
-  {
-    "name": "Sweet: Ase Manual, America Rose, HITTHEBLOC",
-    "venue": "Honey's",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-09"
-  },
-  {
-    "name": "umru, Callie Reiff, Margo XS, DJ Thank You",
-    "venue": "Le Bain",
-    "location": "New York, NY",
-    "date": "2026-04-09"
-  },
-  {
-    "name": "Dimi Ang\u00e9lis, shekdash, Steen, Henry Chow",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-09"
-  },
-  {
-    "name": "mitrimar",
-    "venue": "333 Stagg St",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-09"
-  },
-  {
-    "name": "Jw Pre Party",
-    "venue": "Mission Nightclub",
-    "location": "New York, NY",
-    "date": "2026-04-09"
-  },
-  {
-    "name": "Dorian Flagrant, REFRAKT",
-    "venue": "Danger Danger",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-09"
-  },
-  {
-    "name": "We Are Eclipse: Tomas Lobo, REVA MUSIC, Tommy LTM, JLU, Extra Meesh",
-    "venue": "MAD Radio NYC",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-09"
-  },
-  {
     "name": "KSHMR",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -72,7 +18,7 @@
     "date": "2026-04-10"
   },
   {
-    "name": "Chus & Ceballos",
+    "name": "Chus & Ceballos, Danny Tenaglia",
     "venue": "Knockdown Center",
     "location": "New York, NY",
     "date": "2026-04-10"
@@ -96,20 +42,20 @@
     "date": "2026-04-10"
   },
   {
-    "name": "Pink Mammoth: Rodriguez Jr., Niki Sadeki, Rob Adelmann",
-    "venue": "House of Yes",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-10"
-  },
-  {
-    "name": "GUNNAR",
-    "venue": "The Broadway Brooklyn",
-    "location": "Brooklyn, NY",
+    "name": "Sleepy & Boo",
+    "venue": "Manhattan",
+    "location": "New York, NY",
     "date": "2026-04-10"
   },
   {
     "name": "KUPYD",
     "venue": "Mission Nightclub",
+    "location": "New York, NY",
+    "date": "2026-04-10"
+  },
+  {
+    "name": "Virgo Presents",
+    "venue": "Virgo New York",
     "location": "New York, NY",
     "date": "2026-04-10"
   },
@@ -250,5 +196,53 @@
     "venue": "Jupiter Disco",
     "location": "Brooklyn, NY",
     "date": "2026-04-15"
+  },
+  {
+    "name": "Bob Moses, Cannons, Oxis",
+    "venue": "Brooklyn Paramount",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-16"
+  },
+  {
+    "name": "DJ Ultra Violet",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-16"
+  },
+  {
+    "name": "Baby Jane",
+    "venue": "Elsewhere Zone One",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-16"
+  },
+  {
+    "name": "Vigilante Presents: Per Hammar, CHKLTE",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-16"
+  },
+  {
+    "name": "Craig Richards, Bruno Schmidt",
+    "venue": "Green Room NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-16"
+  },
+  {
+    "name": "Matt FX, Vibeiana",
+    "venue": "Outer Heaven NYC",
+    "location": "New York, NY",
+    "date": "2026-04-16"
+  },
+  {
+    "name": "Maddylane",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-16"
+  },
+  {
+    "name": "Sunny Side Up",
+    "venue": "Virgo New York",
+    "location": "New York, NY",
+    "date": "2026-04-16"
   }
 ]
