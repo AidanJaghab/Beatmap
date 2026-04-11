@@ -1,65 +1,5 @@
 [
   {
-    "name": "KSHMR",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-04-10"
-  },
-  {
-    "name": "LF System, Olive F, TiDDY",
-    "venue": "99 Scott",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-10"
-  },
-  {
-    "name": "Klur, Exstra",
-    "venue": "Elsewhere Zone One",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-10"
-  },
-  {
-    "name": "Chus & Ceballos, Danny Tenaglia",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-04-10"
-  },
-  {
-    "name": "CamelPhat, The Kimonos, Airrica",
-    "venue": "Brooklyn Storehouse",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-10"
-  },
-  {
-    "name": "Anastazja, JADALAREIGN, Dennis Free, Pedrose, CTRLZORA",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-10"
-  },
-  {
-    "name": "Ares Carter b2b Daniel Lerman",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2026-04-10"
-  },
-  {
-    "name": "Sleepy & Boo",
-    "venue": "Manhattan",
-    "location": "New York, NY",
-    "date": "2026-04-10"
-  },
-  {
-    "name": "KUPYD",
-    "venue": "Mission Nightclub",
-    "location": "New York, NY",
-    "date": "2026-04-10"
-  },
-  {
-    "name": "Virgo Presents",
-    "venue": "Virgo New York",
-    "location": "New York, NY",
-    "date": "2026-04-10"
-  },
-  {
     "name": "Deep Dish",
     "venue": "99 Scott",
     "location": "Brooklyn, NY",
@@ -186,6 +126,12 @@
     "date": "2026-04-14"
   },
   {
+    "name": "AG.nyc",
+    "venue": "MAD Radio NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-14"
+  },
+  {
     "name": "Eamon Harkin",
     "venue": "Nowadays",
     "location": "New York, NY",
@@ -244,5 +190,65 @@
     "venue": "Virgo New York",
     "location": "New York, NY",
     "date": "2026-04-16"
+  },
+  {
+    "name": "Bruce Wayne",
+    "venue": "29 Locust St",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-16"
+  },
+  {
+    "name": "Paradox: STVSH, blurrd vzn, as\u00e0u",
+    "venue": "Sultan Room",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-17"
+  },
+  {
+    "name": "Agape Presents: Rebekah, Tham",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-17"
+  },
+  {
+    "name": "Lotus",
+    "venue": "Brooklyn Bowl",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-17"
+  },
+  {
+    "name": "femtanyl, govlink",
+    "venue": "Music Hall of Williamsburg",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-17"
+  },
+  {
+    "name": "Dlala Thukzin, Vigro Deep, Meedy, Pizzi, Sabine Blaizin",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-04-17"
+  },
+  {
+    "name": "Metalheadz: Dillinja, Adred, JR2K, Christian Tokyo",
+    "venue": "Paragon",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-17"
+  },
+  {
+    "name": "Midnight House",
+    "venue": "00:00",
+    "location": "New York, NY",
+    "date": "2026-04-17"
+  },
+  {
+    "name": "SOUL SESSION II by AVVA New York",
+    "venue": "Soho Live",
+    "location": "New York, NY",
+    "date": "2026-04-17"
+  },
+  {
+    "name": "VIRGO PRESENTS: Metwally",
+    "venue": "Virgo New York",
+    "location": "New York, NY",
+    "date": "2026-04-17"
   }
 ]
