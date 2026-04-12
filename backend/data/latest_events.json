@@ -1,53 +1,5 @@
 [
   {
-    "name": "Deep Dish",
-    "venue": "99 Scott",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-11"
-  },
-  {
-    "name": "Asleep In The Garden Of Infernal Stars Tour: Seven Lions, YDG, NURKO, Quackson, Oliverse",
-    "venue": "Brooklyn Storehouse",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-11"
-  },
-  {
-    "name": "ChaseWest, Dan Molinari, Twin Diplomacy, J. Richards",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-11"
-  },
-  {
-    "name": "Only Fire, BAYLI, Goth Jafar, flirty800, River Moon, Luca Eck",
-    "venue": "77 1st St",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-11"
-  },
-  {
-    "name": "ARIES IN HEAT: M. Bootyspoon, DJ Haram, Mike Simonetti",
-    "venue": "House of Yes",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-11"
-  },
-  {
-    "name": "Charlie Sparks, Parfait, KYRUH",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-04-11"
-  },
-  {
-    "name": "The Hood Poli Tour: DJ Susan",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-11"
-  },
-  {
-    "name": "Will Sparks",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2026-04-11"
-  },
-  {
     "name": "Sundays in the Atrium: Eli Escobar",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
@@ -126,7 +78,7 @@
     "date": "2026-04-14"
   },
   {
-    "name": "AG.nyc",
+    "name": "AG (NYC)",
     "venue": "MAD Radio NYC",
     "location": "Brooklyn, NY",
     "date": "2026-04-14"
@@ -140,6 +92,12 @@
   {
     "name": "ION, Kudzu",
     "venue": "Jupiter Disco",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-15"
+  },
+  {
+    "name": "Vigro Deep",
+    "venue": "Public Records",
     "location": "Brooklyn, NY",
     "date": "2026-04-15"
   },
@@ -246,9 +204,69 @@
     "date": "2026-04-17"
   },
   {
-    "name": "VIRGO PRESENTS: Metwally",
-    "venue": "Virgo New York",
+    "name": "Sleepy & Boo",
+    "venue": "Manhattan",
     "location": "New York, NY",
     "date": "2026-04-17"
+  },
+  {
+    "name": "Two Friends",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-04-18"
+  },
+  {
+    "name": "DRINKURWATER, Rane, IVORY",
+    "venue": "Webster Hall",
+    "location": "New York, NY",
+    "date": "2026-04-18"
+  },
+  {
+    "name": "Pablo Fierro",
+    "venue": "Superior Ingredients",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-18"
+  },
+  {
+    "name": "Gabriel & Dresden, Distant Matter, DEROZA",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-18"
+  },
+  {
+    "name": "Rusko, Jiqui",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-18"
+  },
+  {
+    "name": "2 AREAS - MULTIPLE VENDORS",
+    "venue": "The Meadows Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-18"
+  },
+  {
+    "name": "Groove Armada, Marcellus Pittman, Rose Kourts",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-04-18"
+  },
+  {
+    "name": "Laidback Luke",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-04-18"
+  },
+  {
+    "name": "Volvox, Day Thief, Abajour, Ron Like Hell, Ryan Smith",
+    "venue": "BASEMENT NY",
+    "location": "New York, NY",
+    "date": "2026-04-18"
+  },
+  {
+    "name": "420 friendly",
+    "venue": "Pier 78 at Hudson River Park",
+    "location": "New York, NY",
+    "date": "2026-04-18"
   }
 ]
