@@ -1,65 +1,5 @@
 [
   {
-    "name": "Sundays in the Atrium: Eli Escobar",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-12"
-  },
-  {
-    "name": "History Of Rave: Eats Everything, Hitty, Branqueeno",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-12"
-  },
-  {
-    "name": "Loco Carnaval Sundays: Lohrasp Kansara, Cristian Arango, Alejandro Arce",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2026-04-12"
-  },
-  {
-    "name": "Casa Calle Presents - Nothing Special: ThoughtKnot, Gee Dee",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-12"
-  },
-  {
-    "name": "Sunday Skate Club: Tim Sweeney, Beats In Space, Aria Pash, IIINFINITE",
-    "venue": "Xanadu Roller Arts",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-12"
-  },
-  {
-    "name": "718 Sessions: Danny Krivit",
-    "venue": "Musica NYC",
-    "location": "New York, NY",
-    "date": "2026-04-12"
-  },
-  {
-    "name": "Courtney K",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-12"
-  },
-  {
-    "name": "Joiah, Camilla, Black Pomade",
-    "venue": "MAD Radio NYC",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-12"
-  },
-  {
-    "name": "Tony Humphries",
-    "venue": "Refuge",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-12"
-  },
-  {
-    "name": "Sounday's Listen: Sara Guardia, Buschbeck, Obbando Kevin G",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-12"
-  },
-  {
     "name": "RSVP",
     "venue": "Althea's Hideaway",
     "location": "New York, NY",
@@ -80,6 +20,12 @@
   {
     "name": "AG (NYC)",
     "venue": "MAD Radio NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-14"
+  },
+  {
+    "name": "Amelia Holt, Emsho, 98dots, Kurilo, KYRUH, Cotton",
+    "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-04-14"
   },
@@ -162,6 +108,12 @@
     "date": "2026-04-17"
   },
   {
+    "name": "Cash Cash",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-04-17"
+  },
+  {
     "name": "Agape Presents: Rebekah, Tham",
     "venue": "99 Scott",
     "location": "Brooklyn, NY",
@@ -189,12 +141,6 @@
     "name": "Metalheadz: Dillinja, Adred, JR2K, Christian Tokyo",
     "venue": "Paragon",
     "location": "Brooklyn, NY",
-    "date": "2026-04-17"
-  },
-  {
-    "name": "Midnight House",
-    "venue": "00:00",
-    "location": "New York, NY",
     "date": "2026-04-17"
   },
   {
@@ -268,5 +214,65 @@
     "venue": "Pier 78 at Hudson River Park",
     "location": "New York, NY",
     "date": "2026-04-18"
+  },
+  {
+    "name": "Ruze, LIGHTLEAK",
+    "venue": "Superior Ingredients",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-19"
+  },
+  {
+    "name": "Geko Jones",
+    "venue": "Bushwick",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-19"
+  },
+  {
+    "name": "Loco Carnaval Sundays: Oscar G, Lohrasp Kansara, Ben Arsenal, Lasarte",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2026-04-19"
+  },
+  {
+    "name": "Soul Summit Music",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-19"
+  },
+  {
+    "name": "Eliot Lipp",
+    "venue": "Sugar Mouse NYC",
+    "location": "New York, NY",
+    "date": "2026-04-19"
+  },
+  {
+    "name": "Diva Diva: Kim Ann Foxman, Michael Magnan, Serena Tea",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-19"
+  },
+  {
+    "name": "Tom Peters, Kandi Milk",
+    "venue": "MAD Radio NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-19"
+  },
+  {
+    "name": "Super Gay Sunday",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-19"
+  },
+  {
+    "name": "Victor Calderone, Radio Slave",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-19"
+  },
+  {
+    "name": "A Lana, Nita Aviance, Dee Diggs",
+    "venue": "Green Room NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-19"
   }
 ]
