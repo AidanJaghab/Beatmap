@@ -1,11 +1,5 @@
 [
   {
-    "name": "RSVP",
-    "venue": "Althea's Hideaway",
-    "location": "New York, NY",
-    "date": "2026-04-13"
-  },
-  {
     "name": "Neil Jackson",
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
@@ -45,6 +39,18 @@
     "name": "Vigro Deep",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
+    "date": "2026-04-15"
+  },
+  {
+    "name": "NYC Pop Up: Silva Bumpa, Ford Scott",
+    "venue": "H0L0",
+    "location": "New York, NY",
+    "date": "2026-04-15"
+  },
+  {
+    "name": "Cristian Arango",
+    "venue": "Salvaje Social Club NYC",
+    "location": "New York, NY",
     "date": "2026-04-15"
   },
   {
@@ -210,12 +216,6 @@
     "date": "2026-04-18"
   },
   {
-    "name": "420 friendly",
-    "venue": "Pier 78 at Hudson River Park",
-    "location": "New York, NY",
-    "date": "2026-04-18"
-  },
-  {
     "name": "Ruze, LIGHTLEAK",
     "venue": "Superior Ingredients",
     "location": "Brooklyn, NY",
@@ -252,12 +252,6 @@
     "date": "2026-04-19"
   },
   {
-    "name": "Tom Peters, Kandi Milk",
-    "venue": "MAD Radio NYC",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-19"
-  },
-  {
     "name": "Super Gay Sunday",
     "venue": "Moondog HiFi",
     "location": "Brooklyn, NY",
@@ -274,5 +268,17 @@
     "venue": "Green Room NYC",
     "location": "Brooklyn, NY",
     "date": "2026-04-19"
+  },
+  {
+    "name": "Sounday's Listen",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-19"
+  },
+  {
+    "name": "Open Bar 8p-9p",
+    "venue": "Althea's Hideaway",
+    "location": "New York, NY",
+    "date": "2026-04-20"
   }
 ]
