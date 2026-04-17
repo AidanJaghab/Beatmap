@@ -1,65 +1,5 @@
 [
   {
-    "name": "Bob Moses, Cannons, Oxis",
-    "venue": "Brooklyn Paramount",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-16"
-  },
-  {
-    "name": "DJ Ultra Violet",
-    "venue": "House of Yes",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-16"
-  },
-  {
-    "name": "Baby Jane",
-    "venue": "Elsewhere Zone One",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-16"
-  },
-  {
-    "name": "Vigilante Presents: Per Hammar, CHKLTE",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-16"
-  },
-  {
-    "name": "Craig Richards, Bruno Schmidt",
-    "venue": "Green Room NYC",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-16"
-  },
-  {
-    "name": "Matt FX, Vibeiana",
-    "venue": "Outer Heaven NYC",
-    "location": "New York, NY",
-    "date": "2026-04-16"
-  },
-  {
-    "name": "Maddylane",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-16"
-  },
-  {
-    "name": "Sunny Side Up",
-    "venue": "Virgo New York",
-    "location": "New York, NY",
-    "date": "2026-04-16"
-  },
-  {
-    "name": "Bruce Wayne",
-    "venue": "29 Locust St",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-16"
-  },
-  {
-    "name": "Anna Collecta, Deo'Jorge, M\u00d8DAF",
-    "venue": "Danger Danger",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-16"
-  },
-  {
     "name": "Paradox: STVSH, blurrd vzn, as\u00e0u",
     "venue": "Sultan Room",
     "location": "Brooklyn, NY",
@@ -68,6 +8,12 @@
   {
     "name": "Agape Presents: Rebekah, Tham",
     "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-17"
+  },
+  {
+    "name": "Bob Moses, Cannons, Oxis",
+    "venue": "Brooklyn Paramount",
     "location": "Brooklyn, NY",
     "date": "2026-04-17"
   },
@@ -132,7 +78,7 @@
     "date": "2026-04-18"
   },
   {
-    "name": "Rusko, Jiqui",
+    "name": "Rusko, Jiqui, DJ Nope, Max Parkinson",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-04-18"
@@ -256,5 +202,65 @@
     "venue": "Marquee",
     "location": "New York, NY",
     "date": "2026-04-22"
+  },
+  {
+    "name": "Give and Take Tour: Hippie Sabotage, Kembe X",
+    "venue": "Elsewhere Hall",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-23"
+  },
+  {
+    "name": "Kaleena Zanders, Jaesyun, Sangarang",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-23"
+  },
+  {
+    "name": "Aaron Hibell",
+    "venue": "Brooklyn Steel",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-23"
+  },
+  {
+    "name": "Techno Thursday: Will Atkinson, Bruce Wayne",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-23"
+  },
+  {
+    "name": "Anime Night",
+    "venue": "The Meadows Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-23"
+  },
+  {
+    "name": "DJ Neat Freak (Andrew VanWyngarden of MGMT), Austin Brown, Heidy P",
+    "venue": "Good Room",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-23"
+  },
+  {
+    "name": "Ladies On Wax: Andi, DEA, Mr. Murray",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-23"
+  },
+  {
+    "name": "Turbz",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2026-04-23"
+  },
+  {
+    "name": "Vigilante Presents: Salar Ansari, Shvili",
+    "venue": "Outer Heaven NYC",
+    "location": "New York, NY",
+    "date": "2026-04-23"
+  },
+  {
+    "name": "Joeski",
+    "venue": "The Ornate Studio",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-23"
   }
 ]
