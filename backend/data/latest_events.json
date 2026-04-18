@@ -1,59 +1,5 @@
 [
   {
-    "name": "Paradox: STVSH, blurrd vzn, as\u00e0u",
-    "venue": "Sultan Room",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-17"
-  },
-  {
-    "name": "Agape Presents: Rebekah, Tham",
-    "venue": "99 Scott",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-17"
-  },
-  {
-    "name": "Bob Moses, Cannons, Oxis",
-    "venue": "Brooklyn Paramount",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-17"
-  },
-  {
-    "name": "Lotus",
-    "venue": "Brooklyn Bowl",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-17"
-  },
-  {
-    "name": "femtanyl, govlink",
-    "venue": "Music Hall of Williamsburg",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-17"
-  },
-  {
-    "name": "Dlala Thukzin, Vigro Deep, Meedy, Pizzi, Sabine Blaizin",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-04-17"
-  },
-  {
-    "name": "Daria Kolosova, Nene H, Annie Lew, Shaun J. Wright, SPRKLBB, Deep Creep",
-    "venue": "BASEMENT NY",
-    "location": "New York, NY",
-    "date": "2026-04-17"
-  },
-  {
-    "name": "Metalheadz: Dillinja, Adred, JR2K, Christian Tokyo",
-    "venue": "Paragon",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-17"
-  },
-  {
-    "name": "Zion",
-    "venue": "Mission Nightclub",
-    "location": "New York, NY",
-    "date": "2026-04-17"
-  },
-  {
     "name": "DRINKURWATER, Rane, IVORY",
     "venue": "Webster Hall",
     "location": "New York, NY",
@@ -186,6 +132,12 @@
     "date": "2026-04-21"
   },
   {
+    "name": "Turbz, Michael Simpson",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-04-22"
+  },
+  {
     "name": "Outer Heaven Presents: Tim Lucent",
     "venue": "Outer Heaven NYC",
     "location": "New York, NY",
@@ -194,12 +146,6 @@
   {
     "name": "FREE ENTRY",
     "venue": "Keybar",
-    "location": "New York, NY",
-    "date": "2026-04-22"
-  },
-  {
-    "name": "Turbz, Michael Simpson",
-    "venue": "Marquee",
     "location": "New York, NY",
     "date": "2026-04-22"
   },
@@ -262,5 +208,65 @@
     "venue": "The Ornate Studio",
     "location": "Brooklyn, NY",
     "date": "2026-04-23"
+  },
+  {
+    "name": "The Midnight, New Constellations",
+    "venue": "Brooklyn Paramount",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-24"
+  },
+  {
+    "name": "Shingo Nakamura, Nox Vahn, unfazed, Petra Petrovich, SunrYse",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-24"
+  },
+  {
+    "name": "Juliet Fox, Joyhauser, Yazz",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-24"
+  },
+  {
+    "name": "Honey Dijon, Kilopatrah Jones",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-04-24"
+  },
+  {
+    "name": "Axel Boman, Masha Mar, FaltyDL",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-24"
+  },
+  {
+    "name": "Basement 7 Year Anniversary: Marcel Dettmann, Ndrx, LYDO, The Carry Nation, Natuta, e-Lite",
+    "venue": "BASEMENT NY",
+    "location": "New York, NY",
+    "date": "2026-04-24"
+  },
+  {
+    "name": "Diamond CLUB: SAFETY TRANCE, Debit, River Moon, Meth Math, Robyn DaBank",
+    "venue": "Paragon",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-24"
+  },
+  {
+    "name": "Tommy Four Seven, Sploofi, Sweater On Polo",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-24"
+  },
+  {
+    "name": "Beau Cruz",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-04-24"
+  },
+  {
+    "name": "Electric Desi",
+    "venue": "Dramma Times Square",
+    "location": "New York, NY",
+    "date": "2026-04-24"
   }
 ]
