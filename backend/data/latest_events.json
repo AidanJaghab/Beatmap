@@ -1,59 +1,5 @@
 [
   {
-    "name": "DRINKURWATER, Rane, IVORY",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2026-04-18"
-  },
-  {
-    "name": "Two Friends",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-04-18"
-  },
-  {
-    "name": "Pablo Fierro",
-    "venue": "Superior Ingredients",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-18"
-  },
-  {
-    "name": "Gabriel & Dresden, Distant Matter, DEROZA",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-18"
-  },
-  {
-    "name": "Rusko, Jiqui, DJ Nope, Max Parkinson",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-18"
-  },
-  {
-    "name": "2 AREAS - MULTIPLE VENDORS",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-18"
-  },
-  {
-    "name": "Groove Armada, Marcellus Pittman, Rose Kourts",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-04-18"
-  },
-  {
-    "name": "Laidback Luke",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2026-04-18"
-  },
-  {
-    "name": "Volvox, Day Thief, Abajour, Ron Like Hell, Ryan Smith",
-    "venue": "BASEMENT NY",
-    "location": "New York, NY",
-    "date": "2026-04-18"
-  },
-  {
     "name": "Ruze, LIGHTLEAK",
     "venue": "Superior Ingredients",
     "location": "Brooklyn, NY",
@@ -192,20 +138,20 @@
     "date": "2026-04-23"
   },
   {
-    "name": "Turbz",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2026-04-23"
-  },
-  {
-    "name": "Vigilante Presents: Salar Ansari, Shvili",
-    "venue": "Outer Heaven NYC",
-    "location": "New York, NY",
-    "date": "2026-04-23"
-  },
-  {
     "name": "Joeski",
     "venue": "The Ornate Studio",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-23"
+  },
+  {
+    "name": "Lipphead (Blockhead x Eliot Lipp)",
+    "venue": "Mercury Lounge NYC",
+    "location": "New York, NY",
+    "date": "2026-04-23"
+  },
+  {
+    "name": "Brigado Crew, Nico Moon, Sebastian Welch, JLU",
+    "venue": "1 Hotel Brooklyn Bridge",
     "location": "Brooklyn, NY",
     "date": "2026-04-23"
   },
@@ -268,5 +214,53 @@
     "venue": "Dramma Times Square",
     "location": "New York, NY",
     "date": "2026-04-24"
+  },
+  {
+    "name": "Netsky, B33, Dave Shichman, Nito, Yetti",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-25"
+  },
+  {
+    "name": "Starjunk 95",
+    "venue": "Irving Plaza",
+    "location": "New York, NY",
+    "date": "2026-04-25"
+  },
+  {
+    "name": "Starjunk 95",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-25"
+  },
+  {
+    "name": "ZERO Presents: Julya Karma, Rampue, Britta Arnold, Christopher Schwarzw\u00e4lder, Lovecraft, Kotoe, Sarah Wild, Kanykei",
+    "venue": "The 1896 Studios & Stages",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-25"
+  },
+  {
+    "name": "Jonas Blue, Eden Prince",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-25"
+  },
+  {
+    "name": "The Moment: WhoMadeWho, Andhim, Silvie Loto, Nico Bernardini",
+    "venue": "Brooklyn Storehouse",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-25"
+  },
+  {
+    "name": "Len Faki, Octave One, Volvox",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-04-25"
+  },
+  {
+    "name": "Basement 7 Year Anniversary: Juliana Huxtable, Sol Ortega, Mos (NYC), Auspex, Cotton, Concrete Husband, Sedef Adas\u00ef, Gabrielle Kwarteng, Jason Kendig, Makadsi, Kilopatrah Jones, Sterling Juan Diaz",
+    "venue": "BASEMENT NY",
+    "location": "New York, NY",
+    "date": "2026-04-25"
   }
 ]
