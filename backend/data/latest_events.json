@@ -1,53 +1,5 @@
 [
   {
-    "name": "Ruze, LIGHTLEAK",
-    "venue": "Superior Ingredients",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-19"
-  },
-  {
-    "name": "Geko Jones",
-    "venue": "Bushwick",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-19"
-  },
-  {
-    "name": "Loco Carnaval Sundays: Oscar G, Lohrasp Kansara, Ben Arsenal, Lasarte",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2026-04-19"
-  },
-  {
-    "name": "Soul Summit Music",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-19"
-  },
-  {
-    "name": "Super Gay Sunday",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-19"
-  },
-  {
-    "name": "Victor Calderone, Radio Slave",
-    "venue": "Refuge",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-19"
-  },
-  {
-    "name": "A Lana, Nita Aviance, Dee Diggs",
-    "venue": "Green Room NYC",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-19"
-  },
-  {
-    "name": "Sounday's Listen",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-19"
-  },
-  {
     "name": "Open Bar 8p-9p",
     "venue": "Althea's Hideaway",
     "location": "New York, NY",
@@ -216,7 +168,7 @@
     "date": "2026-04-24"
   },
   {
-    "name": "Netsky, B33, Dave Shichman, Nito, Yetti",
+    "name": "Netsky, Yetti, Dave Shichman, Nito, B33",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-04-25"
@@ -262,5 +214,65 @@
     "venue": "BASEMENT NY",
     "location": "New York, NY",
     "date": "2026-04-25"
+  },
+  {
+    "name": "Loco Carnaval Sundays: Lohrasp Kansara, Benny, Valent\u00edn",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2026-04-26"
+  },
+  {
+    "name": "Sunday Skate Club: Miss Gypsy, Kiyoshi",
+    "venue": "Xanadu Roller Arts",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-26"
+  },
+  {
+    "name": "Dekmantel Nonstop",
+    "venue": "Nowadays",
+    "location": "New York, NY",
+    "date": "2026-04-26"
+  },
+  {
+    "name": "Sol at 1 Hotel",
+    "venue": "1 Hotel Brooklyn Bridge",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-26"
+  },
+  {
+    "name": "EARTH LOVE FEST Block Party: AM\u00c9M\u00c9, Wemi",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-26"
+  },
+  {
+    "name": "Azure Day Party returns April 26 with DJs, skyline views, and weekly summer rooftop vibes.",
+    "venue": "Arlo Williamsburg",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-26"
+  },
+  {
+    "name": "Timmy Regisford",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-26"
+  },
+  {
+    "name": "Sterling Juan Diaz, Riccardo Tavarez, Baazzley",
+    "venue": "Body By Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-26"
+  },
+  {
+    "name": "Earth Night: Sammy Bananas, E-Cology, Lauren Ritter, Sister Zo, Ali Coleman, 2Melo, Carlo Sine",
+    "venue": "Cargo at Dead Letter No. 9",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-26"
+  },
+  {
+    "name": "The Rabbit Society Tour",
+    "venue": "The Chocolate Factory Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-26"
   }
 ]
