@@ -1,11 +1,5 @@
 [
   {
-    "name": "Open Bar 8p-9p",
-    "venue": "Althea's Hideaway",
-    "location": "New York, NY",
-    "date": "2026-04-20"
-  },
-  {
     "name": "Chizzle",
     "venue": "Little Sister Lounge",
     "location": "New York, NY",
@@ -27,6 +21,12 @@
     "name": "Steen, Scribble",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
+    "date": "2026-04-21"
+  },
+  {
+    "name": "Tom Peters",
+    "venue": "Silence Please",
+    "location": "New York, NY",
     "date": "2026-04-21"
   },
   {
@@ -84,15 +84,9 @@
     "date": "2026-04-23"
   },
   {
-    "name": "Ladies On Wax: Andi, DEA, Mr. Murray",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-23"
-  },
-  {
-    "name": "Joeski",
-    "venue": "The Ornate Studio",
-    "location": "Brooklyn, NY",
+    "name": "Turbz",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
     "date": "2026-04-23"
   },
   {
@@ -105,6 +99,12 @@
     "name": "Brigado Crew, Nico Moon, Sebastian Welch, JLU",
     "venue": "1 Hotel Brooklyn Bridge",
     "location": "Brooklyn, NY",
+    "date": "2026-04-23"
+  },
+  {
+    "name": "Thursdays are Casual",
+    "venue": "Virgo New York",
+    "location": "New York, NY",
     "date": "2026-04-23"
   },
   {
@@ -158,12 +158,6 @@
   {
     "name": "Beau Cruz",
     "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-04-24"
-  },
-  {
-    "name": "Electric Desi",
-    "venue": "Dramma Times Square",
     "location": "New York, NY",
     "date": "2026-04-24"
   },
@@ -258,20 +252,14 @@
     "date": "2026-04-26"
   },
   {
-    "name": "Sterling Juan Diaz, Riccardo Tavarez, Baazzley",
-    "venue": "Body By Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-26"
-  },
-  {
-    "name": "Earth Night: Sammy Bananas, E-Cology, Lauren Ritter, Sister Zo, Ali Coleman, 2Melo, Carlo Sine",
-    "venue": "Cargo at Dead Letter No. 9",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-26"
-  },
-  {
     "name": "The Rabbit Society Tour",
     "venue": "The Chocolate Factory Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-26"
+  },
+  {
+    "name": "Sounday",
+    "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-04-26"
   }
