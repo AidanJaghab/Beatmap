@@ -1,35 +1,5 @@
 [
   {
-    "name": "Chizzle",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2026-04-21"
-  },
-  {
-    "name": "EarthFest",
-    "venue": "Reforesters Laboratory",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-21"
-  },
-  {
-    "name": "James Carter",
-    "venue": "Blue Note Jazz Club",
-    "location": "New York, NY",
-    "date": "2026-04-21"
-  },
-  {
-    "name": "Steen, Scribble",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-21"
-  },
-  {
-    "name": "Tom Peters",
-    "venue": "Silence Please",
-    "location": "New York, NY",
-    "date": "2026-04-21"
-  },
-  {
     "name": "Turbz, Michael Simpson",
     "venue": "Marquee",
     "location": "New York, NY",
@@ -42,8 +12,20 @@
     "date": "2026-04-22"
   },
   {
+    "name": "EarthFest",
+    "venue": "Reforesters Laboratory",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-22"
+  },
+  {
     "name": "FREE ENTRY",
     "venue": "Keybar",
+    "location": "New York, NY",
+    "date": "2026-04-22"
+  },
+  {
+    "name": "James Carter",
+    "venue": "Blue Note Jazz Club",
     "location": "New York, NY",
     "date": "2026-04-22"
   },
@@ -78,15 +60,9 @@
     "date": "2026-04-23"
   },
   {
-    "name": "DJ Neat Freak (Andrew VanWyngarden of MGMT), Austin Brown, Heidy P",
-    "venue": "Good Room",
+    "name": "Joeski",
+    "venue": "The Ornate Studio",
     "location": "Brooklyn, NY",
-    "date": "2026-04-23"
-  },
-  {
-    "name": "Turbz",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
     "date": "2026-04-23"
   },
   {
@@ -105,6 +81,12 @@
     "name": "Thursdays are Casual",
     "venue": "Virgo New York",
     "location": "New York, NY",
+    "date": "2026-04-23"
+  },
+  {
+    "name": "mitrimar",
+    "venue": "333 Stagg St",
+    "location": "Brooklyn, NY",
     "date": "2026-04-23"
   },
   {
@@ -216,24 +198,6 @@
     "date": "2026-04-26"
   },
   {
-    "name": "Sunday Skate Club: Miss Gypsy, Kiyoshi",
-    "venue": "Xanadu Roller Arts",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-26"
-  },
-  {
-    "name": "Dekmantel Nonstop",
-    "venue": "Nowadays",
-    "location": "New York, NY",
-    "date": "2026-04-26"
-  },
-  {
-    "name": "Sol at 1 Hotel",
-    "venue": "1 Hotel Brooklyn Bridge",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-26"
-  },
-  {
     "name": "EARTH LOVE FEST Block Party: AM\u00c9M\u00c9, Wemi",
     "venue": "House of Yes",
     "location": "Brooklyn, NY",
@@ -246,12 +210,6 @@
     "date": "2026-04-26"
   },
   {
-    "name": "Timmy Regisford",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-26"
-  },
-  {
     "name": "The Rabbit Society Tour",
     "venue": "The Chocolate Factory Brooklyn",
     "location": "Brooklyn, NY",
@@ -260,6 +218,30 @@
   {
     "name": "Sounday",
     "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-26"
+  },
+  {
+    "name": "SWIMMIE, Dos Flakos",
+    "venue": "Friends and Lovers",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-26"
+  },
+  {
+    "name": "Paradisco: Occupy The Disco",
+    "venue": "Le Bain",
+    "location": "New York, NY",
+    "date": "2026-04-26"
+  },
+  {
+    "name": "Sundays in the Atrium: Awesome Tapes, Lollise",
+    "venue": "Public Records (Upstairs)",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-26"
+  },
+  {
+    "name": "Jellybean Benitez",
+    "venue": "Refuge",
     "location": "Brooklyn, NY",
     "date": "2026-04-26"
   }
