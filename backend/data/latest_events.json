@@ -1,35 +1,5 @@
 [
   {
-    "name": "Turbz, Michael Simpson",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-04-22"
-  },
-  {
-    "name": "Outer Heaven Presents: Tim Lucent",
-    "venue": "Outer Heaven NYC",
-    "location": "New York, NY",
-    "date": "2026-04-22"
-  },
-  {
-    "name": "EarthFest",
-    "venue": "Reforesters Laboratory",
-    "location": "Brooklyn, NY",
-    "date": "2026-04-22"
-  },
-  {
-    "name": "FREE ENTRY",
-    "venue": "Keybar",
-    "location": "New York, NY",
-    "date": "2026-04-22"
-  },
-  {
-    "name": "James Carter",
-    "venue": "Blue Note Jazz Club",
-    "location": "New York, NY",
-    "date": "2026-04-22"
-  },
-  {
     "name": "Give and Take Tour: Hippie Sabotage, Kembe X",
     "venue": "Elsewhere Hall",
     "location": "Brooklyn, NY",
@@ -60,8 +30,8 @@
     "date": "2026-04-23"
   },
   {
-    "name": "Joeski",
-    "venue": "The Ornate Studio",
+    "name": "DJ Neat Freak (Andrew VanWyngarden of MGMT), Austin Brown, Heidy P",
+    "venue": "Good Room",
     "location": "Brooklyn, NY",
     "date": "2026-04-23"
   },
@@ -144,19 +114,25 @@
     "date": "2026-04-24"
   },
   {
+    "name": "Non-Friction Crew: Mona Matsuoka, Matt FX, Tim Lucent, Vibeiana",
+    "venue": "395 Wythe Avenue",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-24"
+  },
+  {
     "name": "Netsky, Yetti, Dave Shichman, Nito, B33",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-04-25"
   },
   {
-    "name": "Starjunk 95",
+    "name": "Starjunk 95, Skybreak",
     "venue": "Irving Plaza",
     "location": "New York, NY",
     "date": "2026-04-25"
   },
   {
-    "name": "Starjunk 95",
+    "name": "Starjunk 95, Skybreak",
     "venue": "99 Scott",
     "location": "Brooklyn, NY",
     "date": "2026-04-25"
@@ -244,5 +220,17 @@
     "venue": "Refuge",
     "location": "Brooklyn, NY",
     "date": "2026-04-26"
+  },
+  {
+    "name": "Shane One",
+    "venue": "Sleepwalk",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-29"
+  },
+  {
+    "name": "Oneohtrix Point Never, John Medeski",
+    "venue": "Pioneer Works",
+    "location": "Brooklyn, NY",
+    "date": "2026-04-29"
   }
 ]
