@@ -1,47 +1,5 @@
 [
   {
-    "name": "HVOB",
-    "venue": "Warsaw",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-06"
-  },
-  {
-    "name": "MGNA Crrrta, Tommy Fleece",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-06"
-  },
-  {
-    "name": "Steen",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-06"
-  },
-  {
-    "name": "Eris Drew, Mike Servito, S4M23",
-    "venue": "Green Room NYC",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-06"
-  },
-  {
-    "name": "Louie Vega, Jellybean Benitez",
-    "venue": "Sultan Room",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-06"
-  },
-  {
-    "name": "Outer Heaven Presents: Son of Lee",
-    "venue": "Outer Heaven NYC",
-    "location": "New York, NY",
-    "date": "2026-05-06"
-  },
-  {
-    "name": "Turbz",
-    "venue": "The Fleur Room",
-    "location": "New York, NY",
-    "date": "2026-05-06"
-  },
-  {
     "name": "Alexis Taylor (Hot Chip)",
     "venue": "Club 101 NYC",
     "location": "New York, NY",
@@ -126,7 +84,7 @@
     "date": "2026-05-08"
   },
   {
-    "name": "Teksupport: Nico Moreno",
+    "name": "Teksupport: Nico Moreno, NOVAH, hhunter, Diossa",
     "venue": "Brooklyn Storehouse",
     "location": "Brooklyn, NY",
     "date": "2026-05-08"
@@ -192,12 +150,6 @@
     "date": "2026-05-09"
   },
   {
-    "name": "Luuk Van Dijk",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-09"
-  },
-  {
     "name": "Bassjackers",
     "venue": "Nebula",
     "location": "New York, NY",
@@ -234,8 +186,8 @@
     "date": "2026-05-10"
   },
   {
-    "name": "Sounday",
-    "venue": "Listen Brooklyn",
+    "name": "HAAi",
+    "venue": "Public Records",
     "location": "Brooklyn, NY",
     "date": "2026-05-10"
   },
@@ -249,6 +201,12 @@
     "name": "Eli Escobar, Andy Pry",
     "venue": "Ruins at Knockdown Center",
     "location": "New York, NY",
+    "date": "2026-05-10"
+  },
+  {
+    "name": "Sounday",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
     "date": "2026-05-10"
   },
   {
@@ -274,5 +232,35 @@
     "venue": "Trans-Pecos",
     "location": "New York, NY",
     "date": "2026-05-12"
+  },
+  {
+    "name": "Steen",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-12"
+  },
+  {
+    "name": "DNBNL at Dave & Buster's: Special Guests",
+    "venue": "Dave & Buster's NYC",
+    "location": "New York, NY",
+    "date": "2026-05-13"
+  },
+  {
+    "name": "Deep Listening: Lovie",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-13"
+  },
+  {
+    "name": "Ethan Tomas",
+    "venue": "Damballa",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-13"
+  },
+  {
+    "name": "Out The Bag presents: Choukroun, Monk",
+    "venue": "Outer Heaven NYC",
+    "location": "New York, NY",
+    "date": "2026-05-13"
   }
 ]
