@@ -1,71 +1,5 @@
 [
   {
-    "name": "Alexis Taylor (Hot Chip)",
-    "venue": "Club 101 NYC",
-    "location": "New York, NY",
-    "date": "2026-05-07"
-  },
-  {
-    "name": "JADALAREIGN, Ash Lauryn",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-07"
-  },
-  {
-    "name": "Cyberia: 3mouth, DJ Camgirl, TIMETRICKSTER",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-07"
-  },
-  {
-    "name": "TOKiMONSTA, Charmy",
-    "venue": "House of Yes",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-07"
-  },
-  {
-    "name": "Palosanto on the Roof",
-    "venue": "The Roof at Arlo Williamsburg",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-07"
-  },
-  {
-    "name": "Chambord, Capoon, Antares (UK)",
-    "venue": "UNVEILED",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-07"
-  },
-  {
-    "name": "Anthony Romano, LEFTI",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-07"
-  },
-  {
-    "name": "Justin Miller, PERSONA LA AVE",
-    "venue": "C'mon Everybody",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-07"
-  },
-  {
-    "name": "FOCUS W/ BENYC - Daft Punk 'Discovery'",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-07"
-  },
-  {
-    "name": "Puro, Sarindipity, Iz:ak, JIA, Sol System",
-    "venue": "MAD Radio NYC",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-07"
-  },
-  {
-    "name": "DJ Tay James",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2026-05-07"
-  },
-  {
     "name": "Kaz James",
     "venue": "Marquee Skydeck",
     "location": "New York, NY",
@@ -150,15 +84,15 @@
     "date": "2026-05-09"
   },
   {
-    "name": "Bassjackers",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2026-05-09"
-  },
-  {
     "name": "SIDEQUEST",
     "venue": "Superior Ingredients (Main Room)",
     "location": "Brooklyn, NY",
+    "date": "2026-05-09"
+  },
+  {
+    "name": "Le Twins",
+    "venue": "VShow",
+    "location": "New York, NY",
     "date": "2026-05-09"
   },
   {
@@ -262,5 +196,59 @@
     "venue": "Outer Heaven NYC",
     "location": "New York, NY",
     "date": "2026-05-13"
+  },
+  {
+    "name": "Wire Festival: Alva Noto, Arushi Jain, Dopplereffekt, LYDO, Voices From the Lake, 98dots, CEM, Dax J, DJ Healthy, DJ Saliva, Dr. Rubinstein, Elle Dee, Freddy K, Hiro Kone, MARR\u00d8N, Max Watts, MCMLXXXV, OZA, Quelza, SALOME, Sevyn 0000, Analog Soul, Boris (NYC), Gabrielle Kwarteng, ISAbella, Jacob Meehan, Lakuti, Physical Therapy, Tama Sumo, Akua, Amelia Holt, Anabel Arroyo, Auspex, Chl\u00e4r, Cotton, D.Dan, Holden Federico, James Newmarch",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-05-14"
+  },
+  {
+    "name": "Outer Heaven Records 001 Release Party: Tim Sweeney, Justin Strauss",
+    "venue": "Outer Heaven NYC",
+    "location": "New York, NY",
+    "date": "2026-05-14"
+  },
+  {
+    "name": "BK Loves UKG",
+    "venue": "Elsewhere Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-14"
+  },
+  {
+    "name": "Palosanto on the Roof",
+    "venue": "The Roof at Arlo Williamsburg",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-14"
+  },
+  {
+    "name": "Village Hidden in Sound: DJ Fat Frog, SUPR SPRT",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-14"
+  },
+  {
+    "name": "Keoki Presents - Disco Apocalypto: DJ Keoki, Erik Elias",
+    "venue": "3 Dollar Bill",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-14"
+  },
+  {
+    "name": "Eli Verveine, Kiyoshi",
+    "venue": "Green Room NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-14"
+  },
+  {
+    "name": "Mink, Pablo Romero, Daniel Dutts",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-14"
+  },
+  {
+    "name": "Thursdays are Casual",
+    "venue": "UNVEILED",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-14"
   }
 ]
