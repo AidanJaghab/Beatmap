@@ -1,59 +1,5 @@
 [
   {
-    "name": "Kaz James",
-    "venue": "Marquee Skydeck",
-    "location": "New York, NY",
-    "date": "2026-05-08"
-  },
-  {
-    "name": "Austin Millz",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-05-08"
-  },
-  {
-    "name": "BEAUZ, MADGRRL",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2026-05-08"
-  },
-  {
-    "name": "Teksupport: Nico Moreno, NOVAH, hhunter, Diossa",
-    "venue": "Brooklyn Storehouse",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-08"
-  },
-  {
-    "name": "C2C NYC 2026: Arca, Avalon Emerson, The Charm, Nourished by Time, Aya, Titanic, Malibu, Elias R\u00f8nnenfelt, YHWH Nailgun, Los Thuthanaka, DOULA, Galcher Lustwerk, 8ULENTINA",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-05-08"
-  },
-  {
-    "name": "COBRAH",
-    "venue": "Brooklyn Paramount",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-08"
-  },
-  {
-    "name": "Conrad Taylor",
-    "venue": "99 Scott",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-08"
-  },
-  {
-    "name": "Conrad Taylor",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-08"
-  },
-  {
-    "name": "4B, Roxy Ferrari",
-    "venue": "VShow",
-    "location": "New York, NY",
-    "date": "2026-05-08"
-  },
-  {
     "name": "Peggy Gou",
     "venue": "Under the 'K' Bridge Park",
     "location": "Brooklyn, NY",
@@ -114,24 +60,6 @@
     "date": "2026-05-10"
   },
   {
-    "name": "Andy Stott, Debit",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-10"
-  },
-  {
-    "name": "HAAi",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-10"
-  },
-  {
-    "name": "Jeny Michelle",
-    "venue": "Dead Letter No. 9",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-10"
-  },
-  {
     "name": "Eli Escobar, Andy Pry",
     "venue": "Ruins at Knockdown Center",
     "location": "New York, NY",
@@ -156,6 +84,30 @@
     "date": "2026-05-10"
   },
   {
+    "name": "Althea's Rooftop",
+    "venue": "Althea's Hideaway",
+    "location": "New York, NY",
+    "date": "2026-05-10"
+  },
+  {
+    "name": "Occupy The Disco",
+    "venue": "Le Bain",
+    "location": "New York, NY",
+    "date": "2026-05-10"
+  },
+  {
+    "name": "The Groove Lab: Cristian Arango, Maria Peace",
+    "venue": "Polygon BK",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-10"
+  },
+  {
+    "name": "Andy Stott, Debit",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-11"
+  },
+  {
     "name": "Lords of Acid, Dead On A Sunday, Princess Superstar, Mz Neon",
     "venue": "Racket New York",
     "location": "New York, NY",
@@ -171,6 +123,12 @@
     "name": "Steen",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
+    "date": "2026-05-12"
+  },
+  {
+    "name": "Jus-Ske",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
     "date": "2026-05-12"
   },
   {
@@ -222,24 +180,6 @@
     "date": "2026-05-14"
   },
   {
-    "name": "Village Hidden in Sound: DJ Fat Frog, SUPR SPRT",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-14"
-  },
-  {
-    "name": "Keoki Presents - Disco Apocalypto: DJ Keoki, Erik Elias",
-    "venue": "3 Dollar Bill",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-14"
-  },
-  {
-    "name": "Eli Verveine, Kiyoshi",
-    "venue": "Green Room NYC",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-14"
-  },
-  {
     "name": "Mink, Pablo Romero, Daniel Dutts",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
@@ -250,5 +190,89 @@
     "venue": "UNVEILED",
     "location": "Brooklyn, NY",
     "date": "2026-05-14"
+  },
+  {
+    "name": "Turbz",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2026-05-14"
+  },
+  {
+    "name": "Groovement Insiders Social",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-14"
+  },
+  {
+    "name": "Doss",
+    "venue": "Paragon",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-14"
+  },
+  {
+    "name": "Neil Jackson",
+    "venue": "The Highlight Room New York",
+    "location": "New York, NY",
+    "date": "2026-05-14"
+  },
+  {
+    "name": "Agents Of Time",
+    "venue": "Marquee Skydeck",
+    "location": "New York, NY",
+    "date": "2026-05-15"
+  },
+  {
+    "name": "Afters: BUNT.",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-05-15"
+  },
+  {
+    "name": "Wire Festival",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-05-15"
+  },
+  {
+    "name": "BUNT., jigitz",
+    "venue": "Under the K Bridge Park",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-15"
+  },
+  {
+    "name": "Bushbaby, Martha",
+    "venue": "Elsewhere Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-15"
+  },
+  {
+    "name": "Mahmut Orhan, MAXI MERAKI, Mary Jane, Wemi",
+    "venue": "Industry City",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-15"
+  },
+  {
+    "name": "Sam Divine, Eskuche, LEFTI",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-15"
+  },
+  {
+    "name": "The Kimonos",
+    "venue": "Westlight",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-15"
+  },
+  {
+    "name": "Teksupport: Cristoph",
+    "venue": "Sunset Park Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-15"
+  },
+  {
+    "name": "Ornate Project x Muzika: Monkey Safari",
+    "venue": "Eden NYC",
+    "location": "New York, NY",
+    "date": "2026-05-15"
   }
 ]
