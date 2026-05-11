@@ -1,65 +1,5 @@
 [
   {
-    "name": "Inner Wave, Los Mesoneros, Twin Seas",
-    "venue": "Elsewhere Hall",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-10"
-  },
-  {
-    "name": "Tiffy Vera",
-    "venue": "1 Hotel Brooklyn Bridge",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-10"
-  },
-  {
-    "name": "Sounday",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-10"
-  },
-  {
-    "name": "A Night in Tulum by Tropique",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-10"
-  },
-  {
-    "name": "HAAi",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-10"
-  },
-  {
-    "name": "Eli Escobar, Andy Pry",
-    "venue": "Ruins at Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-05-10"
-  },
-  {
-    "name": "Super Gay Sunday",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-10"
-  },
-  {
-    "name": "Althea's Rooftop",
-    "venue": "Althea's Hideaway",
-    "location": "New York, NY",
-    "date": "2026-05-10"
-  },
-  {
-    "name": "Occupy The Disco",
-    "venue": "Le Bain",
-    "location": "New York, NY",
-    "date": "2026-05-10"
-  },
-  {
-    "name": "The Groove Lab: Cristian Arango, Maria Peace",
-    "venue": "Polygon BK",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-10"
-  },
-  {
     "name": "Andy Stott, Debit",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
@@ -286,5 +226,59 @@
     "venue": "VShow",
     "location": "New York, NY",
     "date": "2026-05-16"
+  },
+  {
+    "name": "Boris Brejcha",
+    "venue": "Industry City",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-17"
+  },
+  {
+    "name": "Paramida, Dan Ghenacia, m.O.N.R.O.E., Justin Shaffer, J. Richards",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-17"
+  },
+  {
+    "name": "Yaya, Ky William, SHIFTY",
+    "venue": "H0L0",
+    "location": "New York, NY",
+    "date": "2026-05-17"
+  },
+  {
+    "name": "Tiffy Vera",
+    "venue": "1 Hotel Brooklyn Bridge",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-17"
+  },
+  {
+    "name": "Eamon Harkin, Conducta",
+    "venue": "Nowadays",
+    "location": "New York, NY",
+    "date": "2026-05-17"
+  },
+  {
+    "name": "Boris (NYC), Pablo Inzunza, Just Jordan",
+    "venue": "315 Meserole St",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-17"
+  },
+  {
+    "name": "Victor Calderone, Kilopatrah Jones",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-17"
+  },
+  {
+    "name": "Two Cuzzos",
+    "venue": "Mr. Purple",
+    "location": "New York, NY",
+    "date": "2026-05-17"
+  },
+  {
+    "name": "Steph Vaye",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-17"
   }
 ]
