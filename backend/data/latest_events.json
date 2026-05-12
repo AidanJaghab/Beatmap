@@ -1,17 +1,5 @@
 [
   {
-    "name": "Andy Stott, Debit",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-11"
-  },
-  {
-    "name": "RSVP",
-    "venue": "Althea's Hideaway",
-    "location": "New York, NY",
-    "date": "2026-05-11"
-  },
-  {
     "name": "Lords of Acid, Dead On A Sunday, Princess Superstar, Mz Neon",
     "venue": "Racket New York",
     "location": "New York, NY",
@@ -252,12 +240,6 @@
     "date": "2026-05-17"
   },
   {
-    "name": "Eamon Harkin, Conducta",
-    "venue": "Nowadays",
-    "location": "New York, NY",
-    "date": "2026-05-17"
-  },
-  {
     "name": "Boris (NYC), Pablo Inzunza, Just Jordan",
     "venue": "315 Meserole St",
     "location": "Brooklyn, NY",
@@ -278,6 +260,12 @@
   {
     "name": "Steph Vaye",
     "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-17"
+  },
+  {
+    "name": "Sunday Skate Club",
+    "venue": "Xanadu Roller Arts",
     "location": "Brooklyn, NY",
     "date": "2026-05-17"
   }
