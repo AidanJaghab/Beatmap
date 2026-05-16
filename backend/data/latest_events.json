@@ -1,61 +1,13 @@
 [
   {
-    "name": "Afters: BUNT.",
-    "venue": "Marquee",
+    "name": "Arodes",
+    "venue": "Marquee Skydeck",
     "location": "New York, NY",
-    "date": "2026-05-15"
+    "date": "2026-05-16"
   },
   {
     "name": "Wire Festival",
     "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-05-15"
-  },
-  {
-    "name": "BUNT., jigitz",
-    "venue": "Under the K Bridge Park",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-15"
-  },
-  {
-    "name": "Bushbaby, Martha",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-15"
-  },
-  {
-    "name": "Mahmut Orhan, MAXI MERAKI, Mary Jane, Wemi",
-    "venue": "Industry City",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-15"
-  },
-  {
-    "name": "Sam Divine, Eskuche, LEFTI",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-15"
-  },
-  {
-    "name": "The Kimonos",
-    "venue": "Westlight",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-15"
-  },
-  {
-    "name": "Teksupport: Cristoph",
-    "venue": "Sunset Park Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-15"
-  },
-  {
-    "name": "Ornate Project x Muzika: Monkey Safari",
-    "venue": "Eden NYC",
-    "location": "New York, NY",
-    "date": "2026-05-15"
-  },
-  {
-    "name": "Arodes",
-    "venue": "Marquee Skydeck",
     "location": "New York, NY",
     "date": "2026-05-16"
   },
@@ -120,12 +72,6 @@
     "date": "2026-05-17"
   },
   {
-    "name": "Boris (NYC), Pablo Inzunza, Just Jordan",
-    "venue": "315 Meserole St",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-17"
-  },
-  {
     "name": "Victor Calderone, Kilopatrah Jones",
     "venue": "Refuge",
     "location": "Brooklyn, NY",
@@ -150,10 +96,28 @@
     "date": "2026-05-17"
   },
   {
+    "name": "Astara, Taimur, David Paglia, Camilla",
+    "venue": "Apollo Studio",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-17"
+  },
+  {
     "name": "Steen",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-05-19"
+  },
+  {
+    "name": "Chizzle",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2026-05-19"
+  },
+  {
+    "name": "TonyDeepDisco",
+    "venue": "MAD Radio NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-20"
   },
   {
     "name": "Brothertiger, Hotel Pools",
@@ -176,12 +140,6 @@
   {
     "name": "Dan Shake",
     "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-21"
-  },
-  {
-    "name": "Up Ya Archives: Nia Archives",
-    "venue": "Elsewhere",
     "location": "Brooklyn, NY",
     "date": "2026-05-21"
   },
@@ -214,5 +172,71 @@
     "venue": "Mood Ring",
     "location": "Brooklyn, NY",
     "date": "2026-05-21"
+  },
+  {
+    "name": "Neil Jackson",
+    "venue": "The Highlight Room New York",
+    "location": "New York, NY",
+    "date": "2026-05-21"
+  },
+  {
+    "name": "Timmy Trumpet",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-05-22"
+  },
+  {
+    "name": "DJ Boring",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-22"
+  },
+  {
+    "name": "On The Air Tour: SoDown, Oddly Eazy",
+    "venue": "The Meadows Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-22"
+  },
+  {
+    "name": "Yung Bae, Engelwood",
+    "venue": "Elsewhere Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-22"
+  },
+  {
+    "name": "Sights & Sounds: Shaun Ross, Stonie Blue, Elkind, Killen.",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-22"
+  },
+  {
+    "name": "Sistek",
+    "venue": "Westlight",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-22"
+  },
+  {
+    "name": "Enrico Sangiuliano, SALOME, Annie Lew",
+    "venue": "Ruins at Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-05-22"
+  },
+  {
+    "name": "Nico Stojan, Made By Pete, AirwolfBK, Drew Proud, Heedon",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-22"
+  },
+  {
+    "name": "Julian Jordan",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-05-22"
+  },
+  {
+    "name": "R\u00f8dh\u00e5d, Rene Wise, Quelza, The Carry Nation, Sevyn",
+    "venue": "BASEMENT NY",
+    "location": "New York, NY",
+    "date": "2026-05-22"
   }
 ]
