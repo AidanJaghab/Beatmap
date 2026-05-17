@@ -1,57 +1,9 @@
 [
   {
-    "name": "Arodes",
-    "venue": "Marquee Skydeck",
-    "location": "New York, NY",
-    "date": "2026-05-16"
-  },
-  {
     "name": "Wire Festival",
     "venue": "Knockdown Center",
     "location": "New York, NY",
-    "date": "2026-05-16"
-  },
-  {
-    "name": "Devault, Welker, Jay Crusoe",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-16"
-  },
-  {
-    "name": "Simon Doty, Gio Lucca, Erin Page",
-    "venue": "H0L0 Yard",
-    "location": "New York, NY",
-    "date": "2026-05-16"
-  },
-  {
-    "name": "Armin van Buuren, Laura van Dam, SunrYse",
-    "venue": "Industry City",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-16"
-  },
-  {
-    "name": "TSHA, Ky William, Gio Lucca, Welker",
-    "venue": "99 Scott",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-16"
-  },
-  {
-    "name": "Simula, Lemtom, DJ EH, DJ Nope, J.N.R., Brent Tactic, Gigi Rio, Remniqe",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-16"
-  },
-  {
-    "name": "DubVision",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2026-05-16"
-  },
-  {
-    "name": "BONNIE X CLYDE",
-    "venue": "VShow",
-    "location": "New York, NY",
-    "date": "2026-05-16"
+    "date": "2026-05-17"
   },
   {
     "name": "Boris Brejcha",
@@ -66,9 +18,9 @@
     "date": "2026-05-17"
   },
   {
-    "name": "Yaya, Nate Katz, SHIFTY",
-    "venue": "H0L0",
-    "location": "New York, NY",
+    "name": "Boris (NYC), Pablo Inzunza, Just Jordan",
+    "venue": "315 Meserole St",
+    "location": "Brooklyn, NY",
     "date": "2026-05-17"
   },
   {
@@ -100,6 +52,12 @@
     "venue": "Apollo Studio",
     "location": "Brooklyn, NY",
     "date": "2026-05-17"
+  },
+  {
+    "name": "RSVP",
+    "venue": "Althea's Hideaway",
+    "location": "New York, NY",
+    "date": "2026-05-18"
   },
   {
     "name": "Steen",
@@ -238,5 +196,59 @@
     "venue": "BASEMENT NY",
     "location": "New York, NY",
     "date": "2026-05-22"
+  },
+  {
+    "name": "Why Not Now?: Gorgon City, GENESI, Linska, TOBEHONEST, Dreya V, Chase & Status, Joy Anonymous, MPH, Flava D, BAMBII, Stello",
+    "venue": "Industry City",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-23"
+  },
+  {
+    "name": "Gareth Emery",
+    "venue": "Marquee Skydeck",
+    "location": "New York, NY",
+    "date": "2026-05-23"
+  },
+  {
+    "name": "Jessica Audiffred",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-05-23"
+  },
+  {
+    "name": "Tinzo + Jojo, Varist",
+    "venue": "Elsewhere Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-23"
+  },
+  {
+    "name": "Solomun, Nala",
+    "venue": "Fulton Fish Market Cooperative",
+    "location": "New York, NY",
+    "date": "2026-05-23"
+  },
+  {
+    "name": "JSTJR, Loods, THELIMITDOESNOTEXIST",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-23"
+  },
+  {
+    "name": "JSTJR, Loods, THELIMITDOESNOTEXIST",
+    "venue": "Club 101 NYC",
+    "location": "New York, NY",
+    "date": "2026-05-23"
+  },
+  {
+    "name": "SYREETA, Sarindipity, SLAYCEY",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-23"
+  },
+  {
+    "name": "DVBBS",
+    "venue": "VShow",
+    "location": "New York, NY",
+    "date": "2026-05-23"
   }
 ]
