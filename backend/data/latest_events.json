@@ -1,61 +1,13 @@
 [
   {
-    "name": "Wire Festival",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-05-17"
-  },
-  {
-    "name": "Boris Brejcha",
-    "venue": "Industry City",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-17"
-  },
-  {
-    "name": "Paramida, Dan Ghenacia, m.O.N.R.O.E., Justin Shaffer, J. Richards",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-17"
-  },
-  {
-    "name": "Boris (NYC), Pablo Inzunza, Just Jordan",
-    "venue": "315 Meserole St",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-17"
-  },
-  {
-    "name": "Victor Calderone, Kilopatrah Jones",
-    "venue": "Refuge",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-17"
-  },
-  {
-    "name": "Two Cuzzos",
-    "venue": "Mr. Purple",
-    "location": "New York, NY",
-    "date": "2026-05-17"
-  },
-  {
-    "name": "Steph Vaye",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-17"
-  },
-  {
-    "name": "Sunday Skate Club",
-    "venue": "Xanadu Roller Arts",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-17"
-  },
-  {
-    "name": "Astara, Taimur, David Paglia, Camilla",
-    "venue": "Apollo Studio",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-17"
-  },
-  {
     "name": "RSVP",
     "venue": "Althea's Hideaway",
+    "location": "New York, NY",
+    "date": "2026-05-18"
+  },
+  {
+    "name": "Industry Mondays: Surprise Guests",
+    "venue": "Althea's Rooftop",
     "location": "New York, NY",
     "date": "2026-05-18"
   },
@@ -102,7 +54,7 @@
     "date": "2026-05-21"
   },
   {
-    "name": "1 Hotel Brooklyn Bridge: Khris Damion",
+    "name": "1 Hotel Brooklyn Bridge Rooftop: Khris Damion",
     "venue": "1 Hotel Brooklyn Bridge",
     "location": "Brooklyn, NY",
     "date": "2026-05-21"
@@ -180,8 +132,8 @@
     "date": "2026-05-22"
   },
   {
-    "name": "Nico Stojan, Made By Pete, AirwolfBK, Drew Proud, Heedon",
-    "venue": "House of Yes",
+    "name": "Latmun",
+    "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-05-22"
   },
@@ -250,5 +202,65 @@
     "venue": "VShow",
     "location": "New York, NY",
     "date": "2026-05-23"
+  },
+  {
+    "name": "More Events \u2193",
+    "venue": "Marquee Skydeck",
+    "location": "New York, NY",
+    "date": "2026-05-24"
+  },
+  {
+    "name": "Why Not Now?: Chase & Status, Joy Anonymous, MPH, Flava D, BAMBII",
+    "venue": "Industry City",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-24"
+  },
+  {
+    "name": "Tchami",
+    "venue": "The Summer Club",
+    "location": "New York, NY",
+    "date": "2026-05-24"
+  },
+  {
+    "name": "Horse Meat Disco",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-05-24"
+  },
+  {
+    "name": "Sinjin Hawke, Bobby Beethoven, nextdimensional, umru, Total Freedom",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-24"
+  },
+  {
+    "name": "Frank & Tony, Tornado Wallace b2b Courtney Bailey, Matias Aguayo, Paurro",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-24"
+  },
+  {
+    "name": "Sounday",
+    "venue": "Listen Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-24"
+  },
+  {
+    "name": "Loco Carnaval: Pan-Pot, Lohrasp Kansara, CHASKE, ARCANNOS",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
+    "date": "2026-05-24"
+  },
+  {
+    "name": "Azure Day Party: Jay Pryor",
+    "venue": "Arlo Williamsburg",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-24"
+  },
+  {
+    "name": "Dennis Kane, Darshan Jesrani",
+    "venue": "MAD Radio NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-24"
   }
 ]
