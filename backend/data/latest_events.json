@@ -1,17 +1,5 @@
 [
   {
-    "name": "RSVP",
-    "venue": "Althea's Hideaway",
-    "location": "New York, NY",
-    "date": "2026-05-18"
-  },
-  {
-    "name": "Industry Mondays: Surprise Guests",
-    "venue": "Althea's Rooftop",
-    "location": "New York, NY",
-    "date": "2026-05-18"
-  },
-  {
     "name": "Steen",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
@@ -54,15 +42,15 @@
     "date": "2026-05-21"
   },
   {
-    "name": "1 Hotel Brooklyn Bridge Rooftop: Khris Damion",
-    "venue": "1 Hotel Brooklyn Bridge",
+    "name": "Up Ya Archives: Nia Archives",
+    "venue": "Elsewhere",
     "location": "Brooklyn, NY",
     "date": "2026-05-21"
   },
   {
-    "name": "Hush Hush, Pepper Solana",
-    "venue": "Wiggle Room NYC",
-    "location": "New York, NY",
+    "name": "1 Hotel Brooklyn Bridge Rooftop: Khris Damion",
+    "venue": "1 Hotel Brooklyn Bridge",
+    "location": "Brooklyn, NY",
     "date": "2026-05-21"
   },
   {
@@ -88,6 +76,12 @@
     "venue": "The Highlight Room New York",
     "location": "New York, NY",
     "date": "2026-05-21"
+  },
+  {
+    "name": "Lilya Mandre",
+    "venue": "Marquee Skydeck",
+    "location": "New York, NY",
+    "date": "2026-05-22"
   },
   {
     "name": "Timmy Trumpet",
@@ -132,12 +126,6 @@
     "date": "2026-05-22"
   },
   {
-    "name": "Latmun",
-    "venue": "Listen Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-22"
-  },
-  {
     "name": "Julian Jordan",
     "venue": "Nebula",
     "location": "New York, NY",
@@ -162,12 +150,6 @@
     "date": "2026-05-23"
   },
   {
-    "name": "Jessica Audiffred",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-05-23"
-  },
-  {
     "name": "Tinzo + Jojo, Varist",
     "venue": "Elsewhere Rooftop",
     "location": "Brooklyn, NY",
@@ -186,15 +168,15 @@
     "date": "2026-05-23"
   },
   {
-    "name": "JSTJR, Loods, THELIMITDOESNOTEXIST",
-    "venue": "Club 101 NYC",
-    "location": "New York, NY",
-    "date": "2026-05-23"
-  },
-  {
     "name": "SYREETA, Sarindipity, SLAYCEY",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
+    "date": "2026-05-23"
+  },
+  {
+    "name": "Oscar Mulero, Polygonia, Massimiliano Pagliara, Alinka, James Axon",
+    "venue": "BASEMENT NY",
+    "location": "New York, NY",
     "date": "2026-05-23"
   },
   {
@@ -262,5 +244,65 @@
     "venue": "MAD Radio NYC",
     "location": "Brooklyn, NY",
     "date": "2026-05-24"
+  },
+  {
+    "name": "Elsewhere Memorial Day: sunflwr, veggi",
+    "venue": "Elsewhere Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-25"
+  },
+  {
+    "name": "Tony Humphries, DJ Miss Parker, Karim Olen Ash",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-25"
+  },
+  {
+    "name": "Marten H\u00f8rger",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-25"
+  },
+  {
+    "name": "Oscar G",
+    "venue": "Tropix",
+    "location": "New York, NY",
+    "date": "2026-05-25"
+  },
+  {
+    "name": "Sol at 1 Hotel",
+    "venue": "1 Hotel Brooklyn Bridge",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-25"
+  },
+  {
+    "name": "Eli Escobar, Honey Bun",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-25"
+  },
+  {
+    "name": "Cristian Arango, Diego Garcia",
+    "venue": "Skyport Marina",
+    "location": "New York, NY",
+    "date": "2026-05-25"
+  },
+  {
+    "name": "Namaste Presents",
+    "venue": "Althea's Hideaway",
+    "location": "New York, NY",
+    "date": "2026-05-25"
+  },
+  {
+    "name": "Disco House Coffee",
+    "venue": "Cafe Bossa",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-25"
+  },
+  {
+    "name": "Afrique Nyc - The Afters",
+    "venue": "House of Yes",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-25"
   }
 ]
