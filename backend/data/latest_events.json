@@ -3,18 +3,18 @@
     "name": "Steen",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-05-19"
-  },
-  {
-    "name": "Chizzle",
-    "venue": "Little Sister Lounge",
-    "location": "New York, NY",
-    "date": "2026-05-19"
+    "date": "2026-05-20"
   },
   {
     "name": "TonyDeepDisco",
     "venue": "MAD Radio NYC",
     "location": "Brooklyn, NY",
+    "date": "2026-05-20"
+  },
+  {
+    "name": "DJ MOMA, Eli Escobar",
+    "venue": "Le Bain",
+    "location": "New York, NY",
     "date": "2026-05-20"
   },
   {
@@ -48,12 +48,6 @@
     "date": "2026-05-21"
   },
   {
-    "name": "1 Hotel Brooklyn Bridge Rooftop: Khris Damion",
-    "venue": "1 Hotel Brooklyn Bridge",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-21"
-  },
-  {
     "name": "Ari Grooves",
     "venue": "232 Knickerbocker Avenue",
     "location": "Brooklyn, NY",
@@ -78,6 +72,12 @@
     "date": "2026-05-21"
   },
   {
+    "name": "Club Connection X Bushwick Grand: Love Higher, AMAL, BODEGAPARTY, NoahG, jo_sway",
+    "venue": "Le Bain",
+    "location": "New York, NY",
+    "date": "2026-05-21"
+  },
+  {
     "name": "Lilya Mandre",
     "venue": "Marquee Skydeck",
     "location": "New York, NY",
@@ -90,7 +90,7 @@
     "date": "2026-05-22"
   },
   {
-    "name": "DJ Boring",
+    "name": "DJ Boring, Sasha Rome",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-05-22"
@@ -228,12 +228,6 @@
     "date": "2026-05-24"
   },
   {
-    "name": "Loco Carnaval: Pan-Pot, Lohrasp Kansara, CHASKE, ARCANNOS",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
-    "date": "2026-05-24"
-  },
-  {
     "name": "Azure Day Party: Jay Pryor",
     "venue": "Arlo Williamsburg",
     "location": "Brooklyn, NY",
@@ -242,6 +236,12 @@
   {
     "name": "Dennis Kane, Darshan Jesrani",
     "venue": "MAD Radio NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-05-24"
+  },
+  {
+    "name": "Deep Listening",
+    "venue": "Moondog HiFi",
     "location": "Brooklyn, NY",
     "date": "2026-05-24"
   },
@@ -288,15 +288,15 @@
     "date": "2026-05-25"
   },
   {
-    "name": "Namaste Presents",
-    "venue": "Althea's Hideaway",
-    "location": "New York, NY",
-    "date": "2026-05-25"
-  },
-  {
     "name": "Disco House Coffee",
     "venue": "Cafe Bossa",
     "location": "Brooklyn, NY",
+    "date": "2026-05-25"
+  },
+  {
+    "name": "Namaste Presents",
+    "venue": "Althea's Hideaway",
+    "location": "New York, NY",
     "date": "2026-05-25"
   },
   {
@@ -304,5 +304,35 @@
     "venue": "House of Yes",
     "location": "Brooklyn, NY",
     "date": "2026-05-25"
+  },
+  {
+    "name": "Soul Summit Music",
+    "venue": "Ruins at Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-05-25"
+  },
+  {
+    "name": "Dancing Through the Decades",
+    "venue": "Town Hall NYC",
+    "location": "New York, NY",
+    "date": "2026-05-26"
+  },
+  {
+    "name": "Off the Record",
+    "venue": "Public Arts",
+    "location": "New York, NY",
+    "date": "2026-05-26"
+  },
+  {
+    "name": "Marco Weibel",
+    "venue": "Le Dive NYC",
+    "location": "New York, NY",
+    "date": "2026-05-26"
+  },
+  {
+    "name": "Janeane Garofalo, Mark Normand, Nick Murphy (Chet Faker), FIGS",
+    "venue": "The Stand (Main Room)",
+    "location": "New York, NY",
+    "date": "2026-05-26"
   }
 ]
