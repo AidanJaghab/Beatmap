@@ -3,336 +3,234 @@
     "name": "Steen",
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-05-20"
+    "date": "2026-06-03"
   },
   {
-    "name": "TonyDeepDisco",
-    "venue": "MAD Radio NYC",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-20"
-  },
-  {
-    "name": "DJ MOMA, Eli Escobar",
-    "venue": "Le Bain",
-    "location": "New York, NY",
-    "date": "2026-05-20"
-  },
-  {
-    "name": "Brothertiger, Hotel Pools",
-    "venue": "Baby's All Right",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-21"
-  },
-  {
-    "name": "dh2 Label Night",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-21"
-  },
-  {
-    "name": "Nia Archives, Zillion",
-    "venue": "Bowery Ballroom",
-    "location": "New York, NY",
-    "date": "2026-05-21"
-  },
-  {
-    "name": "Dan Shake",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-21"
-  },
-  {
-    "name": "Up Ya Archives: Nia Archives",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-21"
-  },
-  {
-    "name": "Ari Grooves",
-    "venue": "232 Knickerbocker Avenue",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-21"
-  },
-  {
-    "name": "Courtney K",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-21"
-  },
-  {
-    "name": "Free entry",
-    "venue": "Mood Ring",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-21"
-  },
-  {
-    "name": "Neil Jackson",
-    "venue": "The Highlight Room New York",
-    "location": "New York, NY",
-    "date": "2026-05-21"
-  },
-  {
-    "name": "Club Connection X Bushwick Grand: Love Higher, AMAL, BODEGAPARTY, NoahG, jo_sway",
-    "venue": "Le Bain",
-    "location": "New York, NY",
-    "date": "2026-05-21"
-  },
-  {
-    "name": "Lilya Mandre",
-    "venue": "Marquee Skydeck",
-    "location": "New York, NY",
-    "date": "2026-05-22"
-  },
-  {
-    "name": "Timmy Trumpet",
+    "name": "Turbz, Michael Simpson",
     "venue": "Marquee",
     "location": "New York, NY",
-    "date": "2026-05-22"
+    "date": "2026-06-03"
   },
   {
-    "name": "DJ Boring, Sasha Rome",
-    "venue": "SILO Brooklyn",
+    "name": "Maure",
+    "venue": "MAD Radio NYC",
     "location": "Brooklyn, NY",
-    "date": "2026-05-22"
+    "date": "2026-06-03"
   },
   {
-    "name": "On The Air Tour: SoDown, Oddly Eazy",
-    "venue": "The Meadows Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-22"
-  },
-  {
-    "name": "Yung Bae, Engelwood",
+    "name": "Cosmo's Midnight, Laura Lynn",
     "venue": "Elsewhere Rooftop",
     "location": "Brooklyn, NY",
-    "date": "2026-05-22"
+    "date": "2026-06-04"
   },
   {
-    "name": "Sights & Sounds: Shaun Ross, Stonie Blue, Elkind, Killen.",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-22"
-  },
-  {
-    "name": "Sistek",
-    "venue": "Westlight",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-22"
-  },
-  {
-    "name": "Enrico Sangiuliano, SALOME, Annie Lew",
-    "venue": "Ruins at Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-05-22"
-  },
-  {
-    "name": "Julian Jordan",
-    "venue": "Nebula",
-    "location": "New York, NY",
-    "date": "2026-05-22"
-  },
-  {
-    "name": "R\u00f8dh\u00e5d, Rene Wise, Quelza, The Carry Nation, Sevyn",
-    "venue": "BASEMENT NY",
-    "location": "New York, NY",
-    "date": "2026-05-22"
-  },
-  {
-    "name": "Why Not Now?: Gorgon City, GENESI, Linska, TOBEHONEST, Dreya V, Chase & Status, Joy Anonymous, MPH, Flava D, BAMBII, Stello",
-    "venue": "Industry City",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-23"
-  },
-  {
-    "name": "Gareth Emery",
-    "venue": "Marquee Skydeck",
-    "location": "New York, NY",
-    "date": "2026-05-23"
-  },
-  {
-    "name": "Tinzo + Jojo, Varist",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-23"
-  },
-  {
-    "name": "Solomun, Nala",
-    "venue": "Fulton Fish Market Cooperative",
-    "location": "New York, NY",
-    "date": "2026-05-23"
-  },
-  {
-    "name": "JSTJR, Loods, THELIMITDOESNOTEXIST",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-23"
-  },
-  {
-    "name": "SYREETA, Sarindipity, SLAYCEY",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-23"
-  },
-  {
-    "name": "Oscar Mulero, Polygonia, Massimiliano Pagliara, Alinka, James Axon",
-    "venue": "BASEMENT NY",
-    "location": "New York, NY",
-    "date": "2026-05-23"
-  },
-  {
-    "name": "DVBBS",
-    "venue": "VShow",
-    "location": "New York, NY",
-    "date": "2026-05-23"
-  },
-  {
-    "name": "More Events \u2193",
-    "venue": "Marquee Skydeck",
-    "location": "New York, NY",
-    "date": "2026-05-24"
-  },
-  {
-    "name": "Why Not Now?: Chase & Status, Joy Anonymous, MPH, Flava D, BAMBII",
-    "venue": "Industry City",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-24"
-  },
-  {
-    "name": "Tchami",
-    "venue": "The Summer Club",
-    "location": "New York, NY",
-    "date": "2026-05-24"
-  },
-  {
-    "name": "Horse Meat Disco",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-05-24"
-  },
-  {
-    "name": "Sinjin Hawke, Bobby Beethoven, nextdimensional, umru, Total Freedom",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-24"
-  },
-  {
-    "name": "Frank & Tony, Tornado Wallace b2b Courtney Bailey, Matias Aguayo, Paurro",
+    "name": "Karachi Community Radio: TEE EM DEE, wev",
     "venue": "Public Records",
     "location": "Brooklyn, NY",
-    "date": "2026-05-24"
+    "date": "2026-06-04"
+  },
+  {
+    "name": "Palosanto on the Roof",
+    "venue": "The Roof at Arlo Williamsburg",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-04"
+  },
+  {
+    "name": "Gov Ball After Dark: Jane Remover",
+    "venue": "Irving Plaza",
+    "location": "New York, NY",
+    "date": "2026-06-04"
+  },
+  {
+    "name": "Refuge Thursday: Tasha Blank",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-04"
+  },
+  {
+    "name": "Golden Record NYC",
+    "venue": "Green Room NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-04"
+  },
+  {
+    "name": "Erin Page, Sahil Morchi, RICCI",
+    "venue": "MAD Radio NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-04"
+  },
+  {
+    "name": "Headznite: Jacky Sommer, Rage.inald, Raw Unkut",
+    "venue": "Nowadays",
+    "location": "New York, NY",
+    "date": "2026-06-04"
+  },
+  {
+    "name": "Turbz",
+    "venue": "The Highlight Room New York",
+    "location": "New York, NY",
+    "date": "2026-06-04"
+  },
+  {
+    "name": "VINYL SESSIONS",
+    "venue": "H0L0",
+    "location": "New York, NY",
+    "date": "2026-06-04"
+  },
+  {
+    "name": "Chris Lake Takeover: Chris Lake",
+    "venue": "Under the 'K' Bridge Park",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-05"
+  },
+  {
+    "name": "Kanine, Blossom, Yetti, Sam Santini, Kold Kutz, Blvck Truffle",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-05"
+  },
+  {
+    "name": "Synthony",
+    "venue": "Terminal 5",
+    "location": "New York, NY",
+    "date": "2026-06-05"
+  },
+  {
+    "name": "LP Giobbi, EMJIE, Fundido, B\u00e1kayan",
+    "venue": "Ruins at Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-06-05"
+  },
+  {
+    "name": "Koastle",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-05"
+  },
+  {
+    "name": "Marten Lou, Julia Sandstorm, Kanykei",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-06-05"
+  },
+  {
+    "name": "EAZYBAKED, Distinct Motive, Phrva",
+    "venue": "Superior Ingredients",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-05"
+  },
+  {
+    "name": "Angrybaby",
+    "venue": "Westlight",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-05"
+  },
+  {
+    "name": "Alan Walker",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-06-06"
+  },
+  {
+    "name": "Park Service: Of The Trees, Jade Cicada, Snuffy, Chmura",
+    "venue": "Rumsey Playfield at Central Park",
+    "location": "New York, NY",
+    "date": "2026-06-06"
+  },
+  {
+    "name": "VTSS, shekdash, River Moon, KYRUH",
+    "venue": "Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-06-06"
+  },
+  {
+    "name": "TWINSICK, Sunday Scaries, Kelland",
+    "venue": "Rooftop at Pier 17",
+    "location": "New York, NY",
+    "date": "2026-06-06"
+  },
+  {
+    "name": "Marsolo",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-06"
+  },
+  {
+    "name": "Dombresky (Disco Dom Set)",
+    "venue": "The Summer Club",
+    "location": "New York, NY",
+    "date": "2026-06-06"
+  },
+  {
+    "name": "Gov Ball After Dark: Diplo",
+    "venue": "Edge at Hudson Yards",
+    "location": "New York, NY",
+    "date": "2026-06-06"
+  },
+  {
+    "name": "Gray Area Presents: LEFTI",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-06"
+  },
+  {
+    "name": "Aly & Fila, Dan Miles",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-07"
+  },
+  {
+    "name": "Sasha Marie, Daniro, Tromac",
+    "venue": "Elsewhere Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-07"
+  },
+  {
+    "name": "Ron Like Hell, Clarisa Kimskii, Leonce, Sterling Juan Diaz, Alissa Brianna, Saint Panic",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-07"
+  },
+  {
+    "name": "Mel\u00e9",
+    "venue": "Westlight",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-07"
+  },
+  {
+    "name": "Max Kulchinsky",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-07"
+  },
+  {
+    "name": "Super Gay Sunday",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-07"
+  },
+  {
+    "name": "Felix L\u00fccke",
+    "venue": "MAD Radio NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-07"
   },
   {
     "name": "Sounday",
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
-    "date": "2026-05-24"
-  },
-  {
-    "name": "Azure Day Party: Jay Pryor",
-    "venue": "Arlo Williamsburg",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-24"
-  },
-  {
-    "name": "Dennis Kane, Darshan Jesrani",
-    "venue": "MAD Radio NYC",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-24"
-  },
-  {
-    "name": "Deep Listening",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-24"
-  },
-  {
-    "name": "Elsewhere Memorial Day: sunflwr, veggi",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-25"
-  },
-  {
-    "name": "Tony Humphries, DJ Miss Parker, Karim Olen Ash",
-    "venue": "Signal Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-25"
-  },
-  {
-    "name": "Marten H\u00f8rger",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-25"
-  },
-  {
-    "name": "Oscar G",
-    "venue": "Tropix",
-    "location": "New York, NY",
-    "date": "2026-05-25"
-  },
-  {
-    "name": "Sol at 1 Hotel",
-    "venue": "1 Hotel Brooklyn Bridge",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-25"
-  },
-  {
-    "name": "Eli Escobar, Honey Bun",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-25"
-  },
-  {
-    "name": "Cristian Arango, Diego Garcia",
-    "venue": "Skyport Marina",
-    "location": "New York, NY",
-    "date": "2026-05-25"
-  },
-  {
-    "name": "Disco House Coffee",
-    "venue": "Cafe Bossa",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-25"
-  },
-  {
-    "name": "Namaste Presents",
-    "venue": "Althea's Hideaway",
-    "location": "New York, NY",
-    "date": "2026-05-25"
-  },
-  {
-    "name": "Afrique Nyc - The Afters",
-    "venue": "House of Yes",
-    "location": "Brooklyn, NY",
-    "date": "2026-05-25"
-  },
-  {
-    "name": "Soul Summit Music",
-    "venue": "Ruins at Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-05-25"
-  },
-  {
-    "name": "Dancing Through the Decades",
-    "venue": "Town Hall NYC",
-    "location": "New York, NY",
-    "date": "2026-05-26"
+    "date": "2026-06-07"
   },
   {
     "name": "Off the Record",
     "venue": "Public Arts",
     "location": "New York, NY",
-    "date": "2026-05-26"
+    "date": "2026-06-09"
   },
   {
-    "name": "Marco Weibel",
-    "venue": "Le Dive NYC",
-    "location": "New York, NY",
-    "date": "2026-05-26"
-  },
-  {
-    "name": "Janeane Garofalo, Mark Normand, Nick Murphy (Chet Faker), FIGS",
-    "venue": "The Stand (Main Room)",
-    "location": "New York, NY",
-    "date": "2026-05-26"
+    "name": "EXTRA SPICY PLEASE Open Decks",
+    "venue": "Honey's",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-09"
   }
 ]
