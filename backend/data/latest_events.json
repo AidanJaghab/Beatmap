@@ -1,23 +1,5 @@
 [
   {
-    "name": "Steen",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-03"
-  },
-  {
-    "name": "Turbz, Michael Simpson",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-06-03"
-  },
-  {
-    "name": "Maure",
-    "venue": "MAD Radio NYC",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-03"
-  },
-  {
     "name": "Cosmo's Midnight, Laura Lynn",
     "venue": "Elsewhere Rooftop",
     "location": "Brooklyn, NY",
@@ -36,6 +18,12 @@
     "date": "2026-06-04"
   },
   {
+    "name": "Midnight Magic, Razor, JKriv",
+    "venue": "Xanadu Roller Arts",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-04"
+  },
+  {
     "name": "Gov Ball After Dark: Jane Remover",
     "venue": "Irving Plaza",
     "location": "New York, NY",
@@ -44,12 +32,6 @@
   {
     "name": "Refuge Thursday: Tasha Blank",
     "venue": "Refuge",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-04"
-  },
-  {
-    "name": "Golden Record NYC",
-    "venue": "Green Room NYC",
     "location": "Brooklyn, NY",
     "date": "2026-06-04"
   },
@@ -150,12 +132,6 @@
     "date": "2026-06-06"
   },
   {
-    "name": "Marsolo",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-06"
-  },
-  {
     "name": "Dombresky (Disco Dom Set)",
     "venue": "The Summer Club",
     "location": "New York, NY",
@@ -168,8 +144,8 @@
     "date": "2026-06-06"
   },
   {
-    "name": "Gray Area Presents: LEFTI",
-    "venue": "Superior Ingredients (Rooftop)",
+    "name": "Cromby, Sin\u00e9ad, Huerta, Youandewan, Kels",
+    "venue": "Public Records",
     "location": "Brooklyn, NY",
     "date": "2026-06-06"
   },
@@ -232,5 +208,17 @@
     "venue": "Honey's",
     "location": "Brooklyn, NY",
     "date": "2026-06-09"
+  },
+  {
+    "name": "Hardwell",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-06-10"
+  },
+  {
+    "name": "Steen",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-10"
   }
 ]
