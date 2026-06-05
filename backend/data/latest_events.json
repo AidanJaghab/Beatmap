@@ -1,65 +1,5 @@
 [
   {
-    "name": "Cosmo's Midnight, Laura Lynn",
-    "venue": "Elsewhere Rooftop",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-04"
-  },
-  {
-    "name": "Karachi Community Radio: TEE EM DEE, wev",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-04"
-  },
-  {
-    "name": "Palosanto on the Roof",
-    "venue": "The Roof at Arlo Williamsburg",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-04"
-  },
-  {
-    "name": "Midnight Magic, Razor, JKriv",
-    "venue": "Xanadu Roller Arts",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-04"
-  },
-  {
-    "name": "Gov Ball After Dark: Jane Remover",
-    "venue": "Irving Plaza",
-    "location": "New York, NY",
-    "date": "2026-06-04"
-  },
-  {
-    "name": "Refuge Thursday: Tasha Blank",
-    "venue": "Refuge",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-04"
-  },
-  {
-    "name": "Erin Page, Sahil Morchi, RICCI",
-    "venue": "MAD Radio NYC",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-04"
-  },
-  {
-    "name": "Headznite: Jacky Sommer, Rage.inald, Raw Unkut",
-    "venue": "Nowadays",
-    "location": "New York, NY",
-    "date": "2026-06-04"
-  },
-  {
-    "name": "Turbz",
-    "venue": "The Highlight Room New York",
-    "location": "New York, NY",
-    "date": "2026-06-04"
-  },
-  {
-    "name": "VINYL SESSIONS",
-    "venue": "H0L0",
-    "location": "New York, NY",
-    "date": "2026-06-04"
-  },
-  {
     "name": "Chris Lake Takeover: Chris Lake",
     "venue": "Under the 'K' Bridge Park",
     "location": "Brooklyn, NY",
@@ -132,7 +72,7 @@
     "date": "2026-06-06"
   },
   {
-    "name": "Dombresky (Disco Dom Set)",
+    "name": "Use code RAVEWAVE for discount",
     "venue": "The Summer Club",
     "location": "New York, NY",
     "date": "2026-06-06"
@@ -220,5 +160,59 @@
     "venue": "SILO Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-06-10"
+  },
+  {
+    "name": "Babel",
+    "venue": "Marquee Skydeck",
+    "location": "New York, NY",
+    "date": "2026-06-11"
+  },
+  {
+    "name": "Martin Garrix",
+    "venue": "Barclays Center",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-11"
+  },
+  {
+    "name": "After Ours",
+    "venue": "Union Pool",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-11"
+  },
+  {
+    "name": "Gilles Peterson",
+    "venue": "Public Records",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-11"
+  },
+  {
+    "name": "Palosanto on the Roof",
+    "venue": "The Roof at Arlo Williamsburg",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-11"
+  },
+  {
+    "name": "x3butterfly, EREZ",
+    "venue": "Refuge",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-11"
+  },
+  {
+    "name": "Bobby., Mariiin",
+    "venue": "Signal Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-11"
+  },
+  {
+    "name": "Mike Servito, Jeffrey Sfire, S4M23",
+    "venue": "Green Room NYC",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-11"
+  },
+  {
+    "name": "Moondog Radio Community Session",
+    "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-11"
   }
 ]
