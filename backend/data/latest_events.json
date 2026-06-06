@@ -1,56 +1,14 @@
 [
   {
-    "name": "Chris Lake Takeover: Chris Lake",
-    "venue": "Under the 'K' Bridge Park",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-05"
-  },
-  {
-    "name": "Kanine, Blossom, Yetti, Sam Santini, Kold Kutz, Blvck Truffle",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-05"
-  },
-  {
-    "name": "Synthony",
-    "venue": "Terminal 5",
-    "location": "New York, NY",
-    "date": "2026-06-05"
-  },
-  {
-    "name": "LP Giobbi, EMJIE, Fundido, B\u00e1kayan",
-    "venue": "Ruins at Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-06-05"
-  },
-  {
-    "name": "Koastle",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-05"
-  },
-  {
-    "name": "Marten Lou, Julia Sandstorm, Kanykei",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-06-05"
-  },
-  {
-    "name": "EAZYBAKED, Distinct Motive, Phrva",
-    "venue": "Superior Ingredients",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-05"
-  },
-  {
-    "name": "Angrybaby",
-    "venue": "Westlight",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-05"
-  },
-  {
     "name": "Alan Walker",
     "venue": "Marquee",
     "location": "New York, NY",
+    "date": "2026-06-06"
+  },
+  {
+    "name": "Chris Lake Takeover: Chris Lake",
+    "venue": "Under the 'K' Bridge Park",
+    "location": "Brooklyn, NY",
     "date": "2026-06-06"
   },
   {
@@ -90,6 +48,12 @@
     "date": "2026-06-06"
   },
   {
+    "name": "Friends & Family link for Edmtrain Fam!",
+    "venue": "Under the 'K' Bridge Park",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-07"
+  },
+  {
     "name": "Aly & Fila, Dan Miles",
     "venue": "Superior Ingredients (Rooftop)",
     "location": "Brooklyn, NY",
@@ -110,12 +74,6 @@
   {
     "name": "Mel\u00e9",
     "venue": "Westlight",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-07"
-  },
-  {
-    "name": "Max Kulchinsky",
-    "venue": "Moondog HiFi",
     "location": "Brooklyn, NY",
     "date": "2026-06-07"
   },
@@ -214,5 +172,59 @@
     "venue": "Moondog HiFi",
     "location": "Brooklyn, NY",
     "date": "2026-06-11"
+  },
+  {
+    "name": "Sofi Tukker",
+    "venue": "Marquee Skydeck",
+    "location": "New York, NY",
+    "date": "2026-06-12"
+  },
+  {
+    "name": "Americas Tour: Martin Garrix",
+    "venue": "Barclays Center",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-12"
+  },
+  {
+    "name": "Bou, Agent 137",
+    "venue": "SILO Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-12"
+  },
+  {
+    "name": "Paco Osuna, RSquared, Ruthie Bandit",
+    "venue": "99 Scott",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-12"
+  },
+  {
+    "name": "Teksupport: Walker & Royce",
+    "venue": "GUM Studios Stage B",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-12"
+  },
+  {
+    "name": "DJ Soda",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-06-12"
+  },
+  {
+    "name": "CREEDS, ero808",
+    "venue": "Elsewhere",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-12"
+  },
+  {
+    "name": "Party Pupils",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-12"
+  },
+  {
+    "name": "NERVO",
+    "venue": "VShow",
+    "location": "New York, NY",
+    "date": "2026-06-12"
   }
 ]
