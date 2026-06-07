@@ -1,53 +1,5 @@
 [
   {
-    "name": "Alan Walker",
-    "venue": "Marquee",
-    "location": "New York, NY",
-    "date": "2026-06-06"
-  },
-  {
-    "name": "Chris Lake Takeover: Chris Lake",
-    "venue": "Under the 'K' Bridge Park",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-06"
-  },
-  {
-    "name": "Park Service: Of The Trees, Jade Cicada, Snuffy, Chmura",
-    "venue": "Rumsey Playfield at Central Park",
-    "location": "New York, NY",
-    "date": "2026-06-06"
-  },
-  {
-    "name": "VTSS, shekdash, River Moon, KYRUH",
-    "venue": "Knockdown Center",
-    "location": "New York, NY",
-    "date": "2026-06-06"
-  },
-  {
-    "name": "TWINSICK, Sunday Scaries, Kelland",
-    "venue": "Rooftop at Pier 17",
-    "location": "New York, NY",
-    "date": "2026-06-06"
-  },
-  {
-    "name": "Use code RAVEWAVE for discount",
-    "venue": "The Summer Club",
-    "location": "New York, NY",
-    "date": "2026-06-06"
-  },
-  {
-    "name": "Gov Ball After Dark: Diplo",
-    "venue": "Edge at Hudson Yards",
-    "location": "New York, NY",
-    "date": "2026-06-06"
-  },
-  {
-    "name": "Cromby, Sin\u00e9ad, Huerta, Youandewan, Kels",
-    "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-06"
-  },
-  {
     "name": "Friends & Family link for Edmtrain Fam!",
     "venue": "Under the 'K' Bridge Park",
     "location": "Brooklyn, NY",
@@ -78,12 +30,6 @@
     "date": "2026-06-07"
   },
   {
-    "name": "Super Gay Sunday",
-    "venue": "Moondog HiFi",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-07"
-  },
-  {
     "name": "Felix L\u00fccke",
     "venue": "MAD Radio NYC",
     "location": "Brooklyn, NY",
@@ -93,6 +39,12 @@
     "name": "Sounday",
     "venue": "Listen Brooklyn",
     "location": "Brooklyn, NY",
+    "date": "2026-06-07"
+  },
+  {
+    "name": "Loco Carnaval: Lohrasp Kansara, EJ Ramos, Ramos",
+    "venue": "Somewhere Nowhere",
+    "location": "New York, NY",
     "date": "2026-06-07"
   },
   {
@@ -120,7 +72,7 @@
     "date": "2026-06-10"
   },
   {
-    "name": "Babel",
+    "name": "BAB\u00cbL: Birds of Mind, Guy Lalibert\u00e9 b2b Ruckus b2b WA\u00cf",
     "venue": "Marquee Skydeck",
     "location": "New York, NY",
     "date": "2026-06-11"
@@ -144,18 +96,6 @@
     "date": "2026-06-11"
   },
   {
-    "name": "Palosanto on the Roof",
-    "venue": "The Roof at Arlo Williamsburg",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-11"
-  },
-  {
-    "name": "x3butterfly, EREZ",
-    "venue": "Refuge",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-11"
-  },
-  {
     "name": "Bobby., Mariiin",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
@@ -170,6 +110,18 @@
   {
     "name": "Moondog Radio Community Session",
     "venue": "Moondog HiFi",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-11"
+  },
+  {
+    "name": "Turbz",
+    "venue": "Little Sister Lounge",
+    "location": "New York, NY",
+    "date": "2026-06-11"
+  },
+  {
+    "name": "Marty P",
+    "venue": "1 Hotel Brooklyn Bridge",
     "location": "Brooklyn, NY",
     "date": "2026-06-11"
   },
@@ -226,5 +178,53 @@
     "venue": "VShow",
     "location": "New York, NY",
     "date": "2026-06-12"
+  },
+  {
+    "name": "Tripolism",
+    "venue": "Marquee Skydeck",
+    "location": "New York, NY",
+    "date": "2026-06-13"
+  },
+  {
+    "name": "The Martinez Brothers",
+    "venue": "Central Park SummerStage",
+    "location": "New York, NY",
+    "date": "2026-06-13"
+  },
+  {
+    "name": "BOLO",
+    "venue": "Elsewhere Rooftop",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-13"
+  },
+  {
+    "name": "Francis Mercier, Arym\u00e9, Cisummi",
+    "venue": "Industry City",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-13"
+  },
+  {
+    "name": "11PM DOORS",
+    "venue": "The Meadows Brooklyn",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-13"
+  },
+  {
+    "name": "UNLOCKED: Rampa, Danny Tenaglia, Joe Claussell, Fran\u00e7ois K, Kim Ann Foxman, Nomi Ruiz, Cosmo, DONIS, JADALAREIGN, Analog Soul, Eli Escobar, Jubilee",
+    "venue": "Pacha New York",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-13"
+  },
+  {
+    "name": "Kayzo, Merimell, Briela Veneno",
+    "venue": "Webster Hall",
+    "location": "New York, NY",
+    "date": "2026-06-13"
+  },
+  {
+    "name": "Dubdogz, Cat Dealers, KVSH",
+    "venue": "Nebula",
+    "location": "New York, NY",
+    "date": "2026-06-13"
   }
 ]
