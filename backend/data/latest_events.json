@@ -24,15 +24,15 @@
     "date": "2026-06-10"
   },
   {
-    "name": "BAB\u00cbL: Birds of Mind, Guy Lalibert\u00e9 b2b Ruckus b2b WA\u00cf",
-    "venue": "Marquee Skydeck",
-    "location": "New York, NY",
+    "name": "Americas Tour: Martin Garrix, Galantis",
+    "venue": "Barclays Center",
+    "location": "Brooklyn, NY",
     "date": "2026-06-11"
   },
   {
-    "name": "Martin Garrix",
-    "venue": "Barclays Center",
-    "location": "Brooklyn, NY",
+    "name": "BAB\u00cbL: Birds of Mind, Guy Lalibert\u00e9 b2b Ruckus b2b WA\u00cf",
+    "venue": "Marquee Skydeck",
+    "location": "New York, NY",
     "date": "2026-06-11"
   },
   {
@@ -44,12 +44,6 @@
   {
     "name": "Gilles Peterson",
     "venue": "Public Records",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-11"
-  },
-  {
-    "name": "Bobby., Mariiin",
-    "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-06-11"
   },
@@ -78,13 +72,19 @@
     "date": "2026-06-11"
   },
   {
+    "name": "Derrick Carter",
+    "venue": "195 Morgan Ave",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-11"
+  },
+  {
     "name": "Sofi Tukker",
     "venue": "Marquee Skydeck",
     "location": "New York, NY",
     "date": "2026-06-12"
   },
   {
-    "name": "Americas Tour: Martin Garrix",
+    "name": "Americas Tour: Martin Garrix, Nova Blue, Cashen",
     "venue": "Barclays Center",
     "location": "Brooklyn, NY",
     "date": "2026-06-12"
@@ -120,14 +120,14 @@
     "date": "2026-06-12"
   },
   {
-    "name": "Party Pupils",
-    "venue": "Superior Ingredients (Rooftop)",
-    "location": "Brooklyn, NY",
+    "name": "NERVO",
+    "venue": "VShow",
+    "location": "New York, NY",
     "date": "2026-06-12"
   },
   {
-    "name": "NERVO",
-    "venue": "VShow",
+    "name": "INJI, Bdgrlbklyn",
+    "venue": "Webster Hall",
     "location": "New York, NY",
     "date": "2026-06-12"
   },
@@ -144,14 +144,14 @@
     "date": "2026-06-13"
   },
   {
-    "name": "BOLO",
-    "venue": "Elsewhere Rooftop",
+    "name": "Americas Tour: Martin Garrix, Nova Blue, Chuwe",
+    "venue": "Barclays Center",
     "location": "Brooklyn, NY",
     "date": "2026-06-13"
   },
   {
-    "name": "Refuge Daytime: Rinzen, SunrYse",
-    "venue": "Refuge",
+    "name": "BOLO",
+    "venue": "Elsewhere Rooftop",
     "location": "Brooklyn, NY",
     "date": "2026-06-13"
   },
@@ -176,6 +176,12 @@
   {
     "name": "Kayzo, Merimell, Briela Veneno",
     "venue": "Webster Hall",
+    "location": "New York, NY",
+    "date": "2026-06-13"
+  },
+  {
+    "name": "Martin Garrix",
+    "venue": "Marquee",
     "location": "New York, NY",
     "date": "2026-06-13"
   },
@@ -210,7 +216,7 @@
     "date": "2026-06-14"
   },
   {
-    "name": "Barbara Tucker, Nita Aviance, DJ Miss Parker, Justin Cudmore, donofrio",
+    "name": "Barbara Tucker, Nita Aviance, DJ Miss Parker, donofrio, Peter Napoli",
     "venue": "Signal Brooklyn",
     "location": "Brooklyn, NY",
     "date": "2026-06-14"
@@ -222,14 +228,14 @@
     "date": "2026-06-14"
   },
   {
-    "name": "Loco Carnaval",
-    "venue": "Somewhere Nowhere",
-    "location": "New York, NY",
+    "name": "Illich Mujica, Salimbeni",
+    "venue": "315 Meserole St",
+    "location": "Brooklyn, NY",
     "date": "2026-06-14"
   },
   {
-    "name": "Illich Mujica, Salimbeni",
-    "venue": "315 Meserole St",
+    "name": "Azure Day Party: NIIKO X SWAE, Marty P",
+    "venue": "Arlo Williamsburg",
     "location": "Brooklyn, NY",
     "date": "2026-06-14"
   }
