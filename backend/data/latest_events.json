@@ -1,53 +1,5 @@
 [
   {
-    "name": "Sofi Tukker",
-    "venue": "Marquee Skydeck",
-    "location": "New York, NY",
-    "date": "2026-06-12"
-  },
-  {
-    "name": "Americas Tour: Martin Garrix, Nova Blue, Cashen",
-    "venue": "Barclays Center",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-12"
-  },
-  {
-    "name": "Bou, Agent 137",
-    "venue": "SILO Brooklyn",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-12"
-  },
-  {
-    "name": "Paco Osuna, RSquared, Ruthie Bandit",
-    "venue": "99 Scott",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-12"
-  },
-  {
-    "name": "Teksupport: Walker & Royce",
-    "venue": "Bk Backyard Bar",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-12"
-  },
-  {
-    "name": "CREEDS, ero808, Flash Gea, Whys, pei up",
-    "venue": "Elsewhere",
-    "location": "Brooklyn, NY",
-    "date": "2026-06-12"
-  },
-  {
-    "name": "NERVO",
-    "venue": "VShow",
-    "location": "New York, NY",
-    "date": "2026-06-12"
-  },
-  {
-    "name": "INJI, bdgrlbklyn",
-    "venue": "Webster Hall",
-    "location": "New York, NY",
-    "date": "2026-06-12"
-  },
-  {
     "name": "Tripolism",
     "venue": "Marquee Skydeck",
     "location": "New York, NY",
@@ -102,13 +54,13 @@
     "date": "2026-06-13"
   },
   {
-    "name": "UNBLOCKED: Rampa, N\u00e9, Inbal, Kilopatrah Jones, Kitty Ca$h, Tony Touch, Gia Fu, Raekwon, Ghostface Killah",
+    "name": "UNBLOCKED: Rampa, Kilopatrah Jones, Kitty Ca$h, Tony Touch, Gia Fu, Raekwon, Ghostface Killah, N\u00e9 b2b Inbal",
     "venue": "Pacha New York",
     "location": "Brooklyn, NY",
     "date": "2026-06-14"
   },
   {
-    "name": "Sunnery James & Ryan Marciano",
+    "name": "Use code RAVEWAVE for discounted tix",
     "venue": "The Summer Club",
     "location": "New York, NY",
     "date": "2026-06-14"
@@ -138,15 +90,15 @@
     "date": "2026-06-14"
   },
   {
-    "name": "Illich Mujica, Salimbeni",
-    "venue": "315 Meserole St",
+    "name": "Azure Day Party: NIIKO X SWAE, Marty P",
+    "venue": "Arlo Williamsburg",
     "location": "Brooklyn, NY",
     "date": "2026-06-14"
   },
   {
-    "name": "Azure Day Party: NIIKO X SWAE, Marty P",
-    "venue": "Arlo Williamsburg",
-    "location": "Brooklyn, NY",
+    "name": "Shore Sessions - House Music Summer Day Party Rooftop Series",
+    "venue": "120 Water Street",
+    "location": "New York, NY",
     "date": "2026-06-14"
   },
   {
@@ -250,5 +202,59 @@
     "venue": "Nublu 151",
     "location": "New York, NY",
     "date": "2026-06-18"
+  },
+  {
+    "name": "Queens, NY 21+",
+    "venue": "We Belong Here",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-19"
+  },
+  {
+    "name": "Queens, NY 21+",
+    "venue": "Brooklyn Army Terminal (Pier 4)",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-19"
+  },
+  {
+    "name": "Bob Moses",
+    "venue": "Marquee Skydeck",
+    "location": "New York, NY",
+    "date": "2026-06-19"
+  },
+  {
+    "name": "Markus Schulz, Adam Scott",
+    "venue": "Marquee",
+    "location": "New York, NY",
+    "date": "2026-06-19"
+  },
+  {
+    "name": "Autograf",
+    "venue": "Westlight",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-19"
+  },
+  {
+    "name": "Apache, Nico De Andrea",
+    "venue": "Superior Ingredients (Rooftop)",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-19"
+  },
+  {
+    "name": "Innellea",
+    "venue": "Ruins at Knockdown Center",
+    "location": "New York, NY",
+    "date": "2026-06-19"
+  },
+  {
+    "name": "We Belong Here After Party: Kx5 (Kaskade & deadmau5), Kaskade, deadmau5, Luke Alexander, Benjamin Lloyd",
+    "venue": "Brooklyn Storehouse",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-19"
+  },
+  {
+    "name": "Solomun",
+    "venue": "Pacha New York",
+    "location": "Brooklyn, NY",
+    "date": "2026-06-19"
   }
 ]
